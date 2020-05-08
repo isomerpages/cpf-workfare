@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
+        title: WORKFARE
         subtitle: Hero subtitle
         background: /images/hero-banner.png
         button: Contact Us
@@ -23,9 +23,9 @@ sections:
               description: Page A is important too
               url: /privacy/
     - infobar:
-        title: Infobar title
+        title: Test WorkFare
         subtitle: Subtitle
-        description: About a sentence worth of description here
+        description: WorkFare Testing page
         button: Button text
         url: /faq/
     - resources:
