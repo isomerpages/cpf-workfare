@@ -21,3 +21,5 @@ links:
     collection: schemes
   - title: Newsroom
     resource_room: true
+  - title: New Page
+    url: /newpage/
