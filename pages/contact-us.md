@@ -6,8 +6,8 @@ agency_name: Agency Name
 locations:
   - title: Main Office
     address:
-        - 31 Sesame Street
-        - Big Bird Building
+        - 31 Novena Street
+        - Steady Building
         - Singapore 123456
     operating_hours:
       - days: Mon - Fri
