@@ -1,0 +1,6 @@
+collections:
+  schemes:
+    output: true
+    order:
+      - workfare-income-supplement.md
+      - workfare-training-support.md
