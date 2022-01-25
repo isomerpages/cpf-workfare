@@ -2,6 +2,5 @@ collections:
   faqs:
     output: true
     order:
-      - Test/Workfare Income Supplement (WIS).md
       - Test/.keep
       - Workfare Special Payment (WSP).md
