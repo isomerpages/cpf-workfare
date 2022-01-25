@@ -3,7 +3,7 @@ title: Stories
 permalink: /stories/
 ---
 ![Alt text for image on Isomer site](/images/MdmGohGeokKee.jpg)
-<span style="color:#5b9bd5;line-height:107%;font-size:18pt;" lang="EN-SG">*“Workfare motivates me to work and tops up my income. I can buy more ingredients and cook a better meal for my family!”*</span>
+<span style="color:#5b9bd5;line-height:107%;font-size:18pt;" lang="EN-SG"><i>*“Workfare motivates me to work and tops up my income. I can buy more ingredients and cook a better meal for my family!”*</i></span>
 
 ![Alt text for image on Isomer site](/images/64YearOld.jpg)
 * Mdm Goh Geok Kee (“Auntie Geok”) is one beneficiary of Workfare. 64-year-old this year, Auntie Geok has been working as a cleaner at MOM Service Centre at Bendemeer for the past seven years.
