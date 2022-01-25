@@ -3,29 +3,8 @@ title: Workfare Income Supplement (WIS)
 permalink: /faqs/WISFAQs
 description: ""
 ---
+<button data-toggle="collapse" data-target="#demo">Collapsible</button>
 
-<html>
-	<head>
-		<style type="text/css">
-			.row {vertical-align:top;height:auto!important;}
-			.list {display:none;}
-			.show {display:none;}
-			.hide:target + .show {display:inline;}
-			.hide:target {display: none;}
-			.hide:target ~ .list {display:inline;}
-			@media print{.hide,.show{display:none;}}
-		</style>
-	</head>
-<body>
-	<div class="row">
-		<a href="#hide1" class="hide" id="hide1">Expand</a>
-		<a href=#show1" class="show" id=show1">Collapse</a>
-		<div class="list">
-			<ul>
-				<li>Item 1</li>
-				<li>Item 2</li>
-			</ul>
-		</div>
-	</div>
-	</body>
-</html>
+<div id="demo" class="collapse">
+Lorem ipsum dolor text....
+</div>
