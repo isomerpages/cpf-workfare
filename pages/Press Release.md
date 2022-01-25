@@ -6,7 +6,7 @@ layout: post
 description: ""
 ---
 December 2019
-
+[7 April 2020](/files/7%20April%202020.pdf)
 4 December 2019
 
 [Workfare Factsheet (English) (151KB)](http://www.workfare.gov.sg/Press%20Releases/Documents/Workfare%20Factsheet%20(English).pdf)
