@@ -2,6 +2,7 @@ collections:
   newsroom:
     output: true
     order:
+      - Videos.md
       - Media Articles.md
       - Press Release.md
       - Speeches.md
