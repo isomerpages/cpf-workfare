@@ -2,8 +2,6 @@
 title: Stories
 permalink: /stories/
 ---
-
-	
 ![Alt text for image on Isomer site](/images/MdmGohGeokKee.jpg)
 	
 
