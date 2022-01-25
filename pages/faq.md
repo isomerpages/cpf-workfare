@@ -2,11 +2,10 @@
 title: FAQ
 permalink: /faq/
 ---
-<html>
+
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-<body>
 
 <div class="container">
   <h2>Simple Collapsible</h2>
@@ -18,6 +17,3 @@ permalink: /faq/
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   </div>
 </div>
-
-</body>
-</html>
