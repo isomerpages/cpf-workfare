@@ -2,5 +2,6 @@ collections:
   faqs:
     output: true
     order:
+      - Workfare Special Payment (WSP).md
       - Workfare Income Supplement (WIS).md
       - faq.md
