@@ -2,6 +2,7 @@ collections:
   faqs:
     output: true
     order:
+      - General Information on WIS/Workfare Income Supplement (WIS).md
       - General Information on WIS/.keep
       - Workfare Special Payment (WSP).md
       - faq.md
