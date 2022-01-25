@@ -2,6 +2,7 @@ collections:
   newsroom:
     output: true
     order:
+      - PDF/Speeches.md
       - PDF/.keep
       - Press Release.md
       - Media Articles.md
