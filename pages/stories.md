@@ -16,7 +16,7 @@ permalink: /stories/
 
 ![Alt text for image on Isomer site](/images/64YearOld.jpg)
 
-
+<br></br>
 
 * Mdm Goh Geok Kee (“Auntie Geok”) is one beneficiary of Workfare. 64-year-old this year, Auntie Geok has been working as a cleaner at MOM Service Centre at Bendemeer for the past seven years.
 
@@ -31,6 +31,7 @@ permalink: /stories/
 <span style="color:#5b9bd5;line-height:107%;font-size:18pt;" lang="EN-SG">Auntie Geok shared that she is happy to be receiving Workfare all these years. The Workfare payouts help her to meet household expenses.</span>
 </p>
 </div>
+<br></br>
 
 * Auntie Geok and her husband have a 24-year-old son who is currently a second-year Science student at NUS. Her son receives CDC/CCC bursaries annually to supplement the school fees and other costs of staying on campus.
 
