@@ -4,20 +4,20 @@ permalink: /faq/
 ---
 <div id="ctl00_ctl50_g_8e368126_2c07_45ea_9d64_5ea17ce9bd49">
 <input value="1" id="ctl00_ctl50_g_8e368126_2c07_45ea_9d64_5ea17ce9bd49_ctl00_rptCategory_ctl00_HiddenFAQID" name="ctl00$ctl50$g_8e368126_2c07_45ea_9d64_5ea17ce9bd49$ctl00$rptCategory$ctl00$HiddenFAQID" type="hidden">
-        <div aria-expanded="true" id="Cat_1_1" class="collapse in categoryspace">
-            <div class="faqaccordion">
-				<a data-target="#Cat_1" data-toggle="collapse" href="#" aria-expanded="false" class="toggler active collapsed" title="General Information on WIS">
-					<div class="togglerDesc">
-						<strong>General Information on WIS</strong>
-					</div>
-				</a>
-			</div>
-            
-                    <div style="" aria-expanded="false" id="Cat_1" class="collapse">
-                        <a data-target="#faq_35" data-toggle="collapse" href="#" aria-expanded="false" id="toggler" class="active collapsed" title="Q1. What is the Workfare Income Supplement scheme?"><br>
-                            <div class="togglerDesc">
-                                <strong>Q1. What is the Workfare Income Supplement scheme?</strong>
-                            </div>
+<div aria-expanded="true" id="Cat_1_1" class="collapse in categoryspace">
+<div class="faqaccordion">
+<a data-target="#Cat_1" data-toggle="collapse" href="#" aria-expanded="false" class="toggler active collapsed" title="General Information on WIS">
+<div class="togglerDesc">
+<strong>General Information on WIS</strong>
+</div>
+</a>
+</div>
+	
+<div style="" aria-expanded="false" id="Cat_1" class="collapse">
+<a data-target="#faq_35" data-toggle="collapse" href="#" aria-expanded="false" id="toggler" class="active collapsed" title="Q1. What is the Workfare Income Supplement scheme?"><br>
+<div class="togglerDesc">
+<strong>Q1. What is the Workfare Income Supplement scheme?</strong>
+</div>
                         </a>
                         <div style="" aria-expanded="false" id="faq_35" class="subContainerCollapse collapse">
                             <div class="clear"></div>
