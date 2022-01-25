@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Test/.keep
-      - Workfare Income Supplement (WIS).md
       - Workfare Special Payment (WSP).md
