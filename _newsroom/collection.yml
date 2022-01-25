@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - PDF/.keep
-      - Speeches.md
       - Press Release.md
       - Media Articles.md
       - Videos.md
