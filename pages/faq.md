@@ -18,23 +18,28 @@ permalink: /faq/
 <div class="togglerDesc">
 <strong>Q1. What is the Workfare Income Supplement scheme?</strong>
 </div>
-                        </a>
-                        <div style="" aria-expanded="false" id="faq_35" class="subContainerCollapse collapse">
-                            <div class="clear"></div>
-                            <p><span style="font-size:15px;"><span style="font-family:arial, sans-serif;">The
+</a>
+<div style="" aria-expanded="false" id="faq_35" class="subContainerCollapse collapse">
+<div class="clear"></div>
+<p><span style="font-size:15px;">
+<span style="font-family:arial, sans-serif;">The
 Workfare Income Supplement (WIS) scheme was introduced in 2007 as a permanent
 feature of Singapore's social security system.&nbsp;The support&nbsp;is
 targeted at older, lower wage&nbsp;Singaporean workers whose earnings are in
 the bottom 20% of the working population, with support also available for those
 earning slightly more. Eligible workers will receive support via&nbsp;cash and
-CPF top-ups to supplement their income and retirement savings.</span><br></span></p>
-                        </div>
-                    </div>
-                
-                    <div style="" aria-expanded="false" id="Cat_1" class="collapse">
-                        <a data-target="#faq_36" data-toggle="collapse" href="#" aria-expanded="false" id="toggler" class="active collapsed" title="Q2. Am I eligible for the Workfare Income Supplement scheme?"><br>
-                            <div class="togglerDesc">
-                                <strong>Q2. Am I eligible for the Workfare Income Supplement scheme?</strong>
+CPF top-ups to supplement their income and retirement savings.
+</span>
+<br>
+</span>
+</p>
+</div>
+</div>
+<div style="" aria-expanded="false" id="Cat_1" class="collapse">
+<a data-target="#faq_36" data-toggle="collapse" href="#" aria-expanded="false" id="toggler" class="active collapsed" title="Q2. Am I eligible for the Workfare Income Supplement scheme?">
+<br>
+<div class="togglerDesc">
+<b>Q2. Am I eligible for the Workfare Income Supplement scheme?</b>
                             </div>
                         </a>
                         <div style="" aria-expanded="false" id="faq_36" class="subContainerCollapse collapse">
