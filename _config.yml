@@ -10,11 +10,11 @@ colors:
     - title: media-color-two
       color: "#8abf37"
     - title: media-color-three
-      color: "#00838f"
+      color: "#cd38b1"
     - title: media-color-four
-      color: "#00838f"
+      color: "#74ad0d"
     - title: media-color-five
-      color: "#00838f"
+      color: "#399339"
 resources_name: newsroom
 permalink: none
 baseurl: ""
