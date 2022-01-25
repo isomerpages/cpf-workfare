@@ -3,6 +3,8 @@ title: Workfare Income Supplement (WIS)
 permalink: /faqs/permalink
 description: ""
 ---
+```
+
 <div id="ctl00_ctl50_g_8e368126_2c07_45ea_9d64_5ea17ce9bd49">
 <input value="1" id="ctl00_ctl50_g_8e368126_2c07_45ea_9d64_5ea17ce9bd49_ctl00_rptCategory_ctl00_HiddenFAQID" name="ctl00$ctl50$g_8e368126_2c07_45ea_9d64_5ea17ce9bd49$ctl00$rptCategory$ctl00$HiddenFAQID" type="hidden">
 <div aria-expanded="true" id="Cat_1_1" class="collapse in categoryspace">
@@ -74,3 +76,4 @@ CPF top-ups to supplement their income and retirement savings.
 <p><span style="font-size:15px;">If you are an employee, you do not need to do anything. Your eligibility for Workfare Income Supplement (WIS) will be automatically assessed based on the CPF contributions* made by your employer.</span></p><p><span style="font-size:15px;">If you are a Self-Employed Person (SEP), you need to declare your net trade income (NTI) and contribute to your MediSave Account to be considered for WIS. Use our </span><a href="https://www.workfare.gov.sg/Pages/Calculator.aspx"><span style="font-size:15px;">online WIS calculator</span></a><span style="font-size:15px;">to find out the amount you need to contribute to your MediSave Account.</span></p><p><span style="font-size:15px;">You can declare your income and contribute to your MediSave Account in various ways.</span></p><p><span style="font-size:15px;">To receive your WIS payouts by 30 April (via bank crediting), please declare your NTI and contribute to your MediSave Account by the last Friday of March.<br></span></p><p><span style="font-size:15px;">*Under the CPF Act, employers must contribute to CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis. If your employer is not contributing CPF on your behalf, you can lodge a report on non/underpayment of CPF contributions online. Please log in to</span><a href="https://www.cpf.gov.sg/eSvc/Web/Services/MyRequest/MyRequestLanding"><em style="font-size:15px;">my cpf</em></a><span style="font-size:15px;">with your Singpass, then select My Request > Other CPF Matters > Report on non-payment or underpayment of CPF contributions.</span></p><p><span style="font-size:15px;">Alternatively, you can also lodge a report by calling the WorkRight Hotline at 1800-221-9922 or emailing to </span><a href="mailto:workright@mom.gov.sg"><span style="font-size:15px;">workright@mom.gov.sg</span></a><span style="font-size:15px;">. Your identity will be kept confidential.</span><br style="font-size:15px;"></p>
 </div>
 </div>
+```
