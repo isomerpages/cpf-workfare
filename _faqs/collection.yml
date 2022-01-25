@@ -2,4 +2,5 @@ collections:
   faqs:
     output: true
     order:
+      - Workfare Income Supplement (WIS).md
       - faq.md
