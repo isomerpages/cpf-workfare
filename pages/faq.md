@@ -3,8 +3,7 @@ title: FAQ
 permalink: /faq/
 ---
 <div id="ctl00_ctl50_g_8e368126_2c07_45ea_9d64_5ea17ce9bd49">
-				
-        <input value="1" id="ctl00_ctl50_g_8e368126_2c07_45ea_9d64_5ea17ce9bd49_ctl00_rptCategory_ctl00_HiddenFAQID" name="ctl00$ctl50$g_8e368126_2c07_45ea_9d64_5ea17ce9bd49$ctl00$rptCategory$ctl00$HiddenFAQID" type="hidden">
+<input value="1" id="ctl00_ctl50_g_8e368126_2c07_45ea_9d64_5ea17ce9bd49_ctl00_rptCategory_ctl00_HiddenFAQID" name="ctl00$ctl50$g_8e368126_2c07_45ea_9d64_5ea17ce9bd49$ctl00$rptCategory$ctl00$HiddenFAQID" type="hidden">
         <div aria-expanded="true" id="Cat_1_1" class="collapse in categoryspace">
             <div class="faqaccordion">
 				<a data-target="#Cat_1" data-toggle="collapse" href="#" aria-expanded="false" class="toggler active collapsed" title="General Information on WIS">
@@ -1156,7 +1155,7 @@ Portal</span></a></span><span style="font-family:arial, sans-serif;"> with your 
 
 
 
-    <style>
+<style>
 .faqaccordion {
     border-bottom: 1px solid #FFFFFF;
     padding-bottom: 10px;
@@ -1190,6 +1189,4 @@ Portal</span></a></span><span style="font-family:arial, sans-serif;"> with your 
 .categoryspace{
 padding-bottom:10px;
 }
-
 </style>
-			
