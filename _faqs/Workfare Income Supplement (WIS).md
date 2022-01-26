@@ -27,7 +27,12 @@ However, you will not be eligible for WIS if you:
 	<li style="font-size:17px">the assessable income of your spouse exceeds $70,000 for the previous Year of Assessment.</li>
 </ul>
 	</ul>
-		Click <a href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/Payments/Statement">here</a> to find out your WIS eligibility status.</details>
+		Click <a href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/Payments/Statement">here</a> to find out your WIS eligibility status.<br><br>
+<sup>1</sup> Persons with disabilities younger than 35 who meet the WIS eligibility criteria will receive an annual WIS payout of up to $1,700<br><br>
+<sup>2</sup> Includes basic salary and extra wages such as overtime pay, commissions and bonuses<br><br>
+<sup>3</sup> Defined as income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br><br>
+<sup>4</sup> Annual value is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties	<br><br>
+</details>
 	
 </details>
 
