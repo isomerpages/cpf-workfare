@@ -7,7 +7,7 @@ description: ""
 	<summary><font size="+1"><b>General Information on WIS</b></font></summary>
 	<details>
 		<summary>Q1. What is the Workfare Income Supplement scheme?</summary>
-The Workfare Income Supplement (WIS) scheme was introduced in 2007 as a permanent feature of Singapore's social security system. The support is targeted at older, lower wage Singaporean workers whose earnings are in the bottom 20% of the working population, with support also available for those earning slightly more. Eligible workers will receive support via cash and CPF top-ups to supplement their income and retirement savings.</details>
+The Workfare Income Supplement (WIS) scheme was introduced in 2007 as a permanent feature of Singapore's social security system. The support is targeted at older, lower wage Singaporean workers whose earnings are in the bottom 20% of the working population, with support also available for those earning slightly more. Eligible workers will receive support via cash and CPF top-ups to supplement their income and retirement savings.<br><br></details>
 	<details>
 		<summary>Q2. Am I eligible for the Workfare Income Supplement scheme?</summary>
 You will be eligible for the Workfare Income Supplement (WIS) scheme if you:
@@ -26,7 +26,8 @@ However, you will not be eligible for WIS if you:
 	<li style="font-size:17px">you and your spouse together own two or more properties; or</li>
 	<li style="font-size:17px">the assessable income of your spouse exceeds $70,000 for the previous Year of Assessment.</li>
 </ul>
-	</ul></details>
+	</ul>
+	Click [here](https://www.workfare.gov.sg/app/Home/Index?returnUrl=/Payments/Statement) to find out your WIS eligibility status.</details>
 	
 </details>
 
