@@ -4,12 +4,12 @@ permalink: /faqs/WISFAQs
 description: ""
 ---
 <details>
-	<summary><font size="+1"><b>General Information on WIS</b></font></summary>
+	<summary><font size="+1.5"><b>General Information on WIS</b></font></summary>
 	<details>
-		<summary>Q1. What is the Workfare Income Supplement scheme?</summary>
+		<summary><b>Q1. What is the Workfare Income Supplement scheme?</b></summary>
 The Workfare Income Supplement (WIS) scheme was introduced in 2007 as a permanent feature of Singapore's social security system. The support is targeted at older, lower wage Singaporean workers whose earnings are in the bottom 20% of the working population, with support also available for those earning slightly more. Eligible workers will receive support via cash and CPF top-ups to supplement their income and retirement savings.<br><br></details>
 	<details>
-		<summary>Q2. Am I eligible for the Workfare Income Supplement scheme?</summary>
+		<summary><b>Q2. Am I eligible for the Workfare Income Supplement scheme?</b></summary>
 You will be eligible for the Workfare Income Supplement (WIS) scheme if you:
 <ul>
 	<li style="font-size:17px">are a Singapore Citizen;</li>
@@ -34,7 +34,7 @@ However, you will not be eligible for WIS if you:
 <sup>4</sup> Annual value is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties	<br><br>
 </details>
 	<details><summary>
-Q3. How can I check the amount of Workfare Income Supplement payout that I will receive?</summary>
+		<b>Q3. How can I check the amount of Workfare Income Supplement payout that I will receive?</b></summary>
 We will notify you of the Workfare Income Supplement (WIS) payout amount by letters and/or SMS messages a few days before the payment date.<br><br>
 You can retrieve a copy of your notification by logging in to the Workfare portal with your Singpass.<br><br>
 If you are receiving letter notifications, you can receive earlier notifications via SMS by updating your Singpass-registered mobile number at "<a href=https://www.workfare.gov.sg/App/Home/Index?returnUrl=/people/notificationmode>View/Update My Notification Mode</a>".<br><br>
@@ -43,8 +43,8 @@ If you are receiving letter notifications, you can receive earlier notifications
 	
 	
 </details>
-<details><summary><font size="+1"><b>Employment Status - Employees</b></font></summary><details>
-		<summary>Q1. My employer does not pay my CPF. What can I do to qualify for Workfare Income Supplement (WIS)?</summary>
+<details><summary><font size="+1.5"><b>Employment Status - Employees</b></font></summary><details>
+		<summary><b>Q1. My employer does not pay my CPF. What can I do to qualify for Workfare Income Supplement (WIS)?</b></summary>
 Under the CPF Act, employers must contribute CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis.<br><br>
 If your employer is not contributing CPF on your behalf, you can lodge a report on non/underpayment of CPF contributions online. Please log in to <a href="https://www.cpf.gov.sg/eSvc/Web/Services/MyRequest/MyRequestLanding">my cpf Online Services</a> with your Singpass, then select My Requests > Other CPF Matters > Report on non-payment or underpayment of CPF contributions.<br><br>
 Alternatively, you can also lodge a report by calling the WorkRight Hotline at 1800-221-9922 or emailing to <a href="workright@mom.gov.sg">workright@mom.gov.sg</a>. Your identity will be kept confidential. <br><br></details></details>
@@ -54,7 +54,7 @@ details>summary {
   list-style-type: none;
   outline: none;
   cursor: pointer;
-  border: 1px solid #eee;
+  border: 1px solid #76a883;
   padding: 5px;
   border-radius: 5px;
 }
