@@ -2,7 +2,6 @@ collections:
   newsroom:
     output: true
     order:
-      - PDF(Speeches)/.keep
       - Speeches/2020.md
       - Speeches/.keep
       - Press Release.md
