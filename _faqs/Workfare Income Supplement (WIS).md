@@ -16,6 +16,17 @@ You will be eligible for the Workfare Income Supplement (WIS) scheme if you:
 	<li>are 35<sup>1</sup> years old or older on 31 December of the Work Year (WY);</li>
 	<li>earn not more than $2,300<sup>2</sup> (previously $2,000) for the month worked and in the past 12 months<sup>3</sup> (average monthly income) as an employee; or have an average monthly income of not more than $2,300 (previously $2,000) as a Self-Employed Person (SEP);</li>
 	</ul>
+If you are an SEP, you are also required to declare your Net Trade Income (NTI) and make your MediSave contributions to be eligible for WIS.<br><br>
+However, you will not be eligible for WIS if you:
+<ul>
+	<li>live in a property with an annual value<sup>4</sup> of more than $13,000 assessed as at 31 December of the previous year;</li>
+	<li>own two or more properties; or</li>
+	<li>if you are married,</li>
+</ul>
+<ul style="list-style-type:circle;">
+			<li>you and your spouse together own two or more properties; or</li>
+			<li>the assessable income of your spouse exceeds $70,000 for the previous Year of Assessment.</li>
+</ul>
 	</details>
 	
 </details>
