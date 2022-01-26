@@ -15,7 +15,7 @@ You will be eligible for the Workfare Income Supplement (WIS) scheme if you:
 	<li>are a Singapore Citizen;</li>
 	<li>are 35<sup>1</sup> years old or older on 31 December of the Work Year (WY);</li>
 	<li>earn not more than $2,300<sup>2</sup> (previously $2,000) for the month worked and in the past 12 months<sup>3</sup> (average monthly income) as an employee; or have an average monthly income of not more than $2,300 (previously $2,000) as a Self-Employed Person (SEP);</li>
-	</ul>	
+	</ul>
 	</details>
 	
 </details>
