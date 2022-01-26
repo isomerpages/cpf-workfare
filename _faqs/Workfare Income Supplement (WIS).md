@@ -27,7 +27,7 @@ However, you will not be eligible for WIS if you:
 	<li style="font-size:17px">the assessable income of your spouse exceeds $70,000 for the previous Year of Assessment.</li>
 </ul>
 	</ul>
-	Click here to find out your WIS eligibility status.</details>
+		Click <a href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/Payments/Statement">here</a> to find out your WIS eligibility status.</details>
 	
 </details>
 
