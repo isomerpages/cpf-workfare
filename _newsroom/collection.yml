@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - PDF(Speeches)/.keep
-      - Speeches/2019.md
+      - Speeches/2020.md
       - Speeches/.keep
       - Press Release.md
       - Media Articles.md
