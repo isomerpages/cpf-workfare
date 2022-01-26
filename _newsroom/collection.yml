@@ -2,7 +2,7 @@ collections:
   newsroom:
     output: true
     order:
-      - Speeches/Speeches.md
+      - Speeches/2019.md
       - Speeches/.keep
       - Press Release.md
       - Media Articles.md
