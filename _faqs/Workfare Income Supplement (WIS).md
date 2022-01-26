@@ -8,6 +8,10 @@ description: ""
 	<details>
 		<summary>Q1. What is the Workfare Income Supplement scheme?</summary>
 The Workfare Income Supplement (WIS) scheme was introduced in 2007 as a permanent feature of Singapore's social security system. The support is targeted at older, lower wage Singaporean workers whose earnings are in the bottom 20% of the working population, with support also available for those earning slightly more. Eligible workers will receive support via cash and CPF top-ups to supplement their income and retirement savings.</details>
+	<details>
+		<summary>Q2. Am I eligible for the Workfare Income Supplement scheme?</summary>
+The Workfare Income Supplement (WIS) scheme was introduced in 2007 as a permanent feature of Singapore's social security system. The support is targeted at older, lower wage Singaporean workers whose earnings are in the bottom 20% of the working population, with support also available for those earning slightly more. Eligible workers will receive support via cash and CPF top-ups to supplement their income and retirement savings.</details>
+	
 </details>
 
 <style>
