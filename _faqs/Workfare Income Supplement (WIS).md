@@ -43,6 +43,11 @@ If you are receiving letter notifications, you can receive earlier notifications
 	
 	
 </details>
+<details><summary><font size="+1"><b>Employment Status - Employees</b></font></summary><details>
+		<summary>Q1. My employer does not pay my CPF. What can I do to qualify for Workfare Income Supplement (WIS)?</summary>
+Under the CPF Act, employers must contribute CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis.<br><br>
+If your employer is not contributing CPF on your behalf, you can lodge a report on non/underpayment of CPF contributions online. Please log in to <a href="https://www.cpf.gov.sg/eSvc/Web/Services/MyRequest/MyRequestLanding">my cpf Online Services</a> with your Singpass, then select My Requests > Other CPF Matters > Report on non-payment or underpayment of CPF contributions.<br><br>
+Alternatively, you can also lodge a report by calling the WorkRight Hotline at 1800-221-9922 or emailing to <a href="workright@mom.gov.sg">workright@mom.gov.sg</a>. Your identity will be kept confidential. <br><br></details></details>
 
 <style>
 details>summary {
