@@ -1,7 +1,7 @@
 logo: /images/Worfare.jpg
 links:
   - title: About Workfare
-    url: /about-workfare/
+    collection: about-workfare
   - title: Schemes
     collection: schemes
   - title: Stories
