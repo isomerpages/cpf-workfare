@@ -5,7 +5,9 @@ date: 2022-01-25
 layout: post
 description: ""
 ---
-<img class="PressReleaseIcon" src="/images/icons/ico_media_articles.png" align="left"><br><br><br>
+<img align="left" src="/images/icons/ico_media_articles.png" class="PressReleaseIcon">
+<br>
+<font align="center" color="green" size="+3">&nbsp;&nbsp;&nbsp;&nbsp;Press Releases</font><br><br>
 
 <font size="+2"><b>December 2019</b></font><br>
 
