@@ -2,4 +2,5 @@ collections:
   about-workfare:
     output: true
     order:
+      - Intent of Workfare.md
       - About Workfare.md
