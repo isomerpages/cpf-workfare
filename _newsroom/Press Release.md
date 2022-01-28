@@ -7,7 +7,7 @@ description: ""
 ---
 <img class="PressReleaseIcon" src="/images/icons/ico_media_articles.png" align="left"><br><br><br>
 
-December 2019
+<font size="+2"><b>December 2019</b></font><br><br>
 
 4 December 2019
 
