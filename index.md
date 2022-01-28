@@ -4,13 +4,12 @@ title: Workfare
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: This bar is like a notification bar for maintenance or latest news
+notification: Maintenance Message Here
 sections:
   - hero:
-      title: WORKFARE
-      subtitle: Hero subtitle!!
+      title: Workfare
       background: /images/hero-banner.png
-      button: Contact Us
+      button: Login to eService
       url: /contact-us/
       key_highlights:
         - title: Highlight A
@@ -33,4 +32,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
