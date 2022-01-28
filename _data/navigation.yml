@@ -1,18 +1,23 @@
 logo: /images/Worfare.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: About Workfare
     url: /about-workfare/
-  - title: Stories
-    url: /stories/MdmGohGeokKee
-  - title: Wis Calculator
-    url: /wis-calculator/
-  - title: Online Demo
-    url: /online-demo/
   - title: Schemes
     collection: schemes
+  - title: Stories
+    url: /stories/MdmGohGeokKee
   - title: Newsroom
     resource_room: true
-  - title: New Page
+  - title: Contact Us
+    url: /contact-us/
+  - title: WIS Calculator
+    url: /wis-calculator/
+  - title: LOGIN
     url: /newpage/
+  - title: WIS Calculator
+    url: /permalink
+    sublinks:
+      - title: I am an Employee
+        url: /permalink
+      - title: I am Self-Employed
+        url: /permalink
