@@ -1,0 +1,4 @@
+collections:
+  about-workfare:
+    output: true
+    order: []
