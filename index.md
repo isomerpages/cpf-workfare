@@ -12,21 +12,19 @@ sections:
       button: Login to eService
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Workfare income Supplement (WIS) Scheme
+          description: Find out more about WIS
+          url: https://www.workfare.gov.sg/Pages/WIS.aspx
+        - title: Workfare Skills Support (WSS) Scheme
+          description: Find out more about WSS
+          url: https://www.workfare.gov.sg/Pages/WSS.aspx
   - infobar:
-      title: Test WorkFare
-      subtitle: Subtitle
-      description: WorkFare Testing page
-      button: Button text
-      url: /faq/
+      title: About Workfare
+      description: The Workfare Income Supplement Scheme is a broad-based measure that
+        tops up the salaries of our lower-income workers and helps them save for
+        retirement.
+      button: Find out more
+      url: https://www.workfare.gov.sg/Pages/AboutWorkfare.aspx
   - resources:
       title: Media
       subtitle: Learn more
