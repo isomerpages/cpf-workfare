@@ -1,4 +1,5 @@
 collections:
   about-workfare:
     output: true
-    order: []
+    order:
+      - About Workfare.md
