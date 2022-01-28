@@ -5,7 +5,7 @@ date: 2022-01-25
 layout: post
 description: ""
 ---
-![Alt text for image on Isomer site](/images/icons/ico_media_articles.png)
+<img class="micicon" src="/images/icons/ico_media_articles.png" align="left"><br><br><br>
 
 December 2019
 
