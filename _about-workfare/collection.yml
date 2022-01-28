@@ -2,7 +2,7 @@ collections:
   about-workfare:
     output: true
     order:
-      - Outcomes of Workfare.md
-      - Our Social Security System.md
       - About Workfare.md
       - Intent of Workfare.md
+      - Our Social Security System.md
+      - Outcomes of Workfare.md
