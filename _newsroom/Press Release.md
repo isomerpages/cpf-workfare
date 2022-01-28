@@ -12,26 +12,26 @@ description: ""
 <font size="+2"><b>December 2019</b></font><br>
 
 4 December 2019<br>
-[Workfare Factsheet (English) (151KB)](http://www.workfare.gov.sg/Press%20Releases/Documents/Workfare%20Factsheet%20(English).pdf)
+[Workfare Factsheet (English) (151KB)](/files/pdf-press-release/dec-2019/Workfare%20Factsheet-English.pdf)
 
 4 December 2019<br>
-[Workfare Factsheet (Chinese) (265KB)](http://www.workfare.gov.sg/Press%20Releases/Documents/Workfare%20Factsheet%20(Chinese).pdf)
+[Workfare Factsheet (Chinese) (265KB)](/files/pdf-press-release/dec-2019/Workfare%20Factsheet-Chinese.pdf)
 
 4 December 2019<br>
-[Workfare Factsheet (Malay) (151KB)](http://www.workfare.gov.sg/Press%20Releases/Documents/Workfare%20Factsheet%20(Malay).pdf)
+[Workfare Factsheet (Malay) (151KB)](/files/pdf-press-release/dec-2019/Workfare%20Factsheet-Malay.pdf)
 
 4 December 2019 <br>
-[Workfare Factsheet (Tamil) (885KB)](http://www.workfare.gov.sg/Press%20Releases/Documents/Workfare%20Factsheet%20(Tamil).pdf)
+[Workfare Factsheet (Tamil) (885KB)](/files/pdf-press-release/dec-2019/Workfare%20Factsheet-Tamil.pdf)
 
-<font size="+2"><b>March 2019</b></font><br>
+<br><font size="+2"><b>March 2019</b></font><br>
 
 6 March 2019<br>
-[Workfare Infographic Flyer 2019 (2.74MB)](http://www.workfare.gov.sg/Press%20Releases/Documents/Workfare%20Infographic%20Flyer%202019.pdf)
+[Workfare Infographic Flyer 2019 (2.74MB)](/files/pdf-press-release/mar-2019/Workfare%20Infographic%20Flyer%202019.pdf)
 
-<font size="+2"><b>February 2019</b></font><br>
+<br><font size="+2"><b>February 2019</b></font><br>
 
 18 February 2019<br>
-[Factsheet on Enhancements to the Workfare Income Supplement Scheme (257KB)](https://www.workfare.gov.sg/Press%20Releases/Pages/PressRelease_Feb2019.pdf)
+[Factsheet on Enhancements to the Workfare Income Supplement Scheme (257KB)](/files/pdf-press-release/feb-2019/PressRelease_Feb2019.pdf)
 
 <style>
 img.PressReleaseIcon {
