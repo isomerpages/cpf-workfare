@@ -5,11 +5,7 @@ date: 2022-01-25
 layout: post
 description: ""
 ---
-
-
-
-
-
+![Alt text for image on Isomer site](/images/icons/ico_media_articles.png)
 
 December 2019
 
