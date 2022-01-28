@@ -5,7 +5,7 @@ date: 2022-01-25
 layout: post
 description: ""
 ---
-<img class="micicon" src="/images/icons/ico_media_articles.png" align="left"><br><br><br>
+<img class="PressReleaseIcon" src="/images/icons/ico_media_articles.png" align="left"><br><br><br>
 
 December 2019
 
@@ -36,3 +36,10 @@ February 2019
 18 February 2019
 
 [Factsheet on Enhancements to the Workfare Income Supplement Scheme (257KB)](https://www.workfare.gov.sg/Press%20Releases/Pages/PressRelease_Feb2019.pdf)
+
+<style>
+img.PressReleaseIcon {
+  height: 15%;
+  width: 15%;
+}
+</style>
