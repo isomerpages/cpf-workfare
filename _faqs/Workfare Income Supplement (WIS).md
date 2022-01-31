@@ -79,5 +79,6 @@ details[open]>summary {
 	
  a.hyperlink {
     color:green;
+	
   }
 </style>
