@@ -80,4 +80,7 @@ details[open]>summary {
  a.hyperlink {
     color:green;
   }
+a.hyperlink:hover {
+    color:MediumVioletRed;
+  }
 </style>
