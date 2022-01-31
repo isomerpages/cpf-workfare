@@ -2,6 +2,7 @@ collections:
   newsroom:
     output: true
     order:
+      - Press Release/2011.md
       - Press Release/.keep
       - Press Release/2019.md
       - Press Release/2010.md
