@@ -23,3 +23,49 @@ The WSP will be given to eligible Singaporeans in the same way as their WIS paym
 WIS recipients who did not provide their bank account details previously are encouraged to do so to receive their payments earlier. They can do so at <a href="https://workfare.gov.sg/">workfare.gov.sg</a> (using Singpass).<br><br>
 If the update of payment request is submitted after the 14th of the month, it will be effective in the following month. 
 <br><br></details>
+
+<style>
+details>summary {
+  cursor: pointer;
+}
+
+details>summary::-webkit-details-marker {
+  display: none;
+}
+
+details>summary::before {
+  content: '+ ' ;
+	color: white;
+}
+
+details[open]>summary::before {
+  content: '- ';
+}
+
+details[open]>summary {
+  margin-bottom: 0.5rem;
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
