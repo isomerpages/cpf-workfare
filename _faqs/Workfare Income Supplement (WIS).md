@@ -76,27 +76,23 @@ details[open]>summary::before {
 details[open]>summary {
   margin-bottom: 0.5rem;
 }
+/* unvisited link */
 a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
+  color: red;
 }
 
+/* visited link */
 a:visited {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
+  color: green;
 }
 
+/* mouse over link */
 a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
+  color: hotpink;
 }
 
+/* selected link */
 a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
+  color: blue;
 }
 </style>
