@@ -20,7 +20,7 @@ For Singaporeans who had received the WIS payouts for WY2020, but not for WY2019
 ^ Singaporeans who qualify for WY2020 WIS after October 2020 but before 31 December 2021 will receive the WSP in the month that they become eligible for WY2020 WIS<br><br>
 	<u>Mode of Payment:</u><br><br>
 The WSP will be given to eligible Singaporeans in the same way as their WIS payments – direct crediting to their bank account, or cheque sent to their NRIC address for those who do not have a bank account registered for cash payments from the Government. Payments by cheque take up to 2 weeks longer compared to bank crediting.<br><br>
-WIS recipients who did not provide their bank account details previously are encouraged to do so to receive their payments earlier. They can do so at <a href="https://workfare.gov.sg/">workfare.gov.sg</a> (using Singpass).<br><br>
+WIS recipients who did not provide their bank account details previously are encouraged to do so to receive their payments earlier. They can do so at <a class="hyperlink" href="https://workfare.gov.sg/">workfare.gov.sg</a> (using Singpass).<br><br>
 If the update of payment request is submitted after the 14th of the month, it will be effective in the following month. 
 <br><br></details>
 
@@ -45,27 +45,7 @@ details[open]>summary::before {
 details[open]>summary {
   margin-bottom: 0.5rem;
 }
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:visited {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
-}
+ a.hyperlink {
+    color:green;
+  }
 </style>
