@@ -78,7 +78,7 @@ details[open]>summary {
 }
 /* unvisited link */
 a:link {
-  color: red;
+  color: green;
 }
 
 /* visited link */
@@ -88,7 +88,7 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: hotpink;
+  color: blue;
 }
 
 /* selected link */
