@@ -2,6 +2,7 @@ collections:
   newsroom:
     output: true
     order:
+      - Press Release/2007.md
       - Press Release/.keep
       - Press Release/Press Release 2016.md
       - Press Release/2016.md
