@@ -2,6 +2,7 @@ collections:
   newsroom:
     output: true
     order:
+      - Press Release/2016.md
       - Press Release/.keep
       - Speeches/2019.md
       - Speeches/2020.md
