@@ -49,6 +49,11 @@ You can declare your income and contribute to your MediSave Account in various w
 To receive your WIS payouts by 30 April (via bank crediting), please declare your NTI and contribute to your MediSave Account by the last Friday of March.<br><br>
 *Under the CPF Act, employers must contribute to CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis. If your employer is not contributing CPF on your behalf, you can lodge a report on non/underpayment of CPF contributions online. Please log in to my cpf with your Singpass, then select My Request > Other CPF Matters > Report on non-payment or underpayment of CPF contributions.<br><br>
 Alternatively, you can also lodge a report by calling the WorkRight Hotline at 1800-221-9922 or emailing to <a class="hyperlink" href="workright@mom.gov.sg">workright@mom.gov.sg</a>. Your identity will be kept confidential.<br><br></details>
+<details><summary>
+		<font color="#FFF"><b>Q5. When will I receive my Workfare Income Supplement payouts?</b></font></summary>
+You will receive Workfare Income Supplement (WIS) payouts for every month that you work. The payment will be made two months after the work period. For example, the WIS payout for work done in January will be paid out in end March.<br><br>
+If you are an eligible Self-Employed Person (SEP), you will receive WIS payouts once a year for work done in the preceding work year. The earliest payment for SEPs for a particular Work Year (WY) will be in end April of the following work year, provided you have declared your income (to IRAS or CPFB) and contributed to your MediSave by the last Friday of March of the following work year.<br><br>
+* Based on payment dates for bank crediting. Payment by cheque takes up to 2 weeks longer due to bank crediting.<br><br>
 </details>
 <details><summary><font color="#FFF" size="+1.5"><b>Employment Status - Employees</b></font></summary><details>
 		<summary><font color="#009427"><b>Q1. My employer does not pay my CPF. What can I do to qualify for Workfare Income Supplement (WIS)?</b></font></summary>
