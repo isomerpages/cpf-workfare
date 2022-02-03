@@ -76,6 +76,13 @@ You can contact CPF Board via the following channels for your Workfare Income Su
 <font color="#FFF"><b>Q7. How can I change the mode of payment for my Workfare Income Supplement (WIS) payout?</b></font></summary>
 You may update your bank account details by logging into the Workfare Portal at <a class="hyperlink" href="http://www.workfare.gov.sg">workfare.gov.sg</a>.</b>
 </details>
+<details><summary>
+<font color="#FFF"><b>
+Q8. How much Workfare Income Supplement (WIS) will I get?</b></font></summary>
+The Workfare Income Supplement (WIS) payout depends on your age and income. You may use the online <a class="hyperlink" href="https://www.workfare.gov.sg/Pages/Calculator.aspx">WIS calculator</a> to estimate the amount of WIS you will receive. 
+
+
+</details>
 <details><summary><font color="#FFF" size="+1.5"><b>Employment Status - Employees</b></font></summary><details>
 		<summary><font color="#009427"><b>Q1. My employer does not pay my CPF. What can I do to qualify for Workfare Income Supplement (WIS)?</b></font></summary>
 Under the CPF Act, employers must contribute CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis.<br><br>
