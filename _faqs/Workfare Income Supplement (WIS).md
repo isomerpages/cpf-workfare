@@ -71,7 +71,10 @@ You can contact CPF Board via the following channels for your Workfare Income Su
 <ol>
 <li style="font-size:15.5px">Write to us via our <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index?section=wis">Online Enquiry</a> Form</li>
 <li style="font-size:15.5px">Write to us via <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Services/MyMailbox/MyMailboxLanding">My Mailbox</a> using your Singpass log in</li>
-</ol>
+</ol></details>
+<details><summary>
+<font color="#FFF"><b>Q7. How can I change the mode of payment for my Workfare Income Supplement (WIS) payout?</b></font></summary>
+You may update your bank account details by logging into the Workfare Portal at <a class="hyperlink" href="http://www.workfare.gov.sg">workfare.gov.sg</a>.</b>
 </details>
 <details><summary><font color="#FFF" size="+1.5"><b>Employment Status - Employees</b></font></summary><details>
 		<summary><font color="#009427"><b>Q1. My employer does not pay my CPF. What can I do to qualify for Workfare Income Supplement (WIS)?</b></font></summary>
