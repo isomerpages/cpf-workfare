@@ -83,48 +83,48 @@ The Workfare Income Supplement (WIS) payout depends on your age and income. You 
 <table>
 <thead>
   <tr>
-    <th rowspan="3">Your age in the work year</th>
-    <th colspan="4">Maximum WIS payout per year&nbsp;&nbsp;</th>
+    <th style='text-align:center; vertical-align:middle' rowspan="3">Your age in the work year</th>
+    <th style='text-align:center; vertical-align:middle' colspan="4">Maximum WIS payout per year</th>
   </tr>
   <tr>
-    <th colspan="2">If you are employed</th>
-    <th colspan="2">If you are self-employed</th>
+    <th style='text-align:center; vertical-align:middle' colspan="2">If you are employed</th>
+    <th style='text-align:center; vertical-align:middle' colspan="2">If you are self-employed</th>
   </tr>
   <tr>
-    <th>2019</th>
-    <th>From 2020</th>
-    <th>2019</th>
-    <th>From 2020</th>
+    <th style='text-align:center; vertical-align:middle'>2019</th>
+    <th style='text-align:center; vertical-align:middle'>From 2020</th>
+    <th style='text-align:center; vertical-align:middle'>2019</th>
+    <th style='text-align:center; vertical-align:middle'>From 2020</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>35* - 44</td>
-    <td>$1,500<br></td>
-    <td>$1,700<br></td>
-    <td>$1,00<br></td>
-    <td>$1,133</td>
+    <td style='text-align:center; vertical-align:middle'>35* - 44</td>
+    <td style='text-align:center; vertical-align:middle'>$1,500<br></td>
+    <td style='text-align:center; vertical-align:middle'>$1,700<br></td>
+    <td style='text-align:center; vertical-align:middle'>$1,00<br></td>
+    <td style='text-align:center; vertical-align:middle'>$1,133</td>
   </tr>
   <tr>
-    <td>45 - 54</td>
-    <td>$2,200<br></td>
-    <td>$2,500<br></td>
-    <td>$1,467<br></td>
-    <td>$1,667</td>
+    <td style='text-align:center; vertical-align:middle'>45 - 54</td>
+    <td style='text-align:center; vertical-align:middle'>$2,200<br></td>
+    <td style='text-align:center; vertical-align:middle'>$2,500<br></td>
+    <td style='text-align:center; vertical-align:middle'>$1,467<br></td>
+    <td style='text-align:center; vertical-align:middle'>$1,667</td>
   </tr>
   <tr>
-    <td>55 - 60</td>
-    <td>$2,900<br></td>
-    <td>$3,300<br></td>
-    <td>$1,933<br></td>
-    <td>$2,200</td>
+    <td style='text-align:center; vertical-align:middle'>55 - 60</td>
+    <td style='text-align:center; vertical-align:middle'>$2,900<br></td>
+    <td style='text-align:center; vertical-align:middle'>$3,300<br></td>
+    <td style='text-align:center; vertical-align:middle'>$1,933<br></td>
+    <td style='text-align:center; vertical-align:middle'>$2,200</td>
   </tr>
   <tr>
-    <td>60 and above</td>
-    <td>$3,600<br></td>
-    <td>$4,000<br></td>
-    <td>$2,400<br></td>
-    <td>$2,667</td>
+    <td style='text-align:center; vertical-align:middle'>60 and above</td>
+    <td style='text-align:center; vertical-align:middle'>$3,600<br></td>
+    <td style='text-align:center; vertical-align:middle'>$4,000<br></td>
+    <td style='text-align:center; vertical-align:middle'>$2,400<br></td>
+    <td style='text-align:center; vertical-align:middle'>$2,667</td>
   </tr>
 </tbody>
 </table>
@@ -170,9 +170,4 @@ details[open]>summary {
 a.hyperlink:hover {
     color:MediumVioletRed;
   }
-
-ul 
-{
-line-height:1%;
-{
 </style>
