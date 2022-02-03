@@ -130,6 +130,27 @@ The Workfare Income Supplement (WIS) payout depends on your age and income. You 
 </table>
 * Including persons with disabilities who are below 35.<br><br>
 </details>
+<details><summary><font color="#FFF"><b>
+Q9. Am I eligible for the Workfare Income Supplement scheme for work done in 2019?</b></font></summary>
+For work done in 2019, you will be eligible for the Workfare Income Supplement (WIS) scheme if you:<br>
+<ul>
+	<li style="font-size:15.5px">are a Singapore Citizen;</li>
+	<li style="font-size:15.5px">are 35<sup>1</sup> years old or older on 31 December 2019;</li>
+	<li style="font-size:15.5px">earn not more than $2,000<sup>2</sup> for the month worked and in the past 12 months<sup>3</sup> (average monthly income) as an employee; or have an average monthly income of not more than $2,000 or less as a Self-Employed Person (SEP);</li></ul>
+If you are an SEP, you are also required to declare your Net Trade Income (NTI) and make your MediSave contributions to be eligible for WIS.<br><br>
+However, you will not be eligible for WIS if you:<br><br>
+<ul>
+<li style="font-size:15.5px">live in a property with an annual value<sup>4</sup> of more than $13,000 assessed as at 31 December of the previous year;</li>
+<li style="font-size:15.5px">own two or more properties; or</li>
+<li style="font-size:15.5px">if you are married,</li>
+<ul style="list-style-type:circle;">
+<li style="font-size:15.5px">you and your spouse together own two or more properties; or</li>
+<li style="font-size:15.5px">the annual assessable income of your spouse exceeds $70,000 for the previous Year of Assessment.</li></ul></ul>
+	<sup>1</sup> Persons with disabilities younger than 35 who meet the WIS eligibility criteria will receive an annual WIS payout of up to $1,700<br>
+	<sup>2</sup> Includes basic salary and extra wages such as overtime pay, commissions and bonuses<br>
+	<sup>3</sup> Defined as income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br>
+	<sup>4</sup> Annual value is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties<br><br>
+</details>
 <details><summary><font color="#FFF" size="+1.5"><b>Employment Status - Employees</b></font></summary><details>
 		<summary><font color="#009427"><b>Q1. My employer does not pay my CPF. What can I do to qualify for Workfare Income Supplement (WIS)?</b></font></summary>
 Under the CPF Act, employers must contribute CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis.<br><br>
