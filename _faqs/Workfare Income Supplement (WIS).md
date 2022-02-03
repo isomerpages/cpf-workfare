@@ -41,7 +41,14 @@ If you are receiving letter notifications, you can receive earlier notifications
 		You may also use the <a class="hyperlink" href="https://www.workfare.gov.sg/Pages/Calculator.aspx">WIS calculator</a> to estimate the amount of WIS payout you are entitled to. 
 <br><br></details>
 	
-	
+<details><summary>
+		<font color="#FFF"><b>Q4. What do I need to do to receive Workfare Income Supplement (WIS)?</b></font></summary>
+If you are an employee, you do not need to do anything. Your eligibility for Workfare Income Supplement (WIS) will be automatically assessed based on the CPF contributions* made by your employer. <br><br>
+If you are a Self-Employed Person (SEP), you need to declare your net trade income (NTI) and contribute to your MediSave Account to be considered for WIS. Use our <a class="hyperlink" href="https://www.workfare.gov.sg/Pages/Calculator.aspx">online WIS calculator</a> to find out the amount you need to contribute to your MediSave Account.<br><br>
+You can declare your income and contribute to your MediSave Account in various ways.<br><br>
+To receive your WIS payouts by 30 April (via bank crediting), please declare your NTI and contribute to your MediSave Account by the last Friday of March.<br><br>
+*Under the CPF Act, employers must contribute to CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis. If your employer is not contributing CPF on your behalf, you can lodge a report on non/underpayment of CPF contributions online. Please log in to my cpf with your Singpass, then select My Request > Other CPF Matters > Report on non-payment or underpayment of CPF contributions.<br><br>
+Alternatively, you can also lodge a report by calling the WorkRight Hotline at 1800-221-9922 or emailing to <a class="hyperlink" href="workright@mom.gov.sg">workright@mom.gov.sg</a>. Your identity will be kept confidential.<br><br></details>
 </details>
 <details><summary><font color="#FFF" size="+1.5"><b>Employment Status - Employees</b></font></summary><details>
 		<summary><font color="#009427"><b>Q1. My employer does not pay my CPF. What can I do to qualify for Workfare Income Supplement (WIS)?</b></font></summary>
