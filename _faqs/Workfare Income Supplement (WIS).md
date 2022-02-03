@@ -151,7 +151,20 @@ However, you will not be eligible for WIS if you:<br><br>
 	<sup>3</sup> Defined as income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br>
 	<sup>4</sup> Annual value is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties<br><br>
 </details>
-<details><summary><font color="#FFF" size="+1.5"><b>Employment Status - Employees</b></font></summary><details>
+<details><summary><font color="#FFF"><b>
+Q10. Will I receive Workfare Income Supplement (WIS) payouts if I am unemployed?</b></font></summary>
+The Workfare Income Supplement (WIS) scheme supplements the income and CPF savings of lower-income Singaporeans, and encourages them to enter and remain in the labour market.<br><br>
+You would not receive WIS if you are not working.<br><br>
+If you require assistance in looking for a job, or are seeking information on training and skills upgrading, please approach any of the Distributed CareerLink Networks run by the Community Development Councils (CDCs). Alternatively, you can call Workforce Singapore (WSG) hotline at 6883 5885.<br><br></details>
+<details><summary><font color="#FFF"><b>
+Q11. How do I appeal for Workfare Income Supplement (WIS) Scheme / Workfare Special Payment (WSP)?</b></font></summary>
+You can send in your appeal for Workfare Income Supplement (WIS)/ Workfare Special Payment (WSP) via the online enquiry page: <br><br>
+<ol>
+	<li style="font-size:15.5px">Select "Workfare Income Supplement (WIS)" under Subject</li>
+	<li style="font-size:15.5px">Select "Appeal-WIS" under Category </li></ol>
+You can also write to us via <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Services/MyMailbox/MyMailboxLanding">My Mailbox</a> (Singpass required) and skip the hassle of keying in your personal particulars. <br><br></details>
+
+</details><details><summary><font color="#FFF" size="+1.5"><b>Employment Status - Employees</b></font></summary><details>
 		<summary><font color="#009427"><b>Q1. My employer does not pay my CPF. What can I do to qualify for Workfare Income Supplement (WIS)?</b></font></summary>
 Under the CPF Act, employers must contribute CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis.<br><br>
 If your employer is not contributing CPF on your behalf, you can lodge a report on non/underpayment of CPF contributions online. Please log in to <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Services/MyRequest/MyRequestLanding">my cpf Online Services</a> with your Singpass, then select My Requests &gt; Other CPF Matters &gt; Report on non-payment or underpayment of CPF contributions.<br><br>
