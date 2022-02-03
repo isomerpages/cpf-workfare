@@ -19,12 +19,12 @@ You will be eligible for the Workfare Income Supplement (WIS) scheme if you:
 If you are an SEP, you are also required to declare your Net Trade Income (NTI) and make your MediSave contributions to be eligible for WIS.<br><br>
 However, you will not be eligible for WIS if you:
 		<ul>
-	<li style="font-size:17px">live in a property with an annual value<sup>4</sup> of more than $13,000 assessed as at 31 December of the previous year;</li>
-	<li style="font-size:17px">own two or more properties; or</li>
-	<li style="font-size:17px">if you are married,</li>
+	<li style="font-size:14px">live in a property with an annual value<sup>4</sup> of more than $13,000 assessed as at 31 December of the previous year;</li>
+	<li style="font-size:14px">own two or more properties; or</li>
+	<li style="font-size:14px">if you are married,</li>
 <ul style="list-style-type:circle;">
-	<li style="font-size:17px">you and your spouse together own two or more properties; or</li>
-	<li style="font-size:17px">the assessable income of your spouse exceeds $70,000 for the previous Year of Assessment.</li>
+	<li style="font-size:14px">you and your spouse together own two or more properties; or</li>
+	<li style="font-size:14px">the assessable income of your spouse exceeds $70,000 for the previous Year of Assessment.</li>
 </ul>
 	</ul>
 		Click <a class="hyperlink" href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/Payments/Statement">here</a> to find out your WIS eligibility status.<br><br>
@@ -52,7 +52,7 @@ Alternatively, you can also lodge a report by calling the WorkRight Hotline at 1
 <details><summary>
 		<font color="#FFF"><b>Q5. When will I receive my Workfare Income Supplement payouts?</b></font></summary>
 You will receive Workfare Income Supplement (WIS) payouts for every month that you work. The payment will be made two months after the work period. For example, the WIS payout for work done in January will be paid out in end March.<br><br>
-
+	
 | If you worked in | You will receive the WIS payout in * |
 | -------- | -------- |
 | Jan     | End Mar     |
@@ -61,9 +61,17 @@ You will receive Workfare Income Supplement (WIS) payouts for every month that y
 | Apr     | Eng Aug     |
 | Month x     | End of month (x+2)     |
 
-<br><br>
+<br>
 If you are an eligible Self-Employed Person (SEP), you will receive WIS payouts once a year for work done in the preceding work year. The earliest payment for SEPs for a particular Work Year (WY) will be in end April of the following work year, provided you have declared your income (to IRAS or CPFB) and contributed to your MediSave by the last Friday of March of the following work year.<br><br>
 * Based on payment dates for bank crediting. Payment by cheque takes up to 2 weeks longer due to bank crediting.<br><br>
+</details>
+<details><summary>
+		<font color="#FFF"><b>Q6. Whom can I contact for queries about the Workfare Income Supplement scheme?</b></font></summary>
+You can contact CPF Board via the following channels for your Workfare Income Supplement scheme enquiries:
+<ol>
+<li style="font-size:17px">Write to us via our <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index?section=wis">Online Enquiry</a> Form</li>
+<li style="font-size:17px">Write to us via <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Services/MyMailbox/MyMailboxLanding">My Mailbox</a> using your Singpass log in</li>
+</ol>
 </details>
 <details><summary><font color="#FFF" size="+1.5"><b>Employment Status - Employees</b></font></summary><details>
 		<summary><font color="#009427"><b>Q1. My employer does not pay my CPF. What can I do to qualify for Workfare Income Supplement (WIS)?</b></font></summary>
@@ -105,4 +113,9 @@ details[open]>summary {
 a.hyperlink:hover {
     color:MediumVioletRed;
   }
+
+ul 
+{
+line-height:1%;
+{
 </style>
