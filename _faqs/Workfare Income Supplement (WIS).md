@@ -128,7 +128,7 @@ The Workfare Income Supplement (WIS) payout depends on your age and income. You 
   </tr>
 </tbody>
 </table>
-
+* Including persons with disabilities who are below 35.<br><br>
 </details>
 <details><summary><font color="#FFF" size="+1.5"><b>Employment Status - Employees</b></font></summary><details>
 		<summary><font color="#009427"><b>Q1. My employer does not pay my CPF. What can I do to qualify for Workfare Income Supplement (WIS)?</b></font></summary>
