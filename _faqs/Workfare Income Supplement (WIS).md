@@ -79,8 +79,55 @@ You may update your bank account details by logging into the Workfare Portal at 
 <details><summary>
 <font color="#FFF"><b>
 Q8. How much Workfare Income Supplement (WIS) will I get?</b></font></summary>
-The Workfare Income Supplement (WIS) payout depends on your age and income. You may use the online <a class="hyperlink" href="https://www.workfare.gov.sg/Pages/Calculator.aspx">WIS calculator</a> to estimate the amount of WIS you will receive. 
-
+The Workfare Income Supplement (WIS) payout depends on your age and income. You may use the online <a class="hyperlink" href="https://www.workfare.gov.sg/Pages/Calculator.aspx">WIS calculator</a> to estimate the amount of WIS you will receive.<br><br>
+<table>
+<thead>
+  <tr>
+    <th rowspan="3">Your age in the work year</th>
+    <th colspan="4">Maximum WIS payout per year&nbsp;&nbsp;</th>
+  </tr>
+  <tr>
+    <th colspan="2">If you are employed</th>
+    <th colspan="2">If you are self-employed</th>
+  </tr>
+  <tr>
+    <th>2019</th>
+    <th>From 2020</th>
+    <th>2019</th>
+    <th>From 2020</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>35* - 44</td>
+    <td>$1,500<br></td>
+    <td>$1,700<br></td>
+    <td>$1,00<br></td>
+    <td>$1,133</td>
+  </tr>
+  <tr>
+    <td>45 - 54</td>
+    <td>$2,200<br></td>
+    <td>$2,500<br></td>
+    <td>$1,467<br></td>
+    <td>$1,667</td>
+  </tr>
+  <tr>
+    <td>55 - 60</td>
+    <td>$2,900<br></td>
+    <td>$3,300<br></td>
+    <td>$1,933<br></td>
+    <td>$2,200</td>
+  </tr>
+  <tr>
+    <td>60 and above</td>
+    <td>$3,600<br></td>
+    <td>$4,000<br></td>
+    <td>$2,400<br></td>
+    <td>$2,667</td>
+  </tr>
+</tbody>
+</table>
 
 </details>
 <details><summary><font color="#FFF" size="+1.5"><b>Employment Status - Employees</b></font></summary><details>
