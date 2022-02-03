@@ -158,7 +158,7 @@ You would not receive WIS if you are not working.<br><br>
 If you require assistance in looking for a job, or are seeking information on training and skills upgrading, please approach any of the Distributed CareerLink Networks run by the Community Development Councils (CDCs). Alternatively, you can call Workforce Singapore (WSG) hotline at 6883 5885.<br><br></details>
 <details><summary><font color="#FFF"><b>
 Q11. How do I appeal for Workfare Income Supplement (WIS) Scheme / Workfare Special Payment (WSP)?</b></font></summary>
-You can send in your appeal for Workfare Income Supplement (WIS)/ Workfare Special Payment (WSP) via the online enquiry page: <br><br>
+You can send in your appeal for Workfare Income Supplement (WIS)/ Workfare Special Payment (WSP) via the online enquiry page: <br>
 <ol>
 	<li style="font-size:15.5px">Select "Workfare Income Supplement (WIS)" under Subject</li>
 	<li style="font-size:15.5px">Select "Appeal-WIS" under Category </li></ol>
