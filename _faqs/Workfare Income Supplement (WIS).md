@@ -385,7 +385,7 @@ The payment options are:
 <tbody>
   <tr>
     <td>GIRO</td>
-		<td><u>Online using my cpf Online Services</u><br>1. Log in with your Singpass.<br>2. Submit the <a href="https://www.cpf.gov.sg/eSvc/Web/Services/GiroApplication/LandingPage?scheme=SE">"Apply/Change GIRO for Mandatory MediSave Contributions and Voluntary Contributions by Self-Employed Person"</a> application.<br>3. Check your GIRO application status via My Activities.<br><br><u>Mail</u><br>1. Download and complete the <a class="hyperlink" href="https://www.cpf.gov.sg/content/dam/web/member/tools/documents/Apply%20for%20GIRO%20for%20Mandatory%20MediSave%20Contributions%20or%20Voluntary%20Contributions.pdf">"Apply for GIRO for Mandatory Contributions or Voluntary Contributions"</a> form (FORM GIRO SE/VC (PDF, 0.6MB)).<br>2. Mail it to the address printed overleaf of the GIRO application form.<br>3. We will notify you of your GIRO application status once the bank has processed it.</td>
+		<td><u>Online using my cpf Online Services</u><br>1. Log in with your Singpass.<br>2. Submit the <a class="hyperlink"  href="https://www.cpf.gov.sg/eSvc/Web/Services/GiroApplication/LandingPage?scheme=SE">"Apply/Change GIRO for Mandatory MediSave Contributions and Voluntary Contributions by Self-Employed Person"</a> application.<br>3. Check your GIRO application status via My Activities.<br><br><u>Mail</u><br>1. Download and complete the <a class="hyperlink" href="https://www.cpf.gov.sg/content/dam/web/member/tools/documents/Apply%20for%20GIRO%20for%20Mandatory%20MediSave%20Contributions%20or%20Voluntary%20Contributions.pdf">"Apply for GIRO for Mandatory Contributions or Voluntary Contributions"</a> form (FORM GIRO SE/VC (PDF, 0.6MB)).<br>2. Mail it to the address printed overleaf of the GIRO application form.<br>3. We will notify you of your GIRO application status once the bank has processed it.</td>
   </tr>
   <tr>
     <td>e-Cashier</td>
@@ -397,7 +397,12 @@ The payment options are:
   </tr>
 </tbody>
 </table>
-	
+The service standard for processing electronic payment is as follows:<br><br>
+• For payment via PayNow QR, your payment will be processed almost immediately.<br>
+• For payment via eNETS Debit, your payment will be processed within the next working day.<br><br>
+Log in to <a class="hyperlink" href="https://www.cpf.gov.sg/member/ds/">my cpf</a> using your Singpass to check the transaction status:<br><br>
+• Check that your MediSave contribution is reflected in My Statement, or<br>
+• Check the transaction status under My Activities (if you paid via e-Cashier)<br><br>
 	
 	
 	
