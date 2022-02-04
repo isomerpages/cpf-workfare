@@ -190,6 +190,8 @@ We will assess your eligibility for Workfare Income Supplement (WIS) in the mont
 <details><summary><font color="#FFF"><b>
 Q14. How do I stop receiving hardcopy notifications for the Workfare Income Supplement scheme?</b></font></summary>
 If you wish to receive notifications of your Workfare Income Supplement (WIS) payouts by SMS rather than hardcopy letters, please log in to the <a class="hyperlink" href="https://www.workfare.gov.sg/app/Account/QRLogin">Workfare Portal</a> with your Singpass and update your Singpass-registered mobile number at “View/Update My Notification Mode”.<br><br></details>
+<details><summary><font color="#FFF"><b>
+Q15. How do I adjust my net trade income (NTI) for the Workfare Income Supplement scheme?</b></font></summary>
 </details><details><summary><font color="#FFF" size="+1.5"><b>Employment Status - Employees</b></font></summary><details>
 		<summary><font color="#009427"><b>Q1. My employer does not pay my CPF. What can I do to qualify for Workfare Income Supplement (WIS)?</b></font></summary>
 Under the CPF Act, employers must contribute CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis.<br><br>
