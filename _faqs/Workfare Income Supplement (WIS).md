@@ -201,8 +201,69 @@ To be eligible for the Workfare Income Supplement (WIS) scheme for work done in 
 Q17. Why are Singapore Permanent Residents (PRs) not eligible for the Workfare Income Supplement scheme?</b></font></summary>
 The Workfare Income Supplement (WIS) scheme is only for Singaporean lower-wage workers with limited household wealth.<br><br>
 If you require financial assistance, please contact ComCare hotline 1800-222-0000, or email <a class="hyperlink" href="Ask_SSO@msf.gov.sg">Ask_SSO@msf.gov.sg</a>.<br><br></details>
-
-
+<details><summary><font color="#FFF"><b>Q18. Are inmates eligible for the Workfare Income Supplement scheme?
+</b></font></summary>
+Inmates who have worked while serving their sentences may be eligible for the Workfare Income Supplement (WIS) scheme as Self-Employed Persons (SEPs) by making voluntary MediSave contributions based on the income earned during incarceration. The Singapore Prison Service will furnish inmates' work records to the Board in the following year and inmates’ family members may make the MediSave contributions to the Board on behalf of the inmates.<br><br></details>
+<details><summary><font color="#FFF"><b>Q19. How much cash and CPF top-ups will I receive from the Workfare Income Supplement scheme?
+</b></font></summary>
+If you are an employee, you will receive 60% of your Workfare Income Supplement (WIS) payout in CPF contributions and the remaining 40% in cash.<br><br>
+A higher proportion is credited into your Special and MediSave Accounts to boost your retirement and healthcare savings, as savings in these accounts earn up to 5% per annum if you are below 55, and up to 6% per annum if you are 55 or above.<br><br>
+You can refer to the table below on the allocation of the WIS CPF payout into the three accounts, according to the age bands.<br>
+<table>
+<thead>
+  <tr>
+    <th>Age<br>(Years)</th>
+    <th>Ordinary Account</th>
+    <th>MediSave Account</th>
+    <th>Special Account</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>34 &amp; below</td>
+    <td>0.6217</td>
+    <td>0.2162</td>
+    <td>0.1621</td>
+  </tr>
+  <tr>
+    <td>35 - 44</td>
+    <td>0.2856<br></td>
+    <td>0.3711</td>
+    <td>0.3433</td>
+  </tr>
+  <tr>
+    <td>45 – 49</td>
+    <td>0.2785</td>
+    <td>0.3816</td>
+    <td>0.3399</td>
+  </tr>
+  <tr>
+    <td>50 – 54</td>
+    <td>0.2498</td>
+    <td>0.3751</td>
+    <td>0.3751</td>
+  </tr>
+  <tr>
+    <td>54 – 59</td>
+    <td>0.4315</td>
+    <td>0.4545</td>
+    <td>0.1140</td>
+  </tr>
+  <tr>
+    <td>60 – 64</td>
+    <td>0.2080</td>
+    <td>0.6384</td>
+    <td>0.1536</td>
+  </tr>
+  <tr>
+    <td>65 &amp; above</td>
+    <td>0.0784</td>
+    <td>0.8408</td>
+    <td>0.0808</td>
+  </tr>
+</tbody>
+</table><br>
+If you are a Self-Employed Person, you will receive 90% of your WIS in your MediSave account and the remaining 10% in cash.<br><br></details>
 
 
 </details><details><summary><font color="#FFF" size="+1.5"><b>Employment Status - Employees</b></font></summary><details>
