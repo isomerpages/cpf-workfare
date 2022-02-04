@@ -184,6 +184,8 @@ If you are an SEP, you are also required to declare your Net Trade Income (NTI) 
 <sup>3</sup> Defined as income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br>
 <sup>4</sup> Annual value is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties<br><br>
 </details>
+<details><summary><font color="#FFF"><b>
+Q13. When can I receive the Workfare Income Supplement (WIS) Scheme payment after making the required MediSave contributions?</b></font></summary>
 </details><details><summary><font color="#FFF" size="+1.5"><b>Employment Status - Employees</b></font></summary><details>
 		<summary><font color="#009427"><b>Q1. My employer does not pay my CPF. What can I do to qualify for Workfare Income Supplement (WIS)?</b></font></summary>
 Under the CPF Act, employers must contribute CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis.<br><br>
