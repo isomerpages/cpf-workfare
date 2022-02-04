@@ -194,6 +194,17 @@ If you wish to receive notifications of your Workfare Income Supplement (WIS) pa
 Q15. How do I adjust my net trade income (NTI) for the Workfare Income Supplement scheme?</b></font></summary>
 If you have previously declared your net trade income (NTI) to the Inland Revenue Authority of Singapore (IRAS), please call them at 1800-356 8300 if you wish to adjust your NTI for your Workfare Income Supplement scheme (WIS).<br>
 Alternatively, you can contact them via these other <a class="hyperlink" href="https://www.iras.gov.sg/irashome/Contact-us/">channels</a>. Please inform CPF Board once IRAS has reassessed your NTI and CPF Board will update your NTI and MediSave payable for WIS.<br><br></details>
+<details><summary><font color="#FFF"><b>
+Q16. When must I declare my net trade income and pay the MediSave contributions to be eligible for the Workfare Income Supplement Scheme for work done in 2019?</b></font></summary>
+To be eligible for the Workfare Income Supplement (WIS) scheme for work done in 2019, please declare your 2019 net trade income and contribute to your MediSave Account by 31 December 2020.<br><br></details>
+<details><summary><font color="#FFF"><b>
+Q17. Why are Singapore Permanent Residents (PRs) not eligible for the Workfare Income Supplement scheme?</b></font></summary>
+The Workfare Income Supplement (WIS) scheme is only for Singaporean lower-wage workers with limited household wealth.<br><br>
+If you require financial assistance, please contact ComCare hotline 1800-222-0000, or email <a class="hyperlink" href="Ask_SSO@msf.gov.sg">Ask_SSO@msf.gov.sg</a>.<br><br></details>
+
+
+
+
 </details><details><summary><font color="#FFF" size="+1.5"><b>Employment Status - Employees</b></font></summary><details>
 		<summary><font color="#009427"><b>Q1. My employer does not pay my CPF. What can I do to qualify for Workfare Income Supplement (WIS)?</b></font></summary>
 Under the CPF Act, employers must contribute CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis.<br><br>
