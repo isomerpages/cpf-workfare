@@ -388,7 +388,7 @@ details>summary {
   outline: none;
   cursor: pointer;
   padding: 5px;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 details>summary::-webkit-details-marker {
