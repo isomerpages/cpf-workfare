@@ -375,7 +375,28 @@ WIS is intended to supplement, not replace the MediSave contributions made by th
 There are several ways you can make your MediSave contributions.<br><br>
 The most convenient way is via GIRO, which allows automatic monthly deductions from your bank account. You may apply to pay via GIRO online (if you have a bank account from OCBS/DBS/POSB) or by mail (for other banks).<br><br>
 The payment options are:
-	
+<table>
+<thead>
+  <tr>
+    <th>Payment Mode</th>
+    <th>Details </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>GIRO</td>
+		<td><u>Online using my cpf Online Services</u><br>1. Log in with your Singpass.<br>2. Submit the <a href="https://www.cpf.gov.sg/eSvc/Web/Services/GiroApplication/LandingPage?scheme=SE">"Apply/Change GIRO for Mandatory MediSave Contributions and Voluntary Contributions by Self-Employed Person"</a> application.<br>3. Check your GIRO application status via My Activities.<br><br><u>Mail</u><br>1. Download and complete the <a class="hyperlink" href="https://www.cpf.gov.sg/content/dam/web/member/tools/documents/Apply%20for%20GIRO%20for%20Mandatory%20MediSave%20Contributions%20or%20Voluntary%20Contributions.pdf">"Apply for GIRO for Mandatory Contributions or Voluntary Contributions"</a> form (FORM GIRO SE/VC (PDF, 0.6MB)).<br>2. Mail it to the address printed overleaf of the GIRO application form.<br>3. We will notify you of your GIRO application status once the bank has processed it.</td>
+  </tr>
+  <tr>
+    <td>e-Cashier</td>
+    <td>	• PayNow QR<br>	• eNETS Debit - payment by DBS/POSB, OCBC, Standard Chartered Bank or United Overseas Bank internet banking</td>
+  </tr>
+  <tr>
+    <td>NETS/CashCard</td>
+    <td>Pay by NETS or CashCard at any SingPost branche</td>
+  </tr>
+</tbody>
+</table>
 	
 	
 	
