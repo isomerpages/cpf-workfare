@@ -454,16 +454,40 @@ You will be eligible for Workfare Income Supplement (WIS) if you meet all the el
 <li style="font-size:15.5px">CPFB by logging in my cpf with your Singpass to complete and submit FORM IRAS 144. You may also do so at any SingPost branch; and</li></li></ul>
 <li style="font-size:15.5px">you make the required MediSave contributions.</li></ol>
 You can use our online <a class="hyperlink" href="https://www.workfare.gov.sg/Pages/Calculator.aspx">WIS calculator</a> to find out the amount to contribute.<br><br>
-Please note that you will need to declare your income and make your MediSave contribution by last Friday of March to receive WIS by 30 April (via bank crediting). 
-
-
-
-
-
-
-	
+Please note that you will need to declare your income and make your MediSave contribution by last Friday of March to receive WIS by 30 April (via bank crediting). </details></details>
+<details><summary style="border: 1px solid #4F4F4F;
+	background: #4F4F4F;"><font size="+1.5" color="#FFF"><b>Employment Status - Dual Status Workers</b></font></summary>
+<details><summary><font color="#009427"><b>Q1. I worked as both an employee as well as a Self-Employed Person in the work year. When will I receive my Workfare Income Supplement for the work year?</b></font></summary>
+You will receive monthly Workfare Income Supplement (WIS) payments based on your employee income if you meet the WIS eligibility criteria for the work year (WY).<br><br>
+If you are also an eligible dual status worker (DSW) who has worked concurrently as a SEP and employee in the year, you may receive additional WIS if your combined employment and net trade income results in a higher WIS payout. You will receive your WIS top-up after you have declared your income (to IRAS or CPFB) and have made the required MediSave contributions.<br><br>
+You will receive the WIS top-up once a year for work done as a Self-Employed Person in the preceding year. The earliest payment for SEPs/DSWs for a particular WY will be on 30 April WY+1. If you have declared your income and made your MediSave contribution by the last Friday of March WY+1, you would receive your WIS payout in end April WY+1*.<br><br>
+* Based on payment dates for bank crediting. Payment by cheque takes up to 2 weeks longer due to bank crediting.<br><br></details></details>
+<details><summary style="border: 1px solid #4F4F4F;
+	background: #4F4F4F;"><font size="+1.5" color="#FFF"><b>Eligibility Criteria - Income</b></font></summary>
+<details><summary><font color="#009427"><b>Q1. To qualify for Workfare Income Supplement, what is considered income?</b></font></summary>
+Employee income is based on the definition of Gross Wages under the CPF Act:<br><br>
+Total Gross Wages = Total Ordinary Wages + Total Additional Wages<br><br>
+Where:<br>
+Ordinary Wages are wages due or granted wholly and exclusively in respect of an employee's employment in that month and payable before the due date for payment of CPF contributions for that month.<br><br>
+Additional Wages are wages which are not granted wholly and exclusively for that month. Examples are annual bonus, leave pay and other payments made at intervals of more than a month.<br><br>
+Total Wages are the total amount of an employee's wages for any calendar month, which is the sum of his Ordinary Wages for the month and the Additional Wages paid to him in that month.<br><br></details>
+<details><summary><font color="#009427"><b>Q2. Why are overtime pay and bonuses included in Workfare Income Supplement assessment?</b></font></summary>
+Basic salary, overtime pay, and bonuses are part of a worker’s total income that will help support the worker and his or her family. Given that the Workfare Income Supplement (WIS) is intended to supplement the income of lower wage workers, it is most useful to assess the total income in determining one’s eligibility for WIS.<br><br></details>
+<details><summary><font color="#009427"><b>Q3. How does the income criteron work?</b></font></summary>
+To receive Workfare Income Supplement (WIS) for work done in any month, employees must have earned:<br><br>
+<ol>
+	<li style="font-size:15.5px"> a gross monthly income of not more than $2,300 in that particular month; and</li>
+<li style="font-size:15.5px"> an average gross monthly income of not more than $2,300 in the past 12 months.</li></ol><br><br>
 </details>
-
+<details><summary><font color="#009427"><b>Q4. Why am I not eligible for Workfare Income Supplement or Workfare Special Payment despite my gross monthly income being less than $2,000 (for WY2019) or $2,300 (for WY2020) as an employee?</b></font></summary>
+Gross monthly income includes salary (before deduction of CPF contribution), bonuses, allowances and overtime pay received during the work period.<br><br>
+Other than gross monthly income, you must also earn an average gross monthly income of not more than $2,300 (or $2,000 for Work Year 2019) in the past 12 months.<br><br>
+The average gross monthly income is defined as:<br><br>
+Sum of income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br><br></details>
+<details><summary style="border: 1px solid #4F4F4F;
+	background: #4F4F4F;"><font size="+1.5" color="#FFF"><b>Eligibility Criteria - Housing</b></font></summary>
+<details><summary><font color="#009427"><b>Q1. To qualify for Workfare Income Supplement, what is considered income?</b></font></summary>
+	
 <style>
 details>summary {
   list-style-type: none;
