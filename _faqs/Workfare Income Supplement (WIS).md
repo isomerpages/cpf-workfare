@@ -436,9 +436,31 @@ The objective of the Workfare Income Supplement (WIS) scheme is to supplement th
 A person may be eligible for WIS if he is engaged in work that draws an income.<br><br>
 Allowances received for carrying out family support roles such as babysitting and caregiving for dependents are considered transfers within the family. They are not external sources of income derived from employment, hence it would not be appropriate to consider these transfers for WIS.<br><br>
 The Government recognizes that such family roles are important. There are other forms of government support for these roles, such as the Marriage and Parenthood package which provides broad-based support for couples to raise and care for their children.<br><br></details>
+<details><summary><font color="#009427"><b>Q8. I am a freelancer/conducting a home business (e.g. baking, sewing). Can I qualify for the Workfare Income Supplement scheme?</b></font></summary>
+You are considered a Self-Employed Person (SEP) and you will need to register your SEP status with CPF Board, declare your net trade income, and contribute to your MediSave Account. You will also need to meet the Workfare Income Supplement (WIS) scheme eligibility criteria in order to qualify for WIS.<br><br>
+To conduct a home business, you need to follow the guidelines under HDB's Home-Based Small-Scale Business Scheme.<br><br>
+Please refer to the <a class="hyperlink" href="http://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-business">Housing & Development Board's website</a> for more information.<br><br></details>
+<details><summary><font color="#009427"><b>Q9. My annual trade income from self-employment in a work year was negative (i.e. I incurred a loss). Can I use the trade losses to offset against my income in the following year for the purpose of Workfare Income Supplement (WIS)?</b></font></summary>
+Workfare Income Supplement (WIS) is based on your actual net trade income earned in the work year and does not include previous year's losses.<br><br></details>
+<details><summary><font color="#009427"><b>Q10. My annual trade income from Self-Employment in a work year was negative. Can I qualify for the Workfare Income Supplement scheme?</b></font></summary>
+You will be required to contribute the minimum amount of MediSave to qualify for the Workfare Income Supplement (WIS) scheme. Please use the <a class="hyperlink" href="https://www.workfare.gov.sg/Pages/Calculator.aspx">Workfare calculator</a> to estimate the minimum MediSave contribution and your WIS amount.<br><br>
+You will receive your WIS payment within two months after you have declared your net trade income and made the required MediSave contribution.<br><br></details>
+<details><summary><font color="#009427"><b>Q11. What do I need to do to receive Workfare Income Supplement if I am a Self-Employed Person?</b></font></summary>
+You will be eligible for Workfare Income Supplement (WIS) if you meet all the eligibility criteria and:<br><br>
+<ol style="list-style-type: lower-alpha;">
+	<li style="font-size:15.5px">you declare your income to:
+<ul>
+	<li style="font-size:15.5px">IRAS if you have been issued an income tax return package; or</li>
+<li style="font-size:15.5px">CPFB by logging in my cpf with your Singpass to complete and submit FORM IRAS 144. You may also do so at any SingPost branch; and</li></li></ul>
+<li style="font-size:15.5px">you make the required MediSave contributions.</li></ol>
+You can use our online <a class="hyperlink" href="https://www.workfare.gov.sg/Pages/Calculator.aspx">WIS calculator</a> to find out the amount to contribute.<br><br>
+Please note that you will need to declare your income and make your MediSave contribution by last Friday of March to receive WIS by 30 April (via bank crediting). 
 
 
-	
+
+
+
+
 	
 </details>
 
