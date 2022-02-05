@@ -62,14 +62,20 @@ Workers aged 35 and below with disabilities and are eligible for WIS will also b
 <details><summary><font color="#000" size="+1"><b>Q7. Can I use another bank account other than the 3 local banks for the payment of my Workfare Special Payment?</b></font></summary>
 Currently, we only pay to POSB/DBS, OCBC, and UOB accounts.<br><br>
 If you do not have a bank account with either of the 3 local major banks, the Workfare Special Payment (as well as the Workfare Income Supplement payouts, GST Voucher, and other government payouts) will be paid to you via cheque.<br><br></details>
-
-
-
-
-
-
-
-
+<details><summary><font color="#000" size="+1"><b>Q8. Why was Workfare Special Payment extended to Work Year (WY) 2020 Workfare Income Supplement recipients?</b></font></summary>
+Many individuals are experiencing significant uncertainty over their jobs and their livelihoods during this time.<br><br>
+The extension of Workfare Special Payment to include Work Year (WY) 2020 Workfare Income Supplement (WIS) recipients will help those who become lower-wage workers more recently (i.e. newly qualified for WIS for work done in 2020). <br><br></details>
+<details><summary><font color="#000" size="+1"><b>Q9. I have already qualified for Workfare Special Payment (WSP) and received my first payment of $1,500 in Jul 2020, am I affected by the extension of WSP?</b></font></summary>
+The extension of Workfare Special Payment (WSP) will not affect you if you have already qualified for WSP and received your first payment of $1,500 in Jul 2020.<br><br>
+You will receive the final tranche of $1,500 in October 2020.<br><br></details>
+<details><summary><font color="#000" size="+1"><b>Q10. I am eligible for both Work Year (WY) 2019 WIS and Work Year (WY) 2020 Workfare Income Supplement. Why am I not eligible to receive another $3,000 for Workfare Special Payment?</b></font></summary>
+The Workfare Special Payment (WSP) was extended to include lower-wage workers who (i) have received Workfare Income Supplement payouts for work done in Work Year 2020 and (ii) did not qualify for WSP previously.<br><br>
+It is not an additional payment for those who have earlier qualified for WSP.<br><br>
+Each eligible individual can only receive the $3,000 WSP once.<br><br></details>
+<details><summary><font color="#000" size="+1"><b>Q11. Will I receive Workfare Special Payment if I am unemployed?</b></font></summary>
+The Workfare Income Supplement (WIS) scheme supplements the income and CPF savings of lower-wage Singaporeans when they work, to encourage them to enter and remain in the workforce.<br><br>
+As recipients of Workfare Special Payment (WSP) must first be eligible for WIS, you will not be eligible for WSP if you are unemployed.<br><br>
+If you require assistance in looking for a job, or are seeking information on training and skills upgrading, please approach any of the Distributed CareerLink Networks run by the Community Development Councils (CDCs). Alternatively, you can call Workforce Singapore (WSG) hotline at 6883 5885.<br><br></details>
 
 
 
