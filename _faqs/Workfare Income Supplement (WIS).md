@@ -586,6 +586,15 @@ For successful cheque replacement request, you can collect your new cheque from 
 <details><summary><font color="#009427"><b>Q6. What happens to a Workfare cheque that has expired?</b></font></summary>
 Workfare cheques are valid for six months. If the cheques are not encashed or replaced within six months, the monies will automatically be credited to the recipients' CPF Ordinary Account two months after the cheque expiry date.<br><br>
 Compared to cheque payments, electronic payments make transactions simple, swift, and safe for recipients. We strongly encourage you to <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/paymentinstructions/edit">update</a> your bank account to receive your future Workfare payouts earlier.<br><br></details>
+<details><summary><font color="#009427"><b>Q7. How do I encash a Workfare Estate Cheque?</b></font></summary>
+The estate cheque will form part of the deceased member's estate. Depending on the value of the deceased member's estate, his Next-of-Kin (NOK) may apply to the Public Trustee's Office or the Court to administer his estate. For more information, please visit the Public Trustee’s Office website at <a class="hyperlink" href="https://pto.mlaw.gov.sg/">pto.mlaw.gov.sg</a>, or call them at 1800 225 5529.<br><br></details>
+<details><summary><font color="#009427"><b>Q8. How can I retrieve a copy of my Workfare notification letter?</b></font></summary>
+You can retrieve a <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/wisnotices/index">copy of your notification letters</a> by logging in to eService at Workfare Portal with your Singpass.<br><br></details>
+<details><summary><font color="#009427"><b>Q9. Why is the government sending SMS notifications instead of hardcopy letters?</b></font></summary>
+Moving to SMS notifications is part of the Government's efforts to provide timelier and more responsive services to the public. It also allows us to be more environmentally friendly. With SMS notifications, you can quickly and easily receive details of your Workfare payouts, including the mode of payment and payment date, instead of having to wait for hardcopy letters.<br><br>
+If you are on hardcopy notification and would like to switch to SMS notification, you may update your Singpass-registered mobile number at "View/Update My Notification Mode.<br><br></details>
+
+
 
 
 
