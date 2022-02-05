@@ -600,6 +600,11 @@ Compared to cheque payments, electronic payments make transactions simple, swift
 <details><summary><font color="#009427"><b>Q11. How can I receive SMS notifications for Workfare Income Supplement scheme?</b></font></summary>
 Please log in to the Workfare Portal (Singpass required) and select <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/people/notificationmode">"View/Update My Notification Mode"</a>. Your selected notification mode will be used for Workfare Income Supplement and other Government schemes (if any) that you may be eligible for.<br><br>
 To receive SMS notifications, you must have a Singpass 2FA mobile number. You will only start receiving SMS notifications about you have submitted the above request and updated your mobile number with <a class="hyperlink" href="https://www.singpass.gov.sg/">Singpass</a>.<br><br></details>
+<details><summary><font color="#009427"><b>Q12. I have closed my bank account for receiving Workfare Income Supplement payments. How can I receive the payments?</b></font></summary>
+If you have closed your bank account, you will receive your Workfare Income Supplement (WIS) cash payments by cheque to your registered NRIC address. Payments by cheque takes up to 2 weeks longer compared to bank crediting.<br><br></details>
+
+
+
 
 
 <style>
