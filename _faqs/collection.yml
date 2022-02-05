@@ -2,6 +2,5 @@ collections:
   faqs:
     output: true
     order:
-      - Example Title.md
       - Workfare Income Supplement (WIS).md
       - Workfare Special Payment (WSP).md
