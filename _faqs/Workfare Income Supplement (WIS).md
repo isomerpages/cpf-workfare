@@ -396,13 +396,15 @@ The payment options are:
     <td>Pay by NETS or CashCard at any SingPost branche</td>
   </tr>
 </tbody>
-</table>
+</table><br>
 The service standard for processing electronic payment is as follows:<br><br>
-• For payment via PayNow QR, your payment will be processed almost immediately.<br>
-• For payment via eNETS Debit, your payment will be processed within the next working day.<br><br>
+<ul>
+<li style="font-size:15.5px">For payment via PayNow QR, your payment will be processed almost immediately.</li>
+<li style="font-size:15.5px">For payment via eNETS Debit, your payment will be processed within the next working day.</li></ul>
 Log in to <a class="hyperlink" href="https://www.cpf.gov.sg/member/ds/">my cpf</a> using your Singpass to check the transaction status:<br><br>
-	• Check that your MediSave contribution is reflected in <i>My Statement</i>, or<br>
-• Check the transaction status under My Activities (if you paid via e-Cashier)<br><br>
+<ul>
+<li style="font-size:15.5px">Check that your MediSave contribution is reflected in My Statement, or</li>
+<li style="font-size:15.5px">Check the transaction status under My Activities (if you paid via e-Cashier)</li></ul><br><br>
 	
 	
 	
