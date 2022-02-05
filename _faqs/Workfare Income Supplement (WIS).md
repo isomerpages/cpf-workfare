@@ -598,7 +598,8 @@ Payments by cheque will take 2 weeks longer than direct crediting to a bank acco
 Compared to cheque payments, electronic payments make transactions simple, swift, and safe for recipients. We strongly encourage you to <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/paymentinstructions/edit">update</a>* your bank account to receive your future Workfare payouts earlier.<br><br>
 * For bank account details submitted after 14th of the month, it will take effect in the following month.<br><br></details>
 <details><summary><font color="#009427"><b>Q11. How can I receive SMS notifications for Workfare Income Supplement scheme?</b></font></summary>
-
+Please log in to the Workfare Portal (Singpass required) and select <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/people/notificationmode">"View/Update My Notification Mode"</a>. Your selected notification mode will be used for Workfare Income Supplement and other Government schemes (if any) that you may be eligible for.<br><br>
+To receive SMS notifications, you must have a Singpass 2FA mobile number. You will only start receiving SMS notifications about you have submitted the above request and updated your mobile number with <a class="hyperlink" href="https://www.singpass.gov.sg/">Singpass</a>.<br><br></details>
 
 
 <style>
