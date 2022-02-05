@@ -23,6 +23,48 @@ The WSP will be given to eligible Singaporeans in the same way as their WIS paym
 WIS recipients who did not provide their bank account details previously are encouraged to do so to receive their payments earlier. They can do so at <a class="hyperlink" href="https://workfare.gov.sg/">workfare.gov.sg</a> (using Singpass).<br><br>
 If the update of payment request is submitted after the 14th of the month, it will be effective in the following month. 
 <br><br></details>
+<details><summary><font color="#000" size="+1"><b>Q3. Why are there differences in the eligibility cut-off dates between Workfare Special Payment and Workfare Income Supplement?</b></font></summary>
+To receive Workfare Income Supplement (WIS) for work done in Work Year (WY) 2019 and WY 2020, you must qualify for WIS by 31 December 2021 and 31 December 2022 respectively.<br><br>
+The Workfare Special Payment (WSP) is intended to be a one-off payment to Singaporean lower-wage workers to provide additional help in 2020, given the extraordinary economic uncertainty.<br><br>
+For both WY2019 WIS and WY2020 WIS recipients, the WSP eligibility cut-off dates are set such that they are at least one year after the relevant Work Years.<ul>
+<li style="font-size:15.5px">Before 31 March 2021, for work done in 2019; or</li>
+<li style="font-size:15.5px">Before 31 December 2021, for work done in 2020.</li></ul>
+This provides sufficient time for SEPs to declare their income and contribute to MediSave accordingly to qualify for WIS for the relevant Work Year, and hence WSP.<br><br>
+For WY2019 WIS recipients, as the announcement of the WSP was after WY2019 (i.e. in March 2020), we have given slightly more time (one year after the announcement of the WSP at the Resilience Budget) for applicants to complete the required process to qualify for WY2019 WIS. It will also facilitate a more timely and efficient payment of WSP.<br><br>
+For Employees<br><br>
+<ul>
+<li style="font-size:15.5px">You are unlikely to be affected by the eligibility cut-off date because your WIS eligibility will be automatically assessed based on the CPF contributions made by your employer.</li>
+<li style="font-size:15.5px">Under the CPF Act, employers must contribute CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis.<br><br>
+If your employee is not contributing CPF on your behalf, you can lodge a report on non/underpayment of CPF contributions <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Services/MyRequest/MyRequestLanding">online</a>. Please log in to my CPF Online Services with your Singpass, then select My Requests > Other CPF Matters > Report on non-payment or underpayment of CPF contributions.</li></ul>
+Alternatively, you can also lodge a report by calling the WorkRight Hotline at 1800-221-9922 or emailing to <a class="hyperlink" href="workright@mom.gov.sg">workright@mom.gov.sg</a>. All calls will be kept confidential.<br><br></details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <style>
 details>summary {
