@@ -592,10 +592,12 @@ The estate cheque will form part of the deceased member's estate. Depending on t
 You can retrieve a <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/wisnotices/index">copy of your notification letters</a> by logging in to eService at Workfare Portal with your Singpass.<br><br></details>
 <details><summary><font color="#009427"><b>Q9. Why is the government sending SMS notifications instead of hardcopy letters?</b></font></summary>
 Moving to SMS notifications is part of the Government's efforts to provide timelier and more responsive services to the public. It also allows us to be more environmentally friendly. With SMS notifications, you can quickly and easily receive details of your Workfare payouts, including the mode of payment and payment date, instead of having to wait for hardcopy letters.<br><br>
-If you are on hardcopy notification and would like to switch to SMS notification, you may update your Singpass-registered mobile number at "View/Update My Notification Mode".<br><br></details>
-
-
-
+If you are on hardcopy notification and would like to switch to SMS notification, you may update your Singpass-registered mobile number at <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/people/notificationmode">"View/Update My Notification Mode"</a>.<br><br></details>
+<details><summary><font color="#009427"><b>Q10. Why does it take longer for Workfare cheque payments to be processed?</b></font></summary>
+Payments by cheque will take 2 weeks longer than direct crediting to a bank account. More processing time is required as there are more steps required including the preparation and mailing of the cheques.<br><br>
+Compared to cheque payments, electronic payments make transactions simple, swift, and safe for recipients. We strongly encourage you to <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/paymentinstructions/edit">update</a>* your bank account to receive your future Workfare payouts earlier.<br><br>
+* For bank account details submitted after 14th of the month, it will take effect in the following month.<br><br></details>
+<details><summary><font color="#009427"><b>Q11. How can I receive SMS notifications for Workfare Income Supplement scheme?</b></font></summary>
 
 
 
