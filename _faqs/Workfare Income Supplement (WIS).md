@@ -626,10 +626,37 @@ To do so, simply visit <a class="hyperlink" href="https://www.workfare.gov.sg/Ap
 <details><summary><font color="#009427"><b>Q20. Why can withdrawals be made only in $10 denominations and what can I do with my balance GovCash?</b></font></summary>
 Currently, the minimum withdrawal amount at the ATMs is $10. Hence, GovCash withdrawals can also be made in $10 denominations. If the balance in your GovCash is less than $10, you can accumulate your balance monies before your next withdrawal.<br><br>
 Alternatively, you can also transfer the balance to your PayNow NRIC-linked bank account or utilise them to make payments at any merchants or transfer to your friends by scanning the PayNow QR code using the LifeSG app. You may refer to the <a class="hyperlink" href="https://www.workfare.gov.sg/Documents/Leaflet_GovCash.pdf">step-by-step guide</a> for detailed instructions.<br><br></details>
-
-
-
-
+<details><summary><font color="#009427"><b>Q21. Would I need to login to Singpass each time I open the LifeSG app to access my GovCash?</b></font></summary>
+No, you are only required to log in using SingPass when you first use the LifeSG application. Subsequent use of the LifeSG app do not require SingPass logins again, unless you have not used LifeSG app for more than a year or deleted the application and re-downloaded it.<br><br></details>
+<details><summary><font color="#009427"><b>Q22. If my GovCash balance is insufficient to make payments at the merchants, can I top-up using my own funds?</b></font></summary>
+Topping up your GovCash balance in the LifeSG app is not available. For purchases of amounts above your GovCash balance, please pay the difference using other payment modes that the merchants accept (e.g. cash, debit/credit cards).<br><br></details>
+<details><summary><font color="#009427"><b>Q23. Can I use my GovCash balance to make purchases on e-commerce platforms like Shopee or Lazada?</b></font></summary>
+You may choose to top-up your e-commerce wallets like ShopeePay or Lazada Wallet using GovCash via the PayNow option. Thereafter, you can pay for your items by selecting the e-commerce wallet as your payment mode.<br><br>
+Step 1: Go to wallet of e-commerce platforms (e.g. ShopeePay or Lazada Wallet).<br>
+Step 2: Select Top Up.<br>
+Step 3: Select and confirm PayNow as the top up option.<br>
+Step 4: Save or screenshot the PayNow QR code<br>
+Step 5: Access your GovCash Wallet on LifeSG app and scan the saved copy of PayNow QR code on the e-commerce platform.<br>
+Step 6: Enter and confirm amount of credits to top-up to the wallet of e-commerce platforms (e.g. ShopeePay or Lazada Wallet).<br><br>
+You can now select the wallet of e-commerce platforms (e.g. ShopeePay or Lazada Wallet) as your payment mode to pay for your purchases online.<br><br></details>
+<details><summary><font color="#009427"><b>Q24. How do I know if the SGQR displayed by merchants includes PayNow QR so that I can make purchases using my GovCash balance?</b></font></summary>
+Look out for the PayNow logo on the SG QR label. You can only make purchases at merchants that accept PayNow QR code via LifeSG app.<br><br></details>
+<details><summary><font color="#009427"><b>Q25. Can I cancel my payment after I have confirmed the payment on the LifeSG app?</b></font></summary>
+No, your GovCash balance will be deducted upon successful payment.<br><br></details>
+<details><summary><font color="#009427"><b>Q26. How do I get a Singpass account?</b></font></summary>
+To obtain a Singpass, you can either:
+<ol>
+<li style="font-size:15.5px">Visit <a class="hyperlink" href="http://www.singpass.gov.sg/">Singpass</a> website to apply for your Singpass online or</li>
+	<li style="font-size:15.5px">Visit any of the <a class="hyperlink" href="https://www.singpass.gov.sg/singpass/common/counter">Singpass counters located islandwide</a> in-person.</li></ol>
+</details>
+<details><summary><font color="#009427"><b>Q27. How do I change or reset my Singpass password online?</b></font></summary>
+To change or reset your Singpass password, please complete the following steps:<br>
+<ol>
+<li style="font-size:15.5px">Visit <a class="hyperlink" href="http://www.singpass.gov.sg/">Singpass</a> website</li>
+<li style="font-size:15.5px">Select 'Log in'</li>
+<li style="font-size:15.5px">Select 'Reset password' (under the 'Services' tab)</li>
+<li style="font-size:15.5px"> Follow the instructions on the website to complete the changing or resetting of Singpass password</li></ol>
+If you require further assistance, please contact the Singpass Helpdesk at <a class="hyperlink" href="support@singpass.gov.sg">support@singpass.gov.sg</a> or +65 6335 3533. The operating hours are from 8am to 8pm (Mondays to Fridays) and from 8am to 2pm (Saturdays) excluding Sundays and public holidays.<br><br></details>
 
 
 
