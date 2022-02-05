@@ -37,6 +37,39 @@ For Employees<br><br>
 <li style="font-size:15.5px">Under the CPF Act, employers must contribute CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis.<br><br>
 If your employee is not contributing CPF on your behalf, you can lodge a report on non/underpayment of CPF contributions <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Services/MyRequest/MyRequestLanding">online</a>. Please log in to my CPF Online Services with your Singpass, then select My Requests > Other CPF Matters > Report on non-payment or underpayment of CPF contributions.</li></ul>
 Alternatively, you can also lodge a report by calling the WorkRight Hotline at 1800-221-9922 or emailing to <a class="hyperlink" href="workright@mom.gov.sg">workright@mom.gov.sg</a>. All calls will be kept confidential.<br><br></details>
+<details><summary><font color="#000" size="+1"><b>Q4. I have other queries on the Workfare Special Payment (WSP). Who can I ask?</b></font></summary>
+You may visit the Workfare website (<a class="hyperlink" href="https://www.workfare.gov.sg/">www.workfare.gov.sg</a>) for more information on the Workfare scheme.<br><br>
+For enquires on the Workfare Special Payment (WSP), you may email us at <a class="hyperlink" href="workfare@govtopup.gov.sg">workfare@govtopup.gov.sg</a>.<br><br></details>
+<details><summary><font color="#000" size="+1"><b>Q5. How do I qualify for Workfare Special Payment as a Self-Employed Person?</b></font></summary>
+To receive the Workfare Special Payment (WSP) as a Self-Employed Person, you must first qualify for the Workfare Income Supplement (WIS) by the following deadlines:
+<ul>
+<li style="font-size:15.5px">Before 31 March 2021, for work done in 2019; or</li>
+<li style="font-size:15.5px">Before 31 December 2021, for work done in 2020.</li></ul>
+To qualify for WIS, you need to declare your income, and make the required MediSave contributions. Use our online WIS calculator to find out the amount you need to contribute to your MediSave Account.<br><br>
+If you meet the eligibility criteria, you will receive your WIS and WSP payouts at the end of the month following your qualification.<br><br>
+<u>For Work Year (WY) 2019 WIS recipients who did not receive the first WSP payout in July 2020</u><br><br>
+You should have received the first WSP of $1,500 in the same month as your WY2019 WIS payout and the second WSP of $1,500 in October 2020.<br><br>
+If you only receive your WY2019 WIS payout in/after October 2020, you will receive the full WSP of $3,000 in the same month as your WY2019 WIS payout. <br><br>
+<u>For WY2020 WIS recipients</u><br><br>
+You should have received the WSP payout of $3,000 in October 2020. If you only receive your WY2020 WIS payouts after October 2020, you will receive your WSP payout of $3,000 in the same month as your WY2020 WIS payout.<br><br></details>
+<details><summary><font color="#000" size="+1"><b>Q6. Who is eligible for Workfare Special Payment?</b></font></summary>
+You will be eligible for the Workfare Special Payment (WSP) if you qualify for the Workfare Income Supplement (WIS)<sup>1</sup> for
+<ul>
+<li style="font-size:15.5px">Work Year (WY) 2019 before 31 March 2021; or</li>
+<li style="font-size:15.5px">Work Year (WY) 2020 before 31 December 2021 and were previously not eligible for WSP.</li></ul>
+Workers aged 35 and below with disabilities and are eligible for WIS will also be eligible for WSP.<br><br>
+	<sup>1</sup> Employees would be eligible for WSP if they receive WIS at least once for the work done in the Work Year i.e. 2019 or 2020, whichever is applicable.<br><br></details>
+<details><summary><font color="#000" size="+1"><b>Q7. Can I use another bank account other than the 3 local banks for the payment of my Workfare Special Payment?</b></font></summary>
+Currently, we only pay to POSB/DBS, OCBC, and UOB accounts.<br><br>
+If you do not have a bank account with either of the 3 local major banks, the Workfare Special Payment (as well as the Workfare Income Supplement payouts, GST Voucher, and other government payouts) will be paid to you via cheque.<br><br></details>
+
+
+
+
+
+
+
+
 
 
 
