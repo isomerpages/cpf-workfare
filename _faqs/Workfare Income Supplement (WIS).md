@@ -495,6 +495,95 @@ Using AV instead of housing type is a fairer way to determine property value as 
 <details><summary><font color="#009427"><b>Q3. What is the Annual Value of a property?</b></font></summary>
 Annual Value (AV) is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties. It can be found on the property tax bill you receive each year.<br><br>
 For more information on the computation of AV, please visit the <a class="hyperlink" href="https://www.iras.gov.sg/irashome/Property/Property-owners/Learning-the-basics/About-Annual-Value/">Inland Revenue Authority of Singapore (IRAS) website</a>.<br><br></details>
+<details><summary><font color="#009427"><b>Q4. How is the Annual Value (AV) requirement for Workfare Income Supplement (WIS) decided?</b></font></summary>
+The Annual Value (AV) threshold of $13,000 covers all HDB flats, as well as some smaller private residences. In general, Singaporeans staying in larger properties with AV above the cut-off tend to have greater access to household wealth, and therefore would not be eligible for the Workfare Income Supplement Scheme.<br><br></details>
+<details><summary><font color="#009427"><b>Q5. What address is used to determine the Annual Value in Workfare Income Supplement (WIS) assessment?</b></font></summary>
+The Annual Value will be based on the address reflected in your NRIC. Under the National Registration Act, you must report a change of address within 28 days of moving at any police station, or the Immigration & Checkpoints Authority (ICA).<br><br></details>
+<details><summary><font color="#009427"><b>Q6. I disagree with my Annual Value assessment. What do I need to do to receive Workfare Income Supplement (WIS)?</b></font></summary>
+You may approach the Inland Revenue Authority of Singapore (IRAS) for a re-assessment. If the Annual Value of your property is subsequently re-assessed and meets the housing criterion, you may then appeal for Workfare Income Supplement.<br><br></details>
+<details><summary><font color="#009427"><b>Q7. I am renting a room/whole unit in the property that I stay in. Am I eligible for Workfare Income supplement (WIS)?</b></font></summary>
+If you are renting the entire property unit, the annual value of that property unit will be used to assess your eligibility.<br><br>
+If you are renting only a room or some rooms in the property, please write to us with your tenancy agreement and particulars (name, NRIC, telephone number, address and the nature of your appeal) on the online enquiry page:
+<ol>
+	<li style="font-size:15.5px">Select "Workfare Income Supplement (WIS)" under Subject</li>
+	<li style="font-size:15.5px">Select "Appeal-WIS" under Category</li></ol>
+You can also write to us via <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Services/MyMailbox/MyMailboxLanding">My Mailbox</a> (Singpass required) and skip the hassle of keying in your personal particulars.<br><br>
+We will review your Workfare Income Supplement eligibility after we have received your request and the supporting documents.<br><br></details>
+<details><summary><font color="#009427"><b>Q8. The Annual Value of my place of residence has been revised (e.g. moved house). What do I need to do to receive Workfare Income Supplement?</b></font></summary>
+We will review your case if you update your NRIC address within 28 days of your change of address. Please write to us with your particulars and supporting documents on the online enquiry page:
+<ol>
+	<li style="font-size:15.5px">Select "Workfare Income Supplement (WIS)" under Subject</li>
+	<li style="font-size:15.5px">Select "Appeal-WIS" under Category</li></ol>
+You can also write to us via <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Services/MyMailbox/MyMailboxLanding">My Mailbox</a> (Singpass required) and skip the hassle of keying in your personal particulars.<br><br>
+We will review your Workfare Income Supplement eligibility after we have received your request and the supporting documents.<br><br></details>
+<details><summary><font color="#009427"><b>Q9. What constitutes a second property for Workfare Income Supplement Scheme?</b></font></summary>
+All types of properties e.g. Housing & Development Board flat, private property and non-residential property, are taken into account in determining the eligibility for Workfare Income Supplement Scheme.<br><br></details>
+</details>
+<details><summary style="border: 1px solid #4F4F4F;
+	background: #4F4F4F;"><font size="+1.5" color="#FFF"><b>Eligibility Criteria - Spousal</b></font></summary>
+<details><summary><font color="#009427"><b>Q1. Why is my spouse's income and property ownership used to determine my eligibility for Workfare Income Supplement (WIS)?</b></font></summary>
+To ensure that Workfare Income Supplement (WIS) is targeted at recipients with limited access to household wealth, you will not qualify for WIS if :
+<ul>
+	<li style="font-size:15.5px">the assessable income of your spouse for the preceding Year of Assessment exceeds $70,000; or</li>
+	<li style="font-size:15.5px">you and your spouse together own two or more properties.</li></ul></details>
+<details><summary><font color="#009427"><b>Q2. Why is my spouse's Assessable Income for the preceding Year of Assessment used to determine my Workfare Income Supplement (WIS) eligibility for the current work year?</b></font></summary>
+This is to allow potential Workfare Income Supplement (WIS) recipients to receive WIS earlier despite the time needed by the Inland Revenue Authority of Singapore (IRAS) for the processing and transmission of Assessable Income (AI) to the CPF Board.<br><br>
+The AI for the previous Year of Assessment (YOA) is used to assess one's WIS eligibility for the current year. E.g. we will use your spouse's AI for YOA 2017 to assess your eligibility for 2018 WIS.<br><br></details>
+</details>
+<details><summary style="border: 1px solid #4F4F4F;
+	background: #4F4F4F;"><font size="+1.5" color="#FFF"><b>Payment and Notification</b></font></summary>
+<details><summary><font color="#009427"><b>Q1. Why does the majority of the Workfare Income Supplement (WIS) payment take the form of CPF top-ups?
+</b></font></summary>
+Other than providing a cash supplement to help lower wage workers cope with their daily needs, it is also important to help them build up their CPF savings for their healthcare and retirement needs.<br><br></details>
+<details><summary><font color="#009427"><b>Q2. I have reached my Basic Healthcare Sum. What happens to the portion of the Workfare Income Supplement payment going into the MediSave Account?</b></font></summary>
+Any MediSave contributions above the Basic Healthcare Sum (BHS) will be transferred to your CPF Special Account (SA) or Retirement Account (RA), which have interest rates equal or higher than that of the MediSave Account. The BHS cap and overflow arrangement are intentionally planned to avoid over saving in the MediSave Account and to supplement your retirement savings.<br><br>
+These overflows which end up in your SA or RA can be withdrawn according to the usual withdrawal guidelines. For members who have met the Full Retirement Sum in their SA or RA, the savings in excess of the BHS will be transferred to the Ordinary Account (OA). Savings in the OA can be used for other purposes such as housing repayment.<br><br></details>
+<details><summary><font color="#009427"><b>Q3. How can I update my bank account for Workfare Income Supplement?</b></font></summary>
+You may <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/paymentinstructions/edit">update</a> your bank account details for Workfare Income Supplement (WIS) with your Singpass.<br><br>
+For bank account details that are submitted after 14th of the month, it will take effect in the following month.<br><br></details>
+<details><summary><font color="#009427"><b>Q4. How will I receive the Workfare Income Supplement payment?</b></font></summary>
+The cash portion of Workfare Income Supplement (WIS) will be credited to your bank account that was registered to receive Government payouts (e.g. either the GST-Voucher (GSTV), Silver Support Scheme (SSS) or WIS, whichever is latest) or sent to you via cheque if you do not have a bank account. Compared to cheque payments, electronic payments make transactions simple, swift, and safe for recipients. We strongly encourage you to update* your bank account to receive your future Workfare payouts earlier.<br><br>
+* bank account details submitted after 14th of the month will be effective in the following month.<br><br>
+You will be notified of your payment details via letters and/or SMS messages before the payment dates. You can <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/wisnotices/index">retrieve a copy of your notification letters</a> by logging in to e-Services at Workfare Portal with your Singpass. To receive earlier notifications, you may update your Singpass-registered mobile number to receive the payment details via SMS messages at <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/people/notificationmode">"View/Update My Notification Mode"</a>. <br><br></details>
+<details><summary><font color="#009427"><b>Q5. I have misplaced/damaged my Workfare cheque. How can I replace it?</b></font></summary>
+If you have misplaced/damaged your Workfare cheque, you can request for a cheque replacement if it is still valid (i.e. not expired*). Please proceed to any of the 5 designated OCBC branches listed below to request the cheque personally:<br><br>
+<table>
+<thead>
+  <tr>
+		<th colspan="3"><b>OCBC BANK BRANCHES FOR REPLACEMENT OF WORKFARE CHEQUES</b></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1<br></td>
+		<td><b>Bishan Branch</b><br>9 Bishan Place, #02-08/09<br>Junction 8 Shopping Centre<br>Singapore 579837<br></td>
+    <td>Mon-Fri: 11.00am to 7.00pm<br>Sat: 11.00am to 1:30pm<br>Sun &amp; Public Holiday: Closed<br></td>
+  </tr>
+  <tr>
+    <td>2<br></td>
+		<td><b>Jurong East Branch (JEM)</b><br>50 Jurong Gateway Road #B1-18<br>Jem<br>Singapore 608549<br></td>
+    <td>Mon-Sun: 11.00am to 7.00pm<br>Public Holidays: Closed<br></td>
+  </tr>
+  <tr>
+    <td>3<br></td>
+		<td><b>OCBC Centre Branch</b><br>65 Chulia St #01-00<br>OCBC Centre<br>Singapore 049513<br></td>
+    <td>Mon-Fri: 9.00am to 4.30pm<br>Sat: 9.00am to 11.30am<br>Sun &amp; Public Holiday: Closed<br></td>
+  </tr>
+  <tr>
+    <td>4<br></td>
+		<td><b>OCBC Tampines CPF Building Branch</b><br>1 Tampines Central 5<br>#01-02 CPF Tampines Building<br>Sinapore 529508<br></td>
+    <td>Mon-Fri: 11.00am to 7.00pm<br>Sat: 11.00am to 1.30pm<br>Sun &amp; Public Holiday: Closed<br></td>
+  </tr>
+  <tr>
+    <td>5<br></td>
+		<td><b>United Square Branch</b><br>101 Thomson Rd<br>#02-26 to 29 United Square<br>Singpore 307951<br></td>
+    <td>Mon-Fri: 11.00am to 7.00pm<br>Sat: 11.00am to 1.30pm<br>Sun &amp; Public Holiday: Closed</td>
+  </tr>
+</tbody>
+</table>
+For successful cheque replacement request, you can collect your new cheque from the designated bank branch on the collection date determined by the bank officer. The service standard for the bank to replace misplaced/damaged cheque is 17 calendar days.<br><br>
+* Note: Each Workfare cheque is valid for 6 months from date of issuance (expiry date is printed on the cheque). Upon expiry, the monies will be automatically credited to the beneficiary's CPF Ordinary Account.<br><br></details>
+
 
 <style>
 details>summary {
