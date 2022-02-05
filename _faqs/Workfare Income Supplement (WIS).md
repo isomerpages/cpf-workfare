@@ -602,8 +602,8 @@ Please log in to the Workfare Portal (Singpass required) and select <a class="hy
 To receive SMS notifications, you must have a Singpass 2FA mobile number. You will only start receiving SMS notifications about you have submitted the above request and updated your mobile number with <a class="hyperlink" href="https://www.singpass.gov.sg/">Singpass</a>.<br><br></details>
 <details><summary><font color="#009427"><b>Q12. I have closed my bank account for receiving Workfare Income Supplement payments. How can I receive the payments?</b></font></summary>
 If you have closed your bank account, you will receive your Workfare Income Supplement (WIS) cash payments by cheque to your registered NRIC address. Payments by cheque takes up to 2 weeks longer compared to bank crediting.<br><br></details>
-
-
+<details><summary><font color="#009427"><b>Q13. How much is my Workfare Income Supplement/ Workfare Special Payment payout?</b></font></summary>
+To check the Workfare payouts you have received, log in to the Workfare Portal with your Singpass and look under <a class="hyperlink" href="https://www.workfare.gov.sg/app/Payments/Transactions">“Check My Workfare Transactions”</a>.
 
 
 
