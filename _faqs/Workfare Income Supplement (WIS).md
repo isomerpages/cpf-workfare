@@ -592,7 +592,7 @@ The estate cheque will form part of the deceased member's estate. Depending on t
 You can retrieve a <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/wisnotices/index">copy of your notification letters</a> by logging in to eService at Workfare Portal with your Singpass.<br><br></details>
 <details><summary><font color="#009427"><b>Q9. Why is the government sending SMS notifications instead of hardcopy letters?</b></font></summary>
 Moving to SMS notifications is part of the Government's efforts to provide timelier and more responsive services to the public. It also allows us to be more environmentally friendly. With SMS notifications, you can quickly and easily receive details of your Workfare payouts, including the mode of payment and payment date, instead of having to wait for hardcopy letters.<br><br>
-If you are on hardcopy notification and would like to switch to SMS notification, you may update your Singpass-registered mobile number at "View/Update My Notification Mode.<br><br></details>
+If you are on hardcopy notification and would like to switch to SMS notification, you may update your Singpass-registered mobile number at "View/Update My Notification Mode".<br><br></details>
 
 
 
