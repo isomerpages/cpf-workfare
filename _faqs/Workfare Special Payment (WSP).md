@@ -82,6 +82,8 @@ Households that need more help in the interim can approach a Social Service Offi
 <details><summary><font color="#000" size="+1"><b>Q13. My current GIRO instalment plan to pay my MediSave liabilities only ends after the cut-off date to receive Workfare Special Payment, what should I do?</b></font></summary>
 To receive the Workfare Special Payment, please ensure that your GIRO instalment plan can fulfil your MediSave liabilities by 31 March 2021 (for WY2019 Workfare Income Supplement (WIS) recipients) / 31 December 2021 (for WY2020 WIS recipients).<br><br>
 You may view the details of your GIRO instalment plan by logging in to My Self- Employed Home using your <a class="hyperlink" href="http://www.singpass.gov.sg/">Singpass</a>. You can apply for your Singpass online if you do not have one.<br><br></details>
+<details><summary><font color="#000" size="+1"><b>Q14. How can I find out if I am eligible for Workfare Special Payment (WSP)?</b></font></summary>
+You can check if you are eligible for Workfare Special Payment (WSP) by logging in with your SingPass at <a class="hyperlink" href="https://www.workfare.gov.sg/">www.workfare.gov.sg</a>. Your eligibility will be reflected in the "My Workfare Statement" page. For enquiries on the WSP, you may email us at workfare@govtopup.gov.sg or call us at 1800 222 2888.<br><br></details>
 
 
 
