@@ -583,6 +583,11 @@ If you have misplaced/damaged your Workfare cheque, you can request for a cheque
 </table>
 For successful cheque replacement request, you can collect your new cheque from the designated bank branch on the collection date determined by the bank officer. The service standard for the bank to replace misplaced/damaged cheque is 17 calendar days.<br><br>
 * Note: Each Workfare cheque is valid for 6 months from date of issuance (expiry date is printed on the cheque). Upon expiry, the monies will be automatically credited to the beneficiary's CPF Ordinary Account.<br><br></details>
+<details><summary><font color="#009427"><b>Q6. What happens to a Workfare cheque that has expired?</b></font></summary>
+Workfare cheques are valid for six months. If the cheques are not encashed or replaced within six months, the monies will automatically be credited to the recipients' CPF Ordinary Account two months after the cheque expiry date.<br><br>
+Compared to cheque payments, electronic payments make transactions simple, swift, and safe for recipients. We strongly encourage you to <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/paymentinstructions/edit">update</a> your bank account to receive your future Workfare payouts earlier.<br><br></details>
+
+
 
 
 <style>
