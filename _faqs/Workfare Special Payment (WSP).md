@@ -76,10 +76,12 @@ Each eligible individual can only receive the $3,000 WSP once.<br><br></details>
 The Workfare Income Supplement (WIS) scheme supplements the income and CPF savings of lower-wage Singaporeans when they work, to encourage them to enter and remain in the workforce.<br><br>
 As recipients of Workfare Special Payment (WSP) must first be eligible for WIS, you will not be eligible for WSP if you are unemployed.<br><br>
 If you require assistance in looking for a job, or are seeking information on training and skills upgrading, please approach any of the Distributed CareerLink Networks run by the Community Development Councils (CDCs). Alternatively, you can call Workforce Singapore (WSG) hotline at 6883 5885.<br><br></details>
-
-
-
-
+<details><summary><font color="#000" size="+1"><b>Q12. Why am I not able to receive my Workfare Special Payment payouts earlier?</b></font></summary>
+Time is needed to plan for and implement smooth and accurate disbursements. This includes confirming the eligibility of the recipients of the Workfare Special Payment (WSP) payout, and testing of systems.<br><br>
+Households that need more help in the interim can approach a Social Service Office for further information.<br><br></details>
+<details><summary><font color="#000" size="+1"><b>Q13. My current GIRO instalment plan to pay my MediSave liabilities only ends after the cut-off date to receive Workfare Special Payment, what should I do?</b></font></summary>
+To receive the Workfare Special Payment, please ensure that your GIRO instalment plan can fulfil your MediSave liabilities by 31 March 2021 (for WY2019 Workfare Income Supplement (WIS) recipients) / 31 December 2021 (for WY2020 WIS recipients).<br><br>
+You may view the details of your GIRO instalment plan by logging in to My Self- Employed Home using your <a class="hyperlink" href="http://www.singpass.gov.sg/">Singpass</a>. You can apply for your Singpass online if you do not have one.<br><br></details>
 
 
 
