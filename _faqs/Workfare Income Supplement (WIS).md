@@ -613,6 +613,20 @@ You can also transfer your payouts to your PayNow NRIC-linked bank account or ut
 You may refer to the <a class="hyperlink" href="https://www.workfare.gov.sg/Documents/Leaflet_GovCash.pdf">step-by-step guide</a> for detailed instructions on the ways you can utilise your GovCash payouts.<br><br></details>
 <details><summary><font color="#009427"><b>Q16. Where can I obtain my Payment Reference Number (PRN)?</b></font></summary>
 Your PRN can be found in your Workfare notification from the Board. Alternatively, visit <a class="hyperlink" href="https://www.workfare.gov.sg/">workfare.gov.sg</a>, login with your Singpass and select "View my Payment Reference Number (PRN)".<br><br></details>
+<details><summary><font color="#009427"><b>Q17. How do I check my GovCash balance?</b></font></summary>
+To check your GovCash balance, please visit any of the <a class="hyperlink" href="https://www.workfare.gov.sg/Documents/List_of_OCBC_with_GovCash_Functions.pdf">listed OCBC ATMs with GovCash functions</a> with your 8-digit Payment Reference Number* (PRN). Upon successful authentication, you will be able to view your GovCash balance.<br><br>
+More OCBC ATMs with GovCash functions will be introduced in future.<br><br>
+Alternatively, you may login to the LifeSG app using your Singpass to view your GovCash balance and transaction history. You may refer to the <a class="hyperlink" href="https://www.workfare.gov.sg/Documents/Leaflet_GovCash.pdf">step-by-step guide</a> for detailed instructions.<br><br>
+*Your PRN can be found in your Workfare notification from the CPF Board, and at the Workfare Portal (Singpass login is required).<br><br></details>
+<details><summary><font color="#009427"><b>Q18. What should I do if my facial recognition at the ATM with GovCash functions is unsuccessful?</b></font></summary>
+Should the ATM be unable to verify your identity via Singpass Face Verification, please try again or request for assistance from OCBC's Digital Ambassadors.<br><br></details>
+<details><summary><font color="#009427"><b>Q19. What should I do if I do not want to receive my payouts via GovCash?</b></font></summary>
+You can choose to receive your payouts via Direct Bank Crediting.<br><br>
+To do so, simply visit <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/paymentinstructions/edit">here</a>, login with your Singpass, select "View / Update Payment Mode" and tell us your POSB/DBS, OCBC or UOB bank account details.<br><br></details>
+<details><summary><font color="#009427"><b>Q20. Why can withdrawals be made only in $10 denominations and what can I do with my balance GovCash?</b></font></summary>
+Currently, the minimum withdrawal amount at the ATMs is $10. Hence, GovCash withdrawals can also be made in $10 denominations. If the balance in your GovCash is less than $10, you can accumulate your balance monies before your next withdrawal.<br><br>
+Alternatively, you can also transfer the balance to your PayNow NRIC-linked bank account or utilise them to make payments at any merchants or transfer to your friends by scanning the PayNow QR code using the LifeSG app. You may refer to the <a class="hyperlink" href="https://www.workfare.gov.sg/Documents/Leaflet_GovCash.pdf">step-by-step guide</a> for detailed instructions.<br><br></details>
+
 
 
 
