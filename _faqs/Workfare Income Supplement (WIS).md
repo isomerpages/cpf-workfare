@@ -603,7 +603,19 @@ To receive SMS notifications, you must have a Singpass 2FA mobile number. You wi
 <details><summary><font color="#009427"><b>Q12. I have closed my bank account for receiving Workfare Income Supplement payments. How can I receive the payments?</b></font></summary>
 If you have closed your bank account, you will receive your Workfare Income Supplement (WIS) cash payments by cheque to your registered NRIC address. Payments by cheque takes up to 2 weeks longer compared to bank crediting.<br><br></details>
 <details><summary><font color="#009427"><b>Q13. How much is my Workfare Income Supplement/ Workfare Special Payment payout?</b></font></summary>
-To check the Workfare payouts you have received, log in to the Workfare Portal with your Singpass and look under <a class="hyperlink" href="https://www.workfare.gov.sg/app/Payments/Transactions">“Check My Workfare Transactions”</a>.
+To check the Workfare payouts you have received, log in to the Workfare Portal with your Singpass and look under <a class="hyperlink" href="https://www.workfare.gov.sg/app/Payments/Transactions">“Check My Workfare Transactions”</a>.</details>
+<details><summary><font color="#009427"><b>Q14. What is GovCash?</b></font></summary>
+GovCash is a new and more convenient way for citizens to receive their payouts from Government agencies.<br><br>
+The Board will progressively replace cheques with GovCash from November 2021.<br><br></details>
+<details><summary><font color="#009427"><b>Q15. How can I utilise my GovCash?</b></font></summary>
+You can withdraw your payouts in cash at the listed OCBC ATMs with GovCash functions with your 8-digit Payment Reference Number (PRN), which will be sent to you by SMS or by post. You do not need to have a OCBC bank account to use this service.<br><br>
+You can also transfer your payouts to your PayNow NRIC-linked bank account or utilise them to make payments at any merchants or transfer to your friends by scanning their PayNow QR code using the LifeSG app. You can download the LifeSG app from the Apple App Store or Google Play Store.<br><br>
+You may refer to the <a class="hyperlink" href="https://www.workfare.gov.sg/Documents/Leaflet_GovCash.pdf">step-by-step guide</a> for detailed instructions on the ways you can utilise your GovCash payouts.<br><br></details>
+<details><summary><font color="#009427"><b>Q16. Where can I obtain my Payment Reference Number (PRN)?</b></font></summary>
+Your PRN can be found in your Workfare notification from the Board. Alternatively, visit <a class="hyperlink" href="https://www.workfare.gov.sg/">workfare.gov.sg</a>, login with your Singpass and select "View my Payment Reference Number (PRN)".<br><br></details>
+
+
+
 
 
 
