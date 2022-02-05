@@ -483,11 +483,19 @@ To receive Workfare Income Supplement (WIS) for work done in any month, employee
 Gross monthly income includes salary (before deduction of CPF contribution), bonuses, allowances and overtime pay received during the work period.<br><br>
 Other than gross monthly income, you must also earn an average gross monthly income of not more than $2,300 (or $2,000 for Work Year 2019) in the past 12 months.<br><br>
 The average gross monthly income is defined as:<br><br>
-Sum of income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br><br></details>
+Sum of income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br><br></details></details>
 <details><summary style="border: 1px solid #4F4F4F;
 	background: #4F4F4F;"><font size="+1.5" color="#FFF"><b>Eligibility Criteria - Housing</b></font></summary>
-<details><summary><font color="#009427"><b>Q1. To qualify for Workfare Income Supplement, what is considered income?</b></font></summary>
-	
+<details><summary><font color="#009427"><b>Q1. Do residents in welfare homes qualify for Workfare Income Supplement (WIS)?</b></font></summary>
+Residents in welfare homes registered with the National Council of Social Service/ Ministry of Health/ Ministry of Social and Family Development will qualify for Workfare Income Supplement (WIS) if they meet all of the other WIS eligibility criteria.<br><br></details>
+<details><summary><font color="#009427"><b>Q2. Why is the Annual Value of my place of residence used to assess my eligibility for Workfare Income Supplement?</b></font></summary>
+The Annual Value (AV) serves as a housing criterion that targets lower-wage workers from lower income households.<br><br>
+Using AV instead of housing type is a fairer way to determine property value as some applicants may be staying in smaller and less expensive private properties with an AV similar to a larger Housing & Development Board flat.<br><br>
+</details>
+<details><summary><font color="#009427"><b>Q3. What is the Annual Value of a property?</b></font></summary>
+Annual Value (AV) is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties. It can be found on the property tax bill you receive each year.<br><br>
+For more information on the computation of AV, please visit the <a class="hyperlink" href="https://www.iras.gov.sg/irashome/Property/Property-owners/Learning-the-basics/About-Annual-Value/">Inland Revenue Authority of Singapore (IRAS) website</a>.<br><br></details>
+
 <style>
 details>summary {
   list-style-type: none;
