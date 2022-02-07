@@ -26,5 +26,9 @@ links:
     sublinks:
       - title: Speeches
         url: /Newsroom/Speeches/2020
-      - title: Submenu Title
+      - title: Press Release
+        url: /permalink
+      - title: Media Articles
+        url: /permalink
+      - title: Videos
         url: /permalink
