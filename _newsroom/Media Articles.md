@@ -5,6 +5,8 @@ date: 2022-01-25
 layout: post
 description: ""
 ---
+<img align="left" src="/images/icons/ico_media_articles.png" class="PressReleaseIcon">
+
 April 2020
 
 7 April 2020
