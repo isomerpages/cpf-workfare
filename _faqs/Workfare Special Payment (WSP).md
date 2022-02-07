@@ -87,8 +87,51 @@ You can check if you are eligible for Workfare Special Payment (WSP) by logging 
 <details><summary><font color="#000" size="+1"><b>Q15. When can Self-Employed Persons who are on GIRO instalments receive the Workfare Special Payment?</b></font></summary>
 Self-Employed Persons (SEPs) who are on GIRO instalments need to pay their MediSave contributions for Work Year 2019 by 31 March 2021, to receive the Workfare Special Payment.
 <br><br></details>
-
-
+<details><summary><font color="#000" size="+1"><b>Q16. What is the amount of Workfare Special Payment payouts?</b></font></summary>
+Eligible recipients would have received a total of $3,000 Workfare Special Payment (WSP), based on the following schedule:<br><br>
+<table>
+<thead>
+  <tr>
+		<th><b>Eligible Recipients</b></th>
+		<th><b>Disbursement Timeline</b></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Singaporeans who received Workfare Income Supplement (WIS) for WY2019</td>
+    <td>Eligible to receive a $3,000 WSP, which was paid over two equal payments of $1,500 each in July and October 2020*</td>
+  </tr>
+  <tr>
+    <td>Singaporeans who received WIS for WY2020, but not WY2019</td>
+    <td>Eligible to receive a $3,000 WSP, which was paid in full in October 2020^</td>
+  </tr>
+</tbody>
+</table>
+Notes:
+* Singaporeans who qualify for WY2019 WIS after July 2020 but before 31 March 2021 will receive the WSP in the month that they become eligible for WY2019 WIS.<br>
+^ Singaporeans who qualify for WY2020 WIS after October 2020 but before 31 December 2021 will receive the WSP in the month that they become eligible for WY2020 WIS.<br><br>
+To check the WSP you have received, log in to the <a class="hyperlink" href="https://www.workfare.gov.sg/">Workfare Portal</a> with your Singpass and look under "My Workfare Transactions". 
+<br><br></details>
+<details><summary><font color="#000" size="+1"><b>Q17. How will I be notified of my Workfare Special Payment payouts?</b></font></summary>
+<table>
+<thead>
+  <tr>
+		<th><b>Workfare Special Payment (WSP) Tranche</b></th>
+		<th><b>Notification mode</b></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>July 2020<br></td>
+    <td>· Those who have registered their mobile numbers with Singpass would have received SMS notifications on 24 July, informing them of their WSP details.<br>· Others would have received letters by the following week.</td>
+  </tr>
+  <tr>
+    <td>October 2020</td>
+    <td>· Those who have registered their mobile numbers with Singpass would have received SMS notifications on 26 October, informing them of their WSP details.<br>· Others would have received letters by the same week.</td>
+  </tr>
+</tbody>
+</table>
+<br><br></details>
 
 
 
