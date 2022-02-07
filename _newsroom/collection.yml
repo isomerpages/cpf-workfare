@@ -2,6 +2,7 @@ collections:
   newsroom:
     output: true
     order:
+      - Media Articles/2019.md
       - Media Articles/2020.md
       - Media Articles/.keep
       - Press Release/2019.md
