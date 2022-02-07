@@ -218,8 +218,45 @@ Q28. What should I do if I do not want to receive my payouts via GovCash?</b></f
 You can choose to receive your payouts via Direct Bank Crediting.<br><br>
 To do so, simply visit <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/paymentinstructions/edit">here</a>, login with your Singpass, select "View / Update Payment Mode" and tell us your POSB/DBS, OCBC or UOB bank account details.
 <br><br></details>
-
-
+<details><summary><font color="#000" size="+1"><b>
+Q29. Why can withdrawals be made only in $10 denominations and what can I do with my balance GovCash?</b></font></summary>
+Currently, the minimum withdrawal amount at the ATMs is $10. Hence, GovCash withdrawals can also be made in $10 denominations. If the balance in your GovCash is less than $10, you can accumulate your balance monies before your next withdrawal.<br><br>
+Alternatively, you can also transfer the balance to your PayNow NRIC-linked bank account or utilise them to make payments at any merchants or transfer to your friends by scanning the PayNow QR code using the LifeSG app. You may refer to the <a class="hyperlink" href="https://www.workfare.gov.sg/Documents/Leaflet_GovCash.pdf">step-by-step guide</a> for detailed instructions.
+<br><br></details>
+<details><summary><font color="#000" size="+1"><b>
+Q30. Would I need to login to Singpass each time I open the LifeSG app to access my GovCash?</b></font></summary>
+No, you are only required to log in using SingPass when you first use the LifeSG application. Subsequent use of the LifeSG app do not require SingPass logins again, unless you have not used LifeSG app for more than a year or deleted the application and re-downloaded it.
+<br><br></details>
+<details><summary><font color="#000" size="+1"><b>
+Q31. If my GovCash balance is insufficient to make payments at the merchants, can I top-up using my own funds?</b></font></summary>
+Topping up your GovCash balance in the LifeSG app is not available. For purchases of amounts above your GovCash balance, please pay the difference using other payment modes that the merchants accept (e.g. cash, debit/credit cards).
+<br><br></details>
+<details><summary><font color="#000" size="+1"><b>
+Q32. Can I use my GovCash balance to make purchases on e-commerce platforms like Shopee or Lazada?</b></font></summary>
+You may choose to top-up your e-commerce wallets like ShopeePay or Lazada Wallet using GovCash via the PayNow option. Thereafter, you can pay for your items by selecting the e-commerce wallet as your payment mode.<br><br>
+Step 1: Go to wallet of e-commerce platforms (e.g. ShopeePay or Lazada Wallet).<br><br>
+Step 2: Select Top Up.<br><br>
+Step 3: Select and confirm PayNow as the top up option.<br><br>
+Step 4: Save or screenshot the PayNow QR code<br><br>
+Step 5: Access your GovCash Wallet on LifeSG app and scan the saved copy of PayNow QR code on the e-commerce platform.<br><br>
+Step 6: Enter and confirm amount of credits to top-up to the wallet of e-commerce platforms (e.g. ShopeePay or Lazada Wallet).<br><br>
+You can now select the wallet of e-commerce platforms (e.g. ShopeePay or Lazada Wallet) as your payment mode to pay for your purchases online.
+<br><br></details>
+<details><summary><font color="#000" size="+1"><b>
+Q33. How do I know if the SGQR displayed by merchants includes PayNow QR so that I can make purchases using my GovCash balance?</b></font></summary>
+Look out for the PayNow logo on the SG QR label. You can only make purchases at merchants that accept PayNow QR code via LifeSG app. 
+<br><br></details>
+<details><summary><font color="#000" size="+1"><b>
+Q34. Can I cancel my payment after I have confirmed the payment on the LifeSG app?</b></font></summary>
+No, your GovCash balance will be deducted upon successful payment. 
+<br><br></details>
+<details><summary><font color="#000" size="+1"><b>
+Q35. How do I get a Singpass account?</b></font></summary>
+To obtain a Singpass, you can either:
+<ol>
+<li style="font-size:15.5px">Visit <a class="hyperlink" href="http://www.singpass.gov.sg/">Singpass</a> website to apply for your Singpass online or</li>
+<li style="font-size:15.5px">Visit any of the <a class="hyperlink" href="https://www.singpass.gov.sg/singpass/common/counter">Singpass counters located islandwide</a> in-person.</li></ol>
+<br><br></details>
 
 
 
