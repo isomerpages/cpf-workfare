@@ -172,11 +172,31 @@ Log in to my cpf using your Singpass to check the transaction status:
 <li style="font-size:15.5px">Check that your MediSave contribution is reflected in My Statement, or</li>
 <li style="font-size:15.5px">Check the transaction status under My Activities (if you paid via e-Cashier)</li></ul>
 <br><br></details>
-
-
-
-
-
+<details><summary><font color="#000" size="+1"><b>Q20. Why am I not eligible for Workfare Income Supplement or Workfare Special Payment despite my gross monthly income being less than $2,000 (for WY2019) or $2,300 (for WY2020) as an employee?</b></font></summary>
+Gross monthly income includes salary (before deduction of CPF contribution), bonuses, allowances and overtime pay received during the work period.<br><br>
+Other than gross monthly income, you must also earn an average gross monthly income of not more than $2,300 (or $2,000 for Work Year 2019) in the past 12 months.<br><br>
+The average gross monthly income is defined as:<br><br>
+Sum of income earned in the past 12-month period + Total number of months worked in the past 12-month period<br><br></details>
+<details><summary><font color="#000" size="+1"><b>Q21. How much is my Workfare Income Supplement/Workfare Special Payment payout?</b></font></summary>
+To check the Workfare payouts you received, log into the <a class="hyperlink" href="https://www.workfare.gov.sg/">Workfare Portal</a> with your Singpass and look under “My Workfare Transactions”.
+<br><br></details>
+<details><summary><font color="#000" size="+1"><b>Q22. How do I appeal for Workfare Income Supplement (WIS) Scheme / Workfare Special Payment (WSP)?</b></font></summary>
+You can send in your appeal for Workfare Income Supplement (WIS)/Workfare Special Payment (WSP) via the online enquiry page:
+<ol>
+<li style="font-size:15.5px">Select "Workfare Income Supplement (WIS)" under Subject</li>
+<li style="font-size:15.5px">Select "Appeal-WIS" under category</li></ol>
+You can also write to us via <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Services/MyMailbox/MyMailboxLanding">My Mailbox</a> (Singpass required) and skip the hassle of keying in your personal particulars. 
+<br><br></details>
+<details><summary><font color="#000" size="+1"><b>Q23. What is GovCash?</b></font></summary>
+GovCash is a new and more convenient way for citizens to receive their payouts from Government agencies.<br><br>
+The Board will progressively replace cheques with GovCash from November 2021.
+<br><br></details>
+<details><summary><font color="#000" size="+1"><b>Q24. How can I utilise my GovCash?
+</b></font></summary>
+You can withdraw your payouts in cash at the listed OCBC ATMs with GovCash functions with your 8-digit Payment Reference Number (PRN), which will be sent to you by SMS or by post. You do not need to have a OCBC bank account to use this service.<br><br>
+You can also transfer your payouts to your PayNow NRIC-linked bank account or utilise them to make payments at any merchants or transfer to your friends by scanning their PayNow QR code using the LifeSG app. You can download the LifeSG app from the Apple App Store or Google Play Store.<br><br>
+You may refer to the <a class="hyperlink" href="https://www.workfare.gov.sg/Documents/Leaflet_GovCash.pdf">step-by-step guide</a> for detailed instructions on the ways you can utilise your GovCash payouts. 
+<br><br></details>
 
 
 
