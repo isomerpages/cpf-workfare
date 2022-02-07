@@ -2,6 +2,7 @@ collections:
   newsroom:
     output: true
     order:
+      - Videos/Workfare Working with you for a better future Mandarin.md
       - Videos/Workfare Working with you for a better future English.md
       - Videos/Workfare or Minimum Wage.md
       - Videos/Workfare and Other Benefits for Singaporeans.md
