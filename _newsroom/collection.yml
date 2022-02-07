@@ -2,6 +2,7 @@ collections:
   newsroom:
     output: true
     order:
+      - Videos/Videos.md
       - Videos/.keep
       - Media Articles/.keep
       - Media Articles/2020.md
