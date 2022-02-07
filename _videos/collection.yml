@@ -1,5 +1,0 @@
-collections:
-  videos:
-    output: true
-    order:
-      - Videos.md
