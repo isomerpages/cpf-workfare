@@ -132,8 +132,46 @@ To check the WSP you have received, log in to the <a class="hyperlink" href="htt
 </tbody>
 </table>
 <br><br></details>
-
-
+<details><summary><font color="#000" size="+1"><b>Q18. How can I declare my income as a Self-Employed Person (SEP)?</b></font></summary>
+<ul>
+<li style="font-size:15.5px">If you did not receive Form B from Inland Revenue Authority of Singapore (IRAS), you can declare your Self-Employed Net Trade Income (NTI) online by logging in <a class="hyperlink" href="https://www.cpf.gov.sg/member/ds/">my cpf</a> with your Singpass to complete and submit the <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/IncomeDeclarationBySelfEmployedPersonForMedisaveLiability/LandingPage">Self-Employed Person Income Declaration Form</a>, from 1 January 2020 (for work done in 2019) and from 1 January 2021 (work done in 2020). You may also do so at any SingPost branch.</li>
+<li style="font-size:15.5px">If you have received Form B from IRAS, please complete and submit the income declaration form to IRAS directly from 1 March 2020 (for work done in 2019) and from 1 March 2021 (for work done in 2020).</li></ul>
+<br><br></details>
+<details><summary><font color="#000" size="+1"><b>Q19. How can I make my Medisave contributions as a Self-Employed Person?</b></font></summary>
+There are several ways you can make your MediSave contributions.<br><br>
+The most convenient way is via GIRO, which allows automatic monthly deductions from your bank account. You may apply to pay via GIRO online (if you have a bank account from OCBC/ DBS/ POSB) or by mail (for other banks).<br><br>
+The payment options are:<br>
+<table>
+<thead>
+  <tr>
+    <th><b>Payment Mode<b></th>
+    <th><b>Details<b></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>GIRO </td>
+    <td>Online using my CPF Online Services<br><br>1. Log in with your Singpass.<br>2. Submit the <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Services/GiroApplication/LandingPage?scheme=se">"Apply/Change GIRO for Mandatory MediSave Contributions and Voluntary Contributions by Self-Employed Person"</a> application.<br>3. Check your GIRO application status via My Activities.<br><br>Mail<br>1. Download and complete the<br> <a class="hyperlink" href="https://www.cpf.gov.sg/content/dam/web/member/tools/documents/Apply%20for%20GIRO%20for%20Mandatory%20MediSave%20Contributions%20or%20Voluntary%20Contributions.pdf">"Apply for GIRO for Mandatory Contributions or Voluntary Contributions"</a> form (FORM GIRO SE/VC (PDF, 0.6MB)).<br>2. Mail it to the address printed overleaf of the GIRO application form.<br>3. We will notify you of your GIRO application status once the bank has processed it.</td>
+  </tr>
+  <tr>
+    <td>e-Cashier  </td>
+    <td>• PayNow QR<br>• eNETS Debit – payment by DBS/POSB, OCBC, Standard Chartered Bank or United Overseas Bank internet banking</td>
+  </tr>
+  <tr>
+    <td>NETS/CashCard </td>
+    <td>• Pay by NETS or CashCard at any SingPost branches</td>
+  </tr>
+</tbody>
+</table>
+The service standard for processing electronic payment is as follows:
+<ul>
+<li style="font-size:15.5px">For payment via PayNow QR, your payment will be processed almost immediately.</li>
+<li style="font-size:15.5px">For payment via eNETS Debit, your payment will be processed within the next working day.</li></ul>
+Log in to my cpf using your Singpass to check the transaction status:
+<ul>
+<li style="font-size:15.5px">Check that your MediSave contribution is reflected in My Statement, or</li>
+<li style="font-size:15.5px">Check the transaction status under My Activities (if you paid via e-Cashier)</li></ul>
+<br><br></details>
 
 
 
