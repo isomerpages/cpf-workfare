@@ -24,7 +24,7 @@ links:
   - title: Newsroom
     url: /Newsroom/Speeches/2020
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: Speeches
+        url: /Newsroom/Speeches/2020
       - title: Submenu Title
         url: /permalink
