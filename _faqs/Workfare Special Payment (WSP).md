@@ -257,7 +257,16 @@ To obtain a Singpass, you can either:
 <li style="font-size:15.5px">Visit <a class="hyperlink" href="http://www.singpass.gov.sg/">Singpass</a> website to apply for your Singpass online or</li>
 <li style="font-size:15.5px">Visit any of the <a class="hyperlink" href="https://www.singpass.gov.sg/singpass/common/counter">Singpass counters located islandwide</a> in-person.</li></ol>
 <br><br></details>
-
+<details><summary><font color="#000" size="+1"><b>
+Q36. How do I change or reset my Singpass password online?</b></font></summary>
+To change or reset your Singpass password, please complete the following steps:
+<ol>
+<li style="font-size:15.5px">Visit <a class="hyperlink" href="http://www.singpass.gov.sg/">Singpass</a> website</li>
+<li style="font-size:15.5px">Select 'Log in'</li>
+<li style="font-size:15.5px">Select 'Reset password' (under the 'Services' tab)</li>
+<li style="font-size:15.5px">Follow the instructions on the website to complete the changing or resetting of Singpass password</li></ol>
+If you require further assistance, please contact the Singpass Helpdesk at <a class="hyperlink" href="support@singpass.gov.sg">support@singpass.gov.sg</a> or +65 6335 3533. The operating hours are from 8am to 8pm (Mondays to Fridays) and from 8am to 2pm (Saturdays) excluding Sundays and public holidays.
+<br><br></details>
 
 
 
