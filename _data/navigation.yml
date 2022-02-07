@@ -6,10 +6,10 @@ links:
     collection: schemes
   - title: Stories
     url: /stories/MdmGohGeokKee
-  - title: Newsroom
-    resource_room: true
   - title: Contact Us
     url: /contact-us/
+  - title: Newsroom
+    collection: newsroom
   - title: WIS Calculator
     url: /wis-calculator/
   - title: LOGIN
@@ -20,15 +20,4 @@ links:
       - title: I am an Employee
         url: /permalink
       - title: I am Self-Employed
-        url: /permalink
-  - title: Newsroom
-    url: /Newsroom/Speeches/2020
-    sublinks:
-      - title: Speeches
-        url: /Newsroom/Speeches/2020
-      - title: Press Release
-        url: /permalink
-      - title: Media Articles
-        url: /permalink
-      - title: Videos
         url: /permalink
