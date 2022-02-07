@@ -2,6 +2,7 @@ collections:
   newsroom:
     output: true
     order:
+      - Videos/Workfare or Minimum Wage.md
       - Videos/Workfare and Other Benefits for Singaporeans.md
       - Videos/.keep
       - Media Articles/.keep
