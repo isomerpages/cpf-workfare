@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Press Release/.keep
-      - Press Release/2019.md
       - Press Release/2016.md
       - Press Release/2013.md
       - Press Release/2012.md
