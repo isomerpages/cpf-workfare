@@ -453,7 +453,7 @@ You will be eligible for Workfare Income Supplement (WIS) if you meet all the el
 	<li style="font-size:15.5px">IRAS if you have been issued an income tax return package; or</li>
 <li style="font-size:15.5px">CPFB by logging in my cpf with your Singpass to complete and submit FORM IRAS 144. You may also do so at any SingPost branch; and</li></ul>
 	<li style="font-size:15.5px">you make the required MediSave contributions.</li></li></ol>You can use our online <a class="hyperlink" href="https://www.workfare.gov.sg/Pages/Calculator.aspx">WIS calculator</a> to find out the amount to contribute.<br><br>
-Please note that you will need to declare your income and make your MediSave contribution by last Friday of March to receive WIS by 30 April (via bank crediting).</details></details>
+Please note that you will need to declare your income and make your MediSave contribution by last Friday of March to receive WIS by 30 April (via bank crediting).<br><br></details></details>
 <details><summary style="border: 1px solid #4F4F4F;
 	background: #4F4F4F;"><font size="+1.5" color="#FFF"><b>Employment Status - Dual Status Workers</b></font></summary>
 <details><summary><font color="#009427"><b>Q1. I worked as both an employee as well as a Self-Employed Person in the work year. When will I receive my Workfare Income Supplement for the work year?</b></font></summary>
