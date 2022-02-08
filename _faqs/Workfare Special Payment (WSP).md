@@ -200,7 +200,7 @@ Q25. Where can I obtain my Payment Reference Number (PRN)?
 </b></font></summary>
 Your PRN can be found in your Workfare notification from the Board. Alternatively, visit workfare.gov.sg, login with your Singpass and select “View my Payment Reference Number (PRN)”.
 <br><br></details>
-<details><summary><font color="#000" size="+1"><b>
+<details><summary><font color="#009427" size="+1"><b>
 Q26. How do I check my GovCash balance?</b></font></summary>
 To check your GovCash balance, please visit any of the <a class="hyperlink" href="https://www.workfare.gov.sg/Documents/List_of_OCBC_with_GovCash_Functions.pdf">listed OCBC ATMs with GovCash functions</a> with your 8-digit Payment Reference Number* (PRN). Upon successful authentication, you will be able to view your GovCash balance.<br><br>
 More OCBC ATMs with GovCash functions will be introduced in future.<br><br>
