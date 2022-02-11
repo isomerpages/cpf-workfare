@@ -21,8 +21,3 @@ links:
         url: /permalink
       - title: I am Self-Employed
         url: /permalink
-  - title: Menu Title
-    url: /permalink
-    sublinks:
-      - title: Submenu Title
-        url: /Newsroom/Speeches/2019
