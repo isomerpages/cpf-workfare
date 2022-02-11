@@ -2,7 +2,7 @@ collections:
   newsroom:
     output: true
     order:
-      - Speeches/First Page.md
+      - Speeches/2020.md
       - Speeches/.keep
       - Speeches/2019.md
       - Speeches/2016.md
