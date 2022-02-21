@@ -552,69 +552,24 @@ For bank account details that are submitted after 14th of the month, it will tak
 The cash portion of Workfare Income Supplement (WIS) will be credited to your bank account that was registered to receive Government payouts (e.g. either the GST-Voucher (GSTV), Silver Support Scheme (SSS) or WIS, whichever is latest) or sent to you via cheque if you do not have a bank account. Compared to cheque payments, electronic payments make transactions simple, swift, and safe for recipients. We strongly encourage you to update* your bank account to receive your future Workfare payouts earlier.<br><br>
 * bank account details submitted after 14th of the month will be effective in the following month.<br><br>
 You will be notified of your payment details via letters and/or SMS messages before the payment dates. You can <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/wisnotices/index">retrieve a copy of your notification letters</a> by logging in to e-Services at Workfare Portal with your Singpass. To receive earlier notifications, you may update your Singpass-registered mobile number to receive the payment details via SMS messages at <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/people/notificationmode">"View/Update My Notification Mode"</a>. <br><br></details>
-<details><summary><font color="#009427"><b>Q5. I have misplaced/damaged my Workfare cheque. How can I replace it?</b></font></summary>
-If you have misplaced/damaged your Workfare cheque, you can request for a cheque replacement if it is still valid (i.e. not expired*). Please proceed to any of the 5 designated OCBC branches listed below to request the cheque personally:<br><br>
-<table>
-<thead>
-  <tr>
-		<th colspan="3"><b>OCBC BANK BRANCHES FOR REPLACEMENT OF WORKFARE CHEQUES</b></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>1<br></td>
-		<td><b>Bishan Branch</b><br>9 Bishan Place, #02-08/09<br>Junction 8 Shopping Centre<br>Singapore 579837<br></td>
-    <td>Mon-Fri: 11.00am to 7.00pm<br>Sat: 11.00am to 1:30pm<br>Sun &amp; Public Holiday: Closed<br></td>
-  </tr>
-  <tr>
-    <td>2<br></td>
-		<td><b>Jurong East Branch (JEM)</b><br>50 Jurong Gateway Road #B1-18<br>Jem<br>Singapore 608549<br></td>
-    <td>Mon-Sun: 11.00am to 7.00pm<br>Public Holidays: Closed<br></td>
-  </tr>
-  <tr>
-    <td>3<br></td>
-		<td><b>OCBC Centre Branch</b><br>65 Chulia St #01-00<br>OCBC Centre<br>Singapore 049513<br></td>
-    <td>Mon-Fri: 9.00am to 4.30pm<br>Sat: 9.00am to 11.30am<br>Sun &amp; Public Holiday: Closed<br></td>
-  </tr>
-  <tr>
-    <td>4<br></td>
-		<td><b>OCBC Tampines CPF Building Branch</b><br>1 Tampines Central 5<br>#01-02 CPF Tampines Building<br>Sinapore 529508<br></td>
-    <td>Mon-Fri: 11.00am to 7.00pm<br>Sat: 11.00am to 1.30pm<br>Sun &amp; Public Holiday: Closed<br></td>
-  </tr>
-  <tr>
-    <td>5<br></td>
-		<td><b>United Square Branch</b><br>101 Thomson Rd<br>#02-26 to 29 United Square<br>Singpore 307951<br></td>
-    <td>Mon-Fri: 11.00am to 7.00pm<br>Sat: 11.00am to 1.30pm<br>Sun &amp; Public Holiday: Closed</td>
-  </tr>
-</tbody>
-</table>
-For successful cheque replacement request, you can collect your new cheque from the designated bank branch on the collection date determined by the bank officer. The service standard for the bank to replace misplaced/damaged cheque is 17 calendar days.<br><br>
-* Note: Each Workfare cheque is valid for 6 months from date of issuance (expiry date is printed on the cheque). Upon expiry, the monies will be automatically credited to the beneficiary's CPF Ordinary Account.<br><br></details>
-<details><summary><font color="#009427"><b>Q6. What happens to a Workfare cheque that has expired?</b></font></summary>
-Workfare cheques are valid for six months. If the cheques are not encashed or replaced within six months, the monies will automatically be credited to the recipients' CPF Ordinary Account two months after the cheque expiry date.<br><br>
-Compared to cheque payments, electronic payments make transactions simple, swift, and safe for recipients. We strongly encourage you to <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/paymentinstructions/edit">update</a> your bank account to receive your future Workfare payouts earlier.<br><br></details>
-<details><summary><font color="#009427"><b>Q7. How do I encash a Workfare Estate Cheque?</b></font></summary>
+<details><summary><font color="#009427"><b>Q5. How do I encash a Workfare Estate Cheque?</b></font></summary>
 The estate cheque will form part of the deceased member's estate. Depending on the value of the deceased member's estate, his Next-of-Kin (NOK) may apply to the Public Trustee's Office or the Court to administer his estate. For more information, please visit the Public Trustee’s Office website at <a class="hyperlink" href="https://pto.mlaw.gov.sg/">pto.mlaw.gov.sg</a>, or call them at 1800 225 5529.<br><br></details>
-<details><summary><font color="#009427"><b>Q8. How can I retrieve a copy of my Workfare notification letter?</b></font></summary>
+<details><summary><font color="#009427"><b>Q6. How can I retrieve a copy of my Workfare notification letter?</b></font></summary>
 You can retrieve a <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/wisnotices/index">copy of your notification letters</a> by logging in to eService at Workfare Portal with your Singpass.<br><br></details>
-<details><summary><font color="#009427"><b>Q9. Why is the government sending SMS notifications instead of hardcopy letters?</b></font></summary>
+<details><summary><font color="#009427"><b>Q7. Why is the government sending SMS notifications instead of hardcopy letters?</b></font></summary>
 Moving to SMS notifications is part of the Government's efforts to provide timelier and more responsive services to the public. It also allows us to be more environmentally friendly. With SMS notifications, you can quickly and easily receive details of your Workfare payouts, including the mode of payment and payment date, instead of having to wait for hardcopy letters.<br><br>
 If you are on hardcopy notification and would like to switch to SMS notification, you may update your Singpass-registered mobile number at <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/people/notificationmode">"View/Update My Notification Mode"</a>.<br><br></details>
-<details><summary><font color="#009427"><b>Q10. Why does it take longer for Workfare cheque payments to be processed?</b></font></summary>
-Payments by cheque will take 2 weeks longer than direct crediting to a bank account. More processing time is required as there are more steps required including the preparation and mailing of the cheques.<br><br>
-Compared to cheque payments, electronic payments make transactions simple, swift, and safe for recipients. We strongly encourage you to <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/paymentinstructions/edit">update</a>* your bank account to receive your future Workfare payouts earlier.<br><br>
-* For bank account details submitted after 14th of the month, it will take effect in the following month.<br><br></details>
-<details><summary><font color="#009427"><b>Q11. How can I receive SMS notifications for Workfare Income Supplement scheme?</b></font></summary>
+<details><summary><font color="#009427"><b>Q8. How can I receive SMS notifications for Workfare Income Supplement scheme?</b></font></summary>
 Please log in to the Workfare Portal (Singpass required) and select <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/people/notificationmode">"View/Update My Notification Mode"</a>. Your selected notification mode will be used for Workfare Income Supplement and other Government schemes (if any) that you may be eligible for.<br><br>
 To receive SMS notifications, you must have a Singpass 2FA mobile number. You will only start receiving SMS notifications about you have submitted the above request and updated your mobile number with <a class="hyperlink" href="https://www.singpass.gov.sg/">Singpass</a>.<br><br></details>
-<details><summary><font color="#009427"><b>Q12. I have closed my bank account for receiving Workfare Income Supplement payments. How can I receive the payments?</b></font></summary>
+<details><summary><font color="#009427"><b>Q9. I have closed my bank account for receiving Workfare Income Supplement payments. How can I receive the payments?</b></font></summary>
 If you have closed your bank account, you will receive your Workfare Income Supplement (WIS) cash payments by cheque to your registered NRIC address. Payments by cheque takes up to 2 weeks longer compared to bank crediting.<br><br></details>
-<details><summary><font color="#009427"><b>Q13. How much is my Workfare Income Supplement/ Workfare Special Payment payout?</b></font></summary>
+<details><summary><font color="#009427"><b>Q10. How much is my Workfare Income Supplement/ Workfare Special Payment payout?</b></font></summary>
 To check the Workfare payouts you have received, log in to the Workfare Portal with your Singpass and look under <a class="hyperlink" href="https://www.workfare.gov.sg/app/Payments/Transactions">“Check My Workfare Transactions”</a>.</details>
-<details><summary><font color="#009427"><b>Q14. What is GovCash?</b></font></summary>
+<details><summary><font color="#009427"><b>Q11. What is GovCash?</b></font></summary>
 GovCash is a new and more convenient way for citizens to receive their payouts from Government agencies.<br><br>
 The Board will progressively replace cheques with GovCash from November 2021.<br><br></details>
-<details><summary><font color="#009427"><b>Q15. How can I utilise my GovCash?</b></font></summary>
+<details><summary><font color="#009427"><b>Q12. How can I utilise my GovCash?</b></font></summary>
 You can withdraw your payouts in cash at the listed OCBC ATMs with GovCash functions with your 8-digit Payment Reference Number (PRN), which will be sent to you by SMS or by post. You do not need to have a OCBC bank account to use this service.<br><br>
 You can also transfer your payouts to your PayNow NRIC-linked bank account or utilise them to make payments at any merchants or transfer to your friends by scanning their PayNow QR code using the LifeSG app. You can download the LifeSG app from the Apple App Store or Google Play Store.<br><br>
 You may refer to the <a class="hyperlink" href="https://www.workfare.gov.sg/Documents/Leaflet_GovCash.pdf">step-by-step guide</a> for detailed instructions on the ways you can utilise your GovCash payouts.<br><br></details>
