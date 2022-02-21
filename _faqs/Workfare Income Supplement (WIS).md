@@ -100,11 +100,11 @@ As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a 
 <thead>
   <tr>
     <th rowspan="3" style="text-align:center; vertical-align:middle"><br><br>Your age in the work year</th>
-    <th colspan="4" style="text-align:center; vertical-align:middle">Maximum WIS payout per year<br></th>
+    <th colspan="4" style="text-align:center; vertical-align:middle">Maximum WIS payout per year</th>
   </tr>
   <tr>
-    <th colspan="2" style="text-align:center; vertical-align:middle">If you are employed<br><br></th>
-    <th colspan="2" style="text-align:center; vertical-align:middle">If you are self-employed<br><br></th>
+    <th colspan="2" style="text-align:center; vertical-align:middle">If you are employed</th>
+    <th colspan="2" style="text-align:center; vertical-align:middle">If you are self-employed</th>
   </tr>
   <tr>
     <th style="text-align:center; vertical-align:middle">In 2022<br></th>
@@ -131,9 +131,9 @@ As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a 
   <tr>
     <td style="text-align:center; vertical-align:middle">45 - 54<br></td>
     <td style="text-align:center; vertical-align:middle">$2,500<br></td>
-    <td rowspan="2" style="text-align:center; vertical-align:middle">$3,600<br><br></td>
+    <td rowspan="2" style="text-align:center; vertical-align:middle">$3,600</td>
     <td style="text-align:center; vertical-align:middle">$1,667<br></td>
-    <td rowspan="2" style="text-align:center; vertical-align:middle">$2,400<br><br></td>
+    <td rowspan="2" style="text-align:center; vertical-align:middle">$2,400</td>
   </tr>
   <tr>
     <td style="text-align:center; vertical-align:middle">55 - 59<br></td>
