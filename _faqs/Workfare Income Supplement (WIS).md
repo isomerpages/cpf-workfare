@@ -99,52 +99,63 @@ As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a 
 <table>
 <thead>
   <tr>
-    <th rowspan="3" style="text-align:center; vertical-align:middle">Your age in the work year</th>
-    <th colspan="4" style="text-align:center; vertical-align:middle">Maximum WIS payout per year</th>
+    <th rowspan="3" style="text-align:center; vertical-align:middle"><br><br>Your age in the work year</th>
+    <th colspan="4" style="text-align:center; vertical-align:middle">Maximum WIS payout per year<br></th>
   </tr>
   <tr>
-    <th colspan="2" style="text-align:center; vertical-align:middle">If you are employed</th>
-    <th colspan="2" style="text-align:center; vertical-align:middle">If you are self-employed</th>
+    <th colspan="2" style="text-align:center; vertical-align:middle">If you are employed<br><br></th>
+    <th colspan="2" style="text-align:center; vertical-align:middle">If you are self-employed<br><br></th>
   </tr>
   <tr>
-    <th style="text-align:center; vertical-align:middle">2019</th>
-    <th style="text-align:center; vertical-align:middle">From 2020</th>
-    <th style="text-align:center; vertical-align:middle">2019</th>
-    <th style="text-align:center; vertical-align:middle">From 2020</th>
+    <th style="text-align:center; vertical-align:middle">In 2022<br></th>
+    <th style="text-align:center; vertical-align:middle">From 2023<br></th>
+    <th style="text-align:center; vertical-align:middle">In 2022<br></th>
+    <th style="text-align:center; vertical-align:middle">From 2023<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td style="text-align:center; vertical-align:middle">35* - 44</td>
-    <td style="text-align:center; vertical-align:middle">$1,500<br></td>
+    <td style="text-align:center; vertical-align:middle">30 - 34 (new tier)<br></td>
+    <td style="text-align:center; vertical-align:middle">-</td>
+    <td style="text-align:center; vertical-align:middle">$2,100</td>
+    <td style="text-align:center; vertical-align:middle">-</td>
+    <td style="text-align:center; vertical-align:middle">$1,400</td>
+  </tr>
+  <tr>
+    <td style="text-align:center; vertical-align:middle">35 - 44<br></td>
     <td style="text-align:center; vertical-align:middle">$1,700<br></td>
-    <td style="text-align:center; vertical-align:middle">$1,00<br></td>
-    <td style="text-align:center; vertical-align:middle">$1,133</td>
+    <td style="text-align:center; vertical-align:middle">$3,000<br></td>
+    <td style="text-align:center; vertical-align:middle">$1,133<br></td>
+    <td style="text-align:center; vertical-align:middle">$2,000<br></td>
   </tr>
   <tr>
-    <td style="text-align:center; vertical-align:middle">45 - 54</td>
-    <td style="text-align:center; vertical-align:middle">$2,200<br></td>
+    <td style="text-align:center; vertical-align:middle">45 - 54<br></td>
     <td style="text-align:center; vertical-align:middle">$2,500<br></td>
-    <td style="text-align:center; vertical-align:middle">$1,467<br></td>
-    <td style="text-align:center; vertical-align:middle">$1,667</td>
+    <td rowspan="2" style="text-align:center; vertical-align:middle">$3,600<br><br></td>
+    <td style="text-align:center; vertical-align:middle">$1,667<br></td>
+    <td rowspan="2" style="text-align:center; vertical-align:middle">$2,400<br><br></td>
   </tr>
   <tr>
-    <td style="text-align:center; vertical-align:middle">55 - 60</td>
-    <td style="text-align:center; vertical-align:middle">$2,900<br></td>
+    <td style="text-align:center; vertical-align:middle">55 - 59<br></td>
     <td style="text-align:center; vertical-align:middle">$3,300<br></td>
-    <td style="text-align:center; vertical-align:middle">$1,933<br></td>
-    <td style="text-align:center; vertical-align:middle">$2,200</td>
+    <td style="text-align:center; vertical-align:middle">$2,200<br></td>
   </tr>
   <tr>
     <td style="text-align:center; vertical-align:middle">60 and above</td>
-    <td style="text-align:center; vertical-align:middle">$3,600<br></td>
     <td style="text-align:center; vertical-align:middle">$4,000<br></td>
-    <td style="text-align:center; vertical-align:middle">$2,400<br></td>
-    <td style="text-align:center; vertical-align:middle">$2,667</td>
+    <td style="text-align:center; vertical-align:middle">$4,200<br></td>
+    <td style="text-align:center; vertical-align:middle">$2,667<br></td>
+    <td style="text-align:center; vertical-align:middle">$2,800<br></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; vertical-align:middle">All persons with disabilities (PwDs)<br></td>
+    <td style="text-align:center; vertical-align:middle">Varies by age<br></td>
+    <td style="text-align:center; vertical-align:middle">$4,200<br></td>
+    <td style="text-align:center; vertical-align:middle">Varies by age<br></td>
+    <td style="text-align:center; vertical-align:middle">$2,800</td>
   </tr>
 </tbody>
 </table>
-* Including persons with disabilities who are below 35.<br><br>
 </details>
 <details><summary><font color="#009427"><b>
 Q11. Will I receive Workfare Income Supplement (WIS) payouts if I am unemployed?</b></font></summary>
