@@ -191,8 +191,8 @@ Q16. How do I adjust my net trade income (NTI) for the Workfare Income Supplemen
 If you have previously declared your net trade income (NTI) to the Inland Revenue Authority of Singapore (IRAS), please call them at 1800-356 8300 if you wish to adjust your NTI for your Workfare Income Supplement scheme (WIS).<br>
 Alternatively, you can contact them via these other <a href="https://www.iras.gov.sg/irashome/Contact-us/" class="hyperlink">channels</a>. Please inform CPF Board once IRAS has reassessed your NTI and CPF Board will update your NTI and MediSave payable for WIS.<br><br></details>
 <details><summary><font color="#009427"><b>
-Q17. When must I declare my net trade income and pay the MediSave contributions to be eligible for the Workfare Income Supplement Scheme for work done in 2019?</b></font></summary>
-To be eligible for the Workfare Income Supplement (WIS) scheme for work done in 2019, please declare your 2019 net trade income and contribute to your MediSave Account by 31 December 2020.<br><br></details>
+Q17. When must I declare my net trade income and pay the MediSave contributions to be eligible for the Workfare Income Supplement Scheme for work done in 2021/2022?</b></font></summary>
+To be eligible for the Workfare Income Supplement (WIS) scheme for work done in 2021/2022, please declare your 2021/2022 net trade income and contribute to your MediSave Account by 31 December 2023/2024.<br><br></details>
 <details><summary><font color="#009427"><b>
 Q18. Why are Singapore Permanent Residents (PRs) not eligible for the Workfare Income Supplement scheme?</b></font></summary>
 The Workfare Income Supplement (WIS) scheme is only for Singaporean lower-wage workers with limited household wealth.<br><br>
