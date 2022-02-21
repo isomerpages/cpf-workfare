@@ -4,7 +4,8 @@ title: Workfare
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Maintenance Message Here
+notification: As announced at Budget 2022, WIS will be enhanced from Work Year
+  2023. Click here to find out more about the upcoming WIS enhancements.
 sections:
   - hero:
       title: Workfare
