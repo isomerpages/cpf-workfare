@@ -41,7 +41,8 @@ However, you will not be eligible for WIS if you:
 	<li style="font-size:15.5px">the assessable income of your spouse exceeds $70,000 for the previous Year of Assessment.</li>
 </ul>
 	</ul>
-		Click <a href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/Payments/Statement" class="hyperlink">here</a> to find out your WIS eligibility status.<br><br>
+Click <a href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/Payments/Statement" class="hyperlink">here</a> to find out your WIS eligibility status.<br><br>
+As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a class="hyperlink" href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf">here</a> to find out more about the upcoming WIS enhancements.<br><br>
 <sup>1</sup> Persons with disabilities younger than 35 who meet the WIS eligibility criteria will receive an annual WIS payout of up to $1,700<br><br>
 <sup>2</sup> Includes basic salary and extra wages such as overtime pay, commissions and bonuses<br><br>
 <sup>3</sup> Defined as income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br><br>
