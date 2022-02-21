@@ -94,6 +94,7 @@ You may update your bank account details by logging into the Workfare Portal at 
 <font color="#009427"><b>
 Q10. How much Workfare Income Supplement (WIS) will I get?</b></font></summary>
 The Workfare Income Supplement (WIS) payout depends on your age and income. You may use the online <a href="https://www.workfare.gov.sg/Pages/Calculator.aspx" class="hyperlink">WIS calculator</a> to estimate the amount of WIS you will receive.<br><br>
+As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a class="hyperlink" href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf">here</a> to find out more about the upcoming WIS enhancements.<br><br>
 <table>
 <thead>
   <tr>
@@ -172,7 +173,7 @@ If you are an SEP, you are also required to declare your Net Trade Income (NTI) 
 <ul style="list-style-type:circle;">
 <li style="font-size:15.5px">you and your spouse together own two or more properties; or</li>
 <li style="font-size:15.5px">the annual assessable income of your spouse exceeds $70,000 for the previous Year of Assessment.</li></ul></ul>
-	As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a class="hyperlink" href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf">here</a> to find out more about the upcoming WIS enhancements.<br><br>
+As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a class="hyperlink" href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf">here</a> to find out more about the upcoming WIS enhancements.<br><br>
 <sup>1</sup> Persons with disabilities younger than 35 who meet the WIS eligibility criteria will receive an annual WIS payout of up to $1,700<br>
 <sup>2</sup> Includes basic salary and extra wages such as overtime pay, commissions and bonuses<br>
 <sup>3</sup> Defined as income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br>
