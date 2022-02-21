@@ -155,7 +155,7 @@ As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a 
     <td style="text-align:center; vertical-align:middle">$2,800</td>
   </tr>
 </tbody>
-</table>
+</table><br><br>
 </details>
 <details><summary><font color="#009427"><b>
 Q11. Will I receive Workfare Income Supplement (WIS) payouts if I am unemployed?</b></font></summary>
