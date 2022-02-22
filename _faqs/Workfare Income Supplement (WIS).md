@@ -490,7 +490,8 @@ To receive Workfare Income Supplement (WIS) for work done in any month, employee
 Gross monthly income includes salary (before deduction of CPF contribution), bonuses, allowances and overtime pay received during the work period.<br><br>
 Other than gross monthly income, you must also earn an average gross monthly income of not more than $2,300* in the past 12 months.<br><br>
 The average gross monthly income is defined as:<br><br>
-Sum of income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br><br></details></details>
+<i>Sum of income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period</i><br><br>
+*From Work Year 2023, the qualifying income cap will be raised to $2,500. Click <a class="hyperlink" href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br></details></details>
 <details><summary style="border: 1px solid #4F4F4F;
 	background: #4F4F4F;"><font size="+1.5" color="#FFF"><b>Eligibility Criteria - Housing</b></font></summary>
 <details><summary><font color="#009427"><b>Q1. Do residents in welfare homes qualify for Workfare Income Supplement (WIS)?</b></font></summary>
