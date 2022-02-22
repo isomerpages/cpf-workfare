@@ -480,11 +480,12 @@ Additional Wages are wages which are not granted wholly and exclusively for that
 Total Wages are the total amount of an employee's wages for any calendar month, which is the sum of his Ordinary Wages for the month and the Additional Wages paid to him in that month.<br><br></details>
 <details><summary><font color="#009427"><b>Q2. Why are overtime pay and bonuses included in Workfare Income Supplement assessment?</b></font></summary>
 Basic salary, overtime pay, and bonuses are part of a worker’s total income that will help support the worker and his or her family. Given that the Workfare Income Supplement (WIS) is intended to supplement the income of lower wage workers, it is most useful to assess the total income in determining one’s eligibility for WIS.<br><br></details>
-<details><summary><font color="#009427"><b>Q3. How does the income criteron work?</b></font></summary>
+<details><summary><font color="#009427"><b>Q3. How does the income criterion work?</b></font></summary>
 To receive Workfare Income Supplement (WIS) for work done in any month, employees must have earned:<br><br>
 <ol>
-	<li style="font-size:15.5px"> a gross monthly income of not more than $2,300 in that particular month; and</li>
-<li style="font-size:15.5px"> an average gross monthly income of not more than $2,300 in the past 12 months.</li></ol><br><br>
+	<li style="font-size:15.5px"> a gross monthly income of not more than $2,300* in that particular month; and</li>
+<li style="font-size:15.5px"> an average gross monthly income of not more than $2,300 in the past 12 months.</li></ol>
+*From Work Year 2023, the qualifying income cap will be raised to $2,500. Click <a class="hyperlink" href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br>
 </details>
 <details><summary><font color="#009427"><b>Q4. Why am I not eligible for Workfare Income Supplement or Workfare Special Payment despite my gross monthly income being less than $2,300 as an employee?</b></font></summary>
 Gross monthly income includes salary (before deduction of CPF contribution), bonuses, allowances and overtime pay received during the work period.<br><br>
