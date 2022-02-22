@@ -89,7 +89,7 @@ You can contact CPF Board via the following channels for your Workfare Income Su
 </ol></details>
 <details><summary>
 <font color="#009427"><b>Q9. How can I change the mode of payment for my Workfare Income Supplement (WIS) payout?</b></font></summary>
-You may update your bank account details by logging into the Workfare Portal at <a href="http://www.workfare.gov.sg" class="hyperlink">workfare.gov.sg</a>.
+You may update your bank account details by logging into the Workfare Portal at <a href="http://www.workfare.gov.sg" class="hyperlink">workfare.gov.sg</a>.<br><br>
 </details>
 <details><summary>
 <font color="#009427"><b>
