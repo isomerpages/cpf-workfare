@@ -535,7 +535,7 @@ To ensure that Workfare Income Supplement (WIS) is targeted at recipients with l
 	<li style="font-size:15.5px">you and your spouse together own two or more properties.</li></ul></details>
 <details><summary><font color="#009427"><b>Q2. Why is my spouse's Assessable Income for the preceding Year of Assessment used to determine my Workfare Income Supplement (WIS) eligibility for the current work year?</b></font></summary>
 This is to allow potential Workfare Income Supplement (WIS) recipients to receive WIS earlier despite the time needed by the Inland Revenue Authority of Singapore (IRAS) for the processing and transmission of Assessable Income (AI) to the CPF Board.<br><br>
-The AI for the previous Year of Assessment (YOA) is used to assess one's WIS eligibility for the current year. E.g. we will use your spouse's AI for YOA 2017 to assess your eligibility for 2018 WIS.<br><br></details>
+The AI for the previous Year of Assessment (YOA) is used to assess one's WIS eligibility for the current year. E.g. we will use your spouse's AI for YOA 2021 to assess your eligibility for 2022 WIS.<br><br></details>
 </details>
 <details><summary style="border: 1px solid #4F4F4F;
 	background: #4F4F4F;"><font size="+1.5" color="#FFF"><b>Payment and Notification</b></font></summary>
