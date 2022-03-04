@@ -166,7 +166,7 @@ Other than gross monthly income, you must also earn an average gross monthly inc
 The average gross monthly income is defined as:<br><br>
 Sum of income earned in the past 12-month period + Total number of months worked in the past 12-month period<br><br></details>
 <details><summary><font color="#009427" size="+1"><b>Q21. How much is my Workfare Income Supplement/Workfare Special Payment payout?</b></font></summary>
-To check the Workfare payouts you received, log into the <a class="hyperlink" href="https://www.workfare.gov.sg/">Workfare Portal</a> with your Singpass and look under “My Workfare Transactions”.
+To check the Workfare payouts you received, log into the <a class="hyperlink" href="https://www.workfare.gov.sg/">Workfare Portal</a> with your Singpass and look under “<a class="hyperlink" href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/Payments/Transactions">My Workfare Transactions</a>”.
 <br><br></details>
 <details><summary><font color="#009427" size="+1"><b>Q22. How do I appeal for Workfare Income Supplement (WIS) Scheme / Workfare Special Payment (WSP)?</b></font></summary>
 You can send in your appeal for Workfare Income Supplement (WIS)/Workfare Special Payment (WSP) via the online enquiry page:
