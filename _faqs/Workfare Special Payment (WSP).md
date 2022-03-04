@@ -120,24 +120,7 @@ Notes:
 To check the WSP you have received, log in to the <a class="hyperlink" href="https://www.workfare.gov.sg/">Workfare Portal</a> with your Singpass and look under "My Workfare Transactions". 
 <br><br></details>
 <details><summary><font color="#009427" size="+1"><b>Q17. How will I be notified of my Workfare Special Payment payouts?</b></font></summary>
-<table>
-<thead>
-  <tr>
-		<th><b>Workfare Special Payment (WSP) Tranche</b></th>
-		<th><b>Notification mode</b></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>July 2020<br></td>
-    <td>· Those who have registered their mobile numbers with Singpass would have received SMS notifications on 24 July, informing them of their WSP details.<br>· Others would have received letters by the following week.</td>
-  </tr>
-  <tr>
-    <td>October 2020</td>
-    <td>· Those who have registered their mobile numbers with Singpass would have received SMS notifications on 26 October, informing them of their WSP details.<br>· Others would have received letters by the same week.</td>
-  </tr>
-</tbody>
-</table>
+You will be notified of your Workfare Special Payment by letter.
 <br><br></details>
 <details><summary><font color="#009427" size="+1"><b>Q18. How can I declare my income as a Self-Employed Person (SEP)?</b></font></summary>
 <ul>
