@@ -181,7 +181,7 @@ PayNow is a secure funds transfer service that allows customers to receive money
 <table>
 <thead>
   <tr>
-		<th><b>Bank Code</b></th>
+		<th style="width:20%"><b>Bank Code</b></th>
     <th><b>Bank</b></th>
   </tr>
 </thead>
