@@ -229,6 +229,18 @@ PayNow is a secure funds transfer service that allows customers to receive money
 </tbody>
 </table>
 <br><br></details>
+<details><summary><font color="#009427" size="+1"><b>Q24. How do I link my NRIC to PayNow?</b></font></summary>
+You may follow the steps below:<br>
+<ol>
+	<li style="font-size:15.5px">Set up internet / mobile banking with your bank</li>
+	<li style="font-size:15.5px">Log in to your bank's internet / mobile banking application</li>
+	<li style="font-size:15.5px">Link your NRIC number to your bank account at the PayNow registration screen</li></ol>
+You may also refer to your bank's website for specific details to do so. If you do not have Internet or mobile banking, you can contact your bank directly to register for PayNow-NRIC. 
+<br><br></details>
+<details><summary><font color="#009427" size="+1"><b>
+Q25. I have linked my PayNow bank account to my mobile number. Will I receive my Workfare payouts via PayNow?</b></font></summary>
+We can only credit your Workfare payouts to you via your PayNow bank account if it is linked to your NRIC number. This is because the NRIC number is an unchanged proxy issued by the Government, unlike mobile numbers which can change. To ensure that the money is credited to the correct recipient's bank account, only NRIC will be accepted as the proxy for government payouts via PayNow.  
+<br><br></details>
 <details><summary><font size="+1" color="#009427"><b>Q26. What is GovCash?</b></font></summary>
 GovCash is a new and more convenient way for citizens to receive their payouts from Government agencies.<br><br>
 The Board will progressively replace cheques with GovCash from November 2021.
@@ -246,9 +258,8 @@ Your PRN can be found in your Workfare notification from the Board. Alternativel
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
 Q29. How do I check my GovCash balance?</b></font></summary>
-To check your GovCash balance, please visit any of the <a href="https://www.workfare.gov.sg/Documents/List_of_OCBC_with_GovCash_Functions.pdf" class="hyperlink">listed OCBC ATMs with GovCash functions</a> with your 8-digit Payment Reference Number* (PRN). Upon successful authentication, you will be able to view your GovCash balance.<br><br>
-More OCBC ATMs with GovCash functions will be introduced in future.<br><br>
-Alternatively, you may login to the LifeSG app using your Singpass to view your GovCash balance and transaction history. You may refer to the <a href="https://www.workfare.gov.sg/Documents/Leaflet_GovCash.pdf" class="hyperlink">step-by-step guide</a> for detailed instructions.<br><br>
+To check your GovCash balance, please visit any OCBC ATMs with GovCash functions</a> with your 8-digit Payment Reference Number* (PRN). Upon successful authentication, you will be able to view your GovCash balance.<br><br>
+Alternatively, you may login to the LifeSG mobile app using your Singpass to view your GovCash balance and transaction history. You may refer to the <a href="https://www.workfare.gov.sg/Documents/Leaflet_GovCash.pdf" class="hyperlink">step-by-step guide</a> for detailed instructions.<br><br>
 *Your PRN can be found in your Workfare notification from the CPF Board, and at the <a href="https://workfare.gov.sg/app/ePRN/Index" class="hyperlink">Workfare Portal</a> (Singpass login is required).
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
@@ -257,8 +268,14 @@ Should the ATM be unable to verify your identity via Singpass Face Verification,
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
 Q31. What should I do if I do not want to receive my payouts via GovCash?</b></font></summary>
-You can choose to receive your payouts via Direct Bank Crediting.<br><br>
-To do so, simply visit <a href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/paymentinstructions/edit" class="hyperlink">here</a>, login with your Singpass, select "View / Update Payment Mode" and tell us your POSB/DBS, OCBC or UOB bank account details.
+You can choose to receive your payouts via PayNow NRIC-linked bank account by linking your NRIC number to your PayNow bank account.<br><br>
+To link your NRIC number to your bank account, you may follow the steps below:<br>
+<ol>
+	<li style="font-size:15.5px">Set up internet / mobile banking with your bank</li>
+	<li style="font-size:15.5px">Log in to your bank's internet / mobile banking application</li>
+	<li style="font-size:15.5px">Link your NRIC number to your bank account at the PayNow registration screen</li></ol>
+You may also refer to your bank's website for specific details to do so. If you do not have Internet or mobile banking, you can contact your bank directly to register for PayNow-NRIC.<br><br>
+Otherwise, you can choose to receive your payouts via Direct Bank Crediting. To do so, simply visit here, login with your Singpass, select "View / Update Payment Mode" and update your POSB/DBS, OCBC or UOB bank account details.
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
 Q32. Why can withdrawals be made only in $10 denominations and what can I do with my balance GovCash?</b></font></summary>
