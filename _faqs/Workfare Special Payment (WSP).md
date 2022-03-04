@@ -20,8 +20,10 @@ For Singaporeans who had received the WIS payouts for WY2020, but not for WY2019
 ^ Singaporeans who qualify for WY2020 WIS after October 2020 but before 31 December 2021 will receive the WSP in the month that they become eligible for WY2020 WIS<br><br>
 	<u>Mode of Payment:</u><br><br>
 The WSP will be given to eligible Singaporeans in the same way as their WIS payments – direct crediting to their bank account, or cheque sent to their NRIC address for those who do not have a bank account registered for cash payments from the Government. Payments by cheque take up to 2 weeks longer compared to bank crediting.<br><br>
-WIS recipients who did not provide their bank account details previously are encouraged to do so to receive their payments earlier. They can do so at <a class="hyperlink" href="https://workfare.gov.sg/">workfare.gov.sg</a> (using Singpass).<br><br>
-If the update of payment request is submitted after the 14th of the month, it will be effective in the following month. 
+From March 2022 onwards, the payout will be credited in their PayNow NRIC-linked bank account if they have one.<br><br>
+Otherwise, it will be credited to the DBS/POSB, OCBC or UOB bank account that they have registered to receive Government payouts (e.g. either the GST-Voucher (GSTV), Silver Support Scheme (SSS) or WIS, whichever is latest) or credited to GovCash if they had not registered a bank account with us.<br><br>
+Electronic payments make transactions simple, swift, and safe for recipients. WIS recipients are encouraged to link their NRIC number to their bank account or <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/paymentinstructions/edit">update</a> their bank account to receive their payments earlier*.<br><br>
+* If the NRIC number was linked to the recipient's bank account after 16th of the month or the bank account details were submitted after 14th of the month, the updates will only be effective in the following month. 
 <br><br></details>
 <details><summary><font color="#009427" size="+1"><b>Q3. Why are there differences in the eligibility cut-off dates between Workfare Special Payment and Workfare Income Supplement?</b></font></summary>
 To receive Workfare Income Supplement (WIS) for work done in Work Year (WY) 2019 and WY 2020, you must qualify for WIS by 31 December 2021 and 31 December 2022 respectively.<br><br>
@@ -38,7 +40,7 @@ For Employees<br><br>
 If your employee is not contributing CPF on your behalf, you can lodge a report on non/underpayment of CPF contributions <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Services/MyRequest/MyRequestLanding">online</a>. Please log in to my CPF Online Services with your Singpass, then select My Requests > Other CPF Matters > Report on non-payment or underpayment of CPF contributions.</li></ul>
 Alternatively, you can also lodge a report by calling the WorkRight Hotline at 1800-221-9922 or emailing to <a class="hyperlink" href="workright@mom.gov.sg">workright@mom.gov.sg</a>. All calls will be kept confidential.<br><br></details>
 <details><summary><font color="#009427" size="+1"><b>Q4. I have other queries on the Workfare Special Payment (WSP). Who can I ask?</b></font></summary>
-You may visit the Workfare website (<a class="hyperlink" href="https://www.workfare.gov.sg/">www.workfare.gov.sg</a>) for more information on the Workfare scheme.<br><br>
+You may visit <a class="hyperlink" href="https://www.workfare.gov.sg/">workfare.gov.sg</a> for more information on the Workfare scheme.<br><br>
 For enquires on the Workfare Special Payment (WSP), you may email us at <a class="hyperlink" href="workfare@govtopup.gov.sg">workfare@govtopup.gov.sg</a>.<br><br></details>
 <details><summary><font color="#009427" size="+1"><b>Q5. How do I qualify for Workfare Special Payment as a Self-Employed Person?</b></font></summary>
 To receive the Workfare Special Payment (WSP) as a Self-Employed Person, you must first qualify for the Workfare Income Supplement (WIS) by the following deadlines:
@@ -60,8 +62,13 @@ You will be eligible for the Workfare Special Payment (WSP) if you qualify for t
 Workers aged 35 and below with disabilities and are eligible for WIS will also be eligible for WSP.<br><br>
 	<sup>1</sup> Employees would be eligible for WSP if they receive WIS at least once for the work done in the Work Year i.e. 2019 or 2020, whichever is applicable.<br><br></details>
 <details><summary><font color="#009427" size="+1"><b>Q7. Can I use another bank account other than the 3 local banks for the payment of my Workfare Special Payment?</b></font></summary>
-Currently, we only pay to POSB/DBS, OCBC, and UOB accounts.<br><br>
-If you do not have a bank account with either of the 3 local major banks, the Workfare Special Payment (as well as the Workfare Income Supplement payouts, GST Voucher, and other government payouts) will be paid to you via cheque.<br><br></details>
+You can receive payouts in a bank account other than DBS/POSB, OCBC or UOB if your bank account has been set up with PayNow and is linked to your NRIC number.<br><br>
+If you do not have a PayNow NRIC-linked bank account, you may follow the steps below to create one:
+<ol>
+	<li style="font-size:15.5px">Set up internet / mobile banking with your bank</li>
+	<li style="font-size:15.5px">Log in to your bank's internet / mobile banking application</li>
+		<li style="font-size:15.5px">Link your NRIC number to your bank account at the PayNow registration screen</li></ol>
+You may also refer to your bank's website for specific details to do so. If you do not have Internet or mobile banking, you can contact your bank directly to register for PayNow.<br><br></details>
 <details><summary><font color="#009427" size="+1"><b>Q8. Why was Workfare Special Payment extended to Work Year (WY) 2020 Workfare Income Supplement recipients?</b></font></summary>
 Many individuals are experiencing significant uncertainty over their jobs and their livelihoods during this time.<br><br>
 The extension of Workfare Special Payment to include Work Year (WY) 2020 Workfare Income Supplement (WIS) recipients will help those who become lower-wage workers more recently (i.e. newly qualified for WIS for work done in 2020). <br><br></details>
@@ -289,8 +296,10 @@ details[open]>summary {
 }
  a.hyperlink {
     color:green;
+	  text-decoration: none;
   }
 a.hyperlink:hover {
     color:MediumVioletRed;
+		text-decoration: none;
 }
 </style>
