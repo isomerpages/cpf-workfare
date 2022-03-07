@@ -38,6 +38,6 @@ From 1 July 2020, when you pay for your own training, you will qualify for train
 
 * the training course attended is an outcome-based course offered by SSG-appointed CET centres and courses under the cleaning, security landscape and lift sectors
 
-If you are employed, your employer will be making regular CPF contributions to your CPF account, and you are not required to apply for TA. You need to have a valid PayNow account tied to your NRIC number for TA to be disbursed to you.
-
 ![](/images/WSS3.png)
+
+If you are employed, your employer will be making regular CPF contributions to your CPF account, and you are not required to apply for TA. You need to have a valid PayNow account tied to your NRIC number for TA to be disbursed to you.
