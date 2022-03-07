@@ -2,6 +2,7 @@ collections:
   wis-scheme:
     output: true
     order:
+      - What must I do?.md
       - When?.md
       - How much?.md
       - Do I qualify?.md
