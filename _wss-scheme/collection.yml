@@ -2,4 +2,5 @@ collections:
   wss-scheme:
     output: true
     order:
+      - Be rewarded for completing training.md
       - Training allowance for self sponsored trainees.md
