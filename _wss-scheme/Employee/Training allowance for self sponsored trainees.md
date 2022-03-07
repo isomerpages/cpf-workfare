@@ -25,7 +25,9 @@ You must meet the following WSS eligibility criteria:
 
 * You own less than two properties; and
 
-* If you are married: Together with your spouse, both of you own less than two properties; or your spouse’s assessable income for the preceding Year of Assessment is less than $70,000
+* If you are married: 
+  * Together with your spouse, both of you own less than two properties; or 
+  * your spouse’s assessable income for the preceding Year of Assessment is less than $70,000
 
 ### How to apply and claim?
 From 1 July 2020, when you pay for your own training, you will qualify for training allowance if:
