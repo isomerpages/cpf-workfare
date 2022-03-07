@@ -4,4 +4,12 @@ permalink: /wis-scheme/permalink
 description: ""
 third_nav_title: Self Employed
 ---
+### How much?
 
+
+![](/images/WIS10.png)
+
+### You will receive
+10% of your WIS payment in cash, and 90% in your MediSave Account. We will pay the cash portion into your bank account, or send you a cheque if you do not have a bank account. Click here to update your bank account.
+
+Use the online [WIS calculator] to see how much WIS you can receive.
