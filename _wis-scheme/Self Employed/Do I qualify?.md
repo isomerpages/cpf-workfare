@@ -15,8 +15,9 @@ third_nav_title: Self Employed
 ### However, you will not qualify for WIS if you:
 * live in a property with an annual value* of more than $13,000 assessed as at 31 December of the preceding year;
 * own two or more properties; or
-* if married: you and your spouse together own two or more properties; or
-the assessable income of your spouse for the preceding Year of Assessment exceeds $70,000.
+* if married: 
+  * you and your spouse together own two or more properties; or
+  *the assessable income of your spouse for the preceding Year of Assessment exceeds $70,000.
 ###### *Annual value is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties.
 
 ![](/images/WIS9.png)
