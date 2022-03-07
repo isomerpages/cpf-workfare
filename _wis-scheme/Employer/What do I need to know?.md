@@ -4,6 +4,8 @@ permalink: /wis-scheme/permalink
 description: ""
 third_nav_title: Employer
 ---
+### What do I need to know as an employer?
+
 Under the CPF Act, employers must contribute CPF if their employees earn more than $50 per month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis.
 
 
