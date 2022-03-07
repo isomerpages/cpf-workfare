@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Employee/.keep
-      - How much?.md
       - Do I qualify?.md
