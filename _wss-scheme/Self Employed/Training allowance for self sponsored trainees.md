@@ -27,6 +27,7 @@ You must meet the following WSS eligibility criteria:
 
 * If you are married: Together with your spouse, both of you own less than two properties; or your spouse’s assessable income for the preceding Year of Assessment is less than $70,000
 
+![](/images/WSS15.png)
 
 ### How to apply and claim?
 
