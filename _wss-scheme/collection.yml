@@ -1,5 +1,4 @@
 collections:
   wss-scheme:
     output: true
-    order:
-      - Employee/.keep
+    order: []
