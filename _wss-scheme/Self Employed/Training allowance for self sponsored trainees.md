@@ -4,7 +4,7 @@ permalink: /wss-scheme/permalink
 description: ""
 third_nav_title: Self Employed
 ---
-![](/images/WSS7.png)
+[](https://www.tpgateway.gov.sg/)![](/images/WSS7.png)
 
 If you sign up and pay for any WSS qualifying courses on your own, you are eligible for training allowance (TA) of $6.00 for each hour of training*, up to a cap of 180 hours per WSS eligibility year.
 
@@ -42,6 +42,6 @@ From 1 July 2020, when you pay for your own training, you will qualify for train
 
 You will need to have a valid PayNow account tied to your NRIC number for TA to be disbursed to you.
 
-If you are self-employed and hence do not have CPF contributions, you may submit your TA claims online here. Please refer to the step-by-step guide on how to file your TA online here. Should you require assistance with e-submission, you may visit either Workforce Singapore (WSG) Careers Connect at Lifelong Learning Institute or Employment and Employability Institute (e2i) centre at Devan Nair Institute for Employment and Employability for on-site assistance to submit your TA claims online. 
+If you are **self-employed** and hence **do not have CPF contributions**, you may submit your TA claims online [here](https://form.gov.sg/#!/5ea695a784394b00115f287c). Please refer to the step-by-step guide on how to file your TA online [here](https://www-wsg-gov-sg-admin.cwp.sg/content/programmes-and-initiatives/workfare-skills-support-scheme-individual/step-guide-for-online-submission-of-wss-sep-ta-claims.pdf). Should you require assistance with e-submission, you may visit either Workforce Singapore (WSG) Careers Connect at **Lifelong Learning Institute** or Employment and Employability Institute (e2i) centre at **Devan Nair Institute for Employment and Employability** for on-site assistance to submit your TA claims online. 
 
 ![](/images/WSS8.png)
