@@ -2,6 +2,7 @@ collections:
   wis-scheme:
     output: true
     order:
+      - Employee/What must I do?.md
       - Employee/When?.md
       - Employee/Do I qualify?.md
       - Employee/How much?.md
