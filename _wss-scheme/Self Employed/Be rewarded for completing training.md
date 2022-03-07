@@ -26,5 +26,3 @@ You will need to have a valid PayNow account tied to your NRIC number for TA to 
 If you are **self-employed** and hence **do not have CPF contributions**, you may submit your TA claims online [here](https://form.gov.sg/#!/5ea695a784394b00115f287c). Please refer to the step-by-step guide on how to file your TA online [here](https://www-wsg-gov-sg-admin.cwp.sg/content/programmes-and-initiatives/workfare-skills-support-scheme-individual/step-guide-for-online-submission-of-wss-sep-ta-claims.pdf). Should you require assistance with e-submission, you may visit either Workforce Singapore (WSG) Careers Connect at **Lifelong Learning Institute** or Employment and Employability Institute (e2i) centre at **Devan Nair Institute for Employment and Employability** for on-site assistance to submit your TA claims online. 
 
 ![](/images/WSS11.png)
-
-
