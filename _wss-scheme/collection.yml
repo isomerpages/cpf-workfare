@@ -2,11 +2,11 @@ collections:
   wss-scheme:
     output: true
     order:
-      - Employer/Absentee Payroll.md
-      - Employer/.keep
+      - Employee/.keep
+      - Employee/Training allowance for self sponsored trainees.md
+      - Employee/Be rewarded for completing training.md
       - Self Employed/.keep
       - Self Employed/Training allowance for self sponsored trainees.md
       - Self Employed/Be rewarded for completing training.md
-      - Employee/Training allowance for self sponsored trainees.md
-      - Employee/Be rewarded for completing training.md
-      - Employee/.keep
+      - Employer/.keep
+      - Employer/Absentee Payroll.md
