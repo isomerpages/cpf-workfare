@@ -1,4 +1,5 @@
 collections:
   wis-scheme:
     output: true
-    order: []
+    order:
+      - Employee.md
