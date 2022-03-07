@@ -2,7 +2,5 @@ collections:
   wss-scheme:
     output: true
     order:
-      - Employer/Absentee Payroll.md
-      - Employer/.keep
       - Self Employed/.keep
       - Employee/.keep
