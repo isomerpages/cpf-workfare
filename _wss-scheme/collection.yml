@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Employer/.keep
-      - Absentee Payroll.md
       - Self Employed/.keep
       - Self Employed/Training allowance for self sponsored trainees.md
       - Self Employed/Be rewarded for completing training.md
