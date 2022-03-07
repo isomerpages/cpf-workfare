@@ -24,4 +24,17 @@ The training grant covers 95% Absentee Payroll (no dollar cap). You can benefit 
 
 * Certifiable Skills Training courses accredited or supported by the SkillsFuture Singapore (SSG). Please visit [MySkillsFuture](https://www.myskillsfuture.gov.sg/content/portal/en/index.html) to see the list of eligible courses.
 
+### Who can qualify?
 
+Your employees will qualify if they meet these criteria
+
+* are a Singapore citizen;
+* are aged 35 years and above on 31 December of the work year (aged 13 years and above for persons with disabilities);
+* earn an average gross monthly income of not more than $2,300 for the months worked;
+* live in a property with an annual value of less than $13,000 assessed as at 31 December of the preceding year;
+* own less than two properties;
+* If married: Together with spouse, and both own less than two properties; or
+spouse’s assessable income for the preceding Year of Assessment is less than $70,000; and
+* have signed up for any WSS qualifying courses.
+
+![](/images/WSS13.png)
