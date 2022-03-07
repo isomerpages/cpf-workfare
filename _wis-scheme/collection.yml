@@ -2,6 +2,7 @@ collections:
   wis-scheme:
     output: true
     order:
+      - Self Employed.md
       - Employee/.keep
       - Employee/Do I qualify?.md
       - Employee/How much?.md
