@@ -9,7 +9,6 @@ third_nav_title: Employee
 ### How much?
 
 ![](/images/WIS18.jpeg)
-
 *Including persons with disabilities who are below 35
 
 ### You will receive
