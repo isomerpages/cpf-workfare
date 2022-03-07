@@ -2,5 +2,6 @@ collections:
   wss-scheme:
     output: true
     order:
+      - Employer/.keep
       - Self Employed/.keep
       - Employee/.keep
