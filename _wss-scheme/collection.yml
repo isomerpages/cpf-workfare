@@ -1,4 +1,5 @@
 collections:
   wss-scheme:
     output: true
-    order: []
+    order:
+      - Training allowance for selfsponsored trainees.md
