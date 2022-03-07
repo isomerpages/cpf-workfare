@@ -11,3 +11,5 @@ We will automatically assess their eligibility for WIS based on the CPF contribu
 
 
 Visit [www.mom.gov.sg/workright](https://www.mom.gov.sg/workright) to find out more about your CPF obligations.
+
+![](/images/WIS16.png)
