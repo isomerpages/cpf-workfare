@@ -9,7 +9,9 @@ third_nav_title: Employer
 ### What does it cover?
 The training grant covers 95% Absentee Payroll (no dollar cap). You can benefit from this when you enroll your employees in any of the following courses:
 
-* Singapore Workforce Skills Qualifications (WSQ) courses: All outcome-based courses offered by SSG-appointed CET centres are supported under the WSS scheme. Please click [here](https://www.ssg.gov.sg/wsq/cet-centres.html) to see the list of CET Centres offering such courses and their contact details.
+* Singapore Workforce Skills Qualifications (WSQ) courses;
+###### All outcome-based courses offered by SSG-appointed CET centres are supported under the WSS scheme. Please click [here](https://www.ssg.gov.sg/wsq/cet-centres.html) to see the list of CET Centres offering such courses and their contact details.
+
 
 * Part-time ITE Skills Certificate, Part-time NITEC and Part-time Higher NITEC courses offered by the Institute of Technical Education (ITE). Please contact [ITE](https://www.ite.edu.sg/who-we-are/get-in-touch) directly to find out more on course details.
 
