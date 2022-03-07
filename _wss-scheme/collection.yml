@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Employee/.keep
-      - Be rewarded for completing training.md
       - Training allowance for self sponsored trainees.md
