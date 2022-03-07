@@ -1,4 +1,4 @@
 collections:
-  wss-scheme-employee:
+  wss-scheme:
     output: true
     order: []
