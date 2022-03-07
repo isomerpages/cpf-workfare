@@ -2,18 +2,18 @@ collections:
   wis-scheme:
     output: true
     order:
-      - Employer/Benefits.md
-      - Employer/What do I need to know?.md
-      - Employer/.keep
-      - Self Employed/More information.md
-      - Self Employed/What must I do?.md
-      - Self Employed/When?.md
-      - Self Employed/How much?.md
-      - Self Employed/Do I qualify?.md
-      - Self Employed/.keep
       - Employee/.keep
       - Employee/Do I qualify?.md
       - Employee/How much?.md
       - Employee/When?.md
       - Employee/What must I do?.md
       - Employee/More information.md
+      - Self Employed/.keep
+      - Self Employed/More information.md
+      - Self Employed/What must I do?.md
+      - Self Employed/When?.md
+      - Self Employed/How much?.md
+      - Self Employed/Do I qualify?.md
+      - Employer/.keep
+      - Employer/Benefits.md
+      - Employer/What do I need to know?.md
