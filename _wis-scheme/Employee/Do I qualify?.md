@@ -17,7 +17,9 @@ third_nav_title: Employee
 
 * own two or more properties; or
 
-  * if married: you and your spouse together own two or more properties; or the assessable income of your spouse for the preceding Year of Assessment exceeds $70,000.
+ * if married: 
+   * you and your spouse together own two or more properties; or 
+   * the assessable income of your spouse for the preceding Year of Assessment exceeds $70,000.
 ###### ***Annual value is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties.
 
 ![](/images/WIS3.png)
