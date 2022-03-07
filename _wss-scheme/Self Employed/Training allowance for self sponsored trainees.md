@@ -14,9 +14,16 @@ If you sign up and pay for any WSS qualifying courses on your own, you are eligi
 You must meet the following WSS eligibility criteria:
 
 * You are a Singapore citizen;
+
 * You are aged 35 years and above (aged 13 years and above for persons with disabilities);
+
 * You are a Self-Employed Person who declared your Net Trade Income or work done in the preceding Work Year and made Medisave contributions;
+
 * You earn an average gross monthly income of not more than $2,300 for the past 12 months;
+
 * You live in a property with an annual value of less than $13,000 assessed as at 31 December of the preceding year;
+
 * You own less than two properties; and
+
 * If you are married: Together with your spouse, both of you own less than two properties; or your spouse’s assessable income for the preceding Year of Assessment is less than $70,000
+
