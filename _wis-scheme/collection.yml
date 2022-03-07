@@ -2,4 +2,5 @@ collections:
   wis-scheme:
     output: true
     order:
+      - How much?.md
       - Do I qualify?.md
