@@ -10,5 +10,6 @@ third_nav_title: Employee
 
 you will receive WIS every month. The table below shows the WIS payment dates.
 
+![](/images/WIS19.jpeg)
 
 *Based on payment dates for bank crediting. Payment by cheque takes up to 2 weeks longer compared to bank crediting.
