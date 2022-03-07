@@ -1,0 +1,4 @@
+collections:
+  wis-scheme:
+    output: true
+    order: []
