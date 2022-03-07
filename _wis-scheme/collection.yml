@@ -2,6 +2,7 @@ collections:
   wis-scheme:
     output: true
     order:
+      - Employer/What do I need to know?.md
       - Employer/.keep
       - Benefits.md
       - Self Employed/More information.md
