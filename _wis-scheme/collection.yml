@@ -1,6 +1,4 @@
 collections:
   wis-scheme:
     output: true
-    order:
-      - Do I qualify?/Employee.md
-      - Do I qualify?/.keep
+    order: []
