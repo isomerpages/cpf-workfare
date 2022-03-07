@@ -4,6 +4,8 @@ permalink: /wis-scheme/Employee/permalink
 description: ""
 third_nav_title: Employee
 ---
+![](/images/WIS6.png)
+
 ### What must I do?
 
 Your WIS eligibility will be automatically assessed based on the CPF contributions made by your employer. You do not need to do anything.
@@ -13,5 +15,3 @@ Under the CPF Act, employers must contribute CPF if their employees earn more th
 If your employer is not contributing CPF on your behalf, please inform us immediately. You can email Workright at workright@mom.gov.sg, call 1800-221-9922, or visit any CPF Service Centre.
 
 All calls will be kept confidential.
-
-![](/images/WIS6.png)
