@@ -27,3 +27,16 @@ You must meet the following WSS eligibility criteria:
 
 * If you are married: Together with your spouse, both of you own less than two properties; or your spouse’s assessable income for the preceding Year of Assessment is less than $70,000
 
+
+### How to apply and claim?
+
+From 1 July 2020, when you pay for your own training, you will qualify for training allowance if:
+
+* you complete and pass the course with minimum 75% attendance;
+
+* the course that you attended started within your WSS eligibility period;
+
+* you are not barred from receiving SkillsFuture Singapore (SSG) / Workforce Singapore (WSG) / Employment and Employability Institute (e2i) grants; and
+
+* the training course attended is an outcome-based course offered by SSG-appointed CET centres and courses under the cleaning, security, landscape and lift sectors
+
