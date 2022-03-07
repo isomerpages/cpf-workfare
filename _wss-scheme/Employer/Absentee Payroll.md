@@ -38,3 +38,8 @@ spouse’s assessable income for the preceding Year of Assessment is less than $
 * have signed up for any WSS qualifying courses.
 
 ![](/images/WSS13.png)
+
+### How to apply?
+You can apply and claim for the grants through the [Enterprise Portal for Jobs and Skills](https://www.tpgateway.gov.sg/) system.
+
+![](/images/WSS14.png)
