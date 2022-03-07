@@ -4,6 +4,8 @@ permalink: /wis-scheme/Employee/permalink
 description: ""
 third_nav_title: Employee
 ---
+### What must I do?
+
 Your WIS eligibility will be automatically assessed based on the CPF contributions made by your employer. You do not need to do anything.
 
 Under the CPF Act, employers must contribute CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis.
