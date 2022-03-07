@@ -2,5 +2,4 @@ collections:
   wis-scheme:
     output: true
     order:
-      - Do I qualify?/.keep
       - Employee.md
