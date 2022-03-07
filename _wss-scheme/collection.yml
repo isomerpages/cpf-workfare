@@ -2,9 +2,9 @@ collections:
   wss-scheme:
     output: true
     order:
-      - Self Employed/Be rewarded for completing training.md
-      - Self Employed/Training allowance for self sponsored trainees.md
       - Self Employed/.keep
+      - Self Employed/Training allowance for self sponsored trainees.md
+      - Self Employed/Be rewarded for completing training.md
       - Employee/Training allowance for self sponsored trainees.md
       - Employee/Be rewarded for completing training.md
       - Employee/.keep
