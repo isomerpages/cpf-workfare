@@ -9,3 +9,13 @@ For work done in a year, we will pay your WIS in the next year after you:
 
 * make the required MediSave contributions.
 
+![](/images/WIS12.png)
+
+The earlier you declare your income and make MediSave contributions, the earlier you will receive your WIS payout.
+
+
+Declare your income and make your MediSave contributions by last Friday of March to receive WIS by 30 April*.
+
+*Based on payment dates for bank crediting.
+
+Use the online [WIS calculator] to find out the amount to contribute.
