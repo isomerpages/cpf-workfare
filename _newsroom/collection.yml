@@ -2,6 +2,7 @@ collections:
   newsroom:
     output: true
     order:
+      - Speeches/2010.md
       - Speeches/2012.md
       - Speeches/2013.md
       - Speeches/2014.md
