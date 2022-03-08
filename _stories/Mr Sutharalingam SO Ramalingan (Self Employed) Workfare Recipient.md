@@ -4,7 +4,14 @@ permalink: /stories/permalink
 description: ""
 ---
 ![](/images/STORIES10.jpg)
-> “It’s nice to get the extra money from Workfare every year. It’s like a bonus for self-employed people like me. I use them for my daily expenses or pay the bills.”
+
+<div style="border-style:solid none;padding:10pt 0in;text-align:center;margin-right:0.6in;margin-left:0.6in;border-top-color:#5b9bd5;border-bottom-color:#5b9bd5;border-top-width:1pt;border-bottom-width:1pt;">
+<p style="margin:0.25in 0in;" class="MsoIntenseQuote">
+<span lang="EN-SG" style="color:#5b9bd5;line-height:107%;font-size:18pt;font-style:italic">“It’s nice to get the extra money from Workfare every year. It’s like a bonus for self-employed people like me. I use them for my daily expenses or pay the bills.”
+
+</span>
+</p>
+</div>
 
 * Mr Sutharalingam has been a taxi driver for the past 19 years. The 62-year-old enjoys his job as one of the perks of being a taxi driver is knowing where to go for delicious food.
 * As a self-employed Singaporean, Mr Sutharalingam is eligible for **Workfare** which gives him an annual payout. After declaring his annual income and making contribution to his MediSave account, Mr Sutharalingam receives a **Workfare cash payout**.
@@ -20,6 +27,11 @@ Another 90 per cent of Workfare payout goes to his **CPF MediSave** account to h
 * Mr Sutharalingam looks forward to receiving additional **MediSave top-ups**, more **subsidies at CHAS** clinics and additional subsidies for **MediShield Life**.
 * He also receives other help and support from the government, such as the **U-Save rebate** and **GST vouchers** which help to lessen his financial burden.
 
-> “If my passengers are happy to talk to me, I will chat with them. But even if passengers become difficult, I will just keep quiet and not get angry. Why spoil your day for just one passenger when you still have to carry on working for the rest of the day?”
+<div style="border-style:solid none;padding:10pt 0in;text-align:center;margin-right:0.6in;margin-left:0.6in;border-top-color:#5b9bd5;border-bottom-color:#5b9bd5;border-top-width:1pt;border-bottom-width:1pt;">
+<p style="margin:0.25in 0in;" class="MsoIntenseQuote">
+<span lang="EN-SG" style="color:#5b9bd5;line-height:107%;font-size:18pt;font-style:italic">“If my passengers are happy to talk to me, I will chat with them. But even if passengers become difficult, I will just keep quiet and not get angry. Why spoil your day for just one passenger when you still have to carry on working for the rest of the day?”
+</span>
+</p>
+</div>
 
 [Download PDF](/files/Stories%20-%20Mr%20Sutharalingam.pdf)
