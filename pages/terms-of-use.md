@@ -62,7 +62,9 @@ Thank you for visiting the Workfare Website (hereinafter the "Website").
 28. The Government reserves the right to amend or change the URL of this Website. Under no circumstances is the Government obliged to inform or give prior notice to third parties who had hyperlinked to this Website about the amendment or change of this Website's URL.
 
 **Additional Terms** 
+
 29. These Terms of Use shall not limit any specific provisions set out in the individual terms and conditions of particular tools and services offered on or through this Website.
 
 **Governing Law**
+
 30. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
