@@ -42,7 +42,7 @@ description: ""
 
 * Her household also receives **GSTV-Cash** and **U-Save rebates** to offset their daily household expenses. Many other Workfare recipients (over 90%) similarly benefit from GSTV-Cash and U-Save rebates.
 
-* Auntie Geok, her husband, and her son, each has the **CHAS Blue car**d. They receive highly subsidised medical and dental services at CHAS clinics.
+* Auntie Geok, her husband, and her son, each has the **CHAS Blue card**. They receive highly subsidised medical and dental services at CHAS clinics.
 
 * She is amongst the 4 in 10 Workfare recipients in 2017 who also receive medical and dental subsidies under the CHAS scheme.
 
