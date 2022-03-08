@@ -1,5 +1,4 @@
 collections:
   privacy-statement:
     output: true
-    order:
-      - privacy.md
+    order: []
