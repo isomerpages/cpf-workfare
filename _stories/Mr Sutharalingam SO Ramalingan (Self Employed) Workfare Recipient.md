@@ -21,3 +21,5 @@ Another 90 per cent of Workfare payout goes to his **CPF MediSave** account to h
 * He also receives other help and support from the government, such as the **U-Save rebate** and **GST vouchers** which help to lessen his financial burden.
 
 > “If my passengers are happy to talk to me, I will chat with them. But even if passengers become difficult, I will just keep quiet and not get angry. Why spoil your day for just one passenger when you still have to carry on working for the rest of the day?”
+
+[Download PDF](/files/Stories%20-%20Mr%20Sutharalingam.pdf)
