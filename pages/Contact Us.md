@@ -3,6 +3,8 @@ title: Contact Us
 permalink: /permalink
 description: ""
 ---
+![](/images/ico_contact.png)
+
 **WIS Hotline**
 
 1800-227-1188
