@@ -5,8 +5,6 @@ date: 2022-01-25
 layout: post
 description: ""
 ---
-
-
 ![Alt text for image on Isomer site](/images/MdmGohGeokKee.jpg)
 	
 
@@ -48,8 +46,8 @@ description: ""
 
 * She is amongst the 4 in 10 Workfare recipients in 2017 who also receive medical and dental subsidies under the CHAS scheme.
 
-* Auntie Geok is grateful that Workfare and Government’s subsidies for older workers like her amount to significant support for her and her family. In her own words, “这边一点，那边一点, 加起来其实很多!” [translated: here a bit, there a bit, Government support actually add up a lot].
-
-[Example Filename](/files/Stories%20-%20Mdm%20Goh%20Geok%20Kee.pdf)
+* Auntie Geok is grateful that Workfare and Government’s subsidies for older workers like her amount to significant support for her and her family. In her own words, “这边一点，那边一点, 加起来其实很多!” [Translated: here a bit, there a bit, Government support actually add up a lot].
 
 ![Alt text for image on Isomer site](/images/GovtSupport.jpg)
+
+[Download PDF](/files/Stories%20-%20Mdm%20Goh%20Geok%20Kee.pdf)
