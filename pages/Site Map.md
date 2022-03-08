@@ -41,22 +41,6 @@ description: ""
 
 <img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Contact Us</font><br>
 
-<img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;WIS</font>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <style>
 img.PressReleaseIcon {
   height: 5%;
