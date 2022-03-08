@@ -7,15 +7,27 @@ description: ""
 
 <img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;About Workfare</font><br>
 
-<img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;WIS</font><br><img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Employee</font><br>
+<img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;WIS</font>
+
+* <font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Employee</font><br>
+*  <font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Self-Employed</font><br>
+*  <font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Employer</font><br>
+
+
 
 <img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;WSS</font><br>
-<img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Employee</font>
+* <font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Employee</font><br>
+*  <font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Self-Employed</font><br>
+*  <font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Employer</font><br>
+
 
 <img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Stories</font><br>
 
 <img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Newsroom</font><br>
-<img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Speeches</font>
+* <font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Speeches</font>
+* <font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Press Releases</font>
+* <font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Media Articles</font>
+*<font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Videos</font>
 
 <img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;WIS Calculator</font><br>
 
@@ -31,9 +43,7 @@ description: ""
 
 <img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;WIS</font>
 
-* <img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Employee</font>
-* <img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Self-Employed</font>
-* <img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Employer</font>
+
 
 
 
