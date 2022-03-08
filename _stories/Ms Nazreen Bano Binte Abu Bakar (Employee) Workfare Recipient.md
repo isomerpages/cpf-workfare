@@ -5,7 +5,13 @@ description: ""
 ---
 ![](/images/STORIES7.jpg)
 
-> “It is my biggest wish to own my own house one day. The Workfare CPF top-ups will help me financially when I decide to buy a HDB flat.”
+
+<div style="border-style:solid none;padding:10pt 0in;text-align:center;margin-right:0.6in;margin-left:0.6in;border-top-color:#5b9bd5;border-bottom-color:#5b9bd5;border-top-width:1pt;border-bottom-width:1pt;">
+<p style="margin:0.25in 0in;" class="MsoIntenseQuote">
+<span lang="EN-SG" style="color:#5b9bd5;line-height:107%;font-size:18pt;font-style:italic">“It is my biggest wish to own my own house one day. The Workfare CPF top-ups will help me financially when I decide to buy a HDB flat.”
+</span>
+</p>
+</div>
 
 * As a single mother to three children, Ms Nazreen Bano Bte Abu Bakar never gave up, no matter how difficult the situation was.
 * After being away from the workforce for over a decade to bring up her children, Ms Nazreen decided to start working again. Workfare supported and encouraged her in this journey.
@@ -26,6 +32,11 @@ description: ""
 
 ![](/images/STORIES9.jpg)
 
-> Ms Nazreen is grateful for the various government support to help her and her family.
+<div style="border-style:solid none;padding:10pt 0in;text-align:center;margin-right:0.6in;margin-left:0.6in;border-top-color:#5b9bd5;border-bottom-color:#5b9bd5;border-top-width:1pt;border-bottom-width:1pt;">
+<p style="margin:0.25in 0in;" class="MsoIntenseQuote">
+<span lang="EN-SG" style="color:#5b9bd5;line-height:107%;font-size:18pt;font-style:italic">Ms Nazreen is grateful for the various government support to help her and her family.
+</span>
+</p>
+</div>
 
 [Download pdf](/files/Stories%20%20-%20Ms%20Nazreen%20Bano%20Binte%20Abu%20Bakar.pdf)
