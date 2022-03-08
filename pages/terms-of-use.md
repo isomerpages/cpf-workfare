@@ -2,12 +2,24 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
+Thank you for visiting the Workfare Website (hereinafter the "Website").
 
-#### **General Legal Information**
+**General** 
+1. PLEASE READ THESE TERMS OF USE CAREFULLY. By accessing the Website, any pages thereof and / or by using the online services, you agree to be legally bound by these Terms of Use. If you do not agree to the Terms of Use below, do not access this Website, or any of the pages and / or use the online services.
+2. In case of any violation of these Terms of Use, the Government reserves the right to seek all remedies available by law and in equity for such violations. These Terms of Use apply to all visits to this Website, both now and in future.
+3. The Government reserves the right to change these Terms of Use from time to time at its sole discretion. All changes will be posted on this page and your use of this Website after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes. You should therefore read this page carefully each time you visit this Website.
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+**Proprietary Rights**
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+4. This Website is the official Workfare Income Supplement scheme and Workfare Training Support scheme website. It is owned and operated by the Government. The Government reserves the right to update or modify this Website from time to time.
+5. The materials located on this Website, including but not limited to the information, text, images, photographs, video, graphics, as well as any software programs available on or through this Website ("the Contents"), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by the Government.
+6. No licence or right is granted to you and your access to this Website and / or use of the online tools and services should not be construed as granting, by implication, estoppels or otherwise, any license or right to use any of the Contents without the prior written consent of the Government or the relevant third party owner of the proprietary right thereof.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+**Privacy Policy**
+
+7. [Click here] to review this Website's Privacy Policy.
+
+**Restrictions on Use of Information and Materials**
+
+8. Except as otherwise provided, the Contents of this Website shall not be reproduced, republished, uploaded, posted, transmitted, distributed, stored, adapted, displayed, altered or otherwise used in whole or in part in any manner, without the prior written consent of the Government.
+9. 
