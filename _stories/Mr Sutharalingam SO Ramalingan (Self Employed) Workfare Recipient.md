@@ -34,4 +34,4 @@ Another 90 per cent of Workfare payout goes to his **CPF MediSave** account to h
 </p>
 </div>
 
-[Download PDF](/files/Stories%20-%20Mr%20Sutharalingam.pdf)
+[Download PDF (277KB)](/files/Stories%20-%20Mr%20Sutharalingam.pdf)
