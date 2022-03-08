@@ -32,4 +32,4 @@ description: ""
 
 ![](/images/STORIES4.jpg)
 
-[Download PDF](/files/Stories%20-%20Mr%20Gunasegaran.pdf)
+[Download PDF (406KB)](/files/Stories%20-%20Mr%20Gunasegaran.pdf)
