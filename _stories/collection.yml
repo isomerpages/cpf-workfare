@@ -1,4 +1,5 @@
 collections:
   stories:
     output: true
-    order: []
+    order:
+      - Stories.md
