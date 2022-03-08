@@ -39,4 +39,4 @@ description: ""
 </p>
 </div>
 
-[Download pdf](/files/Stories%20%20-%20Ms%20Nazreen%20Bano%20Binte%20Abu%20Bakar.pdf)
+[Download pdf (424KB)](/files/Stories%20%20-%20Ms%20Nazreen%20Bano%20Binte%20Abu%20Bakar.pdf)
