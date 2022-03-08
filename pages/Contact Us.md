@@ -3,8 +3,9 @@ title: Contact Us
 permalink: /permalink
 description: ""
 ---
+<img align="right" src="/images/ico_contact.png" class="PressReleaseIcon">
 
-<img align="left" src="/images/ico_contact.png" class="PressReleaseIcon"><font align="left" size="=+5">&nbsp;&nbsp;&nbsp;&nbsp;**WIS Hotline**
+**WIS Hotline**
 	
 *  1800-227-1188
 
@@ -23,13 +24,18 @@ Mon - Fri: 8.30am to 5.30pm
 
 Sat: 8.30am to 1.00pm
 	
-<img align="left" src="/images/ico_email.png" class="PressReleaseIcon">
+<img align="right" src="/images/ico_email.png" class="PressReleaseIcon">
+
+<font align="center" color="green" size="5">WIS Feedback
+	
+WSS Feedback</font><br><br><br>
+
 	
 	
 <style>
 img.PressReleaseIcon {
   height: 5%;
-  width: 5%;
+  width: 10%;
 }
 a.hyperlink {
     color:green;
