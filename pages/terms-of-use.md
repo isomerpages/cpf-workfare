@@ -44,3 +44,25 @@ Thank you for visiting the Workfare Website (hereinafter the "Website").
     * use any robot, spider, other automatic device, or manual process to monitor or copy any pages other than for non-commercial purpose within this Website or the Contents without the Government's prior written permission;
     * use any device, software or routine to interfere or attempt to interfere with the proper working of this Website; and / or
     * take any action that imposes an unreasonable or disproportionately large load on the Government's servers.
+
+**Links from This Website to Other Websites**
+
+19. This Website contains hyperlinks to websites which are not maintained nor controlled by the Government. The Government shall not be responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyperlinks and access to such websites are entirely at your own risk.
+20. All hyperlinks to other websites are provided as a convenience to you as a user of this Website. The inclusion of any hyperlink does not imply endorsement by the Government of such websites. In no circumstances shall the Government be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this Website is linked.
+
+**Links to This Website from Other Websites**
+
+21. Except as set forth below, caching and links to, and the framing of this Website or any of the Contents are prohibited.
+22. Linking to the Homepage: You may link to the Homepage of this Website, upon notifying the Government in writing.
+23. Hyperlinking to an internal page of this Website: You must make a specific request for, and secure permission from the Government prior to hyperlinking to, or framing, this Website or any of the Contents, or engaging in similar activities. The Government reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Website or any of the Contents.
+24. Your linking to, or your framing of this Website or any of the Contents constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Website or any of the Contents.
+25. Under no circumstances shall the Government be considered to be associated or affiliated in any manner with any trade or service marks, logos, insignia or other devices used or appearing on websites that link to this Website or any of the Contents.
+26. The Government reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
+27. The Government reserves the right to disable any unauthorized links or frames and disclaims any responsibility for the contents available on any other website reached by links to or from this Website or any of the Contents.
+28. The Government reserves the right to amend or change the URL of this Website. Under no circumstances is the Government obliged to inform or give prior notice to third parties who had hyperlinked to this Website about the amendment or change of this Website's URL.
+
+**Additional Terms** 
+29. These Terms of Use shall not limit any specific provisions set out in the individual terms and conditions of particular tools and services offered on or through this Website.
+
+**Governing Law**
+30. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
