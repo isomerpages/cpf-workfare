@@ -23,4 +23,4 @@ description: ""
 * The Workfare CPF top-ups also enable Madam Huon to look forward to higher payouts when she eventually retires.
 * While the job can be physically taxing, Madam Huon maintains a positive attitude and shows no signs of slowing down. She actively keeps a look out for training courses so that she can upgrade her skills and earn a higher income through enlarged responsibilities.
 
-[Download PDF](/files/Stories%20-%20Mdm%20Goh%20Geok%20Kee.pdf)
+[Download PDF (198KB)](/files/Stories%20-%20Mdm%20Goh%20Geok%20Kee.pdf)
