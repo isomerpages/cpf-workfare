@@ -12,7 +12,10 @@ The Training Commitment Award is a cash incentive which serves to motivate and r
 
 You are eligible for TCA if you have a WSS Letter and achieve any of the following within your WSS eligibility period, capped at $1,000 per WSS eligibility year:
 
-* $100 for any two of the following, capped at $200 per 4 achievements: WSQ Statement of Attainment (SOA); Academic CET Modular Certificate/ Post-Diploma Certificate; or other certifiable courses supported by SSG;
+* $100 for any two of the following, capped at $200 per 4 achievements: 
+  * WSQ Statement of Attainment (SOA)
+  *  Academic CET Modular Certificate/ Post-Diploma Certificate
+  *  Other certifiable courses supported by SSG;
 
 * $500 for one WSQ qualification or Academic CET Qualification
 
