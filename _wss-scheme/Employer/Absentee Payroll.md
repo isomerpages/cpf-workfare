@@ -16,11 +16,11 @@ The training grant covers 95% Absentee Payroll (no dollar cap). You can benefit 
 * Part-time ITE Skills Certificate, Part-time NITEC and Part-time Higher NITEC courses offered by the Institute of Technical Education (ITE). Please contact [ITE](https://www.ite.edu.sg/who-we-are/get-in-touch) directly to find out more on course details.
 
 * Standalone skills-based modular courses, Part-time Diploma, Advanced Diploma, Specialist Diploma and Diploma (Conversion) programmes offered by the five local Polytechnics.
-###### [Nanyang Polytechnic Academy of Lifelong Learning & Skills (ALLS)](https://www.nyp.edu.sg/admissions/lifelong-learners/centre-for-industry-and-lifelong-learning.html)
-###### [Ngee Ann Polytechnic CET Academy](https://www.cet.np.edu.sg/)
-###### [Republic Polytechnic Academy for Continuing Education@RP](https://www.rp.edu.sg/ace/home)
-###### [Singapore Polytechnic PACE Academy](https://www.sp.edu.sg/pace)
-###### [Temasek Polytechnic Temasek SkillsFuture Academy](https://www.tp.edu.sg/centres/temasek-skillsfuture-academy)
+  * [Nanyang Polytechnic Academy of Lifelong Learning & Skills (ALLS)](https://www.nyp.edu.sg/admissions/lifelong-learners/centre-for-industry-and-lifelong-learning.html)
+  * [Ngee Ann Polytechnic CET Academy](https://www.cet.np.edu.sg/)
+  *  [Republic Polytechnic Academy for Continuing Education@RP](https://www.rp.edu.sg/ace/home)
+  *   [Singapore Polytechnic PACE Academy](https://www.sp.edu.sg/pace)
+  *   [Temasek Polytechnic Temasek SkillsFuture Academy](https://www.tp.edu.sg/centres/temasek-skillsfuture-academy)
 
 
 
@@ -35,8 +35,9 @@ Your employees will qualify if they meet these criteria
 * earn an average gross monthly income of not more than $2,300 for the months worked;
 * live in a property with an annual value of less than $13,000 assessed as at 31 December of the preceding year;
 * own less than two properties;
-* If married: Together with spouse, and both own less than two properties; or
-spouse’s assessable income for the preceding Year of Assessment is less than $70,000; and
+* If married: 
+  * Together with spouse, and both own less than two properties; or
+  * spouse’s assessable income for the preceding Year of Assessment is less than $70,000; and
 * have signed up for any WSS qualifying courses.
 
 ![](/images/WSS13.png)
