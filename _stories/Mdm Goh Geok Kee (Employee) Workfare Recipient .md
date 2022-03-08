@@ -50,4 +50,4 @@ description: ""
 
 ![Alt text for image on Isomer site](/images/GovtSupport.jpg)
 
-[Download PDF](/files/Stories%20-%20Mdm%20Goh%20Geok%20Kee.pdf)
+[Download PDF (625KB)](/files/Stories%20-%20Mdm%20Goh%20Geok%20Kee.pdf)
