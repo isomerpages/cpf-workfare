@@ -5,7 +5,13 @@ description: ""
 ---
 ![](/images/STORIES5.jpg)
 
->“With the extra cash that I get from Workfare, I usually use it for my daily expenses. I can also look forward to higher CPF payouts when I retire.”
+
+<div style="border-style:solid none;padding:10pt 0in;text-align:center;margin-right:0.6in;margin-left:0.6in;border-top-color:#5b9bd5;border-bottom-color:#5b9bd5;border-top-width:1pt;border-bottom-width:1pt;">
+<p style="margin:0.25in 0in;" class="MsoIntenseQuote">
+<span lang="EN-SG" style="color:#5b9bd5;line-height:107%;font-size:18pt;font-style:italic">“With the extra cash that I get from Workfare, I usually use it for my daily expenses. I can also look forward to higher CPF payouts when I retire.”
+</span>
+</p>
+</div>
 
 * As a mother to four children, Madam Huon Siew Chuo, 50, spent most of her adult life raising her children.
 * Realising that her children had grown up and she had more time to herself, Madam Huon decided to re-join the workforce to supplement her family’s income. **Workfare** tops up her income and encourages her to stay employed.
