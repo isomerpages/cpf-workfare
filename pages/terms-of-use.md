@@ -30,8 +30,9 @@ Thank you for visiting the Workfare Website (hereinafter the "Website").
 
 12. The Contents of this Website are provided on an "as is" and "as available" basis without warranties of any kind, and are of a general nature. The Contents are made available for your general information only. While every effort is made to ensure that the Contents herein are consistent with existing law and practice, you are advised to refer to the relevant legislation to be certain of your legal entitlements and obligations and should seek professional advice at all times before making any decision based on any such information or materials. Neither the Government nor any third party content providers is responsible for any errors or omissions, or for the results obtained from the use of the information and material in this Website or the tools contained in this Website.
 13. Neither the Government nor any third party content providers warrants:
-    * the truth, accuracy, adequacy, reliability, completeness, reasonableness, currency or timeliness, of the Contents contained in or accessed through this Website and expressly disclaims liability for any errors in or omissions from, the Contents of the Website; and
-    * that the Contents available through this Website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Website and the server is and will be free of all viruses and/or other malicious, destructive or corrupting code, programme or macro.
+
+    * a. the truth, accuracy, adequacy, reliability, completeness, reasonableness, currency or timeliness, of the Contents contained in or accessed through this Website and expressly disclaims liability for any errors in or omissions from, the Contents of the Website; and
+    * b. that the Contents available through this Website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Website and the server is and will be free of all viruses and/or other malicious, destructive or corrupting code, programme or macro.
 
 14. No warranty of any kind, express, implied or statutory (including but not limited to, warranties of title, merchantability, satisfactory quality, non-infringement of third-party intellectual property rights, fitness for a particular purpose and freedom from computer virus), is given in conjunction with the Contents of this Website, the tools contained in this Website or this Website in general.
 15. In no event shall the Government or any third party content providers be liable for damages, expenses, costs or loss of any kind (including without limitation any direct, or indirect, special, incidental or consequential damages, loss of profits or loss opportunity) howsoever caused as a result (direct or indirect) of, or in connection with, your use of this Website, or reliance on any information, materials, tools or online services provided in or available from this Website, irregardless of the form of action.
@@ -41,9 +42,9 @@ Thank you for visiting the Workfare Website (hereinafter the "Website").
 
 17. The Government reserves all rights to deny or restrict access to this Website to any particular person, or to block access from a particular Internet address to this Website, at any time, without having to give any reason or prior notice thereof.
 18. You agree that you will not:
-    * use any robot, spider, other automatic device, or manual process to monitor or copy any pages other than for non-commercial purpose within this Website or the Contents without the Government's prior written permission;
-    * use any device, software or routine to interfere or attempt to interfere with the proper working of this Website; and / or
-    * take any action that imposes an unreasonable or disproportionately large load on the Government's servers.
+    * a. use any robot, spider, other automatic device, or manual process to monitor or copy any pages other than for non-commercial purpose within this Website or the Contents without the Government's prior written permission;
+    * b. use any device, software or routine to interfere or attempt to interfere with the proper working of this Website; and / or
+    * c. take any action that imposes an unreasonable or disproportionately large load on the Government's servers.
 
 **Links from This Website to Other Websites**
 
