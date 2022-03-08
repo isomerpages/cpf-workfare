@@ -29,8 +29,14 @@ description: ""
 
 <img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Contact Us</font><br>
 
+<img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;WIS</font>
 
-<img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;WIS</font><br><img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Employee</font><br>
+* <img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Employee</font>
+* <img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Self-Employed</font>
+* <img align="left" src="/images/SITEMAPIM1.jpeg" class="PressReleaseIcon"><font align="left" color="green" size="3">&nbsp;&nbsp;&nbsp;&nbsp;Employer</font>
+
+
+
 
 
 
