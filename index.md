@@ -5,7 +5,9 @@ description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
 notification: As announced at Budget 2022, WIS will be enhanced from Work Year
-  2023. Click here to find out more about the upcoming WIS enhancements.
+  2023. Click <a
+  href="https://www.workfare.gov.sg/Documents/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf">here</a>to
+  find out more about the upcoming WIS enhancements.
 sections:
   - hero:
       title: Workfare
