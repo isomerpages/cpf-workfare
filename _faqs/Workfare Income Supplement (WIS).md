@@ -650,6 +650,7 @@ details[open]>summary {
 	
  a.hyperlink {
     color:green;
+		text-decoration: none;
   }
 a.hyperlink:hover {
     color:MediumVioletRed;
