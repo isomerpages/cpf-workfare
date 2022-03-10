@@ -549,7 +549,9 @@ Any MediSave contributions above the Basic Healthcare Sum (BHS) will be transfer
 These overflows which end up in your SA or RA can be withdrawn according to the usual withdrawal guidelines. For members who have met the Full Retirement Sum in their SA or RA, the savings in excess of the BHS will be transferred to the Ordinary Account (OA). Savings in the OA can be used for other purposes such as housing repayment.<br><br></details>
 <details><summary><font color="#009427"><b>Q3. How can I update my bank account for Workfare Income Supplement?</b></font></summary>
 You may <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/paymentinstructions/edit">update</a> your bank account details for Workfare Income Supplement (WIS) with your Singpass.<br><br>
-For bank account details that are submitted after 14th of the month, it will take effect in the following month.<br><br></details>
+However, please note that if you have a PayNow NRIC-linked bank account, it will be the default mode of payment. You will still receive your payout via PayNow NRIC, even if you change to another bank account on the Workfare Portal.<br><br>
+	If you have linked your NRIC number to your bank account after the 16<sup>th</sup> of the month, or submitted your bank account details after the 14<sup>th</sup> of the month, your updates will only be effective in the following month.
+<br><br></details>
 <details><summary><font color="#009427"><b>Q4. How will I receive the Workfare Income Supplement payment?</b></font></summary>
 The cash portion of Workfare Income Supplement (WIS) will be credited to your bank account that was registered to receive Government payouts (e.g. either the GST-Voucher (GSTV), Silver Support Scheme (SSS) or WIS, whichever is latest) or sent to you via cheque if you do not have a bank account. Compared to cheque payments, electronic payments make transactions simple, swift, and safe for recipients. We strongly encourage you to update* your bank account to receive your future Workfare payouts earlier.<br><br>
 * bank account details submitted after 14th of the month will be effective in the following month.<br><br>
