@@ -381,7 +381,7 @@ Self-Employed Persons (SEPs) are required to contribute to their MediSave Accoun
 WIS is intended to supplement, not replace the MediSave contributions made by the SEPs.<br><br></details>
 <details><summary><font color="#009427"><b>Q5. What are the payment modes for making MediSave contributions?</b></font></summary>
 There are several ways you can make your MediSave contributions.<br><br>
-The most convenient way is via GIRO, which allows automatic monthly deductions from your bank account. You may apply to pay via GIRO online (if you have a bank account from OCBS/DBS/POSB) or by mail (for other banks).<br><br>
+The most convenient way is via GIRO, which allows automatic monthly deductions from your bank account. You may apply to pay via GIRO online (if you have a bank account from OCBC/DBS/POSB) or by mail (for other banks).<br><br>
 The payment options are:
 <table>
 <thead>
