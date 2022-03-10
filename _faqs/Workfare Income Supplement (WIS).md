@@ -562,14 +562,20 @@ You will be notified of your payment details via letters and/or SMS messages nea
 The estate cheque will form part of the deceased member's estate. Depending on the value of the deceased member's estate, his Next-of-Kin (NOK) may apply to the Public Trustee's Office or the Court to administer his estate. For more information, please visit the Public Trustee’s Office website at <a class="hyperlink" href="https://pto.mlaw.gov.sg/">pto.mlaw.gov.sg</a>, or call them at 1800 225 5529.<br><br></details>
 <details><summary><font color="#009427"><b>Q6. How can I retrieve a copy of my Workfare notification letter?</b></font></summary>
 You can retrieve a <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/wisnotices/index">copy of your notification letters</a> by logging in to eService at Workfare Portal with your Singpass.<br><br></details>
-<details><summary><font color="#009427"><b>Q7. Why is the government sending SMS notifications instead of hardcopy letters?</b></font></summary>
-Moving to SMS notifications is part of the Government's efforts to provide timelier and more responsive services to the public. It also allows us to be more environmentally friendly. With SMS notifications, you can quickly and easily receive details of your Workfare payouts, including the mode of payment and payment date, instead of having to wait for hardcopy letters.<br><br>
-If you are on hardcopy notification and would like to switch to SMS notification, you may update your Singpass-registered mobile number at <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/people/notificationmode">"View/Update My Notification Mode"</a>.<br><br></details>
-<details><summary><font color="#009427"><b>Q8. How can I receive SMS notifications for Workfare Income Supplement scheme?</b></font></summary>
-Please log in to the Workfare Portal (Singpass required) and select <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/people/notificationmode">"View/Update My Notification Mode"</a>. Your selected notification mode will be used for Workfare Income Supplement and other Government schemes (if any) that you may be eligible for.<br><br>
-To receive SMS notifications, you must have a Singpass 2FA mobile number. You will only start receiving SMS notifications about you have submitted the above request and updated your mobile number with <a class="hyperlink" href="https://www.singpass.gov.sg/">Singpass</a>.<br><br></details>
-<details><summary><font color="#009427"><b>Q9. I have closed my bank account for receiving Workfare Income Supplement payments. How can I receive the payments?</b></font></summary>
-If you have closed your bank account, you will receive your Workfare Income Supplement (WIS) cash payments by cheque to your registered NRIC address. Payments by cheque takes up to 2 weeks longer compared to bank crediting.<br><br></details>
+<details><summary><font color="#009427"><b>
+Q7. When will I receive Workfare notification?</b></font></summary>
+You will be notified via letters and/or SMS nearer to the payment dates.<br><br>
+To receive the notification earlier via SMS, simply opt-in to receive SMS at "<a class="hyperlink" href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/People/NotificationMode">View/Update My Notification Mode</a>". To receive SMS notifications, you must have a Singpass 2FA mobile number. You will only start receiving SMS notifications after you have submitted the above request and updated your mobile number with Singpass.<br><br></details>
+<details><summary><font color="#009427"><b>Q8. How do I retrieve a copy of my Workfare notification letter?</b></font></summary>
+You can retrieve a copy of your notification letters by logging into the Workfare Portal (Singpass required) and select “<a class="hyperlink" href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/WisNotices/Index">View my Workfare Notices</a>”.<br>
+To receive the notification earlier via SMS, simply opt-in to SMS at "<a class="hyperlink" href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/People/NotificationMode">View/Update My Notification Mode"</a>.
+<br><br></details>
+<details><summary><font color="#009427"><b>Q9. How can I tell if the SG-Workfare SMS I received is authentic?</b></font></summary>
+With the recent rise in scam and phishing attempts, it is important to verify that the message received is genuine from the official source.<br><br>
+	
+	
+	
+	<br><br></details>
 <details><summary><font color="#009427"><b>Q10. How much is my Workfare Income Supplement/ Workfare Special Payment payout?</b></font></summary>
 To check the Workfare payouts you have received, log in to the Workfare Portal with your Singpass and look under <a class="hyperlink" href="https://www.workfare.gov.sg/app/Payments/Transactions">“Check My Workfare Transactions”</a>.</details>
 <details><summary><font color="#009427"><b>Q11. What is GovCash?</b></font></summary>
