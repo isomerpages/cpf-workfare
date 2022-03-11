@@ -366,10 +366,12 @@ You can refer to the table below on the proportion of the WIS CPF payout credite
 We will calculate your income based on the CPF contributions made by your employer(s) for work done in that month.<br><br></details></details>
 <details><summary style="border: 1px solid #4F4F4F;
 	background: #4F4F4F;"><font size="+1.5" color="#FFF"><b>Employment Status - Self Employed Persons</b></font></summary>
-<details><summary><font color="#009427"><b>Q1. Why do Self-Employed Persons receive only two-thirds of the Workfare Income Supplement (WIS) received by employees?</b></font></summary>
-The CPF contribution made by Self-Employed Persons (SEPs) is comparatively lesser than employees who earn the same amount. SEPs are only required to contribute to their MediSave Account whereas employees need to contribute to all their CPF Accounts (Ordinary, Special and MediSave Accounts)<br><br></details>
-<details><summary><font color="#009427"><b>Q2. Why do employees receive monthly Workfare Income Supplement (WIS) payments while Self-Employed Persons receive their WIS once a year?</b></font></summary>
-The incomes of employees are automatically computed based on their monthly CPF contributions from their employers. This enables CPF Board to assess their Workfare Income Supplement (WIS) eligibility automatically and disburse their WIS payouts on a monthly basis.<br><br>
+<details><summary><font color="#009427"><b>Q1. Who is a Self-Employed person (SEP)?</b></font></summary>
+A Self-Employed Person (SEP) is any individual who derives income from Singapore or from outside Singapore through any trade, business, profession or vocation excluding employment under a contract of service.<br><br>
+If you earn an income by buying and selling goods or providing professional or personal services, you are a SEP. Examples of Self-Employed Persons include hawkers, taxi drivers, freelancers, sole proprietors or a partner in a partnership.<br><br>
+Visit the <a href="https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/Am-I-an-Employee-or-a-Self-Employed/" class="hyperlink">Inland Revenue Authority of Singapore (IRAS) website</a> to read more on the definition of a SEP.<br><br></details>
+<details><summary><font color="#009427"><b>Q2. Why do Self-Employed Persons receive only two-thirds of the Workfare Income Supplement (WIS) received by employees?</b></font></summary>
+The CPF contribution made by Self-Employed Persons (SEPs) is comparatively lesser than employees who earn the same amount. SEPs are only required to contribute to their MediSave Account whereas employees need to contribute to all their CPF Accounts (Ordinary, Special and MediSave Accounts).<br><br></details>
 On the other hand, the net trade income (NTI) of a Self-Employed Person (SEP) is assessed over an entire year and can only be determined the following year after the current year has ended.<br><br></details>
 <details><summary><font color="#009427"><b>Q3. Who is a Self-Employed person (SEP)?</b></font></summary>
 A Self-Employed Person (SEP) is any individual who derives income from Singapore or from outside Singapore through any trade, business, profession or vocation excluding employment under a contract of service.<br><br>
