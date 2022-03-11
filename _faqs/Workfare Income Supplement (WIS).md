@@ -654,6 +654,9 @@ You may follow the steps below:
 <li style="font-size:15.5px">Log in to your bank's internet / mobile banking application</li>
 <li style="font-size:15.5px">Link your NRIC number to your bank account at the PayNow registration screen</li></ol>
 You may also refer to your bank's website for specific details to do so. If you do not have Internet or mobile banking, you can contact your bank directly to register for PayNow.<br><br></details>
+<details><summary><font color="#009427"><b>Q16. My mobile number is already registered to my bank account on PayNow. Can the Government credit the Workfare payouts to me via PayNow-Mobile instead of via PayNow-NRIC?</b></font></summary>
+We can only credit your Workfare payout to you via your PayNow NRIC-linked bank account. NRIC is an unchanged proxy issued by the Government, compared to mobile numbers which may be easily changed. To ensure that the money is credited to the correct recipient’s bank account, only NRIC will be accepted as the proxy for government payouts via PayNow.<br><br>
+Eligible citizens who have linked their NRIC to their bank account will receive the payment in this bank account.<br><br></details>
 <details><summary><font color="#009427"><b>Q17. What is GovCash?</b></font></summary>
 GovCash is a new and more convenient way for citizens to receive their payouts from Government agencies.<br><br>
 The Board will progressively replace cheques with GovCash from November 2021.<br><br></details>
