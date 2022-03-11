@@ -647,6 +647,13 @@ PayNow is a secure funds transfer service that allows customers to receive money
 </tbody>
 </table>
 	With PayNow, the recipient’s bank account will be kept private.<br><br></details>
+<details><summary><font color="#009427"><b>Q15. How do I link my NRIC to PayNow?</b></font></summary>
+You may follow the steps below:
+<ol>
+<li style="font-size:15.5px">Set up internet / mobile banking with your bank</li>
+<li style="font-size:15.5px">Log in to your bank's internet / mobile banking application</li>
+<li style="font-size:15.5px">Link your NRIC number to your bank account at the PayNow registration screen</li></ol>
+You may also refer to your bank's website for specific details to do so. If you do not have Internet or mobile banking, you can contact your bank directly to register for PayNow.<br><br></details>
 <details><summary><font color="#009427"><b>Q17. What is GovCash?</b></font></summary>
 GovCash is a new and more convenient way for citizens to receive their payouts from Government agencies.<br><br>
 The Board will progressively replace cheques with GovCash from November 2021.<br><br></details>
