@@ -242,13 +242,13 @@ Q25. I have linked my PayNow bank account to my mobile number. Will I receive my
 We can only credit your Workfare payouts to you via your PayNow bank account if it is linked to your NRIC number. This is because the NRIC number is an unchanged proxy issued by the Government, unlike mobile numbers which can change. To ensure that the money is credited to the correct recipient's bank account, only NRIC will be accepted as the proxy for government payouts via PayNow.  
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>Q26. What is GovCash?</b></font></summary>
-GovCash is a new and more convenient way for citizens to receive their payouts from Government agencies.<br><br>
-The Board will progressively replace cheques with GovCash from November 2021.
-<br><br></details>
+GovCash is a quicker and more convenient way for citizens to receive their payouts from Government agencies as compared to cheque. Singaporeans can withdraw the Government payments in cash from over 500 OCBC ATMs located across Singapore. GovCash is no less secure than receiving payouts via cheque. It has adopted the Singpass facial verification technology to authenticate users, including a liveness-detection capability that blocks the use of photographs, videos or masks during the verification process. Singaporeans do not need to have an OCBC bank account to use the GovCash service.<br><br> 
+Previously, cheque recipients would have to deposit the cheques or encash them over the bank counters. GovCash allows them to receive their payouts at the ATM immediately at any time of the day. They are no longer restricted by the bank’s operating hours. Singaporeans who prefer to seek assistance with their GovCash withdrawals can visit the ATMs located within OCBC’s branches during operating hours, where OCBC Digital Ambassadors will be present to guide them.<br><br>
+In addition, GovCash also allows recipients to use the scan-and-pay function and PayNow transfer option through the LifeSG mobile app.<br><br></details>
 <details><summary><font size="+1" color="#009427"><b>Q27. How can I utilise my GovCash?
 </b></font></summary>
 You can withdraw your payouts in cash at the listed OCBC ATMs with GovCash functions with your 8-digit Payment Reference Number (PRN), which will be sent to you by SMS or by post. You do not need to have a OCBC bank account to use this service.<br><br>
-You can also transfer your payouts to your PayNow NRIC-linked bank account or utilise them to make payments at any merchants or transfer to your friends by scanning their PayNow QR code using the LifeSG app. You can download the LifeSG app from the Apple App Store or Google Play Store.<br><br>
+You can also transfer your payouts to your PayNow NRIC-linked bank account or utilise them to make payments at any merchants or transfer to your friends by scanning their PayNow QR code using the LifeSG mobile app. You can download the LifeSG mobile app from the Apple App Store or Google Play Store.<br><br>
 You may refer to the <a href="https://www.workfare.gov.sg/Documents/Leaflet_GovCash.pdf" class="hyperlink">step-by-step guide</a> for detailed instructions on the ways you can utilise your GovCash payouts. 
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
@@ -275,20 +275,20 @@ To link your NRIC number to your bank account, you may follow the steps below:<b
 	<li style="font-size:15.5px">Log in to your bank's internet / mobile banking application</li>
 	<li style="font-size:15.5px">Link your NRIC number to your bank account at the PayNow registration screen</li></ol>
 You may also refer to your bank's website for specific details to do so. If you do not have Internet or mobile banking, you can contact your bank directly to register for PayNow-NRIC.<br><br>
-Otherwise, you can choose to receive your payouts via Direct Bank Crediting. To do so, simply visit here, login with your Singpass, select "View / Update Payment Mode" and update your POSB/DBS, OCBC or UOB bank account details.
+Otherwise, you can choose to receive your payouts via Direct Bank Crediting. To do so, simply visit here, login with your Singpass, select "<a class="hyperlink" href="https://www.workfare.gov.sg/app/Account/QRLogin?returnUrl=/PaymentInstructions/Edit">View / Update Payment Mode</a>" and update your POSB/DBS, OCBC or UOB bank account details.
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
 Q32. Why can withdrawals be made only in $10 denominations and what can I do with my balance GovCash?</b></font></summary>
 Currently, the minimum withdrawal amount at the ATMs is $10. Hence, GovCash withdrawals can also be made in $10 denominations. If the balance in your GovCash is less than $10, you can accumulate your balance monies before your next withdrawal.<br><br>
-Alternatively, you can also transfer the balance to your PayNow NRIC-linked bank account or utilise them to make payments at any merchants or transfer to your friends by scanning the PayNow QR code using the LifeSG app. You may refer to the <a href="https://www.workfare.gov.sg/Documents/Leaflet_GovCash.pdf" class="hyperlink">step-by-step guide</a> for detailed instructions.
+Alternatively, you can also transfer the balance to your PayNow NRIC-linked bank account or utilise them to make payments at any merchants or transfer to your friends by scanning the PayNow QR code using the LifeSG mobile app. You may refer to the <a href="https://www.workfare.gov.sg/Documents/Leaflet_GovCash.pdf" class="hyperlink">step-by-step guide</a> for detailed instructions.
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
-Q33. Would I need to login to Singpass each time I open the LifeSG app to access my GovCash?</b></font></summary>
-No, you are only required to log in using SingPass when you first use the LifeSG application. Subsequent use of the LifeSG app do not require SingPass logins again, unless you have not used LifeSG app for more than a year or deleted the application and re-downloaded it.
+Q33. Would I need to login to Singpass each time I open the LifeSG mobile app to access my GovCash?</b></font></summary>
+No, you are only required to log in using SingPass when you first use the LifeSG mobile application. Subsequent use of the LifeSG mobile app do not require SingPass logins again, unless you have not used LifeSG mobile app for more than a year or deleted the application and re-downloaded it.
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
 Q34. If my GovCash balance is insufficient to make payments at the merchants, can I top-up using my own funds?</b></font></summary>
-Topping up your GovCash balance in the LifeSG app is not available. For purchases of amounts above your GovCash balance, please pay the difference using other payment modes that the merchants accept (e.g. cash, debit/credit cards).
+Topping up your GovCash balance in the LifeSG mobile app is not available. For purchases of amounts above your GovCash balance, please pay the difference using other payment modes that the merchants accept (e.g. cash, debit/credit cards).
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
 Q35. Can I use my GovCash balance to make purchases on e-commerce platforms like Shopee or Lazada?</b></font></summary>
@@ -297,16 +297,16 @@ Step 1: Go to wallet of e-commerce platforms (e.g. ShopeePay or Lazada Wallet).<
 Step 2: Select Top Up.<br><br>
 Step 3: Select and confirm PayNow as the top up option.<br><br>
 Step 4: Save or screenshot the PayNow QR code<br><br>
-Step 5: Access your GovCash Wallet on LifeSG app and scan the saved copy of PayNow QR code on the e-commerce platform.<br><br>
+Step 5: Access your GovCash Wallet on LifeSG mobile app and scan the saved copy of PayNow QR code on the e-commerce platform.<br><br>
 Step 6: Enter and confirm amount of credits to top-up to the wallet of e-commerce platforms (e.g. ShopeePay or Lazada Wallet).<br><br>
 You can now select the wallet of e-commerce platforms (e.g. ShopeePay or Lazada Wallet) as your payment mode to pay for your purchases online.
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
 Q36. How do I know if the SGQR displayed by merchants includes PayNow QR so that I can make purchases using my GovCash balance?</b></font></summary>
-Look out for the PayNow logo on the SG QR label. You can only make purchases at merchants that accept PayNow QR code via LifeSG app. 
+Look out for the PayNow logo on the SG QR label. You can only make purchases at merchants that accept PayNow QR code via LifeSG mobile app. 
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
-Q37. Can I cancel my payment after I have confirmed the payment on the LifeSG app?</b></font></summary>
+Q37. Can I cancel my payment after I have confirmed the payment on the LifeSG mobile app?</b></font></summary>
 No, your GovCash balance will be deducted upon successful payment. 
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
