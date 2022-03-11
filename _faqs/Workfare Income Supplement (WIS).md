@@ -583,6 +583,70 @@ Always remember:
 <img style="width: 80%; height: 80%" src="/images/WISFAQ/Gov%20Link%20Example.png">
 	<li style="font-size:15.5px">Workfare notifications will only be sent via letter or SMS. We do not use WhatsApp or other mobile app messaging platforms</li></ul>
 Be cautious and let’s work together to safeguard your personal information.<br><br></details>
+<details><summary><font color="#009427"><b>Q10. Why is the government sending SMS notifications instead of hardcopy letters?</b></font></summary>
+Moving to SMS notifications is part of the Government's efforts to provide timelier and more responsive services to the public. It also allows us to be more environmentally friendly. With SMS notifications, you can quickly and easily receive details of your Workfare payouts, including the mode of payment and payment date, instead of having to wait for hardcopy letters.<br><br>
+If you are on hardcopy notification and would like to switch to SMS notification, you may opt-in to SMS at "<a class="hyperlink" href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/People/NotificationMode">View/Update My Notification Mode</a>".<br><br></details>
+<details><summary><font color="#009427"><b>Q11. How can I receive SMS notifications for Workfare Income Supplement scheme?</b></font></summary>
+Please log in to the Workfare Portal (Singpass required) and select "<a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/people/notificationmode">View/Update My Notification Mode</a>". Your selected notification mode will be used for Workfare Income Supplement and other Government schemes (if any) that you may be eligible for.<br><br>
+To receive SMS notifications, you must have a Singpass 2FA mobile number. You will only start receiving SMS notifications after you have submitted the above request and updated your mobile number with <a class="hyperlink" href="https://www.singpass.gov.sg/">Singpass</a>.<br><br></details>
+<details><summary><font color="#009427"><b>Q12. I have closed my bank account for receiving Workfare Income Supplement payments. How can I receive the payments</b></font></summary>
+If you have a valid PayNow NRIC-linked bank account, you will receive your payment via PayNow. Otherwise, you will receive your payments via GovCash. Payments by GovCash take up to 2 weeks longer compared to PayNow. <br><br>
+Please consider linking your NRIC number to your bank account to receive your payouts earlier.<br><br></details>
+<details><summary><font color="#009427"><b>Q13. How much is my Workfare Income Supplement/ Workfare Special Payment?</b></font></summary>
+To check the Workfare payouts you have received, log in to the Workfare Portal with your Singpass and look under “<a class="hyperlink" href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/Payments/Transactions">My Workfare Transactions</a>”.<br><br></details>
+<details><summary><font color="#009427"><b>Q14. What is PayNow?</b></font></summary>
+PayNow is a secure funds transfer service that allows customers to receive money into their participating bank account which is linked to their NRIC. The 10 participating banks in Singapore are as follows (with the corresponding bank code): <br><br>
+<table>
+<thead>
+  <tr>
+		<th style="width:20%"><b>Bank Code</b></th>
+		<th><b>Bank</b></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+		<td><b>BOC</b></td>
+    <td>Bank of China Limited<br></td>
+  </tr>
+  <tr>
+		<td><b>CIMB</b></td>
+    <td>CIMB Bank Berhad</td>
+  </tr>
+  <tr>
+		<td><b>CITI</b></td>
+    <td>Citibank Singapore Limited/ Citibank N.A.</td>
+  </tr>
+  <tr>
+		<td><b>DBS</b></td>
+    <td>DBS Bank Limited</td>
+  </tr>
+  <tr>
+		<td><b>HSBC</b></td>
+    <td>HSBC Bank (Singapore) Limited/ The Hongkong &amp; Shanghai Banking Corporation Ltd</td>
+  </tr>
+  <tr>
+		<td><b>ICBC</b></td>
+    <td>Industrial and Commercial Bank of China Limited</td>
+  </tr>
+  <tr>
+		<td><b>MBB</b></td>
+    <td>Maybank Singapore Limited/ Malayan Banking Berhad</td>
+  </tr>
+  <tr>
+		<td><b>OCBC</b></td>
+    <td>Oversea-Chinese Banking Corporation Limited</td>
+  </tr>
+  <tr>
+		<td><b>SCB</b></td>
+    <td>Standard Chartered Bank (Singapore) Limited</td>
+  </tr>
+  <tr>
+		<td><b>UOB</b></td>
+    <td>United Overseas Bank Limited</td>
+  </tr>
+</tbody>
+</table>
+	With PayNow, the recipient’s bank account will be kept private.<br><br></details>
 <details><summary><font color="#009427"><b>Q10. How much is my Workfare Income Supplement/ Workfare Special Payment payout?</b></font></summary>
 To check the Workfare payouts you have received, log in to the Workfare Portal with your Singpass and look under <a class="hyperlink" href="https://www.workfare.gov.sg/app/Payments/Transactions">“Check My Workfare Transactions”</a>.</details>
 <details><summary><font color="#009427"><b>Q11. What is GovCash?</b></font></summary>
