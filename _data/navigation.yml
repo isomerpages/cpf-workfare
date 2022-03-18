@@ -11,13 +11,14 @@ links:
   - title: Newsroom
     collection: newsroom
   - title: WIS Calculator
-    url: /wis-calculator/
-  - title: LOGIN
-    url: /newpage/
-  - title: WIS Calculator
     url: /permalink
     sublinks:
       - title: I am an Employee
         url: /permalink
       - title: I am Self-Employed
+        url: /permalink
+  - title: WIS Scheme
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
         url: /permalink
