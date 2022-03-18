@@ -2,7 +2,6 @@ collections:
   wis-scheme:
     output: true
     order:
-      - FAQ Employee.md
       - Employee/.keep
       - Employee/Do I qualify?.md
       - Employee/How much?.md
