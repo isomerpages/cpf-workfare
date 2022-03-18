@@ -20,5 +20,9 @@ links:
   - title: WIS Scheme
     url: /permalink
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: FAQ Employee
+        url: /wis-scheme/permalink
+      - title: Do I qualify?
+        url: /wis-scheme/permalink
+  - title: WSS Scheme
+    collection: wss-scheme
