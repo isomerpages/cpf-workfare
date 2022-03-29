@@ -27,4 +27,4 @@ you will receive WIS every month. The table below shows the WIS payment dates.
 |Nov	|31 Jan of the following year|
 |Dec	|28 Feb of the following year|
 
-*Based on payment dates for bank crediting. Payment by cheque takes up to 2 weeks longer compared to bank crediting.
+*Payment via PayNow NRIC-linked bank account or bank crediting will be by the end of the month while payment via GovCash will be on the 3rd of the following month.
