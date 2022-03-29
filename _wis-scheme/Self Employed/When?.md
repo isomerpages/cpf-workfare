@@ -6,7 +6,7 @@ third_nav_title: Self Employed
 ---
 ![](/images/WIS11.png)
 
-*Based on payment dates for bank crediting. Payment by cheque takes up to 2 weeks longer compared to bank crediting.
+*Payment via PayNow NRIC-linked bank account or bank crediting will be by the end of the month while payment via GovCash will be on the 3rd of the following month.
 
 ### As a self-employed person,
 
