@@ -18,6 +18,6 @@ The earlier you declare your income and make MediSave contributions, the earlier
 
 Declare your income and make your MediSave contributions by last Friday of March to receive WIS by 30 April*.
 
-*Based on payment dates for bank crediting.
+*Payment via PayNow NRIC-linked bank account or bank crediting will be by the end of the month while payment via GovCash will be on the 3rd of the following month.
 
 Use the online [WIS calculator] to find out the amount to contribute.
