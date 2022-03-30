@@ -4,7 +4,7 @@ permalink: /faqs/WISFAQs
 description: ""
 ---
 <html>
-<input type="checkbox" id="accordion">
+<input type="checkbox" id="accordion4">
     <label for="accordion4">Ordered List</label>
     <div>
       <ol>
