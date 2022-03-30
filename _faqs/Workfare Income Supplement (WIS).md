@@ -4,8 +4,32 @@ permalink: /faqs/WISFAQs
 description: ""
 ---
 <html>
-<input type="checkbox" id="accordion4">
-    <label for="accordion4">Ordered List</label>
+	<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">General Information on WIS</label>
+    <div>
+       <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ol>
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Employment Status - Employees</label>
+    <div>
+       <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ol>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Employment Status - Self Employed Persons</label>
     <div>
       <ol>
         <li>Item 1</li>
@@ -13,6 +37,63 @@ description: ""
         <li>Item 3</li>
       </ol>
     </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Employment Status - Dual Status Workers</label>
+    <div>
+      <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ol>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Eligibility Criteria - Income</label>
+    <div>
+      <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ol>
+    </div>
+  </li>
+		<li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion4">Eligibility Criteria - Housing</label>
+    <div>
+      <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ol>
+    </div>
+  </li>
+<li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion4">Eligibility Criteria - Spousal</label>
+    <div>
+      <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ol>
+    </div>
+  </li>
+<li>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion4">Payment and Notification</label>
+    <div>
+      <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ol>
+    </div>
+  </li>
+</ul>
 <details>
 	<summary style="border: 1px solid #4F4F4F;
 	background: #4F4F4F;"><font size="+1.5" color="#FFF"><b>General Information on WIS</b></font></summary>
