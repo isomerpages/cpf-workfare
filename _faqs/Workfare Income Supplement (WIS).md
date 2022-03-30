@@ -62,7 +62,7 @@ description: ""
   </li>
 		<li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion4">Eligibility Criteria - Housing</label>
+    <label for="accordion6">Eligibility Criteria - Housing</label>
     <div>
       <ol>
         <li>Item 1</li>
@@ -73,7 +73,7 @@ description: ""
   </li>
 <li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion4">Eligibility Criteria - Spousal</label>
+    <label for="accordion7">Eligibility Criteria - Spousal</label>
     <div>
       <ol>
         <li>Item 1</li>
@@ -84,7 +84,7 @@ description: ""
   </li>
 <li>
     <input type="checkbox" id="accordion8">
-    <label for="accordion4">Payment and Notification</label>
+    <label for="accordion8">Payment and Notification</label>
     <div>
       <ol>
         <li>Item 1</li>
