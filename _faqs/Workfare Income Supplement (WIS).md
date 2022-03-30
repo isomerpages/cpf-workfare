@@ -3,6 +3,18 @@ title: Workfare Income Supplement (WIS)
 permalink: /faqs/WISFAQs
 description: ""
 ---
+<html>
+<input type="checkbox" id="accordion">
+    <label for="accordion4">Ordered List</label>
+    <div>
+      <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ol>
+    </div>
+  </li>
+ </ul>
 <details>
 	<summary style="border: 1px solid #4F4F4F;
 	background: #4F4F4F;"><font size="+1.5" color="#FFF"><b>General Information on WIS</b></font></summary>
@@ -748,3 +760,4 @@ ol.loweraplh {
 	list-style-type: lower-alpha;
 	}
 </style></details>
+</html>
