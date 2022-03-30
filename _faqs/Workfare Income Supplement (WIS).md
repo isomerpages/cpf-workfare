@@ -13,8 +13,6 @@ description: ""
         <li>Item 3</li>
       </ol>
     </div>
-  </li>
- </ul>
 <details>
 	<summary style="border: 1px solid #4F4F4F;
 	background: #4F4F4F;"><font size="+1.5" color="#FFF"><b>General Information on WIS</b></font></summary>
