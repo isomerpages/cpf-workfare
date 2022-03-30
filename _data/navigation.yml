@@ -6,8 +6,6 @@ links:
     collection: schemes
   - title: Stories
     url: /stories/MdmGohGeokKee
-  - title: Contact Us
-    url: /contact-us/
   - title: Newsroom
     collection: newsroom
   - title: WIS Calculator
@@ -21,3 +19,5 @@ links:
     collection: wss-scheme
   - title: FAQ Accordion
     url: /faq-accordion/
+  - title: Contact Us
+    url: /contact-us/
