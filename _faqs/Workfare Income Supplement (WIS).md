@@ -21,7 +21,39 @@ description: ""
 		<summary><b>Why will Workfare enhancements only take place in 2023?</b></font></summary>
 Implementing the Workfare enhancements in 2023 provides sufficient time to make the required system changes, for smooth implementation of the enhancements.<br><br>
 The current Workfare criteria, which only came into effect two years ago in 2020, will continue to apply for work done in 2022.<br><br></details></li>
-        <li>Item 3</li>
+        <li style="font-size:17px"><details>
+		<summary><b>What is the Workfare Income Supplement scheme?</b></font></summary>
+The Workfare Income Supplement (WIS) scheme was introduced in 2007 as a permanent feature of Singapore's social security system. The support is targeted at older, lower wage Singaporean workers whose earnings are in the bottom 20% of the working population, with support also available for those earning slightly more. Eligible workers will receive support via cash and CPF top-ups to supplement their income and retirement savings.<br><br></details></li>
+ <li style="font-size:17px"><details>
+		<summary><b>What is the Workfare Income Supplement scheme?</b></font></summary>
+The Workfare Income Supplement (WIS) scheme was introduced in 2007 as a permanent feature of Singapore's social security system. The support is targeted at older, lower wage Singaporean workers whose earnings are in the bottom 20% of the working population, with support also available for those earning slightly more. Eligible workers will receive support via cash and CPF top-ups to supplement their income and retirement savings.<br><br></details></li>
+<li style="font-size:17px"><details>
+		<summary><b>Am I eligible for the Workfare Income Supplement scheme?</b></font></summary>
+You will be eligible for the Workfare Income Supplement (WIS) scheme if you:
+<ul style="border: 1px">
+	<li style="padding-bottom: 2px; font-size:15.5px">are a Singapore Citizen;</li>
+	<li style="padding-bottom: 2px; font-size:15.5px">are 35<sup>1</sup> years old or older on 31 December of the Work Year (WY);</li>
+	<li style="font-size:15.5px">earn not more than $2,300<sup>2</sup> (previously $2,000) for the month worked and in the past 12 months<sup>3</sup> (average monthly income) as an employee; or have an average monthly income of not more than $2,300 (previously $2,000) as a Self-Employed Person (SEP);</li>
+	</ul>
+If you are an SEP, you are also required to declare your Net Trade Income (NTI) and make your MediSave contributions to be eligible for WIS.<br><br>
+However, you will not be eligible for WIS if you:
+		<ul>
+	<li style="font-size:15.5px">live in a property with an annual value<sup>4</sup> of more than $13,000 assessed as at 31 December of the previous year;</li>
+	<li style="font-size:15.5px">own two or more properties; or</li>
+	<li style="font-size:15.5px">if you are married,</li>
+<ul style="list-style-type:circle;">
+	<li style="font-size:15.5px">you and your spouse together own two or more properties; or</li>
+	<li style="font-size:15.5px">the assessable income of your spouse exceeds $70,000 for the previous Year of Assessment.</li>
+</ul>
+	</ul>
+Click <a href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/Payments/Statement" class="hyperlink">here</a> to find out your WIS eligibility status.<br><br>
+As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a class="hyperlink" href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf">here</a> to find out more about the upcoming WIS enhancements.<br><br>
+<sup>1</sup> Persons with disabilities younger than 35 who meet the WIS eligibility criteria will receive an annual WIS payout of up to $1,700<br><br>
+<sup>2</sup> Includes basic salary and extra wages such as overtime pay, commissions and bonuses<br><br>
+<sup>3</sup> Defined as income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br><br>
+<sup>4</sup> Annual value is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties	<br><br>
+</details>
+</li>
       </ol>
     </div>
 	</li>  
