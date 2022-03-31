@@ -10,14 +10,14 @@ description: ""
     <label for="accordion1">General Information on WIS</label>
     <div>
        <ol>
-        <li class="NoNumbering"><details>
-		<summary><font color="#009427"><b>Q1. What are the enhancements to the Workfare Income Supplement Scheme?</b></font></summary>The Government will enhance Workfare from Work Year 2023:<ol class="loweraplh">
+        <li style="font-size:17px"><details>
+		<summary><font color="#009427"><b>What are the enhancements to the Workfare Income Supplement Scheme?</b></font></summary>The Government will enhance Workfare from Work Year 2023:<ol class="loweraplh">
 <li style="padding-bottom: 2px; font-size:15.5px"><b>Qualifying monthly income cap raised from $2,300 to $2,500</b><sup>1</sup>. This takes into account income growth of Singaporeans.</li>
 <li style="padding-bottom: 2px; font-size:15.5px"><b>Extension of Workfare to those aged 30 - 34</b>. The payouts will help them better cope with their expenses and to start saving early for their retirement.</li>
 <li style="padding-bottom: 2px; font-size:15.5px"><b>Higher annual Workfare payouts of up to $4,200</b>. Payouts depend on age and income, and have been enhanced across all age bands. Eligible employees can receive up to $4,200 per year in payouts, compared to $4,000 per year today. Older workers will continue to receive the highest payouts. The payouts for self-employed persons are set at two-thirds of employee payouts and will be correspondingly increased.</li>
 <li style="padding-bottom: 2px; font-size:15.5px"><b>All persons with disabilities (PWDs) will qualify for the highest Workfare payout tier (up to $4,200), regardless of age.</b></li>
 <li style="padding-bottom: 2px; font-size:15.5px"><b>Minimum qualifying monthly income criterion of $500</b>. To encourage regular employment, Singaporean workers will need to earn at least $500 per month to qualify for Workfare.</li></ol><sup>1</sup>In addition, one must earn an average gross monthly income of not more than $2,500 in the past 12 months.<br><br></details></li>
-        <li><details>
+        <li style="font-size:17px"><details>
 		<summary><font color="#009427"><b>Why will Workfare enhancements only take place in 2023?</b></font></summary>
 Implementing the Workfare enhancements in 2023 provides sufficient time to make the required system changes, for smooth implementation of the enhancements.<br><br>
 The current Workfare criteria, which only came into effect two years ago in 2020, will continue to apply for work done in 2022.<br><br></details></li>
