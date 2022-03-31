@@ -53,6 +53,16 @@ As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a 
 <sup>3</sup> Defined as income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br>
 <sup>4</sup> Annual value is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties	<br><br>
 </details>
+	<input type="checkbox" id="accordion10">
+    <label for="accordion10">Q6. What do I need to do to receive Workfare Income Supplement (WIS)?</label>
+    <div>
+       If you are an employee, you do not need to do anything. Your eligibility for Workfare Income Supplement (WIS) will be automatically assessed based on the CPF contributions* made by your employer. <br><br>
+If you are a Self-Employed Person (SEP), you need to declare your net trade income (NTI) and contribute to your MediSave Account to be considered for WIS. Use our <a href="https://www.workfare.gov.sg/Pages/Calculator.aspx" class="hyperlink">online WIS calculator</a> to find out the amount you need to contribute to your MediSave Account.<br><br>
+You can declare your income and contribute to your MediSave Account in various ways.<br><br>
+To receive your WIS payouts by 30 April (via bank crediting), please declare your NTI and contribute to your MediSave Account by the last Friday of March.<br><br>
+*Under the CPF Act, employers must contribute to CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis. If your employer is not contributing CPF on your behalf, you can lodge a report on non/underpayment of CPF contributions online. Please log in to my cpf with your Singpass, then select My Request &gt; Other CPF Matters &gt; Report on non-payment or underpayment of CPF contributions.<br><br>
+Alternatively, you can also lodge a report by calling the WorkRight Hotline at 1800-221-9922 or emailing to <a href="workright@mom.gov.sg" class="hyperlink">workright@mom.gov.sg</a>. Your identity will be kept confidential.<br><br>
+    </div>
 </li>
       </ol>
     </div>
