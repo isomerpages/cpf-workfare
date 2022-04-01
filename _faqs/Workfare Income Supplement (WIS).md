@@ -21,10 +21,7 @@ description: ""
 					<summary><b>Why will Workfare enhancements only take place in 2023?</b></summary>
 Implementing the Workfare enhancements in 2023 provides sufficient time to make the required system changes, for smooth implementation of the enhancements.<br><br>
 The current Workfare criteria, which only came into effect two years ago in 2020, will continue to apply for work done in 2022.<br><br></details></li>
-        <li style="font-size:17px"><details>
-		<summary><b>What is the Workfare Income Supplement scheme?</b></summary>
-The Workfare Income Supplement (WIS) scheme was introduced in 2007 as a permanent feature of Singapore's social security system. The support is targeted at older, lower wage Singaporean workers whose earnings are in the bottom 20% of the working population, with support also available for those earning slightly more. Eligible workers will receive support via cash and CPF top-ups to supplement their income and retirement savings.<br><br></details></li>
- <li style="font-size:17px"><details>
+<li style="font-size:17px"><details>
 		<summary><b>What is the Workfare Income Supplement scheme?</b></summary>
 The Workfare Income Supplement (WIS) scheme was introduced in 2007 as a permanent feature of Singapore's social security system. The support is targeted at older, lower wage Singaporean workers whose earnings are in the bottom 20% of the working population, with support also available for those earning slightly more. Eligible workers will receive support via cash and CPF top-ups to supplement their income and retirement savings.<br><br></details></li>
 <li style="font-size:17px"><details>
@@ -61,7 +58,43 @@ If you are a Self-Employed Person (SEP), you need to declare your net trade inco
 You can declare your income and contribute to your MediSave Account in various ways.<br><br>
 To receive your WIS payouts by 30 April (via bank crediting), please declare your NTI and contribute to your MediSave Account by the last Friday of March.<br><br>
 *Under the CPF Act, employers must contribute to CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis. If your employer is not contributing CPF on your behalf, you can lodge a report on non/underpayment of CPF contributions online. Please log in to my cpf with your Singpass, then select My Request &gt; Other CPF Matters &gt; Report on non-payment or underpayment of CPF contributions.<br><br>
-Alternatively, you can also lodge a report by calling the WorkRight Hotline at 1800-221-9922 or emailing to <a href="workright@mom.gov.sg" class="hyperlink">workright@mom.gov.sg</a>. Your identity will be kept confidential.<br><br>
+Alternatively, you can also lodge a report by calling the WorkRight Hotline at 1800-221-9922 or emailing to <a href="workright@mom.gov.sg" class="hyperlink">workright@mom.gov.sg</a>. Your identity will be kept confidential.<br><br></details>
+<li style="font-size:17px"><details><summary><b>When will I receive my Workfare Income Supplement payouts?</b></summary>
+You will receive Workfare Income Supplement (WIS) payouts for every month that you work. The payment will be made two months after the work period. For example, the WIS payout for work done in January will be paid out in end March.<br><br>
+<table>
+<thead>
+  <tr>
+    <th>If you worked in</th>
+    <th>You will receive the WIS payout in *</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Jan</td>
+    <td>End Mar</td>
+  </tr>
+  <tr>
+    <td>Feb</td>
+    <td>End Apr</td>
+  </tr>
+  <tr>
+    <td>Mar</td>
+    <td>End May</td>
+  </tr>
+  <tr>
+    <td>Apr</td>
+    <td>Eng Aug</td>
+  </tr>
+  <tr>
+    <td>Month x</td>
+    <td>End of month (x+2)</td>
+  </tr>
+</tbody>
+</table>	
+<br>
+If you are an eligible Self-Employed Person (SEP), you will receive WIS payouts once a year for work done in the preceding work year. The earliest payment for SEPs for a particular Work Year (WY) will be in end April of the following work year, provided you have declared your income (to IRAS or CPFB) and contributed to your MediSave by the last Friday of March of the following work year.<br><br>
+* Based on payment dates for bank crediting. Payment by cheque takes up to 2 weeks longer due to bank crediting.<br><br>
+</details>
     </div>
 </li>
       </ol>
