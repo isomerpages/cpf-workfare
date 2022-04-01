@@ -94,7 +94,109 @@ You will receive Workfare Income Supplement (WIS) payouts for every month that y
 </table>	
 If you are an eligible Self-Employed Person (SEP), you will receive WIS payouts once a year for work done in the preceding work year. The earliest payment for SEPs for a particular Work Year (WY) will be in end April of the following work year, provided you have declared your income (to IRAS or CPFB) and contributed to your MediSave by the last Friday of March of the following work year.<br><br>
 * Based on payment dates for bank crediting. Payment by cheque takes up to 2 weeks longer due to bank crediting.<br><br></details></li>
-				 <li style="font-size:17px"></li>
+<li style="font-size:17px"><details><summary><b>Whom can I contact for queries about the Workfare Income Supplement scheme?</b></summary>
+You can contact CPF Board via the following channels for your Workfare Income Supplement scheme enquiries:
+<ol>
+<li style="font-size:15.5px">Write to us via our <a href="https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index?section=wis" class="hyperlink">Online Enquiry</a> Form</li>
+<li style="font-size:15.5px">Write to us via <a href="https://www.cpf.gov.sg/eSvc/Web/Services/MyMailbox/MyMailboxLanding" class="hyperlink">My Mailbox</a> using your Singpass log in</li>
+</ol></details></li>
+	<li style="font-size:17px"><details><summary><b>How can I change the mode of payment for my Workfare Income Supplement (WIS) payout?</b></summary>
+You may update your bank account details by logging into the Workfare Portal at <a href="http://www.workfare.gov.sg" class="hyperlink">workfare.gov.sg</a>.<br><br></details></li>
+				 <li style="font-size:17px"><details><summary><b>How much Workfare Income Supplement (WIS) will I get?</b></summary>
+The Workfare Income Supplement (WIS) payout depends on your age and income. You may use the online <a href="https://www.workfare.gov.sg/Pages/Calculator.aspx" class="hyperlink">WIS calculator</a> to estimate the amount of WIS you will receive.<br><br>
+As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a class="hyperlink" href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf">here</a> to find out more about the upcoming WIS enhancements.<br><br>
+<table>
+<thead>
+  <tr>
+    <th rowspan="3" style="text-align:center; vertical-align:middle"><br><br>Your age in the work year</th>
+    <th colspan="4" style="text-align:center; vertical-align:middle">Maximum WIS payout per year</th>
+  </tr>
+  <tr>
+    <th colspan="2" style="text-align:center; vertical-align:middle">If you are employed</th>
+    <th colspan="2" style="text-align:center; vertical-align:middle">If you are self-employed</th>
+  </tr>
+  <tr>
+    <th style="text-align:center; vertical-align:middle">In 2022<br></th>
+    <th style="text-align:center; vertical-align:middle">From 2023<br></th>
+    <th style="text-align:center; vertical-align:middle">In 2022<br></th>
+    <th style="text-align:center; vertical-align:middle">From 2023<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align:center; vertical-align:middle">30 - 34 (new tier)<br></td>
+    <td style="text-align:center; vertical-align:middle">-</td>
+    <td style="text-align:center; vertical-align:middle">$2,100</td>
+    <td style="text-align:center; vertical-align:middle">-</td>
+    <td style="text-align:center; vertical-align:middle">$1,400</td>
+  </tr>
+  <tr>
+    <td style="text-align:center; vertical-align:middle">35 - 44<br></td>
+    <td style="text-align:center; vertical-align:middle">$1,700<br></td>
+    <td style="text-align:center; vertical-align:middle">$3,000<br></td>
+    <td style="text-align:center; vertical-align:middle">$1,133<br></td>
+    <td style="text-align:center; vertical-align:middle">$2,000<br></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; vertical-align:middle">45 - 54<br></td>
+    <td style="text-align:center; vertical-align:middle">$2,500<br></td>
+    <td rowspan="2" style="text-align:center; vertical-align:middle">$3,600</td>
+    <td style="text-align:center; vertical-align:middle">$1,667<br></td>
+    <td rowspan="2" style="text-align:center; vertical-align:middle">$2,400</td>
+  </tr>
+  <tr>
+    <td style="text-align:center; vertical-align:middle">55 - 59<br></td>
+    <td style="text-align:center; vertical-align:middle">$3,300<br></td>
+    <td style="text-align:center; vertical-align:middle">$2,200<br></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; vertical-align:middle">60 and above</td>
+    <td style="text-align:center; vertical-align:middle">$4,000<br></td>
+    <td style="text-align:center; vertical-align:middle">$4,200<br></td>
+    <td style="text-align:center; vertical-align:middle">$2,667<br></td>
+    <td style="text-align:center; vertical-align:middle">$2,800<br></td>
+  </tr>
+  <tr>
+    <td style="text-align:center; vertical-align:middle">All persons with disabilities (PwDs)<br></td>
+    <td style="text-align:center; vertical-align:middle">Varies by age<br></td>
+    <td style="text-align:center; vertical-align:middle">$4,200<br></td>
+    <td style="text-align:center; vertical-align:middle">Varies by age<br></td>
+    <td style="text-align:center; vertical-align:middle">$2,800</td>
+  </tr>
+</tbody>
+</table><br><br></details></li>
+				 <li style="font-size:17px"><details><summary><b>Will I receive Workfare Income Supplement (WIS) payouts if I am unemployed?</b></summary>
+The Workfare Income Supplement (WIS) scheme supplements the income and CPF savings of lower-income Singaporeans, and encourages them to enter and remain in the labour market.<br><br>
+You would not receive WIS if you are not working.<br><br>
+If you require assistance in looking for a job, or are seeking information on training and skills upgrading, please approach any of the Distributed CareerLink Networks run by the Community Development Councils (CDCs). Alternatively, you can call Workforce Singapore (WSG) hotline at 6883 5885.<br><br></details></li>
+				 <li style="font-size:17px"><details><summary><b>How do I appeal for Workfare Income Supplement (WIS) Scheme / Workfare Special Payment (WSP)?</b></summary>
+You can send in your appeal for Workfare Income Supplement (WIS)/ Workfare Special Payment (WSP) via the online enquiry page: <br>
+<ol>
+	<li style="font-size:15.5px">Select "Workfare Income Supplement (WIS)" under Subject</li>
+	<li style="font-size:15.5px">Select "Appeal-WIS" under Category </li></ol>
+You can also write to us via <a href="https://www.cpf.gov.sg/eSvc/Web/Services/MyMailbox/MyMailboxLanding" class="hyperlink">My Mailbox</a> (Singpass required) and skip the hassle of keying in your personal particulars. <br><br></details></li>
+				<li style="font-size:17px"><details><summary><b>Am I eligible for the Workfare Income Supplement scheme for work done in 2022?</b></summary>
+For work done in 2022, you will be eligible for the Workfare Income Supplement (WIS) scheme if you:<br>
+<ul>
+	<li style="font-size:15.5px">are a Singapore Citizen;</li>
+	<li style="font-size:15.5px">are 35<sup>1</sup> years old or older on 31 December 2022;</li>
+	<li style="font-size:15.5px">earn not more than $2,300<sup>2</sup> for the month worked and in the past 12 months<sup>3</sup> (average monthly income) as an employee; or have an average monthly income of not more than $2,300 or less as a Self-Employed Person (SEP);</li></ul>
+If you are an SEP, you are also required to declare your Net Trade Income (NTI) and make your MediSave contributions to be eligible for WIS.<br><br>
+	However, you will <u>not</u> be eligible for WIS if you:<br><br>
+<ul>
+<li style="font-size:15.5px">live in a property with an annual value<sup>4</sup> of more than $13,000 assessed as at 31 December of the previous year;</li>
+<li style="font-size:15.5px">own two or more properties; or</li>
+<li style="font-size:15.5px">if you are married,</li>
+<ul style="list-style-type:circle;">
+<li style="font-size:15.5px">you and your spouse together own two or more properties; or</li>
+<li style="font-size:15.5px">the annual assessable income of your spouse exceeds $70,000 for the previous Year of Assessment.</li></ul></ul>
+As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a class="hyperlink" href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf">here</a> to find out more about the upcoming WIS enhancements.<br><br>
+<sup>1</sup> Persons with disabilities younger than 35 who meet the WIS eligibility criteria will receive an annual WIS payout of up to $1,700<br>
+<sup>2</sup> Includes basic salary and extra wages such as overtime pay, commissions and bonuses<br>
+<sup>3</sup> Defined as income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br>
+<sup>4</sup> Annual value is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties<br><br></details></li>
+				 <li style="font-size:17px"><details><summary><b>When can I receive the Workfare Income Supplement (WIS) Scheme payment after making the required MediSave contributions?</b></summary>
+We will assess your eligibility for Workfare Income Supplement (WIS) in the month after you have made your MediSave contributions in full. You will receive an SMS notification and/or letter at the end of the assessment month on the WIS payment details if you are eligible.<br><br></details></li>
       </ol>
     </div>
 	</li>  
