@@ -47,6 +47,12 @@ As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a 
 <sup>3</sup> Defined as income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br>
 <sup>4</sup> Annual value is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties	<br><br>
 	</details></li>
+<li style="font-size:17px"><details><summary><b>How can I check the amount of Workfare Income Supplement payout that I will receive?</b></summary>
+We will notify you of the Workfare Income Supplement (WIS) payout amount by letters and/or SMS messages a few days before the payment date.<br><br>
+You can retrieve a copy of your notification by logging in to the Workfare portal with your Singpass.<br><br>
+If you are receiving letter notifications, you can receive earlier notifications via SMS by updating your Singpass-registered mobile number at "<a href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/people/notificationmode" class="hyperlink">View/Update My Notification Mode</a>".<br><br>
+		You may also use the <a href="https://www.workfare.gov.sg/Pages/Calculator.aspx" class="hyperlink">WIS calculator</a> to estimate the amount of WIS payout you are entitled to. 
+	<br><br></details></li>
 	<li style="font-size:17px"><details><summary>
 		<b>What do I need to do to receive Workfare Income Supplement (WIS)?</b></summary>If you are an employee, you do not need to do anything. Your eligibility for Workfare Income Supplement (WIS) will be automatically assessed based on the CPF contributions* made by your employer. <br><br>
 If you are a Self-Employed Person (SEP), you need to declare your net trade income (NTI) and contribute to your MediSave Account to be considered for WIS. Use our <a href="https://www.workfare.gov.sg/Pages/Calculator.aspx" class="hyperlink">online WIS calculator</a> to find out the amount you need to contribute to your MediSave Account.<br><br>
@@ -88,6 +94,7 @@ You will receive Workfare Income Supplement (WIS) payouts for every month that y
 </table>	
 If you are an eligible Self-Employed Person (SEP), you will receive WIS payouts once a year for work done in the preceding work year. The earliest payment for SEPs for a particular Work Year (WY) will be in end April of the following work year, provided you have declared your income (to IRAS or CPFB) and contributed to your MediSave by the last Friday of March of the following work year.<br><br>
 * Based on payment dates for bank crediting. Payment by cheque takes up to 2 weeks longer due to bank crediting.<br><br></details></li>
+				 <li style="font-size:17px"></li>
       </ol>
     </div>
 	</li>  
