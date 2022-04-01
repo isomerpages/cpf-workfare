@@ -91,7 +91,6 @@ You will receive Workfare Income Supplement (WIS) payouts for every month that y
   </tr>
 </tbody>
 </table>	
-<br>
 If you are an eligible Self-Employed Person (SEP), you will receive WIS payouts once a year for work done in the preceding work year. The earliest payment for SEPs for a particular Work Year (WY) will be in end April of the following work year, provided you have declared your income (to IRAS or CPFB) and contributed to your MediSave by the last Friday of March of the following work year.<br><br>
 * Based on payment dates for bank crediting. Payment by cheque takes up to 2 weeks longer due to bank crediting.<br><br>
 </details>
