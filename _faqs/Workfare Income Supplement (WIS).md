@@ -53,7 +53,7 @@ If you are a Self-Employed Person (SEP), you need to declare your net trade inco
 You can declare your income and contribute to your MediSave Account in various ways.<br><br>
 To receive your WIS payouts by 30 April (via bank crediting), please declare your NTI and contribute to your MediSave Account by the last Friday of March.<br><br>
 *Under the CPF Act, employers must contribute to CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis. If your employer is not contributing CPF on your behalf, you can lodge a report on non/underpayment of CPF contributions online. Please log in to my cpf with your Singpass, then select My Request &gt; Other CPF Matters &gt; Report on non-payment or underpayment of CPF contributions.<br><br>
-Alternatively, you can also lodge a report by calling the WorkRight Hotline at 1800-221-9922 or emailing to <a href="workright@mom.gov.sg" class="hyperlink">workright@mom.gov.sg</a>. Your identity will be kept confidential.<br><br></details>
+Alternatively, you can also lodge a report by calling the WorkRight Hotline at 1800-221-9922 or emailing to <a href="workright@mom.gov.sg" class="hyperlink">workright@mom.gov.sg</a>. Your identity will be kept confidential.<br><br></details></li>
 <li style="font-size:17px"><details><summary><b>When will I receive my Workfare Income Supplement payouts?</b></summary>
 You will receive Workfare Income Supplement (WIS) payouts for every month that you work. The payment will be made two months after the work period. For example, the WIS payout for work done in January will be paid out in end March.<br><br>
 <table>
