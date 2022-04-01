@@ -8,11 +8,13 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Simple</label>
     <div>
+			<li>
       <input type="checkbox" id="accordionSub">
     <label for="accordionSub">Simple</label>
     <div>
       <p>This is a simple one line item</p>
     </div>
+			</li>
     </div>
 	</li>  
   <li>
