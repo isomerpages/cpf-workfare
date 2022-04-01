@@ -53,8 +53,8 @@ As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a 
 <sup>3</sup> Defined as income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br>
 <sup>4</sup> Annual value is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties	<br><br>
 </details>
-	<input type="checkbox" id="accordion10">
-    <label for="accordion10">Q6. What do I need to do to receive Workfare Income Supplement (WIS)?</label>
+	<li style="font-size:17px"><details><summary>
+		<b>What do I need to do to receive Workfare Income Supplement (WIS)?</b></summary>
     <div>
        If you are an employee, you do not need to do anything. Your eligibility for Workfare Income Supplement (WIS) will be automatically assessed based on the CPF contributions* made by your employer. <br><br>
 If you are a Self-Employed Person (SEP), you need to declare your net trade income (NTI) and contribute to your MediSave Account to be considered for WIS. Use our <a href="https://www.workfare.gov.sg/Pages/Calculator.aspx" class="hyperlink">online WIS calculator</a> to find out the amount you need to contribute to your MediSave Account.<br><br>
