@@ -100,7 +100,8 @@ You can contact CPF Board via the following channels for your Workfare Income Su
 <li style="font-size:15.5px">Write to us via <a href="https://www.cpf.gov.sg/eSvc/Web/Services/MyMailbox/MyMailboxLanding" class="hyperlink">My Mailbox</a> using your Singpass log in</li>
 </ol></details></li>
 	<li style="font-size:17px"><details><summary><b><font color="#009427">How can I change the mode of payment for my Workfare Income Supplement (WIS) payout?</font></b></summary>
-You may update your bank account details by logging into the Workfare Portal at <a href="http://www.workfare.gov.sg" class="hyperlink">workfare.gov.sg</a>.<br><br></details></li>
+If you have a PayNow NRIC-linked bank account, it will be the default mode of payment. To link your NRIC number to your bank account, you may follow the steps below:<br>
+		You may update your bank account details by logging into the Workfare Portal at <a href="http://www.workfare.gov.sg" class="hyperlink">workfare.gov.sg</a>.<br><br></details></li>
 				 <li style="font-size:17px"><details><summary><b><font color="#009427">How much Workfare Income Supplement (WIS) will I get?</font></b></summary>
 The Workfare Income Supplement (WIS) payout depends on your age and income. You may use the online <a href="https://www.workfare.gov.sg/Pages/Calculator.aspx" class="hyperlink">WIS calculator</a> to estimate the amount of WIS you will receive.<br><br>
 As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a class="hyperlink" href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf">here</a> to find out more about the upcoming WIS enhancements.<br><br>
