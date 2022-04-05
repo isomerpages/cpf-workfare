@@ -372,9 +372,76 @@ You can refer to the table below on the proportion of the WIS CPF payout credite
     <label for="accordion3">Employment Status - Self Employed Persons</label>
     <div>
       <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
+        <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">Who is a Self-Employed person (SEP)?</font></b></summary>A Self-Employed Person (SEP) is any individual who derives income from Singapore or from outside Singapore through any trade, business, profession or vocation excluding employment under a contract of service.<br><br>
+If you earn an income by buying and selling goods or providing professional or personal services, you are a SEP. Examples of Self-Employed Persons include hawkers, taxi drivers, freelancers, sole proprietors or a partner in a partnership.<br><br>
+Visit the <a class="hyperlink" href="https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/Am-I-an-Employee-or-a-Self-Employed/">Inland Revenue Authority of Singapore (IRAS) website</a> to read more on the definition of a SEP.<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why do Self-Employed Persons receive only two-thirds of the Workfare Income Supplement (WIS) received by employees?</b></font></summary>The CPF contribution made by Self-Employed Persons (SEPs) is comparatively lesser than employees who earn the same amount. SEPs are only required to contribute to their MediSave Account whereas employees need to contribute to all their CPF Accounts (Ordinary, Special and MediSave Accounts).<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why do employees receive monthly Workfare Income Supplement (WIS) payments while Self-Employed Persons receive their WIS once a year?</b></font></summary>The incomes of employees are automatically computed based on their monthly CPF contributions from their employers. This enables CPF Board to assess their Workfare Income Supplement (WIS) eligibility automatically and disburse their WIS payouts on a monthly basis.<br><br>
+On the other hand, the net trade income (NTI) of a Self-Employed Person (SEP) is assessed over an entire year and can only be determined the following year after the current year has ended.<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why must Self-Employed Persons (SEPs) contribute to MediSave to receive Workfare Income Supplement (WIS)?</b></font></summary>
+A key principle of the Workfare Income Supplement (WIS) scheme is that each recipient has a personal responsibility to save for his future needs, with the Government providing additional support.<br><br>
+Self-Employed Persons (SEPs) are required to contribute to their MediSave Accounts as they do not receive regular MediSave contributions from employers. It is important to contribute regularly to ensure enough savings for healthcare needs. This is especially important during old age, when SEPs may have stopped working.<br><br>
+WIS is intended to supplement, not replace the MediSave contributions made by the SEPs.<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>What are the payment modes for making MediSave contributions?</b></font></summary>
+There are several ways you can make your MediSave contributions.<br><br>
+The most convenient way is via GIRO, which allows automatic monthly deductions from your bank account. You may apply to pay via GIRO online (if you have a bank account from OCBC/DBS/POSB) or by mail (for other banks).<br><br>
+The payment options are:
+<table>
+<thead>
+  <tr>
+    <th>Payment Mode</th>
+    <th>Details </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>GIRO</td>
+		<td><u>Online using my cpf Online Services</u><br>1. Log in with your Singpass.<br>2. Submit the <a href="https://www.cpf.gov.sg/eSvc/Web/Services/GiroApplication/LandingPage?scheme=SE" class="hyperlink">"Apply/Change GIRO for Mandatory MediSave Contributions and Voluntary Contributions by Self-Employed Person"</a> application.<br>3. Check your GIRO application status via My Activities.<br><br><u>Mail</u><br>1. Download and complete the<br> <a href="https://www.cpf.gov.sg/content/dam/web/member/tools/documents/Apply%20for%20GIRO%20for%20Mandatory%20MediSave%20Contributions%20or%20Voluntary%20Contributions.pdf" class="hyperlink">"Apply for GIRO for Mandatory Contributions or Voluntary Contributions"</a> form (FORM GIRO SE/VC (PDF, 0.6MB)).<br>2. Mail it to the address printed overleaf of the GIRO application form.<br>3. We will notify you of your GIRO application status once the bank has processed it.</td>
+  </tr>
+  <tr>
+    <td>e-Cashier</td>
+    <td>	• PayNow QR<br>	• eNETS Debit - payment by DBS/POSB, OCBC, Standard Chartered Bank or United Overseas Bank internet banking</td>
+  </tr>
+  <tr>
+    <td>NETS/CashCard</td>
+    <td>• Pay by NETS or CashCard at any SingPost branche</td>
+  </tr>
+</tbody>
+</table><br>
+The service standard for processing electronic payment is as follows:<br><br>
+<ul>
+<li style="font-size:15.5px">For payment via PayNow QR, your payment will be processed almost immediately.</li>
+<li style="font-size:15.5px">For payment via eNETS Debit, your payment will be processed within the next working day.</li></ul>
+Log in to <a href="https://www.cpf.gov.sg/member/ds/" class="hyperlink">my cpf</a> using your Singpass to check the transaction status:<br><br>
+<ul>
+<li style="font-size:15.5px">Check that your MediSave contribution is reflected in My Statement, or</li>
+<li style="font-size:15.5px">Check the transaction status under My Activities (if you paid via e-Cashier)</li></ul><br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Can I qualify for the Workfare Income Supplement Scheme if I did not receive the Income Tax declaration form from the Inland Revenue Authority of Singapore (IRAS)?</b></font></summary>
+For CPF Board to assess your WIS eligibility as a Self-Employed Person (SEP), if you did not receive Form B from the Inland Revenue Authority of Singapore (IRAS), you will need to declare your net trade income (NTI) to the CPF Board and contribute to your MediSave Account.<br><br>
+Please log in to <a href="https://www.cpf.gov.sg/member/ds/" class="hyperlink">my cpf</a> (Singpass required) to complete and submit the <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/IncomeDeclarationBySelfEmployedPersonForMedisaveLiability/LandingPage" class="hyperlink">Self-Employed Person Income Declaration Form</a>. You may also do so at any SingPost branch.<br><br>
+You can contribute to your MediSave Account via:
+<table>
+<thead>
+  <tr>
+    <th>Payment Mode</th>
+    <th>Details </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>GIRO</td>
+		<td><u>Online using my cpf Online Services</u><br>1. Log in with your Singpass.<br>2. Submit the <a href="https://www.cpf.gov.sg/eSvc/Web/Services/GiroApplication/LandingPage?scheme=SE" class="hyperlink">"Apply/Change GIRO for Mandatory MediSave Contributions and Voluntary Contributions by Self-Employed Person"</a> application.<br>3. Check your GIRO application status via My Activities.<br><br><u>Mail</u><br>1. Download and complete the<br><a href="https://www.cpf.gov.sg/content/dam/web/member/tools/documents/Apply%20for%20GIRO%20for%20Mandatory%20MediSave%20Contributions%20or%20Voluntary%20Contributions.pdf" class="hyperlink">"Apply for GIRO for Mandatory Contributions or Voluntary Contributions"</a> form (FORM GIRO SE/VC (PDF, 0.6MB)).<br>2. Mail it to the address printed overleaf of the GIRO application form.<br>3. We will notify you of your GIRO application status once the bank has processed it.</td>
+  </tr>
+  <tr>
+    <td>e-Cashier</td>
+    <td>	• PayNow QR<br>	• eNETS Debit - payment by DBS/POSB, OCBC, Standard Chartered Bank or United Overseas Bank internet banking</td>
+  </tr>
+  <tr>
+    <td>NETS/CashCard</td>
+    <td>• Pay by NETS or CashCard at any SingPost branche</td>
+  </tr>
+</tbody>
+					</table><br></details></li>
       </ol>
     </div>
   </li>
