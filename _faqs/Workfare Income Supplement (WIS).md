@@ -48,8 +48,8 @@ As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a 
 	</details></li>
 <li style="font-size:17px"><details><summary><b><font color="#009427">How can I check the amount of Workfare Income Supplement payout that I will receive?</font></b></summary>
 You will be notified of the Workfare Income Supplement (WIS) payout amount by letters and/or SMS messages nearer to the payment date.<br><br>
-You can retrieve a copy of your notification by logging in to the Workfare portal with your Singpass.<br><br>
-If you are receiving letter notifications, you can receive earlier notifications via SMS by updating your Singpass-registered mobile number at "<a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/people/notificationmode">View/Update My Notification Mode</a>".<br><br>
+To retrieve a copy of your notifications, please login to the Workfare portal at workfare.gov.sg with your Singpass.<br><br>
+If you are currently receiving your notifications via letter and wish to receive your notifications earlier via SMS, simply opt-in to SMS at "<a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/people/notificationmode">View/Update My Notification Mode</a>".<br><br>
 		You may also use the <a class="hyperlink" href="https://www.workfare.gov.sg/Pages/Calculator.aspx">WIS calculator</a> to estimate the amount of WIS payout you are entitled to. 
 	<br><br></details></li>
 	<li style="font-size:17px"><details><summary>
