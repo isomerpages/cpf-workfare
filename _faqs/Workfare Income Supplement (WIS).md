@@ -101,7 +101,13 @@ You can contact CPF Board via the following channels for your Workfare Income Su
 </ol></details></li>
 	<li style="font-size:17px"><details><summary><b><font color="#009427">How can I change the mode of payment for my Workfare Income Supplement (WIS) payout?</font></b></summary>
 If you have a PayNow NRIC-linked bank account, it will be the default mode of payment. To link your NRIC number to your bank account, you may follow the steps below:<br>
-		You may update your bank account details by logging into the Workfare Portal at <a href="http://www.workfare.gov.sg" class="hyperlink">workfare.gov.sg</a>.<br><br></details></li>
+		1. Set up internet / mobile banking with your bank<br>
+		2. Log in to your bank's internet / mobile banking application<br>
+		3. Link your NRIC number to your bank account at the PayNow registration screen<br>
+		<br>
+		You may also refer to your bank's website for specific details to do so. If you not have Internet or mobile banking, you can contact your bank directly to register for PayNow.<br>
+		<br>
+		If you do not have a PayNow NRIC-linked account, and wish to receive your payout via bank crediting, you may update your bank account details by logging into the Workfare Portal atour bank account details by logging into the Workfare Portal at <a href="http://www.workfare.gov.sg" class="hyperlink">workfare.gov.sg</a>.<br><br></details></li>
 				 <li style="font-size:17px"><details><summary><b><font color="#009427">How much Workfare Income Supplement (WIS) will I get?</font></b></summary>
 The Workfare Income Supplement (WIS) payout depends on your age and income. You may use the online <a href="https://www.workfare.gov.sg/Pages/Calculator.aspx" class="hyperlink">WIS calculator</a> to estimate the amount of WIS you will receive.<br><br>
 As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a class="hyperlink" href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf">here</a> to find out more about the upcoming WIS enhancements.<br><br>
