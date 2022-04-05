@@ -106,6 +106,7 @@ If you have a PayNow NRIC-linked bank account, it will be the default mode of pa
 		3. Link your NRIC number to your bank account at the PayNow registration screen<br>
 		<br>
 		You may also refer to your bank's website for specific details to do so. If you not have Internet or mobile banking, you can contact your bank directly to register for PayNow.<br>
+		<br>
 		If you do not have a PayNow NRIC-linked account, and wish to receive your payout via bank crediting, you may update your bank account details by logging into the Workfare Portal at <a href="http://www.workfare.gov.sg" class="hyperlink">workfare.gov.sg</a>.<br><br></details></li>
 				 <li style="font-size:17px"><details><summary><b><font color="#009427">How much Workfare Income Supplement (WIS) will I get?</font></b></summary>
 The Workfare Income Supplement (WIS) payout depends on your age and income. You may use the online <a href="https://www.workfare.gov.sg/Pages/Calculator.aspx" class="hyperlink">WIS calculator</a> to estimate the amount of WIS you will receive.<br><br>
