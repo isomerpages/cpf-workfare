@@ -555,9 +555,14 @@ All types of properties e.g. Housing &amp; Development Board flat, private prope
     <label for="accordion7">Eligibility Criteria - Spousal</label>
     <div>
       <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
+        <li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why is my spouse's income and property ownership used to determine my eligibility for Workfare Income Supplement (WIS)?</b></font></summary>
+To ensure that Workfare Income Supplement (WIS) is targeted at recipients with limited access to household wealth, you will not qualify for WIS if :
+<ul>
+	<li style="font-size:15.5px">the assessable income of your spouse for the preceding Year of Assessment exceeds $70,000; or</li>
+	<li style="font-size:15.5px">you and your spouse together own two or more properties.</li></ul></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why is my spouse's Assessable Income for the preceding Year of Assessment used to determine my Workfare Income Supplement (WIS) eligibility for the current work year?</b></font></summary>
+This is to allow potential Workfare Income Supplement (WIS) recipients to receive WIS earlier despite the time needed by the Inland Revenue Authority of Singapore (IRAS) for the processing and transmission of Assessable Income (AI) to the CPF Board.<br><br>
+The AI for the previous Year of Assessment (YOA) is used to assess one's WIS eligibility for the current year. E.g. we will use your spouse's AI for YOA 2021 to assess your eligibility for 2022 WIS.<br><br></details></li>
       </ol>
     </div>
   </li>
