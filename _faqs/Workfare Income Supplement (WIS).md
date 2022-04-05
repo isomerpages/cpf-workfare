@@ -442,6 +442,11 @@ You can contribute to your MediSave Account via:
   </tr>
 </tbody>
 					</table><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I am a homemaker/caregiver/babysitter. Can I qualify for the Workfare Income Supplement scheme?</b></font></summary>
+The objective of the Workfare Income Supplement (WIS) scheme is to supplement the retirement savings and incomes of older and lower-wage Singaporeans, and to encourage them to work regularly.<br><br>
+A person may be eligible for WIS if he is engaged in work that draws an income.<br><br>
+Allowances received for carrying out family support roles such as babysitting and caregiving for dependents are considered transfers within the family. They are not external sources of income derived from employment, hence it would not be appropriate to consider these transfers for WIS.<br><br>
+The Government recognizes that such family roles are important. There are other forms of government support for these roles, such as the Marriage and Parenthood package which provides broad-based support for couples to raise and care for their children.<br><br></details></li>
       </ol>
     </div>
   </li>
