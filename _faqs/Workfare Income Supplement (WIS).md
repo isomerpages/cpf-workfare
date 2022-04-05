@@ -1071,16 +1071,11 @@ details>summary {
   padding: 5px;
   border-radius: 5px;
 }
-details summary > * { 
-  display: inline;
-}
+	
 details>summary::-webkit-details-marker {
   display: none;
 }
 	
-details[open]>summary {
-  margin-bottom: 0rem;
-}
  a.hyperlink {
     color:green;
 		text-decoration: none;
