@@ -1063,6 +1063,9 @@ To change or reset your Singpass password, please complete the following steps:<
 If you require further assistance, please contact the Singpass Helpdesk at <a href="support@singpass.gov.sg" class="hyperlink">support@singpass.gov.sg</a> or +65 6335 3533. The operating hours are from 8am to 8pm (Mondays to Fridays) and from 8am to 2pm (Saturdays) excluding Sundays and public holidays.<br><br></details>
 
 <style>
+.title { 
+	display: inline-flex; 
+	}
 details>summary {
   list-style-type: none;
 	font-size: 18px;
