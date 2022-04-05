@@ -9,8 +9,8 @@ description: ""
     <label for="accordion1">General Information on WIS</label>
     <div>
        <ol>
-        <li style="font-size:17px"><details><div class="title">
-		<summary><b><font color="#009427">What are the enhancements to the Workfare Income Supplement Scheme?</font></b></summary></div>The Government will enhance Workfare from Work Year 2023:<ol class="loweraplh">
+        <li style="font-size:17px"><details>
+		<summary><b><font color="#009427">What are the enhancements to the Workfare Income Supplement Scheme?</font></b></summary>The Government will enhance Workfare from Work Year 2023:<ol class="loweraplh">
 <li style="padding-bottom: 2px; font-size:15.5px"><b>Qualifying monthly income cap raised from $2,300 to $2,500</b><sup>1</sup>. This takes into account income growth of Singaporeans.</li>
 <li style="padding-bottom: 2px; font-size:15.5px"><b>Extension of Workfare to those aged 30 - 34</b>. The payouts will help them better cope with their expenses and to start saving early for their retirement.</li>
 <li style="padding-bottom: 2px; font-size:15.5px"><b>Higher annual Workfare payouts of up to $4,200</b>. Payouts depend on age and income, and have been enhanced across all age bands. Eligible employees can receive up to $4,200 per year in payouts, compared to $4,000 per year today. Older workers will continue to receive the highest payouts. The payouts for self-employed persons are set at two-thirds of employee payouts and will be correspondingly increased.</li>
