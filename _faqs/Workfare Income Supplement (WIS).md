@@ -1078,15 +1078,6 @@ details>summary::-webkit-details-marker {
   display: none;
 }
 	
-details>summary::before {
-  content: '+' ;
-	color: white;
-}
-
-details[open]>summary::before {
-  content: '-';
-}
-
 details[open]>summary {
   margin-bottom: 0rem;
 }
