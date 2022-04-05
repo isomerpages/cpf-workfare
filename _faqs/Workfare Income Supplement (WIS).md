@@ -447,6 +447,24 @@ The objective of the Workfare Income Supplement (WIS) scheme is to supplement th
 A person may be eligible for WIS if he is engaged in work that draws an income.<br><br>
 Allowances received for carrying out family support roles such as babysitting and caregiving for dependents are considered transfers within the family. They are not external sources of income derived from employment, hence it would not be appropriate to consider these transfers for WIS.<br><br>
 The Government recognizes that such family roles are important. There are other forms of government support for these roles, such as the Marriage and Parenthood package which provides broad-based support for couples to raise and care for their children.<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I am a freelancer/conducting a home business (e.g. baking, sewing). Can I qualify for the Workfare Income Supplement scheme?</b></font></summary>
+You are considered a Self-Employed Person (SEP) and you will need to register your SEP status with CPF Board, declare your net trade income, and contribute to your MediSave Account. You will also need to meet the Workfare Income Supplement (WIS) scheme eligibility criteria in order to qualify for WIS.<br><br>
+To conduct a home business, you need to follow the guidelines under HDB's Home-Based Small-Scale Business Scheme.<br><br>
+Please refer to the <a href="http://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-business" class="hyperlink">Housing &amp; Development Board's website</a> for more information.<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>My annual trade income from self-employment in a work year was negative (i.e. I incurred a loss). Can I use the trade losses to offset against my income in the following year for the purpose of Workfare Income Supplement (WIS)?</b></font></summary>
+Workfare Income Supplement (WIS) is based on your actual net trade income earned in the work year and does not include previous year's losses.<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>My annual trade income from Self-Employment in a work year was negative. Can I qualify for the Workfare Income Supplement scheme?</b></font></summary>
+You will be required to contribute the minimum amount of MediSave to qualify for the Workfare Income Supplement (WIS) scheme. Please use the <a href="https://www.workfare.gov.sg/Pages/Calculator.aspx" class="hyperlink">Workfare calculator</a> to estimate the minimum MediSave contribution and your WIS amount.<br><br>
+You will receive your WIS payment within two months after you have declared your net trade income and made the required MediSave contribution.<br><br></details>
+			<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>What do I need to do to receive Workfare Income Supplement if I am a Self-Employed Person?</b></font></summary>
+You will be eligible for Workfare Income Supplement (WIS) if you meet all the eligibility criteria and:<br>
+<ol style="list-style-type: lower-alpha;">
+<li style="font-size:15.5px">you declare your income to:
+<ul>
+	<li style="font-size:15.5px">IRAS if you have been issued an income tax return package; or</li>
+<li style="font-size:15.5px">CPFB by logging in my cpf with your Singpass to complete and submit FORM IRAS 144. You may also do so at any SingPost branch; and</li></ul>
+	</li><li style="font-size:15.5px">you make the required MediSave contributions.</li></ol>You can use our online <a href="https://www.workfare.gov.sg/Pages/Calculator.aspx" class="hyperlink">WIS calculator</a> to find out the amount to contribute.<br><br>
+Please note that you will need to declare your income and make your MediSave contribution by last Friday of March to receive WIS by 30 April (via bank crediting).<br><br></details></details></li>
       </ol>
     </div>
   </li>
@@ -455,9 +473,11 @@ The Government recognizes that such family roles are important. There are other 
     <label for="accordion4">Employment Status - Dual Status Workers</label>
     <div>
       <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
+        <li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I worked as both an employee as well as a Self-Employed Person in the work year. When will I receive my Workfare Income Supplement for the work year?</b></font></summary>
+You will receive monthly Workfare Income Supplement (WIS) payments based on your employee income if you meet the WIS eligibility criteria for the work year (WY).<br><br>
+If you are also an eligible dual status worker (DSW) who has worked concurrently as a SEP and employee in the year, you may receive additional WIS if your combined employment and net trade income results in a higher WIS payout. You will receive your WIS top-up after you have declared your income (to IRAS or CPFB) and have made the required MediSave contributions.<br><br>
+You will receive the WIS top-up once a year for work done as a Self-Employed Person in the preceding year. The earliest payment for SEPs/DSWs for a particular WY will be on 30 April WY+1. If you have declared your income and made your MediSave contribution by the last Friday of March WY+1, you would receive your WIS payout in end April WY+1*.<br><br>
+* Based on payment dates for bank crediting. Payment by cheque takes up to 2 weeks longer due to bank crediting.<br><br></details></details></li>
       </ol>
     </div>
   </li>
@@ -466,9 +486,22 @@ The Government recognizes that such family roles are important. There are other 
     <label for="accordion5">Eligibility Criteria - Income</label>
     <div>
       <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
+        <li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>To qualify for Workfare Income Supplement, what is considered income?</b></font></summary>
+Employee income is based on the definition of Gross Wages under the CPF Act:<br><br>
+Total Gross Wages = Total Ordinary Wages + Total Additional Wages<br><br>
+Where:<br>
+Ordinary Wages are wages due or granted wholly and exclusively in respect of an employee's employment in that month and payable before the due date for payment of CPF contributions for that month.<br><br>
+Additional Wages are wages which are not granted wholly and exclusively for that month. Examples are annual bonus, leave pay and other payments made at intervals of more than a month.<br><br>
+Total Wages are the total amount of an employee's wages for any calendar month, which is the sum of his Ordinary Wages for the month and the Additional Wages paid to him in that month.<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why are overtime pay and bonuses included in Workfare Income Supplement assessment?</b></font></summary>
+Basic salary, overtime pay, and bonuses are part of a worker’s total income that will help support the worker and his or her family. Given that the Workfare Income Supplement (WIS) is intended to supplement the income of lower wage workers, it is most useful to assess the total income in determining one’s eligibility for WIS.<br><br></details></li>
+					<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How does the income criterion work?</b></font></summary>
+To receive Workfare Income Supplement (WIS) for work done in any month, employees must have earned:<br>
+<ol>
+	<li style="font-size:15.5px"> a gross monthly income of not more than $2,300* in that particular month; and</li>
+<li style="font-size:15.5px"> an average gross monthly income of not more than $2,300 in the past 12 months.</li></ol>
+*From Work Year 2023, the qualifying income cap will be raised to $2,500. Click <a href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf" class="hyperlink">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br>
+						</details></li>
       </ol>
     </div>
   </li>
