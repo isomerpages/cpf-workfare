@@ -274,7 +274,10 @@ You can refer to the table below on the allocation of the WIS CPF payout into th
 </table><br>
 If you are a Self-Employed Person, you will receive 90% of your WIS in your MediSave account and the remaining 10% in cash.<br><br></details></li>
 <li style="font-size:17px"><details><summary><b><font color="#009427">How will I receive the cash portion of my Workfare Income Supplement payouts?</font></b></summary>The cash portion of Workfare Income Supplement (WIS) will be credited to your PayNow NRIC-linked bank account if you have one.
-	<br><br>bank account that you have registered to receive Government payouts (e.g. either the GST-Voucher (GSTV), Silver Support Scheme (SSS) or WIS, whichever is latest) or sent to you via cheque if you do not have a bank account.<br><br>
+	<br><br>
+	Otherwise, it will be credited to the DBS/POSB, OCBC or UOB bank account that you have registered to receive Government payouts (e.g. either the GST-Voucher (GSTV), Silver Support Scheme (SSS) or WIS, whichever is latest) or via GovCash if you had not registered a bank account with us*.
+	<br><br>
+	If you have linked your NRIC number to your PayNow bank account after the 16<sup>th</sup) of the month, or submitted your bank account details after the 14<sup>th</sup> of the month, your updates will only be effective in the following month.<br><br>
 Compared to cheque payments, electronic payments make transactions simple, swift, and safe for recipients. We strongly encourage you to <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/paymentinstructions/edit">update</a>* your bank account to receive your future Workfare payouts earlier.<br><br>
 * bank account details submitted after 14th of the month will be effective in the following month.<br><br>
 We will notify you via letters and/or SMS messages before the payment dates. You can <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/wisnotices/index">retrieve a copy of your notification letters</a> by logging in to the Workfare Portal with your Singpass. To receive the notification via SMS messages, please update your Singpass-registered mobile number at "View/Update My Notification Mode". <br><br></details></li>
