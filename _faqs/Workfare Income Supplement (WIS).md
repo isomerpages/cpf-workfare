@@ -1078,6 +1078,10 @@ details>summary::-webkit-details-marker {
   display: none;
 }
 
+	details {
+  overflow: hidden;
+}
+	
 details>summary::before {
   content: '+ ' ;
 	color: white;
@@ -1090,7 +1094,6 @@ details[open]>summary::before {
 details[open]>summary {
   margin-bottom: 0.5rem;
 }
-	
  a.hyperlink {
     color:green;
 		text-decoration: none;
