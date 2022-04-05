@@ -587,6 +587,29 @@ Otherwise, it will be credited to the DBS/POSB, OCBC or UOB bank account that yo
 Electronic payments make transactions simple, swift, and safe for recipients. We strongly encourage you to consider linking your NRIC number to your bank account or <a href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/paymentinstructions/edit" class="hyperlink">update</a> your bank account to receive your future Workfare payouts earlier*.<br><br>
 	* If you have linked your NRIC number to your  bank account after the 16<sup>th</sup> of the month or submitted your bank account details after the 14<sup>th</sup> of the month, your updates will only be effective in the following month.<br><br>
 You will be notified of your payment details via letters and/or SMS messages nearer to the payment dates. You can <a href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/wisnotices/index" class="hyperlink">retrieve a copy of your notification letters</a> by logging in to the Workfare Portal at <a href="https://www.workfare.gov.sg" class="hyperlink">workfare.gov.sg</a> with your Singpass. To receive your notifications earlier via SMS, simply opt-in to SMS at <a href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/people/notificationmode" class="hyperlink">"View/Update My Notification Mode"</a>. <br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How do I encash a Workfare Estate Cheque?</b></font></summary>
+The estate cheque will form part of the deceased member's estate. Depending on the value of the deceased member's estate, his Next-of-Kin (NOK) may apply to the Public Trustee's Office or the Court to administer his estate. For more information, please visit the Public Trustee’s Office website at <a href="https://pto.mlaw.gov.sg/" class="hyperlink">pto.mlaw.gov.sg</a>, or call them at 1800 225 5529.<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How can I retrieve a copy of my Workfare notification letter?</b></font></summary>
+You can retrieve a <a href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/wisnotices/index" class="hyperlink">copy of your notification letters</a> by logging in to eService at Workfare Portal with your Singpass.<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>When will I receive Workfare notification?</b></font></summary>
+You will be notified via letters and/or SMS nearer to the payment dates.<br><br>
+To receive the notification earlier via SMS, simply opt-in to receive SMS at "<a href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/People/NotificationMode" class="hyperlink">View/Update My Notification Mode</a>". To receive SMS notifications, you must have a Singpass 2FA mobile number. You will only start receiving SMS notifications after you have submitted the above request and updated your mobile number with Singpass.<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How do I retrieve a copy of my Workfare notification letter?</b></font></summary>
+You can retrieve a copy of your notification letters by logging into the Workfare Portal (Singpass required) and select “<a href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/WisNotices/Index" class="hyperlink">View my Workfare Notices</a>”.<br>
+To receive the notification earlier via SMS, simply opt-in to SMS at "<a href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/People/NotificationMode" class="hyperlink">View/Update My Notification Mode"</a>.<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How can I tell if the SG-Workfare SMS I received is authentic?</b></font></summary>
+With the recent rise in scam and phishing attempts, it is important to verify that the message received is genuine from the official source.<br><br>
+<img src="/images/WISFAQ/SMS%20Example.png" style="width: 30%; height: 30%;">
+*This is only an example of a Workfare SMS. The actual SMS received may be different<br><br>
+Always remember:
+<ul>
+	<li style="font-size:15.5px">The SMS will always be sent by 'SG-Workfare', Your masked NRIC (showing the last 4 numerals and letter, e.g. S****123A) will be in the SMS</li>
+	<li style="font-size:15.5px">We will only inform citizens of their benefits and will never request for you to reply to the SMS</li>
+	<li style="font-size:15.5px">We will never direct you to a non-Government site. If the SMS contains an URL, always check that the domain ends with ".gov.sg". You may also search for the official website using search engines (e.g. Google) to ensure that the link is legitimate</li>
+ <li style="font-size:15.5px">Ensure that the SMS meets all of the checks above before proceeding to click on the URL. After you've clicked through to the webpage, be extra vigilant before providing sensitive information such as your Singpass or bank account details. Look out for valid encryption certificates by checking for the lock in the browser's address bar:</li>
+<img src="/images/WISFAQ/Gov%20Link%20Example.png" style="width: 80%; height: 80%">
+	<li style="font-size:15.5px">Workfare notifications will only be sent via letter or SMS. We do not use WhatsApp or other mobile app messaging platforms</li></ul>
+					Be cautious and let’s work together to safeguard your personal information.<br><br></details></li>
       </ol>
     </div>
   </li>
