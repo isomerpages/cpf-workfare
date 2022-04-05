@@ -10,18 +10,18 @@ description: ""
     <div>
        <ol>
         <li style="font-size:17px"><details>
-		<summary><b>What are the enhancements to the Workfare Income Supplement Scheme?</b></summary>The Government will enhance Workfare from Work Year 2023:<ol class="loweraplh">
+		<summary><b><font color="#009427">What are the enhancements to the Workfare Income Supplement Scheme?</font></b></summary>The Government will enhance Workfare from Work Year 2023:<ol class="loweraplh">
 <li style="padding-bottom: 2px; font-size:15.5px"><b>Qualifying monthly income cap raised from $2,300 to $2,500</b><sup>1</sup>. This takes into account income growth of Singaporeans.</li>
 <li style="padding-bottom: 2px; font-size:15.5px"><b>Extension of Workfare to those aged 30 - 34</b>. The payouts will help them better cope with their expenses and to start saving early for their retirement.</li>
 <li style="padding-bottom: 2px; font-size:15.5px"><b>Higher annual Workfare payouts of up to $4,200</b>. Payouts depend on age and income, and have been enhanced across all age bands. Eligible employees can receive up to $4,200 per year in payouts, compared to $4,000 per year today. Older workers will continue to receive the highest payouts. The payouts for self-employed persons are set at two-thirds of employee payouts and will be correspondingly increased.</li>
 <li style="padding-bottom: 2px; font-size:15.5px"><b>All persons with disabilities (PWDs) will qualify for the highest Workfare payout tier (up to $4,200), regardless of age.</b></li>
 <li style="padding-bottom: 2px; font-size:15.5px">Minimum qualifying monthly income criterion of $500. To encourage regular employment, Singaporean workers will need to earn at least $500 per month to qualify for Workfare.</li></ol><sup>1</sup>In addition, one must earn an average gross monthly income of not more than $2,500 in the past 12 months.<br><br></details></li>
-<li style="font-size:17px"><details><summary><b>Why will Workfare enhancements only take place in 2023?</b></summary>
+<li style="font-size:17px"><details><summary><b><font color="#009427">Why will Workfare enhancements only take place in 2023?</font></b></summary>
 Implementing the Workfare enhancements in 2023 provides sufficient time to make the required system changes, for smooth implementation of the enhancements.<br><br>
 The current Workfare criteria, which only came into effect two years ago in 2020, will continue to apply for work done in 2022.<br><br></details></li>
-<li style="font-size:17px"><details><summary><b>What is the Workfare Income Supplement scheme?</b></summary>
+<li style="font-size:17px"><details><summary><b><font color="#009427">What is the Workfare Income Supplement scheme?</font></b></summary>
 The Workfare Income Supplement (WIS) scheme was introduced in 2007 as a permanent feature of Singapore's social security system. The support is targeted at older, lower wage Singaporean workers whose earnings are in the bottom 20% of the working population, with support also available for those earning slightly more. Eligible workers will receive support via cash and CPF top-ups to supplement their income and retirement savings.<br><br></details></li>
-<li style="font-size:17px"><details><summary><b>Am I eligible for the Workfare Income Supplement scheme?</b></summary>
+<li style="font-size:17px"><details><summary><b><font color="#009427">Am I eligible for the Workfare Income Supplement scheme?</font></b></summary>
 You will be eligible for the Workfare Income Supplement (WIS) scheme if you:
 <ul style="border: 1px">
 	<li style="padding-bottom: 2px; font-size:15.5px">are a Singapore Citizen;</li>
@@ -46,20 +46,20 @@ As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a 
 <sup>3</sup> Defined as income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br>
 <sup>4</sup> Annual value is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties	<br><br>
 	</details></li>
-<li style="font-size:17px"><details><summary><b>How can I check the amount of Workfare Income Supplement payout that I will receive?</b></summary>
+<li style="font-size:17px"><details><summary><b><font color="#009427">How can I check the amount of Workfare Income Supplement payout that I will receive?</font></b></summary>
 We will notify you of the Workfare Income Supplement (WIS) payout amount by letters and/or SMS messages a few days before the payment date.<br><br>
 You can retrieve a copy of your notification by logging in to the Workfare portal with your Singpass.<br><br>
 If you are receiving letter notifications, you can receive earlier notifications via SMS by updating your Singpass-registered mobile number at "<a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/people/notificationmode">View/Update My Notification Mode</a>".<br><br>
 		You may also use the <a class="hyperlink" href="https://www.workfare.gov.sg/Pages/Calculator.aspx">WIS calculator</a> to estimate the amount of WIS payout you are entitled to. 
 	<br><br></details></li>
 	<li style="font-size:17px"><details><summary>
-		<b>What do I need to do to receive Workfare Income Supplement (WIS)?</b></summary>If you are an employee, you do not need to do anything. Your eligibility for Workfare Income Supplement (WIS) will be automatically assessed based on the CPF contributions* made by your employer. <br><br>
+		<b><font color="#009427">What do I need to do to receive Workfare Income Supplement (WIS)?</font></b></summary>If you are an employee, you do not need to do anything. Your eligibility for Workfare Income Supplement (WIS) will be automatically assessed based on the CPF contributions* made by your employer. <br><br>
 If you are a Self-Employed Person (SEP), you need to declare your net trade income (NTI) and contribute to your MediSave Account to be considered for WIS. Use our <a class="hyperlink" href="https://www.workfare.gov.sg/Pages/Calculator.aspx">online WIS calculator</a> to find out the amount you need to contribute to your MediSave Account.<br><br>
 You can declare your income and contribute to your MediSave Account in various ways.<br><br>
 To receive your WIS payouts by 30 April (via bank crediting), please declare your NTI and contribute to your MediSave Account by the last Friday of March.<br><br>
 *Under the CPF Act, employers must contribute to CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis. If your employer is not contributing CPF on your behalf, you can lodge a report on non/underpayment of CPF contributions online. Please log in to my cpf with your Singpass, then select My Request &gt; Other CPF Matters &gt; Report on non-payment or underpayment of CPF contributions.<br><br>
 Alternatively, you can also lodge a report by calling the WorkRight Hotline at 1800-221-9922 or emailing to <a class="hyperlink" href="workright@mom.gov.sg">workright@mom.gov.sg</a>. Your identity will be kept confidential.<br><br></details></li>
-<li style="font-size:17px"><details><summary><b>When will I receive my Workfare Income Supplement payouts?</b></summary>
+<li style="font-size:17px"><details><summary><b><font color="#009427">When will I receive my Workfare Income Supplement payouts?</font></b></summary>
 You will receive Workfare Income Supplement (WIS) payouts for every month that you work. The payment will be made two months after the work period. For example, the WIS payout for work done in January will be paid out in end March.<br><br>
 <table>
 <thead>
@@ -101,7 +101,7 @@ You can contact CPF Board via the following channels for your Workfare Income Su
 </ol></details></li>
 	<li style="font-size:17px"><details><summary><b>How can I change the mode of payment for my Workfare Income Supplement (WIS) payout?</b></summary>
 You may update your bank account details by logging into the Workfare Portal at <a class="hyperlink" href="http://www.workfare.gov.sg">workfare.gov.sg</a>.<br><br></details></li>
-				 <li style="font-size:17px"><details><summary><b>How much Workfare Income Supplement (WIS) will I get?</b></summary>
+				 <li style="font-size:17px"><details><summary><b><font color="#009427">How much Workfare Income Supplement (WIS) will I get?</font></b></summary>
 The Workfare Income Supplement (WIS) payout depends on your age and income. You may use the online <a class="hyperlink" href="https://www.workfare.gov.sg/Pages/Calculator.aspx">WIS calculator</a> to estimate the amount of WIS you will receive.<br><br>
 As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf" class="hyperlink">here</a> to find out more about the upcoming WIS enhancements.<br><br>
 <table>
@@ -174,7 +174,7 @@ You can send in your appeal for Workfare Income Supplement (WIS)/ Workfare Speci
 	<li style="font-size:15.5px">Select "Workfare Income Supplement (WIS)" under Subject</li>
 	<li style="font-size:15.5px">Select "Appeal-WIS" under Category </li></ol>
 You can also write to us via <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Services/MyMailbox/MyMailboxLanding">My Mailbox</a> (Singpass required) and skip the hassle of keying in your personal particulars. <br><br></details></li>
-				<li style="font-size:17px"><details><summary><b>Am I eligible for the Workfare Income Supplement scheme for work done in 2022?</b></summary>
+				<li style="font-size:17px"><details><summary><b><font color="#009427">Am I eligible for the Workfare Income Supplement scheme for work done in 2022?</font></b></summary>
 For work done in 2022, you will be eligible for the Workfare Income Supplement (WIS) scheme if you:<br>
 <ul>
 	<li style="font-size:15.5px">are a Singapore Citizen;</li>
