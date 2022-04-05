@@ -1079,12 +1079,12 @@ details>summary::-webkit-details-marker {
 }
 	
 details>summary::before {
-  content: '+ ' ;
+  content: '+' ;
 	color: white;
 }
 
 details[open]>summary::before {
-  content: '- ';
+  content: '-';
 }
 
 details[open]>summary {
