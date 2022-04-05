@@ -500,8 +500,13 @@ To receive Workfare Income Supplement (WIS) for work done in any month, employee
 <ol>
 	<li style="font-size:15.5px"> a gross monthly income of not more than $2,300* in that particular month; and</li>
 <li style="font-size:15.5px"> an average gross monthly income of not more than $2,300 in the past 12 months.</li></ol>
-*From Work Year 2023, the qualifying income cap will be raised to $2,500. Click <a href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf" class="hyperlink">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br>
-						</details></li>
+*From Work Year 2023, the qualifying income cap will be raised to $2,500. Click <a href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf" class="hyperlink">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why am I not eligible for Workfare Income Supplement or Workfare Special Payment despite my gross monthly income being less than $2,300 as an employee?</b></font></summary>
+Gross monthly income includes salary (before deduction of CPF contribution), bonuses, allowances and overtime pay received during the work period.<br><br>
+Other than gross monthly income, you must also earn an average gross monthly income of not more than $2,300* in the past 12 months.<br><br>
+The average gross monthly income is defined as:<br><br>
+<i>Sum of income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period</i><br><br>
+*From Work Year 2023, the qualifying income cap will be raised to $2,500. Click <a href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf" class="hyperlink">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br></details></li>
       </ol>
     </div>
   </li>
@@ -510,10 +515,39 @@ To receive Workfare Income Supplement (WIS) for work done in any month, employee
     <label for="accordion6">Eligibility Criteria - Housing</label>
     <div>
       <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ol>
+      <li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Do residents in welfare homes qualify for Workfare Income Supplement (WIS)?</b></font></summary>
+Residents in welfare homes registered with the National Council of Social Service/ Ministry of Health/ Ministry of Social and Family Development will qualify for Workfare Income Supplement (WIS) if they meet all of the other WIS eligibility criteria.<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why is the Annual Value of my place of residence used to assess my eligibility for Workfare Income Supplement?</b></font></summary>
+The Annual Value (AV) serves as a housing criterion that targets lower-wage workers from lower income households.<br><br>
+Using AV instead of housing type is a fairer way to determine property value as some applicants may be staying in smaller and less expensive private properties with an AV similar to a larger Housing &amp; Development Board flat.<br><br>
+					</details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>What is the Annual Value of a property?</b></font></summary>
+Annual Value (AV) is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties. It can be found on the property tax bill you receive each year.<br><br>
+For more information on the computation of AV, please visit the <a href="https://www.iras.gov.sg/irashome/Property/Property-owners/Learning-the-basics/About-Annual-Value/" class="hyperlink">Inland Revenue Authority of Singapore (IRAS) website</a>.<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How is the Annual Value (AV) requirement for Workfare Income Supplement (WIS) decided?</b></font></summary>
+The Annual Value (AV) threshold of $13,000 covers all HDB flats, as well as some smaller private residences. In general, Singaporeans staying in larger properties with AV above the cut-off tend to have greater access to household wealth, and therefore would not be eligible for the Workfare Income Supplement Scheme.<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>What address is used to determine the Annual Value in Workfare Income Supplement (WIS) assessment?</b></font></summary>
+The Annual Value will be based on the address reflected in your NRIC. Under the National Registration Act, you must report a change of address within 28 days of moving at any police station, or the Immigration &amp; Checkpoints Authority (ICA).<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I disagree with my Annual Value assessment. What do I need to do to receive Workfare Income Supplement (WIS)?</b></font></summary>
+You may approach the Inland Revenue Authority of Singapore (IRAS) for a re-assessment. If the Annual Value of your property is subsequently re-assessed and meets the housing criterion, you may then appeal for Workfare Income Supplement.<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I am renting a room/whole unit in the property that I stay in. Am I eligible for Workfare Income supplement (WIS)?</b></font></summary>
+If you are renting the entire property unit, the annual value of that property unit will be used to assess your eligibility.<br><br>
+If you are renting only a room or some rooms in the property, please write to us with your tenancy agreement and particulars (name, NRIC, telephone number, address and the nature of your appeal) on the online enquiry page:
+<ol>
+	<li style="font-size:15.5px">Select "Workfare Income Supplement (WIS)" under Subject</li>
+	<li style="font-size:15.5px">Select "Appeal-WIS" under Category</li></ol>
+You can also write to us via <a href="https://www.cpf.gov.sg/eSvc/Web/Services/MyMailbox/MyMailboxLanding" class="hyperlink">My Mailbox</a> (Singpass required) and skip the hassle of keying in your personal particulars.<br><br>
+We will review your Workfare Income Supplement eligibility after we have received your request and the supporting documents.<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>The Annual Value of my place of residence has been revised (e.g. moved house). What do I need to do to receive Workfare Income Supplement?</b></font></summary>
+We will review your case if you update your NRIC address within 28 days of your change of address. Please write to us with your particulars and supporting documents on the online enquiry page:
+<ol>
+	<li style="font-size:15.5px">Select "Workfare Income Supplement (WIS)" under Subject</li>
+	<li style="font-size:15.5px">Select "Appeal-WIS" under Category</li></ol>
+You can also write to us via <a href="https://www.cpf.gov.sg/eSvc/Web/Services/MyMailbox/MyMailboxLanding" class="hyperlink">My Mailbox</a> (Singpass required) and skip the hassle of keying in your personal particulars.<br><br>
+We will review your Workfare Income Supplement eligibility after we have received your request and the supporting documents.<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>What constitutes a second property for Workfare Income Supplement Scheme?</b></font></summary>
+All types of properties e.g. Housing &amp; Development Board flat, private property and non-residential property, are taken into account in determining the eligibility for Workfare Income Supplement Scheme.<br><br></details></li>
+			</ol>
     </div>
   </li>
 <li>
