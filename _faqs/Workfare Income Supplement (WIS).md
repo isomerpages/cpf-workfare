@@ -278,6 +278,7 @@ If you are a Self-Employed Person, you will receive 90% of your WIS in your Medi
 	Otherwise, it will be credited to the DBS/POSB, OCBC or UOB bank account that you have registered to receive Government payouts (e.g. either the GST-Voucher (GSTV), Silver Support Scheme (SSS) or WIS, whichever is latest) or via GovCash if you had not registered a bank account with us.
 	<br><br>
 	Electronic payments make transactions simple, swift, and safe for recipients. We strongly encourage you to consider linking your NRIC number to your PayNow bank account, or update your bank account with us*.
+	<br><br>
 	*If you have linked your NRIC number to your PayNow bank account after the 16<sup>th</sup> of the month, or submitted your bank account details after the 14<sup>th</sup> of the month, your updates will only be effective in the following month.<br><br></details></li>
 <li style="font-size:17px"><details><summary><b><font color="#009427">How can I declare my income as a Self-Employed Person?</font></b></summary>If you did not receive Form B from Inland Revenue Authority of Singapore (IRAS), you can declare your Self-Employed Net Trade Income (NTI) online by logging in <a class="hyperlink" href="https://www.cpf.gov.sg/member/ds/"><em>my cpf</em></a> with your Singpass to complete and submit the Self-Employed Person Income Declaration Form. You may also do so at any SingPost branch.<br><br>
 If you have received Form B from the IRAS, please complete and submit the income declaration form to IRAS directly.<br><br>
