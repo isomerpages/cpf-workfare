@@ -83,7 +83,7 @@ You will receive Workfare Income Supplement (WIS) payouts for every month that y
   </tr>
   <tr>
     <td>Apr</td>
-    <td>End Aug</td>
+    <td>End Jun</td>
   </tr>
   <tr>
     <td>Month x</td>
