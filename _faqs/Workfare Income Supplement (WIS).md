@@ -282,7 +282,7 @@ If you are a Self-Employed Person, you will receive 90% of your WIS in your Medi
 	*If you have linked your NRIC number to your PayNow bank account after the 16<sup>th</sup> of the month, or submitted your bank account details after the 14<sup>th</sup> of the month, your updates will only be effective in the following month.<br><br></details></li>
 <li style="font-size:17px"><details><summary><b><font color="#009427">How can I declare my income as a Self-Employed Person?</font></b></summary>If you did not receive Form B from Inland Revenue Authority of Singapore (IRAS), you can declare your Self-Employed Net Trade Income (NTI) online by logging in <a class="hyperlink" href="https://www.cpf.gov.sg/member/ds/"><em>my cpf</em></a> with your Singpass to complete and submit the Self-Employed Person Income Declaration Form. You may also do so at any SingPost branch.<br><br>
 If you have received Form B from the IRAS, please complete and submit the income declaration form to IRAS directly.<br><br>
-To receive your WIS payout by 30 April (via bank crediting), please declare your NTI and contribute to your MediSave Account by the last Friday of March.<br><br></details></li>
+To receive your WIS payout by 30 April (via your PayNow NRIC-linked bank account or bank crediting), please declare your NTI and contribute to your MediSave Account by the last Friday of March.<br><br></details></li>
       </ol>
     </div>
 	</li>  
