@@ -1088,7 +1088,7 @@ details[open]>summary::before {
 }
 
 details[open]>summary {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0rem;
 }
  a.hyperlink {
     color:green;
