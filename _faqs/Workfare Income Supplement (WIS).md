@@ -186,7 +186,7 @@ For work done in 2022, you will be eligible for the Workfare Income Supplement (
 <ul>
 	<li style="font-size:15.5px">are a Singapore Citizen;</li>
 	<li style="font-size:15.5px">are 35<sup>1</sup> years old or older on 31 December 2022;</li>
-	<li style="font-size:15.5px">earn not more than $2,300<sup>2</sup> for the month worked and in the past 12 months<sup>3</sup> (average monthly income) as an employee; or have an average monthly income of not more than $2,300 or less as a Self-Employed Person (SEP);</li></ul>
+	<li style="font-size:15.5px">earn not more than $2,300<sup>2</sup> for the month worked and in the past 12 months<sup>3</sup> (average monthly income) as an employee; or have an average monthly income of not more than $2,300 as a Self-Employed Person (SEP);</li></ul>
 If you are an SEP, you are also required to declare your Net Trade Income (NTI) and make your MediSave contributions to be eligible for WIS.<br><br>
 	However, you will <u>not</u> be eligible for WIS if you:<br><br>
 <ul>
