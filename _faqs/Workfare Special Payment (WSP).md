@@ -165,7 +165,7 @@ Other than gross monthly income, you must also earn an average gross monthly inc
 The average gross monthly income is defined as:<br><br>
 Sum of income earned in the past 12-month period + Total number of months worked in the past 12-month period<br><br>
 *From Work Year 2023, the qualifying income cap will be raised to $2,500. Click here to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br></details>
-<details><summary><font size="+1" color="#009427"><b>Q21. How much is my Workfare Income Supplement/Workfare Special Payment payout?</b></font></summary>
+<details><summary><font size="+1" color="#009427"><b>Q21. How much is my Workfare Income Supplement/Workfare Special Payment?</b></font></summary>
 To check the Workfare payouts you received, log into the <a href="https://www.workfare.gov.sg/" class="hyperlink">Workfare Portal</a> with your Singpass and look under “<a href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/Payments/Transactions" class="hyperlink">My Workfare Transactions</a>”.
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>Q22. How do I appeal for Workfare Income Supplement (WIS) Scheme / Workfare Special Payment (WSP)?</b></font></summary>
