@@ -539,7 +539,7 @@ If you are renting only a room or some rooms in the property, please write to us
 You can also write to us via <a href="https://www.cpf.gov.sg/eSvc/Web/Services/MyMailbox/MyMailboxLanding" class="hyperlink">My Mailbox</a> (Singpass required) and skip the hassle of keying in your personal particulars.<br><br>
 We will review your Workfare Income Supplement eligibility after we have received your request and the supporting documents.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>The Annual Value of my place of residence has been revised (e.g. moved house). What do I need to do to receive Workfare Income Supplement?</b></font></summary>
-We will review your case if you update your NRIC address within 28 days of your change of address. Please write to us with your particulars and supporting documents on the online enquiry page:
+We will review your case if you update your NRIC address within 28 days of your change of address. Please <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index">write to us</a> with your particulars and supporting documents on the online enquiry page:
 <ol>
 	<li style="font-size:15.5px">Select "Workfare Income Supplement (WIS)" under Subject</li>
 	<li style="font-size:15.5px">Select "Appeal-WIS" under Category</li></ol>
