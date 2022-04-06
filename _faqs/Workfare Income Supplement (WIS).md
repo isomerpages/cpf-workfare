@@ -705,7 +705,7 @@ You can choose to receive your payments via PayNow by linking your NRIC number t
 					To link your NRIC number to your bank account, you may follow the steps below:<br><br>
 					1. Set up internet / mobile banking with your bank<br><br>
 					2. Log in to your bank's internet / mobile banking application<br><br>
-					Link your NRIC number to your bank account at the PayNow registration screen<br><br>
+					3. Link your NRIC number to your bank account at the PayNow registration screen<br><br>
 					You may also refer to your bank's website for specific details to do so. If you do not have Internet or mobile banking, you can contact your bank directly to register for PayNow.<br><br>
 					Otherwise, you can choose to receive your payouts via Direct Bank Crediting. To do so, simply visit <a href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/paymentinstructions/edit" class="hyperlink">here</a>, login with your Singpass, select "<a href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/PaymentInstructions/Edit" class="hyperlink">View / Update Payment Mode</a>" and update your POSB/DBS, OCBC or UOB bank account details.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why can withdrawals be made only in $10 denominations and what can I do with my balance GovCash?</b></font></summary>
