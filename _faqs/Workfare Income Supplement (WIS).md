@@ -736,7 +736,6 @@ If you require further assistance, please contact the Singpass Helpdesk at <a hr
       </ol>
     </div>
   </li>
-</ul>
 
 <style>
 details>summary {
