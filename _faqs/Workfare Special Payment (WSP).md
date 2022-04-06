@@ -161,7 +161,7 @@ Log in to my cpf using your Singpass to check the transaction status:
 	<li style="font-size:15.5px">Check the transaction status under <b>My Activities</b> (if you paid via e-Cashier)</li></ul></details>
 <details><summary><font size="+1" color="#009427"><b>Q20. Why am I not eligible for Workfare Income Supplement or Workfare Special Payment despite my gross monthly income being less than $2,300 as an employee?</b></font></summary>
 Gross monthly income includes salary (before deduction of CPF contribution), bonuses, allowances and overtime pay received during the work period.<br><br>
-Other than gross monthly income, you must also earn an average gross monthly income of not more than $2,300 (or $2,000 for Work Year 2019) in the past 12 months.<br><br>
+Other than gross monthly income, you must also earn an average gross monthly income of not more than $2,300* in the past 12 months.<br><br>
 The average gross monthly income is defined as:<br><br>
 Sum of income earned in the past 12-month period + Total number of months worked in the past 12-month period<br><br></details>
 <details><summary><font size="+1" color="#009427"><b>Q21. How much is my Workfare Income Supplement/Workfare Special Payment payout?</b></font></summary>
