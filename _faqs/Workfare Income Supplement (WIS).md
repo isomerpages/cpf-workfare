@@ -477,7 +477,7 @@ Please note that you will need to declare your income and make your MediSave con
 You will receive monthly Workfare Income Supplement (WIS) payments based on your employee income if you meet the WIS eligibility criteria for the work year (WY).<br><br>
 If you are also an eligible dual status worker (DSW) who has worked concurrently as a SEP and employee in the year, you may receive additional WIS if your combined employment and net trade income results in a higher WIS payout. You will receive your WIS top-up after you have declared your income (to IRAS or CPFB) and have made the required MediSave contributions.<br><br>
 You will receive the WIS top-up once a year for work done as a Self-Employed Person in the preceding year. The earliest payment for SEPs/DSWs for a particular WY will be on 30 April WY+1. If you have declared your income and made your MediSave contribution by the last Friday of March WY+1, you would receive your WIS payout in end April WY+1*.<br><br>
-* Based on payment dates for bank crediting. Payment by cheque takes up to 2 weeks longer due to bank crediting.<br><br></details></li>
+* Payment via PayNow NRIC-linked bank account or bank crediting will be credited by end of the month while payment via GovCash will be on the 3<sup>rd</sup> of the following month.<br><br></details></li>
        </ol>
     </div>
   </li>
