@@ -415,7 +415,7 @@ The service standard for processing electronic payment is as follows:<br><br>
 Log in to <a href="https://www.cpf.gov.sg/member/ds/" class="hyperlink">my cpf</a> using your Singpass to check the transaction status:<br><br>
 <ul>
 <li style="font-size:15.5px">Check that your MediSave contribution is reflected in <b>My Statement</b>, or</li>
-<li style="font-size:15.5px">Check the transaction status under My Activities (if you paid via e-Cashier)</li></ul><br><br></details></li>
+	<li style="font-size:15.5px">Check the transaction status under <b>My Activities</b> (if you paid via e-Cashier)</li></ul><br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Can I qualify for the Workfare Income Supplement Scheme if I did not receive the Income Tax declaration form from the Inland Revenue Authority of Singapore (IRAS)?</b></font></summary>
 For CPF Board to assess your WIS eligibility as a Self-Employed Person (SEP), if you did not receive Form B from the Inland Revenue Authority of Singapore (IRAS), you will need to declare your net trade income (NTI) to the CPF Board and contribute to your MediSave Account.<br><br>
 Please log in to <a href="https://www.cpf.gov.sg/member/ds/" class="hyperlink">my cpf</a> (Singpass required) to complete and submit the <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/IncomeDeclarationBySelfEmployedPersonForMedisaveLiability/LandingPage" class="hyperlink">Self-Employed Person Income Declaration Form</a>. You may also do so at any SingPost branch.<br><br>
