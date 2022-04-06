@@ -698,7 +698,7 @@ Your PRN can be found in your Workfare notification from the Board. Alternativel
 To check your GovCash balance, please visit any OCBC ATM with your 8-digit Payment Reference Number* (PRN). Upon successful authentication, you will be able to view your GovCash balance.<br><br>
 Alternatively, you may login to the LifeSG mobile app using your Singpass to view your GovCash balance and transaction history. You may refer to the <a href="/files/FAQs/Brochure_GovCash.pdf" class="hyperlink">step-by-step guide</a> for detailed instructions.<br><br>
 *Your PRN can be found in your Workfare notification from the CPF Board, and at the Workfare Portal (Singpass login is required).<br><br></details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>What should I do if my facial recognition at the ATM with GovCash functions is unsuccessful?</b></font></summary>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>What should I do if my facial recognition at the OCBC ATMs is unsuccessful?</b></font></summary>
 Should the ATM be unable to verify your identity via Singpass Face Verification, please try again or request for assistance from OCBC's Digital Ambassadors.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>What should I do if I do not want to receive my payouts via GovCash?</b></font></summary>
 You can choose to receive your payments via PayNow by linking your NRIC number to your bank account.<br><br>
