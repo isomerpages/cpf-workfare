@@ -274,7 +274,7 @@ To link your NRIC number to your bank account, you may follow the steps below:<b
 	<li style="font-size:15.5px">Set up internet / mobile banking with your bank</li>
 	<li style="font-size:15.5px">Log in to your bank's internet / mobile banking application</li>
 	<li style="font-size:15.5px">Link your NRIC number to your bank account at the PayNow registration screen</li></ol>
-You may also refer to your bank's website for specific details to do so. If you do not have Internet or mobile banking, you can contact your bank directly to register for PayNow-NRIC.<br><br>
+You may also refer to your bank's website for specific details to do so. If you do not have Internet or mobile banking, you can contact your bank directly to register for PayNow.<br><br>
 Otherwise, you can choose to receive your payouts via Direct Bank Crediting. To do so, simply visit here, login with your Singpass, select "<a class="hyperlink" href="https://www.workfare.gov.sg/app/Account/QRLogin?returnUrl=/PaymentInstructions/Edit">View / Update Payment Mode</a>" and update your POSB/DBS, OCBC or UOB bank account details.
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
