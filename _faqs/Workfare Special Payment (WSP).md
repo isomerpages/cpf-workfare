@@ -329,31 +329,30 @@ If you require further assistance, please contact the Singpass Helpdesk at <a hr
 
 <style>
 details>summary {
+  list-style-type: none;
+	font-size: 18px;
+  outline: none;
   cursor: pointer;
+  padding: 10px;
 }
-
+	
 details>summary::-webkit-details-marker {
   display: none;
 }
-
-details>summary::before {
-  content: '+ ' ;
-	color: white;
-}
-
-details[open]>summary::before {
-  content: '- ';
-}
-
-details[open]>summary {
-  margin-bottom: 0.5rem;
-}
+	
  a.hyperlink {
     color:green;
-	  text-decoration: none;
+		text-decoration: none;
   }
 a.hyperlink:hover {
     color:MediumVioletRed;
-		text-decoration: none;
-}
+  }
+ol.loweraplh {
+	list-style-type: lower-alpha;
+	}
+	
+li.Numbering::marker {
+	font-weight: bold;
+	color: #009427;
+	}
 </style>
