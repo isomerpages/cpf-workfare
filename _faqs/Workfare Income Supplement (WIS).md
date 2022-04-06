@@ -701,7 +701,7 @@ Alternatively, you may login to the LifeSG mobile app using your Singpass to vie
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>What should I do if my facial recognition at the ATM with GovCash functions is unsuccessful?</b></font></summary>
 Should the ATM be unable to verify your identity via Singpass Face Verification, please try again or request for assistance from OCBC's Digital Ambassadors.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>What should I do if I do not want to receive my payouts via GovCash?</b></font></summary>
-You can choose to receive your payouts via PayNow by linking your NRIC number to your bank account.<br><br>
+You can choose to receive your payments via PayNow by linking your NRIC number to your bank account.<br><br>
 					To link your NRIC number to your bank account, you may follow the steps below:<br><br>
 					1. Set up internet / mobile banking with your bank<br><br>
 					2. Log in to your bank's internet / mobile banking application<br><br>
