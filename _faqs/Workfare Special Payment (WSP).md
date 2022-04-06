@@ -157,8 +157,8 @@ The payment options are:<br><table>
 <li style="font-size:15.5px">For payment via eNETS Debit, your payment will be processed within the next working day.</li></ul>
 Log in to my cpf using your Singpass to check the transaction status:
 <ul>
-<li style="font-size:15.5px">Check that your MediSave contribution is reflected in My Statement, or</li>
-<li style="font-size:15.5px">Check the transaction status under My Activities (if you paid via e-Cashier)</li></ul></details>
+<li style="font-size:15.5px">Check that your MediSave contribution is reflected in <b>My Statement</b>, or</li>
+	<li style="font-size:15.5px">Check the transaction status under <b>My Activities</b> (if you paid via e-Cashier)</li></ul></details>
 <details><summary><font size="+1" color="#009427"><b>Q20. Why am I not eligible for Workfare Income Supplement or Workfare Special Payment despite my gross monthly income being less than $2,000 (for WY2019) or $2,300 (for WY2020) as an employee?</b></font></summary>
 Gross monthly income includes salary (before deduction of CPF contribution), bonuses, allowances and overtime pay received during the work period.<br><br>
 Other than gross monthly income, you must also earn an average gross monthly income of not more than $2,300 (or $2,000 for Work Year 2019) in the past 12 months.<br><br>
