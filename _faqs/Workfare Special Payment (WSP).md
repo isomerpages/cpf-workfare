@@ -247,7 +247,7 @@ Previously, cheque recipients would have to deposit the cheques or encash them o
 In addition, GovCash also allows recipients to use the scan-and-pay function and PayNow transfer option through the LifeSG mobile app.<br><br></details>
 <details><summary><font size="+1" color="#009427"><b>Q27. How can I utilise my GovCash?
 </b></font></summary>
-You can withdraw your payouts in cash at any OCBC ATMs with GovCash functions with your 8-digit Payment Reference Number (PRN), which will be sent to you by SMS or by post. You do not need to have a OCBC bank account to use this service.<br><br>
+You can withdraw your payouts in cash at any OCBC ATM with GovCash functions with your 8-digit Payment Reference Number (PRN), which will be sent to you by SMS or by post. You do not need to have a OCBC bank account to use this service.<br><br>
 You can also transfer your payouts to your PayNow NRIC-linked bank account or utilise them to make payments at any merchants or transfer to your friends by scanning their PayNow QR code using the LifeSG mobile app. You can download the LifeSG mobile app from the Apple App Store or Google Play Store.<br><br>
 You may refer to the <a href="https://www.workfare.gov.sg/Documents/Leaflet_GovCash.pdf" class="hyperlink">step-by-step guide</a> for detailed instructions on the ways you can utilise your GovCash payouts. 
 <br><br></details>
