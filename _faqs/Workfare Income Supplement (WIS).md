@@ -701,8 +701,13 @@ Alternatively, you may login to the LifeSG mobile app using your Singpass to vie
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>What should I do if my facial recognition at the ATM with GovCash functions is unsuccessful?</b></font></summary>
 Should the ATM be unable to verify your identity via Singpass Face Verification, please try again or request for assistance from OCBC's Digital Ambassadors.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>What should I do if I do not want to receive my payouts via GovCash?</b></font></summary>
-You can choose to receive your payouts via Direct Bank Crediting.<br><br>
-To do so, simply visit <a href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/paymentinstructions/edit" class="hyperlink">here</a>, login with your Singpass, select "<a href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/PaymentInstructions/Edit" class="hyperlink">View / Update Payment Mode</a>" and tell us your POSB/DBS, OCBC or UOB bank account details.<br><br></details></li>
+You can choose to receive your payouts via PayNow by linking your NRIC number to your bank account.<br><br>
+					To link your NRIC number to your bank account, you may follow the steps below:<br><br>
+					1. Set up internet / mobile banking with your bank<br><br>
+					2. Log in to your bank's internet / mobile banking application<br><br>
+					Link your NRIC number to your bank account at the PayNow registration screen<br><br>
+					You may also refer to your bank's website for specific details to do so. If you do not have Internet or mobile banking, you can contact your bank directly to register for PayNow.<br><br>
+					Otherwise, you can choose to receive your payouts via Direct Bank Crediting. To do so, simply visit <a href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/paymentinstructions/edit" class="hyperlink">here</a>, login with your Singpass, select "<a href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/PaymentInstructions/Edit" class="hyperlink">View / Update Payment Mode</a>" and update your POSB/DBS, OCBC or UOB bank account details.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why can withdrawals be made only in $10 denominations and what can I do with my balance GovCash?</b></font></summary>
 Currently, the minimum withdrawal amount at the ATMs is $10. Hence, GovCash withdrawals can also be made in $10 denominations. If the balance in your GovCash is less than $10, you can accumulate your balance monies before your next withdrawal.<br><br>
 Alternatively, you can also transfer the balance to your PayNow NRIC-linked bank account or utilise them to make payments at any merchants or transfer to your friends by scanning the PayNow QR code using the LifeSG mobile app. You may refer to the <a href="https://www.workfare.gov.sg/Documents/Leaflet_GovCash.pdf" class="hyperlink">step-by-step guide</a> for detailed instructions.<br><br></details></li>
