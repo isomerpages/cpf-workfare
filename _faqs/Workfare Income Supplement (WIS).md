@@ -767,4 +767,4 @@ li.Numbering::marker {
 	font-weight: bold;
 	color: #009427;
 	}
-</style></details>
+</style>
