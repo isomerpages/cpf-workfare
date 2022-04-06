@@ -404,7 +404,7 @@ The payment options are:
   </tr>
   <tr>
     <td>NETS/CashCard</td>
-    <td>• Pay by NETS or CashCard at any SingPost branche</td>
+    <td>• Pay by NETS or CashCard at any SingPost branches</td>
   </tr>
 </tbody>
 </table><br>
