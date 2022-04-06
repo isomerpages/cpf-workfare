@@ -23,14 +23,14 @@ The current Workfare criteria, which only came into effect two years ago in 2020
 The Workfare Income Supplement (WIS) scheme was introduced in 2007 as a permanent feature of Singapore's social security system. The support is targeted at older, lower wage Singaporean workers whose earnings are in the bottom 20% of the working population, with support also available for those earning slightly more. Eligible workers will receive support via cash and CPF top-ups to supplement their income and retirement savings.<br><br></details></li>
 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">Am I eligible for the Workfare Income Supplement scheme?</font></b></summary>
 You will be eligible for the Workfare Income Supplement (WIS) scheme if you:
-<ul style="border: 1px">
+<ul style="list-style-type:square;">
 	<li style="padding-bottom: 2px; font-size:15.5px">are a Singapore Citizen;</li>
 	<li style="padding-bottom: 2px; font-size:15.5px">are 35<sup>1</sup> years old or older on 31 December of the Work Year (WY);</li>
 	<li style="font-size:15.5px">earn not more than $2,300<sup>2</sup> (previously $2,000) for the month worked and in the past 12 months<sup>3</sup> (average monthly income) as an employee; or have an average monthly income of not more than $2,300 (previously $2,000) as a Self-Employed Person (SEP);</li>
 	</ul>
 If you are an SEP, you are also required to declare your Net Trade Income (NTI) and make your MediSave contributions to be eligible for WIS.<br><br>
 	However, you will <u>not</u> be eligible for WIS if you:
-		<ul>
+<ul style="list-style-type:square;">
 	<li style="font-size:15.5px">live in a property with an annual value<sup>4</sup> of more than $13,000 assessed as at 31 December of the previous year;</li>
 	<li style="font-size:15.5px">own two or more properties; or</li>
 	<li style="font-size:15.5px">if you are married,</li>
