@@ -227,7 +227,7 @@ PayNow is a secure funds transfer service that allows customers to receive money
   </tr>
 </tbody>
 </table>
-<br><br></details>
+</details>
 <details><summary><font color="#009427" size="+1"><b>Q24. How do I link my NRIC to PayNow?</b></font></summary>
 You may follow the steps below:<br>
 <ol>
