@@ -284,7 +284,7 @@ Alternatively, you can also transfer the balance to your PayNow NRIC-linked bank
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
 Q33. Would I need to login to Singpass each time I open the LifeSG mobile app to access my GovCash?</b></font></summary>
-No, you are only required to log in using SingPass when you first use the LifeSG mobile application. Subsequent use of the LifeSG mobile app do not require SingPass logins again, unless you have not used LifeSG mobile app for more than a year or deleted the application and re-downloaded it.
+No, you are only required to log in using SingPass when you first use the LifeSG mobile app. Subsequent use of the LifeSG mobile app do not require SingPass logins again, unless you have not used LifeSG mobile app for more than a year or deleted the application and re-downloaded it.
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
 Q34. If my GovCash balance is insufficient to make payments at the merchants, can I top-up using my own funds?</b></font></summary>
