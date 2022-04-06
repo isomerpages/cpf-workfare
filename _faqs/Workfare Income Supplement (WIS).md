@@ -183,13 +183,13 @@ You can send in your appeal for Workfare Income Supplement (WIS)/ Workfare Speci
 You can also write to us via <a href="https://www.cpf.gov.sg/eSvc/Web/Services/MyMailbox/MyMailboxLanding" class="hyperlink">My Mailbox</a> (Singpass required) and skip the hassle of keying in your personal particulars. <br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">Am I eligible for the Workfare Income Supplement scheme for work done in 2022?</font></b></summary>
 For work done in 2022, you will be eligible for the Workfare Income Supplement (WIS) scheme if you:<br>
-<ul>
+<ul style="list-style-type:disc;">
 	<li style="font-size:15.5px">are a Singapore Citizen;</li>
 	<li style="font-size:15.5px">are 35<sup>1</sup> years old or older on 31 December 2022;</li>
 	<li style="font-size:15.5px">earn not more than $2,300<sup>2</sup> for the month worked and in the past 12 months<sup>3</sup> (average monthly income) as an employee; or have an average monthly income of not more than $2,300 as a Self-Employed Person (SEP);</li></ul>
 If you are an SEP, you are also required to declare your Net Trade Income (NTI) and make your MediSave contributions to be eligible for WIS.<br><br>
 	However, you will <u>not</u> be eligible for WIS if you:<br><br>
-<ul>
+<ul style="list-style-type:disc;">
 <li style="font-size:15.5px">live in a property with an annual value<sup>4</sup> of more than $13,000 assessed as at 31 December of the previous year;</li>
 <li style="font-size:15.5px">own two or more properties; or</li>
 <li style="font-size:15.5px">if you are married,</li>
