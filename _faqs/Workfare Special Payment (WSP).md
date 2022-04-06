@@ -23,7 +23,7 @@ The WSP will be given to eligible Singaporeans in the same way as their WIS paym
 From March 2022 onwards, the payout will be credited in their PayNow NRIC-linked bank account if they have one.<br><br>
 Otherwise, it will be credited to the DBS/POSB, OCBC or UOB bank account that they have registered to receive Government payouts (e.g. either the GST-Voucher (GSTV), Silver Support Scheme (SSS) or WIS, whichever is latest) or credited to GovCash if they had not registered a bank account with us.<br><br>
 Electronic payments make transactions simple, swift, and safe for recipients. WIS recipients are encouraged to link their NRIC number to their bank account or <a href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/paymentinstructions/edit" class="hyperlink">update</a> their bank account to receive their payments earlier*.<br><br>
-* If the NRIC number was linked to the recipient's bank account after 16th of the month or the bank account details were submitted after 14th of the month, the updates will only be effective in the following month. 
+	* If the NRIC number was linked to the recipient's bank account after 16<sup>th</sup> of the month or the bank account details were submitted after 14<sup>th</sup> of the month, the updates will only be effective in the following month. 
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>Q3. Why are there differences in the eligibility cut-off dates between Workfare Special Payment and Workfare Income Supplement?</b></font></summary>
 To receive Workfare Income Supplement (WIS) for work done in Work Year (WY) 2019 and WY 2020, you must qualify for WIS by 31 December 2021 and 31 December 2022 respectively.<br><br>
