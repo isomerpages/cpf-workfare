@@ -114,10 +114,10 @@ Eligible recipients would have received a total of $3,000 Workfare Special Payme
   </tr>
 </tbody>
 </table>
-Notes:
+Notes:<br>
 * Singaporeans who qualify for WY2019 WIS after July 2020 but before 31 March 2021 will receive the WSP in the month that they become eligible for WY2019 WIS.<br>
 ^ Singaporeans who qualify for WY2020 WIS after October 2020 but before 31 December 2021 will receive the WSP in the month that they become eligible for WY2020 WIS.<br><br>
-To check the WSP you have received, log in to the <a href="https://www.workfare.gov.sg/" class="hyperlink">Workfare Portal</a> with your Singpass and look under "My Workfare Transactions". 
+To check the WSP you have received, log in to the <a href="https://www.workfare.gov.sg/" class="hyperlink">Workfare Portal</a> with your Singpass and look under "<a class="hyperlink" href="https://www.workfare.gov.sg/app/Home/Index?returnUrl=/Payments/Transactions">My Workfare Transactions</a>". 
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>Q17. How will I be notified of my Workfare Special Payment payouts?</b></font></summary>
 You will be notified of your Workfare Special Payment by letter.
@@ -125,8 +125,7 @@ You will be notified of your Workfare Special Payment by letter.
 <details><summary><font size="+1" color="#009427"><b>Q18. How can I declare my income as a Self-Employed Person (SEP)?</b></font></summary>
 <ul>
 <li style="font-size:15.5px">If you did not receive Form B from Inland Revenue Authority of Singapore (IRAS), you can declare your Self-Employed Net Trade Income (NTI) online by logging in <a href="https://www.cpf.gov.sg/member/ds/" class="hyperlink">my cpf</a> with your Singpass to complete and submit the <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/IncomeDeclarationBySelfEmployedPersonForMedisaveLiability/LandingPage" class="hyperlink">Self-Employed Person Income Declaration Form</a>, from 1 January 2020 (for work done in 2019) and from 1 January 2021 (work done in 2020). You may also do so at any SingPost branch.</li>
-<li style="font-size:15.5px">If you have received Form B from IRAS, please complete and submit the income declaration form to IRAS directly from 1 March 2020 (for work done in 2019) and from 1 March 2021 (for work done in 2020).</li></ul>
-<br><br></details>
+<li style="font-size:15.5px">If you have received Form B from IRAS, please complete and submit the income declaration form to IRAS directly from 1 March 2020 (for work done in 2019) and from 1 March 2021 (for work done in 2020).</li></ul></details>
 <details><summary><font size="+1" color="#009427"><b>Q19. How can I make my Medisave contributions as a Self-Employed Person?</b></font></summary>
 There are several ways you can make your MediSave contributions.<br><br>
 The most convenient way is via GIRO, which allows automatic monthly deductions from your bank account. You may apply to pay via GIRO online (if you have a bank account from OCBC/ DBS/ POSB) or by mail (for other banks).<br><br>
