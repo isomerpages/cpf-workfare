@@ -438,7 +438,7 @@ You can contribute to your MediSave Account via:
   </tr>
   <tr>
     <td>NETS/CashCard</td>
-    <td>• Pay by NETS or CashCard at any SingPost branche</td>
+    <td>• Pay by NETS or CashCard at any SingPost branches</td>
   </tr>
 </tbody>
 					</table><br></details></li>
