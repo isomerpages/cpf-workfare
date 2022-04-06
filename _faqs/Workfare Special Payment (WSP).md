@@ -263,7 +263,7 @@ Alternatively, you may login to the LifeSG mobile app using your Singpass to vie
 *Your PRN can be found in your Workfare notification from the CPF Board, and at the <a href="https://workfare.gov.sg/app/ePRN/Index" class="hyperlink">Workfare Portal</a> (Singpass login is required).
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
-Q30. What should I do if my facial recognition at the ATM with GovCash functions is unsuccessful?</b></font></summary>
+Q30. What should I do if my facial recognition at the ATM is unsuccessful?</b></font></summary>
 Should the ATM be unable to verify your identity via Singpass Face Verification, please try again or request for assistance from OCBC's Digital Ambassadors.
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
