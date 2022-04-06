@@ -455,16 +455,7 @@ Please refer to the <a href="http://www.hdb.gov.sg/cs/infoweb/residential/living
 Workfare Income Supplement (WIS) is based on your actual net trade income earned in the work year and does not include previous year's losses.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>My annual trade income from Self-Employment in a work year was negative. Can I qualify for the Workfare Income Supplement scheme?</b></font></summary>
 You will be required to contribute the minimum amount of MediSave to qualify for the Workfare Income Supplement (WIS) scheme. Please use the <a href="https://www.workfare.gov.sg/Pages/Calculator.aspx" class="hyperlink">Workfare calculator</a> to estimate the minimum MediSave contribution and your WIS amount.<br><br>
-You will receive your WIS payment within two months after you have declared your net trade income and made the required MediSave contribution.<br><br></details>
-			<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>What do I need to do to receive Workfare Income Supplement if I am a Self-Employed Person?</b></font></summary>
-You will be eligible for Workfare Income Supplement (WIS) if you meet all the eligibility criteria and:<br>
-<ol style="list-style-type: lower-alpha;">
-<li style="font-size:15.5px">you declare your income to:
-<ul>
-	<li style="font-size:15.5px">IRAS if you have been issued an income tax return package; or</li>
-<li style="font-size:15.5px">CPFB by logging in my cpf with your Singpass to complete and submit FORM IRAS 144. You may also do so at any SingPost branch; and</li></ul></li>
-<li style="font-size:15.5px">you make the required MediSave contributions.</li></ol>You can use our online <a href="https://www.workfare.gov.sg/Pages/Calculator.aspx" class="hyperlink">WIS calculator</a> to find out the amount to contribute.<br><br>
-Please note that you will need to declare your income and make your MediSave contribution by last Friday of March to receive WIS by 30 April (via bank crediting).<br><br></details></li></li>
+You will receive your WIS payment within two months after you have declared your net trade income and made the required MediSave contribution.<br><br></details>			
       </ol>
     </div>
   </li>
