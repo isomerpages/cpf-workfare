@@ -605,7 +605,7 @@ Always remember:
 <ul>
 	<li style="font-size:15.5px">The SMS will always be sent by 'SG-Workfare', Your masked NRIC (showing the last 4 numerals and letter, e.g. S****123A) will be in the SMS</li>
 	<li style="font-size:15.5px">We will only inform citizens of their benefits and will never request for you to reply to the SMS</li>
-	<li style="font-size:15.5px">We will never direct you to a non-Government site. If the SMS contains an URL, always check that the domain ends with ".gov.sg". You may also search for the official website using search engines (e.g. Google) to ensure that the link is legitimate</li>
+	<li style="font-size:15.5px">We will never direct you to a non-Government site. If the SMS contains a URL, always check that the domain ends with ".gov.sg". You may also search for the official website using search engines (e.g. Google) to ensure that the link is legitimate</li>
  <li style="font-size:15.5px">Ensure that the SMS meets all of the checks above before proceeding to click on the URL. After you've clicked through to the webpage, be extra vigilant before providing sensitive information such as your Singpass or bank account details. Look out for valid encryption certificates by checking for the lock in the browser's address bar:</li>
 <img src="/images/WISFAQ/Gov%20Link%20Example.png" style="width: 80%; height: 80%">
 	<li style="font-size:15.5px">Workfare notifications will only be sent via letter or SMS. We do not use WhatsApp or other mobile app messaging platforms</li></ul>
