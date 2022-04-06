@@ -47,7 +47,7 @@ To receive the Workfare Special Payment (WSP) as a Self-Employed Person, you mus
 <ul>
 <li style="font-size:15.5px">Before 31 March 2021, for work done in 2019; or</li>
 <li style="font-size:15.5px">Before 31 December 2021, for work done in 2020.</li></ul>
-To qualify for WIS, you need to declare your income, and make the required MediSave contributions. Use our online WIS calculator to find out the amount you need to contribute to your MediSave Account.<br><br>
+To qualify for WIS, you need to declare your income, and make the required MediSave contributions. Use our online <a class="hyperlink" href="https://www.workfare.gov.sg/Pages/Calculator.aspx">WIS calculator</a> to find out the amount you need to contribute to your MediSave Account.<br><br>
 If you meet the eligibility criteria, you will receive your WIS and WSP payouts at the end of the month following your qualification.<br><br>
 <u>For Work Year (WY) 2019 WIS recipients who did not receive the first WSP payout in July 2020</u><br><br>
 You should have received the first WSP of $1,500 in the same month as your WY2019 WIS payout and the second WSP of $1,500 in October 2020.<br><br>
