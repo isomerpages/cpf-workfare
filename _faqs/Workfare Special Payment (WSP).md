@@ -227,7 +227,8 @@ PayNow is a secure funds transfer service that allows customers to receive money
     <td>United Overseas Bank Limited</td>
   </tr>
 </tbody>
-</table>
+</table><br>
+With PayNow, the recipient's bank account will be kept private.<br><br>
 </details>
 <details><summary><font color="#009427" size="+1"><b>Q24. How do I link my NRIC to PayNow?</b></font></summary>
 You may follow the steps below:<br>
