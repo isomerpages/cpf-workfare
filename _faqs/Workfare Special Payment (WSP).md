@@ -191,7 +191,7 @@ PayNow is a secure funds transfer service that allows customers to receive money
     <td>Bank of China Limited</td>
   </tr>
   <tr>
-		<td></td>
+		<td><b>CIMB</b></td>
     <td>CIMB Bank Berhad</td>
   </tr>
   <tr>
