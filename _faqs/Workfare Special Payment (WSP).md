@@ -281,7 +281,7 @@ Otherwise, you can choose to receive your payouts via Direct Bank Crediting. To 
 <details><summary><font size="+1" color="#009427"><b>
 Q32. Why can withdrawals be made only in $10 denominations and what can I do with my balance GovCash?</b></font></summary>
 Currently, the minimum withdrawal amount at the ATMs is $10. Hence, GovCash withdrawals can also be made in $10 denominations. If the balance in your GovCash is less than $10, you can accumulate your balance monies before your next withdrawal.<br><br>
-Alternatively, you can also transfer the balance to your PayNow NRIC-linked bank account or utilise them to make payments at any merchants or transfer to your friends by scanning the PayNow QR code using the LifeSG mobile app. You may refer to the <a href="https://www.workfare.gov.sg/Documents/Leaflet_GovCash.pdf" class="hyperlink">step-by-step guide</a> for detailed instructions.
+Alternatively, you can also transfer the balance to your PayNow NRIC-linked bank account or utilise them to make payments at any merchants or transfer to your friends by scanning the PayNow QR code using the LifeSG mobile app. You may refer to the <a href="/files/FAQs/Brochure_GovCash.pdf" class="hyperlink">step-by-step guide</a> for detailed instructions.
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
 Q33. Would I need to login to Singpass each time I open the LifeSG mobile app to access my GovCash?</b></font></summary>
