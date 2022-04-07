@@ -250,7 +250,7 @@ In addition, GovCash also allows recipients to use the scan-and-pay function and
 </b></font></summary>
 You can withdraw your payouts in cash at any OCBC ATM with your 8-digit Payment Reference Number (PRN), which will be sent to you by SMS or by post. You do not need to have a OCBC bank account to use this service.<br><br>
 You can also transfer your payouts to your PayNow NRIC-linked bank account or utilise them to make payments at any merchants or transfer to your friends by scanning their PayNow QR code using the LifeSG mobile app. You can download the LifeSG mobile app from the Apple App Store or Google Play Store.<br><br>
-You may refer to the <a href="https://www.workfare.gov.sg/Documents/Leaflet_GovCash.pdf" class="hyperlink">step-by-step guide</a> for detailed instructions on the ways you can utilise your GovCash payouts. 
+You may refer to the <a href="/files/FAQs/Brochure_GovCash.pdf" class="hyperlink">step-by-step guide</a> for detailed instructions on the ways you can utilise your GovCash payouts. 
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
 Q28. Where can I obtain my Payment Reference Number (PRN)?
@@ -260,7 +260,7 @@ Your PRN can be found in your Workfare notification from the Board. Alternativel
 <details><summary><font size="+1" color="#009427"><b>
 Q29. How do I check my GovCash balance?</b></font></summary>
 To check your GovCash balance, please visit any OCBC ATMs with your 8-digit Payment Reference Number* (PRN). Upon successful authentication, you will be able to view your GovCash balance.<br><br>
-Alternatively, you may login to the LifeSG mobile app using your Singpass to view your GovCash balance and transaction history. You may refer to the <a href="https://www.workfare.gov.sg/Documents/Leaflet_GovCash.pdf" class="hyperlink">step-by-step guide</a> for detailed instructions.<br><br>
+Alternatively, you may login to the LifeSG mobile app using your Singpass to view your GovCash balance and transaction history. You may refer to the <a href="/files/FAQs/Brochure_GovCash.pdf" class="hyperlink">step-by-step guide</a> for detailed instructions.<br><br>
 *Your PRN can be found in your Workfare notification from the CPF Board, and at the <a href="https://workfare.gov.sg/app/ePRN/Index" class="hyperlink">Workfare Portal</a> (Singpass login is required).
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
@@ -276,7 +276,7 @@ To link your NRIC number to your bank account, you may follow the steps below:<b
 	<li style="font-size:15.5px">Log in to your bank's internet / mobile banking application</li>
 	<li style="font-size:15.5px">Link your NRIC number to your bank account at the PayNow registration screen</li></ol>
 You may also refer to your bank's website for specific details to do so. If you do not have Internet or mobile banking, you can contact your bank directly to register for PayNow.<br><br>
-Otherwise, you can choose to receive your payouts via Direct Bank Crediting. To do so, simply visit here, login with your Singpass, select "<a class="hyperlink" href="https://www.workfare.gov.sg/app/Account/QRLogin?returnUrl=/PaymentInstructions/Edit">View / Update Payment Mode</a>" and update your POSB/DBS, OCBC or UOB bank account details.
+Otherwise, you can choose to receive your payouts via Direct Bank Crediting. To do so, simply visit <a class="hyperlink" href="https://www.workfare.gov.sg/App/Home/Index?returnUrl=/paymentinstructions/edit">here</a>, login with your Singpass, select "<a class="hyperlink" href="https://www.workfare.gov.sg/app/Account/QRLogin?returnUrl=/PaymentInstructions/Edit">View / Update Payment Mode</a>" and update your POSB/DBS, OCBC or UOB bank account details.
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
 Q32. Why can withdrawals be made only in $10 denominations and what can I do with my balance GovCash?</b></font></summary>
