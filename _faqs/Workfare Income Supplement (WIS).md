@@ -724,8 +724,8 @@ Step 4: Save or screenshot the PayNow QR code<br>
 Step 5: Access your GovCash Wallet on LifeSG mobile app and scan the saved copy of PayNow QR code on the e-commerce platform.<br>
 Step 6: Enter and confirm amount of credits to top-up to the wallet of e-commerce platforms (e.g. ShopeePay or Lazada Wallet).<br><br>
 You can now select the wallet of e-commerce platforms (e.g. ShopeePay or Lazada Wallet) as your payment mode to pay for your purchases online.<br><br></details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How do I know if the SGQR displayed by merchants includes PayNow QR so that I can make purchases using my GovCash balance?</b></font></summary>
-Look out for the PayNow logo on the SG QR label. You can only make purchases at merchants that accept PayNow QR code via LifeSG app.<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How do I know if the SGQR displayed by merchants includes NETS QR and PayNow QR so that I can make purchases using my GovCash balance?</b></font></summary>
+Look out for the NETS or PayNow logo on the SGQR label. You can only make purchases at merchants that accept NETS QR or PayNow QR code via LifeSG app.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Can I cancel my payment after I have confirmed the payment on the LifeSG mobile app?</b></font></summary>
 					No, your GovCash balance will be deducted upon successful payment.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How do I get a Singpass account?</b></font></summary>
