@@ -303,8 +303,8 @@ Step 6: Enter and confirm amount of credits to top-up to the wallet of e-commerc
 You can now select the wallet of e-commerce platforms (e.g. ShopeePay or Lazada Wallet) as your payment mode to pay for your purchases online.
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
-Q36. How do I know if the SGQR displayed by merchants includes PayNow QR so that I can make purchases using my GovCash balance?</b></font></summary>
-Look out for the PayNow logo on the SG QR label. You can only make purchases at merchants that accept PayNow QR code via LifeSG mobile app. 
+Q36. How do I know if the SGQR displayed by merchants includes NETS QR or PayNow QR so that I can make purchases using my GovCash balance?</b></font></summary>
+Look out for the NETS or PayNow logo on the SGQR label. You can only make purchases at merchants that accept NETS QR or PayNow QR code via LifeSG mobile app. 
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
 Q37. Can I cancel my payment after I have confirmed the payment on the LifeSG mobile app?</b></font></summary>
