@@ -9,5 +9,5 @@ WIS encourages eligible workers to work and build up their CPF savings for their
 
 ### See how WIS benefits you as...
 <p><a href="/wis-scheme/permalink">
-<img src="/images/Schemes1.png" alt="An Employee" width="50" height="50">
+<img src="/images/Schemes1.png" alt="An Employee" width="10" height="10">
 </a></p>
