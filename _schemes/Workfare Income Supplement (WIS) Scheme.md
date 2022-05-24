@@ -14,7 +14,11 @@ img {
   height: auto;
 }
 </style>
-<p><a href="/wis-scheme/permalink">
+<a href="/wis-scheme/permalink">
 <img src="/images/Schemes1.png" alt="An Employee" width="500" height="500">
-	<p><center>An Employee</center></p>
-</a></p>
+	<center>An Employee</center>
+
+<a href="/wis-scheme/permalink">
+<img src="/images/Schemes2.png" alt="A Self-Employed Person" width="500" height="500">
+	<center>A Self-Employed Person</center>
+</a>
