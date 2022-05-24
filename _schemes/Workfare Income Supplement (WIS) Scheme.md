@@ -16,4 +16,5 @@ img {
 </style>
 <p><a href="/wis-scheme/permalink">
 <img src="/images/Schemes1.png" alt="An Employee" width="500" height="500">
+	<p><center>An Employee</center></p>
 </a></p>
