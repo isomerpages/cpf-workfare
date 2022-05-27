@@ -3,9 +3,6 @@ title: FAQ Accordion
 permalink: /faq-accordion/
 description: ""
 ---
-
-
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -52,7 +49,7 @@ description: ""
       <ul>
         <li>Item 1</li>
         <li>Item 2</li>
-        <li>Item 3</li>
+				    <li>Item 3</li>
       </ul>
     </div>
   </li>
