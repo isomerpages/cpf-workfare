@@ -6,8 +6,8 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: <html>As announced at Budget 2022, WIS will be enhanced from Work
   Year 2023. Click <a
-  href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf">here</a>
-  to find out more about the upcoming WIS enhancements.</html>
+  href="/files/FAQs/Workfare%20Factsheet%20(From%20WY2023).pdf">here</a> to find
+  out more about the upcoming WIS enhancements.</html>
 sections:
   - hero:
       title: Workfare
