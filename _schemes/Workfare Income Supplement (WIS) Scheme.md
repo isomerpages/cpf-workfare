@@ -17,6 +17,7 @@ img {
 <a href="/wis-scheme/permalink">
 <img src="/images/Schemes1.png" alt="An Employee" width=50% height=50%>
 	<center>An Employee</center>
+</a>
 
 <a href="/wis-scheme/permalink">
 <img src="/images/Schemes2.png" alt="A Self-Employed Person" width="50%" height="50%">
