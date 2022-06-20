@@ -13,4 +13,4 @@ WIS encourages eligible workers to work and build up their CPF savings for their
 | :------: |
 |![An Employee](/images/schemes1.png)[An Employee](/wis-scheme/Employee/do-i-qualify/) |
 |![A Self-Employed Person](/images/schemes2.png) [A Self-Employed Person](/wis-scheme/Self-Employed/do-i-qualify/)|
-| [An Employer](/wis-scheme/Employer/what-do-i-need-to-know/)|
+|![An Employer](/images/schemes3a.png)[An Employer](/wis-scheme/Employer/what-do-i-need-to-know/)|
