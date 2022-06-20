@@ -8,23 +8,9 @@ WIS encourages eligible workers to work and build up their CPF savings for their
 ![](/images/WIS1.png)
 
 ### See how WIS benefits you as...
-<style>
-img {
- 
-}
-</style>
-	
-<a href="/wis-scheme/permalink">
-<img src="/images/Schemes1.png" alt="An Employee" width=50% height=50%>
-	<center>An Employee</center>
-</a>
 
-<a href="/wis-scheme/permalink">
-<img src="/images/Schemes2.png" alt="A Self-Employed Person" width="50%" height="50%">
-	<center>A Self-Employed Person</center>
-</a>
-
-<a href="/wis-scheme/permalink">
-<img src="/images/schemes3.png" alt="An Employer" width=50% height=50%>
-	<center>An Employer</center>
-</a>
+|   |
+| :------: |
+|![An Employee](/images/Schemes1.png) [An Employee](/wis-scheme/Employee/do-i-qualify/) |
+|![A Self-Employed Person](/images/Schemes2.png) [A Self-Employed Person](/wis-scheme/Self-Employed/do-i-qualify/)|
+|![An Employer](/images/schemes3.png) [An Employer](/wis-scheme/Employer/what-do-i-need-to-know/)|
