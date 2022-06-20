@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Employee/Do I qualify?.md
-      - Employee/Do I qualify2?.md
       - Employee/.keep
       - Employee/How much?.md
       - Employee/When?.md
