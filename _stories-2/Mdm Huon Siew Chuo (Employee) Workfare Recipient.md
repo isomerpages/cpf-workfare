@@ -5,7 +5,11 @@ description: ""
 ---
 ![Mdm Huon Siew Chuo](/images/WIS%20Stories/STORIES5.jpg)
 
+<br>
+
 > “With the extra cash that I get from Workfare, I usually use it for my daily expenses. I can also look forward to higher CPF payouts when I retire.”
+
+<br>
 
 *   As a mother to four children, Madam Huon Siew Chuo, 50, spent most of her adult life raising her children.
   
@@ -13,7 +17,11 @@ description: ""
   
 *   As a warehouse assistant, Madam Huon ensures that orders are correctly picked up and delivered.
 
+<br>
+
 ![Mdm Huon Siew Chuo](/images/WIS%20Stories/STORIES6.jpg)
+
+<br>
 
 *   On top of her monthly salary, Madam Huon receives Workfare payouts in **CPF top-ups** and **cash** from the Government. She looks forward to the monthly SMS notifications as she can use the additional cash to offset her daily expenses such as by topping up her EZ-Link card.
   
