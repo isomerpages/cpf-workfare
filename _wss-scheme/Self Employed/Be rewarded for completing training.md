@@ -8,7 +8,7 @@ third_nav_title: Self Employed
 The Training Commitment Award is a cash incentive which serves to motivate and reward individuals for undergoing sustained training. Individuals who meet the qualifying criteria can enjoy a cash award of $100 to $500, up to a maximum of $1,000 per WSS eligibility year.
 
 ![Who can quality](/images/WSS10.png)
-# Who can qualify?
+### Who can qualify?
 You are eligible for TCA if you have a WSS Letter and achieve any of the following within your WSS eligibility period, capped at $1,000 per WSS eligibility year:
 
 * $100 for any two of the following, capped at $200 per 4 achievements:
@@ -19,7 +19,7 @@ You are eligible for TCA if you have a WSS Letter and achieve any of the followi
 
 
 ![How to apply](/images/WSS3.png)
-# How to apply?
+### How to apply?
 You do not need to apply for TCA. If you are eligible, you will automatically receive a Workfare letter with your TCA payment details.
 
 You will need to have a valid PayNow account tied to your NRIC number for TA to be disbursed to you.  
