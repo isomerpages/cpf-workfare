@@ -3,6 +3,4 @@ title: Workfare Works
 permalink: /about-workfare/workfare-works/
 description: ""
 ---
-
-
-![](/images/AboutWF11.png)
+![](/images/About%20Workfare/AboutWF11.png)
