@@ -12,8 +12,8 @@ links:
     url: /permalink
     sublinks:
       - title: I am an Employee
-        url: /permalink
+        url: /wis-calculator-for-employees/
       - title: I am Self-Employed
-        url: /permalink
+        url: /wis-calculator-for-self-employed/
   - title: LOGIN
     url: https://www.workfare.gov.sg/app/Home/Index
