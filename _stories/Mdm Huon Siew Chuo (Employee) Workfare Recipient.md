@@ -3,8 +3,7 @@ title: Mdm Huon Siew Chuo (Employee) Workfare Recipient
 permalink: /stories/mdm-huon-siew-chuo/
 description: ""
 ---
-
-![](/images/STORIES5.jpg)
+![](/images/WIS%20Stories/STORIES5.jpg)
 
 
 <div style="border-style:solid none;padding:10pt 0in;text-align:center;margin-right:0.6in;margin-left:0.6in;border-top-color:#5b9bd5;border-bottom-color:#5b9bd5;border-top-width:1pt;border-bottom-width:1pt;">
@@ -18,7 +17,7 @@ description: ""
 * Realising that her children had grown up and she had more time to herself, Madam Huon decided to re-join the workforce to supplement her family’s income. **Workfare** tops up her income and encourages her to stay employed.
 *As a warehouse assistant, Madam Huon ensures that orders are correctly picked up and delivered.
 
-![](/images/STORIES6.jpg)
+![](/images/WIS%20Stories/STORIES6.jpg)
 
 * On top of her monthly salary, Madam Huon receives Workfare payouts in **CPF top-ups** and **cash** from the Government. She looks forward to the monthly SMS notifications as she can use the additional cash to offset her daily expenses such as by topping up her EZ-Link card.
 * The Workfare CPF top-ups also enable Madam Huon to look forward to higher payouts when she eventually retires.
