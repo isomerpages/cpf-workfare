@@ -29,3 +29,5 @@ description: ""
 *   Auntie Geok is grateful that Workfare and Government’s subsidies for older workers like her amount to significant support for her and her family. In her own words, “这边一点，那边一点, 加起来其实很多!” (translated: here a bit, there a bit, Government support actually add up a lot).
 
 ![Govt Support](/images/WIS%20Stories/GovtSupport.jpg)
+
+[Download PDF](/files/Stories%20-%20Mdm%20Goh%20Geok%20Kee.pdf)
