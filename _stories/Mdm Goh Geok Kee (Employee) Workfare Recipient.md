@@ -5,8 +5,7 @@ date: 2022-01-25
 layout: post
 description: ""
 ---
-
-![Alt text for image on Isomer site](/images/MdmGohGeokKee.jpg)
+![Alt text for image on Isomer site](/images/WIS%20Stories/MdmGohGeokKee.jpg)
 	
 
 
@@ -18,7 +17,7 @@ description: ""
 </div>
 
 
-![Alt text for image on Isomer site](/images/64YearOld.jpg)
+![Alt text for image on Isomer site](/images/WIS%20Stories/64YearOld.jpg)
 
 <br></br>
 
@@ -28,7 +27,7 @@ description: ""
 
 * As long as she remains fit and healthy, Auntie Geok would like to continue working. Many of her fellow co-workers also receive Workfare.
 
-![Alt text for image on Isomer site](/images/MdmGohGoekKee1.jpg)
+![Alt text for image on Isomer site](/images/WIS%20Stories/MdmGohGoekKee1.jpg)
 
 <div style="border-style:solid none;padding:10pt 0in;text-align:center;margin-right:0.6in;margin-left:0.6in;border-top-color:#5b9bd5;border-bottom-color:#5b9bd5;border-top-width:1pt;border-bottom-width:1pt;">
 <p style="margin:0.25in 0in;" class="MsoIntenseQuote">
@@ -49,6 +48,6 @@ description: ""
 
 * Auntie Geok is grateful that Workfare and Government’s subsidies for older workers like her amount to significant support for her and her family. In her own words, “这边一点，那边一点, 加起来其实很多!” [Translated: here a bit, there a bit, Government support actually add up a lot].
 
-![Alt text for image on Isomer site](/images/GovtSupport.jpg)
+![Alt text for image on Isomer site](/images/WIS%20Stories/GovtSupport.jpg)
 
 [Download PDF (625KB)](/files/Stories%20-%20Mdm%20Goh%20Geok%20Kee.pdf)
