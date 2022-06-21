@@ -1,8 +1,10 @@
 ---
 layout: homepage
-title: Workfare
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Workfare Income Supplement
+description: Workfare Income Supplement Scheme is a broad-based measure that
+  tops up the salaries of our lower-income workers and helps them save for
+  retirement.
+image: /images/banner_home_1.jpg
 permalink: /
 notification: "This is the announcement bar for SMS announcement. "
 sections:
@@ -30,3 +32,4 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
