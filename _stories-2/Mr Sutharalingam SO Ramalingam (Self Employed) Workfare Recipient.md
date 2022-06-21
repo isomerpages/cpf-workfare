@@ -5,7 +5,11 @@ description: ""
 ---
 ![Mr Sutharalingam](/images/WIS%20Stories/STORIES10.jpg)
 
+<br>
+
 > “It’s nice to get the extra money from Workfare every year. It’s like a bonus for self-employed people like me. I use them for my daily expenses or pay the bills.”
+
+<br>
 
 *   Mr Sutharalingam has been a taxi driver for the past 19 years. The 62-year-old enjoys his job as one of the perks of being a taxi driver is knowing where to go for delicious food.
   
@@ -19,7 +23,11 @@ description: ""
   
 *   Mr Sutharalingam hopes to continue driving for another four to five years before switching to relief driving where he can work less hours. Although being a taxi driver can be stressful, especially when it comes to ferrying difficult passengers, he always takes it in his stride.
 
+<br>
+
 ![Mr Sutharalingam](/images/WIS%20Stories/STORIES11.jpg)
+
+<br>
 
 *   Mr Sutharalingam, who is single, lives in a three-room HDB flat which he has fully paid for.
   
@@ -28,6 +36,8 @@ description: ""
 *   Mr Sutharalingam looks forward to receiving additional **MediSave top-ups**, more **subsidies at CHAS** clinics and additional subsidies for **MediShield Life**.
   
 *   He also receives other help and support from the government, such as the **U-Save rebate** and **GST vouchers** which help to lessen his financial burden.
+
+<br>
 
 > “If my passengers are happy to talk to me, I will chat with them. But even if passengers become difficult, I will just keep quiet and not get angry. Why spoil your day for just one passenger when you still have to carry on working for the rest of the day?"
 
