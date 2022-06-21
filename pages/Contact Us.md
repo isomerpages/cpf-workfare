@@ -6,7 +6,7 @@ description: ""
 |  |  |
 | :-------- | :-------- |
 |![Hotline](/images/ico_contact.png)|<p><b>WIS Hotline</b> <br>1800-227-1188 <br><b>Operating Hours</b> <br>Mon - Fri: 8.30am to 5.30pm <br>Sat, Sun and public holidays: Closed <br>Eves of Christmas, New Year and Chinese New Year: 8.30am to 1.00pm</p><p><b>WSS Hotline</b><br><b>(For Training Related Enquiries)</b><br>1800-536-8333<br><b>Operating Hours</b><br>Mon - Fri: 8.30am to 5.30pm<br>Sat: 8.30am to 1.00pm</p>|
-|
+|![Feedback](/images/ico_email.png)|<p>[WIS Feedback](https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index?section=wis)</p><p>[WSS Feedback](https://safe.menlosecurity.com/https://portal.ssg-wsg.gov.sg/)</p>|
 
 
 #### Service Standard
