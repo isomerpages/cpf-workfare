@@ -11,6 +11,6 @@ WSS complements WIS by encouraging Singaporean workers to attend training to imp
 
 |   |
 | :------: |
-|![An Employee](/images/schemes1.png)[An Employee](/wis-scheme/Employee/do-i-qualify/) |
-|![A Self-Employed Person](/images/schemes2.png) [A Self-Employed Person](/wis-scheme/Self-Employed/do-i-qualify/)|
-|![An Employer](/images/schemes3a.png)[An Employer](/wis-scheme/Employer/what-do-i-need-to-know/)|
+|![An Employee](/images/schemes1.png)[An Employee](/wss-scheme/Employee/training-allowance-for-self-sponsored-trainees/) |
+|![A Self-Employed Person](/images/schemes2.png) [A Self-Employed Person](/wss-scheme/Self-Employed/training-allowance-for-self-sponsored-trainees/)|
+|![An Employer](/images/schemes3a.png)[An Employer](/wss-scheme/Employer/absentee-payroll/)|
