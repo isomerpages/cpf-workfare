@@ -3,8 +3,7 @@ title: Mr Gunasegaran SO Sellayya (Employee) Workfare Recipient
 permalink: /stories/mr-gunasegara-so-sellayya/
 description: ""
 ---
-
-![](/images/STORIES1.jpg)
+![](/images/WIS%20Stories/STORIES1.jpg)
 
 <div style="border-style:solid none;padding:10pt 0in;text-align:center;margin-right:0.6in;margin-left:0.6in;border-top-color:#5b9bd5;border-bottom-color:#5b9bd5;border-top-width:1pt;border-bottom-width:1pt;">
 <p style="margin:0.25in 0in;" class="MsoIntenseQuote">
@@ -13,7 +12,7 @@ description: ""
 </p>
 </div>
 
-![](/images/STORIES2.png)
+![](/images/WIS%20Stories/STORIES2.png)
 
 * Mr Gunasegaran (“Mr Guna”) is 49 years old and currently works as a cleaning supervisor, managing eight other cleaners. For the past three years, for six days a week, Mr Gunasegaran works the night-shift.
 * As a father to three young children, Mr Guna’s priority is to spend quality time with his family and watch his children grow up. He chooses to work the night shift so that he can spend more time with his family.
@@ -22,7 +21,7 @@ description: ""
 * Mr Guna saved the Workfare cash payouts for his children’s education and expenses. As the sole breadwinner of his family, Mr Guna feels that the extra money comes in handy to give his children a better life. His aim is to give his children a good education so they can have a bright future.
 * From 2020, Workfare enhancements will give Mr Guna up to $2,500 annually in cash and CPF payouts.
 
-![](/images/STORIES3.jpg)
+![](/images/WIS%20Stories/STORIES3.jpg)
 
 * In addition, he also gets **GST Vouchers** and **U-Save rebates** to help him and his family with their daily household expenses.
 * Like the 75% of Workfare recipients who own their homes (as at 2017), Mr Guna owns a three-room flat that he lives in with his wife and three children.
@@ -31,6 +30,6 @@ description: ""
 * Mr Guna’s retired mother has a **CHAS Orange** card and receives subsidised care at CHAS clinics.
 * With **SkillsFuture**, he is looking out for courses to upgrade his skills so that he can take on more responsibilities at work and earn a higher income.
 
-![](/images/STORIES4.jpg)
+![](/images/WIS%20Stories/STORIES4.jpg)
 
 [Download PDF (406KB)](/files/Stories%20-%20Mr%20Gunasegaran.pdf)
