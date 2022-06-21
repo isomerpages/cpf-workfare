@@ -36,3 +36,5 @@ description: ""
 *   With **SkillsFuture**, he is looking out for courses to upgrade his skills so that he can take on more responsibilities at work and earn a higher income.
 
 ![Skill Future](/images/WIS%20Stories/STORIES4.jpg)
+
+[Download PDF](/files/Stories%20-%20Mr%20Gunasegaran.pdf)
