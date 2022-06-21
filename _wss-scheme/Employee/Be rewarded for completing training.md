@@ -9,7 +9,7 @@ The Training Commitment Award is a cash incentive which serves to motivate and r
 
 ---
 ![](/images/WSS5.png)
-#### Who can qualify?
+### Who can qualify?
 You are eligible for TCA if you have a WSS Letter and achieve one of the following within your WSS eligibility period, capped at $1,000 per WSS eligibility year:
 *   $100 for any two of the following, capped at $200 per 4 achievements:
     *   WSQ Statement of Attainment (SOA)
@@ -19,5 +19,5 @@ You are eligible for TCA if you have a WSS Letter and achieve one of the followi
 
 ---
 ![](/images/WSS14.png)
-#### How to apply?
+### How to apply?
 You do not need to apply for TCA. If you are eligible, you will automatically receive a Workfare letter with your TCA payment details.
