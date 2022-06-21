@@ -3,29 +3,13 @@ title: Contact Us
 permalink: /contact-us/
 description: ""
 ---
-**WIS Hotline**
+|  |  |
+| :-------- | :-------- |
+|![Hotline](/images/ico_contact.png)|<p><b>WIS Hotline</b> <br>1800-227-1188 <br><b>Operating Hours</b> <br>Mon - Fri: 8.30am to 5.30pm <br>Sat, Sun and public holidays: Closed <br>Eves of Christmas, New Year and Chinese New Year: 8.30am to 1.00pm</p><p><b>WSS Hotline</b><br><b>(For Training Related Enquiries)</b><br>1800-536-8333<br><b>Operating Hours</b><br>Mon - Fri: 8.30am to 5.30pm<br>Sat: 8.30am to 1.00pm</p>|
+|
 
-1800-227-1188
 
-**Opening Hours**
-
-Mon - Fri: 8.00am to 5.30pm
-
-**WSS Hotline**
-
-**(For Training Related Enquiries)**
-
-1800-536-8333
-
-Mon - Fri: 8.30am to 5.30pm
-
-Sat: 8.30am to 1.00pm
-
-[WIS Feedback](https://www.cpf.gov.sg/eSvc/Web/Error/ErrorMessage?Code=owOqd5qMsv9SbMrxH4hOvQ%3D%3D%3ATqave9OylPadPzAAmjr5MkEyNntj9hxRZ771Ur574O%2BmhSakQJE%2BWT%2FXH7RCpNJcNQoIEhiGbKYCSvOwK4zgjodNOLZd90tCDl4Ih1DINN3hXdf2H2ZWo6w5AGKh57QwCK%2FxLwwNfSiq2Ue85Oa51g%3D%3D)
-
-[WSS Feedback](https://portal.ssg-wsg.gov.sg/)
-
-**Service Standard**
+#### Service Standard
 
 We will strive to meet the service standard stated below.
 
