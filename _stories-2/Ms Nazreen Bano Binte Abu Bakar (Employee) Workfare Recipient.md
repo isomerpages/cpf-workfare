@@ -5,7 +5,11 @@ description: ""
 ---
 ![Ms Nazreen Bano](/images/WIS%20Stories/STORIES7.jpg)
 
+<br>
+
 > “It is my biggest wish to own my own house one day. The Workfare CPF top-ups will help me financially when I decide to buy a HDB flat.”
+
+<br>
 
 *   As a single mother to three children, Ms Nazreen Bano Bte Abu Bakar never gave up, no matter how difficult the situation was.
   
@@ -19,7 +23,11 @@ description: ""
   
 *   She hopes to accumulate more CPF savings through her work contributions and Workfare so that she can enjoy higher monthly retirement payouts when she eventually stops work.
 
+<br>
+
 ![Ms Nazreen Bano](/images/WIS%20Stories/STORIES8.jpg)
+
+<br>
 
 *   Ms Nazreen also expressed gratitude for the various government support measures to help her cope with her family’s daily living needs.
   
@@ -35,7 +43,11 @@ description: ""
   
 *   She has attended several subsidised courses to improve her skills and knowledge in sales and marketing, including a course on service excellence. She is grateful for the generous subsidies from Mendaki and **SkillsFuture** that allowed her to upgrade herself.
 
+<br>
+
 ![Ms Nazreen Bano](/images/WIS%20Stories/STORIES9.jpg)
+
+<br>
 
 > Ms Nazreen is grateful for the various government support to help her and her family.
 
