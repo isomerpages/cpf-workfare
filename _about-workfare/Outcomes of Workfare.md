@@ -4,8 +4,7 @@ permalink: /about-workfare/outcomes-of-workfare/
 description: ""
 image: /images/AboutWF1.jpg
 ---
-
-![Alt text for image on Isomer site](/images/AboutWF9.jpg)
+![Alt text for image on Isomer site](/images/About%20Workfare/AboutWF9.jpg)
 
 **Read More**
 * [Minister of State for Manpower, Zaqy Mohamad's Speech on Workfare](/files/MOM%20Joint%20Segment%20Inequality%20COS%20Speech.pdf)
