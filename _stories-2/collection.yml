@@ -1,4 +1,5 @@
 collections:
   stories-2:
     output: true
-    order: []
+    order:
+      - Mdm Goh Geok Kee (Employee) Workfare Recipient.md
