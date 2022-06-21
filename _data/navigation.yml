@@ -5,7 +5,7 @@ links:
   - title: Schemes
     collection: schemes
   - title: Stories
-    url: /stories/MdmGohGeokKee
+    collection: stories
   - title: Newsroom
     collection: newsroom
   - title: WIS Calculator
@@ -16,4 +16,4 @@ links:
       - title: I am Self-Employed
         url: /permalink
   - title: LOGIN
-    url: https://safe.menlosecurity.com/https://www.workfare.gov.sg/app/Home/Index
+    url: https://www.workfare.gov.sg/app/Home/Index
