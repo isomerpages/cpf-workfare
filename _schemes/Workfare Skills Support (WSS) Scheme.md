@@ -7,7 +7,7 @@ WSS complements WIS by encouraging Singaporean workers to attend training to imp
 
 ![](/images/WSS1.png)
 
-### See how WIS benefits you as...
+### See how WSS benefits you as...
 
 |   |
 | :------: |
