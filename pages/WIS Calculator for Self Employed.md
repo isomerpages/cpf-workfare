@@ -10,4 +10,6 @@ If you are making money by buying and selling goods, providing professional or p
   
 Examples of self-employed persons include hawkers, taxi drivers or sole-proprietors.
 
-<iframe src="https://www.checkfirst.gov.sg/c/da98f281-32cd-4050-b4ed-7f81f84036ad" style="width:100%;height:500px"></iframe>
+---
+
+<iframe src="https://www.checkfirst.gov.sg/c/da98f281-32cd-4050-b4ed-7f81f84036ad" style="width:100%;height:1200px"></iframe>
