@@ -1,6 +1,6 @@
-title: Workfare
+title: Workfare Income Supplement
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/Worfare.JPG
 colors:
   primary-color: "#309449"
   secondary-color: "#309449"
@@ -43,7 +43,9 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-description: test test
+description: Workfare Income Supplement Scheme is a broad-based measure that
+  tops up the salaries of our lower-income workers and helps them save for
+  retirement.
 staging: https://cpf-workfare-staging.netlify.com
 prod: https://cpf-workfare-prod.netlify.com
 plugins:
@@ -52,3 +54,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+shareicon: /images/banner_home_1.jpg
+is_government: true
