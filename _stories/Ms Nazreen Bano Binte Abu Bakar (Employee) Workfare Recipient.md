@@ -3,8 +3,7 @@ title: Ms Nazreen Bano Binte Abu Bakar (Employee) Workfare Recipient
 permalink: /stories/ms-nazreen-bano-binte-abu-bakar/
 description: ""
 ---
-
-![](/images/STORIES7.jpg)
+![](/images/WIS%20Stories/STORIES7.jpg)
 
 
 <div style="border-style:solid none;padding:10pt 0in;text-align:center;margin-right:0.6in;margin-left:0.6in;border-top-color:#5b9bd5;border-bottom-color:#5b9bd5;border-top-width:1pt;border-bottom-width:1pt;">
@@ -21,7 +20,7 @@ description: ""
 * Ms Nazreen is currently staying in a rental flat with her three children. She is confident that the Workfare CPF top-ups will come in useful when she buys a HDB flat.
 * She hopes to accumulate more CPF savings through her work contributions and Workfare so that she can enjoy higher monthly retirement payouts when she eventually stops work.
 
-![](/images/STORIES8.jpg)
+![](/images/WIS%20Stories/STORIES8.jpg)
 
 * Ms Nazreen also expressed gratitude for the various government support measures to help her cope with her family’s daily living needs.
 * She is on the **Public Rental Scheme** and lives in a rental flat with her children.
@@ -31,7 +30,7 @@ description: ""
 *Ms Nazreen also has the **CHAS Blue** card, which gives her and her family highly subsidised medical and dental services at CHAS clinics.
 * She has attended several subsidised courses to improve her skills and knowledge in sales and marketing, including a course on service excellence. She is grateful for the generous subsidies from Mendaki and **SkillsFuture** that allowed her to upgrade herself.
 
-![](/images/STORIES9.jpg)
+![](/images/WIS%20Stories/STORIES9.jpg)
 
 <div style="border-style:solid none;padding:10pt 0in;text-align:center;margin-right:0.6in;margin-left:0.6in;border-top-color:#5b9bd5;border-bottom-color:#5b9bd5;border-top-width:1pt;border-bottom-width:1pt;">
 <p style="margin:0.25in 0in;" class="MsoIntenseQuote">
