@@ -5,9 +5,15 @@ description: ""
 ---
 ![Gunasegaran Sellayya](/images/WIS%20Stories/STORIES1.jpg)
 
+<br>
+
 > “My three children are the most important to me and I want them to have good education. I will use the Workfare payouts to buy things that will help them in their education.”
 
+<br>
+
 ![49 Yr Old](/images/WIS%20Stories/STORIES2.png)
+
+<br>
 
 *   Mr Gunasegaran (“Mr Guna”) is 49 years old and currently works as a cleaning supervisor, managing eight other cleaners. For the past three years, for six days a week, Mr Gunasegaran works the night-shift.
   
@@ -21,7 +27,11 @@ description: ""
   
 *   From 2020, Workfare enhancements will give Mr Guna up to $2,500 annually in cash and CPF payouts.
 
+<br>
+
 ![Gunasegaran Sellayya](/images/WIS%20Stories/STORIES3.jpg)
+
+<br>
 
 *   In addition, he also gets **GST Vouchers** and **U-Save rebates** to help him and his family with their daily household expenses.
   
@@ -34,6 +44,8 @@ description: ""
 *   Mr Guna’s retired mother has a **CHAS Orange** card and receives subsidised care at CHAS clinics.
   
 *   With **SkillsFuture**, he is looking out for courses to upgrade his skills so that he can take on more responsibilities at work and earn a higher income.
+
+<br>
 
 ![Skill Future](/images/WIS%20Stories/STORIES4.jpg)
 
