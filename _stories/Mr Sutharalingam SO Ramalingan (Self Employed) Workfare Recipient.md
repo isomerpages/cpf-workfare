@@ -3,8 +3,7 @@ title: Mr Sutharalingam SO Ramalingan (Self Employed) Workfare Recipient
 permalink: /stories/mr-sutharalinga-so-ramalingan/
 description: ""
 ---
-
-![](/images/STORIES10.jpg)
+![](/images/WIS%20Stories/STORIES10.jpg)
 
 <div style="border-style:solid none;padding:10pt 0in;text-align:center;margin-right:0.6in;margin-left:0.6in;border-top-color:#5b9bd5;border-bottom-color:#5b9bd5;border-top-width:1pt;border-bottom-width:1pt;">
 <p style="margin:0.25in 0in;" class="MsoIntenseQuote">
@@ -21,7 +20,7 @@ Another 90 per cent of Workfare payout goes to his **CPF MediSave** account to h
 * “I’m very happy with the Workfare payment. It’s good enough as it helps us a lot, especially seniors who are not earning a lot of money. The payout in MediSave will also be useful when I need to withdraw the money for my medical bills,” says Mr Sutharalingam.
 * Mr Sutharalingam hopes to continue driving for another four to five years before switching to relief driving where he can work less hours. Although being a taxi driver can be stressful, especially when it comes to ferrying difficult passengers, he always takes it in his stride.
 
-![](/images/STORIES11.jpg)
+![](/images/WIS%20Stories/STORIES11.jpg)
 
 * Mr Sutharalingam, who is single, lives in a three-room HDB flat which he has fully paid for.
 * As a senior, Mr Sutharalingam is also looking forward to the **Merdeka Generation Package**. It provides benefits to help Merdeka Generation seniors like him to stay healthy and active, with better assurance over healthcare costs.
