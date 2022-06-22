@@ -3,8 +3,6 @@ title: Contact Us
 permalink: /contact-us2/
 description: ""
 ---
-<html>
-	<body>
 <table>
 	<tr>
 		<th style="width:15%"> </th>
@@ -40,5 +38,3 @@ We will strive to meet the service standard stated below.
 	<sup>1</sup>Enquiries do not include appeals for Workfare, which require a longer processing time depending on the case's complexity. <br>
 <sup>2</sup>"Working days" refer to Mondays to Fridays, excluding public holidays.
 	</sub>
-	</body>
-	</html>
