@@ -17,5 +17,5 @@ links:
     url: https://www.workfare.gov.sg/app/Home/Index
   - title: Newsroom 2
     resource_room: true
-  - title: Stories 2
-    collection: stories-2
+  - title: Stories
+    collection: stories
