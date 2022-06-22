@@ -27,9 +27,4 @@ sections:
         retirement.
       button: Find out more
       url: https://www.workfare.gov.sg/Pages/AboutWorkfare.aspx
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
-
