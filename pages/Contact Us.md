@@ -26,7 +26,7 @@ We will strive to meet the service standard stated below.
 
 | General | Standards |
 | :-------- | :-------- |
-| Correspondence|We aim to reply to your enquiry<sup>1</sup> within 5 working days<sup>2</sup> from the day of receipt.<p>To help us respond to you more quickly, please ensure your email address is updated and write to us at cpf.gov.sg/writetous. Otherwise, it may take up to a month for you to receive a hardcopy reply.<p>For enquiries with information available on the Workfare website, please refer to the <a href="/faqs/wisfaqs/">FAQ page</a>.</p><p>This is the quickest way to get an answer. For enquiries where answers are available in our FAQs, we may not reply.</p>|
+| Correspondence|We aim to reply to your enquiry<sup>1</sup> within 5 working days<sup>2</sup> from the day of receipt.<br><br>To help us respond to you more quickly, please ensure your email address is updated and write to us at cpf.gov.sg/writetous. Otherwise, it may take up to a month for you to receive a hardcopy reply.<br><br>For enquiries with information available on the Workfare website, please refer to the <a href="/faqs/wisfaqs/">FAQ page</a>.<br><br>This is the quickest way to get an answer. For enquiries where answers are available in our FAQs, we may not reply.|
 
 
 <sub>
