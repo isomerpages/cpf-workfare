@@ -4,6 +4,8 @@ links:
     collection: about-workfare
   - title: Schemes
     collection: schemes
+  - title: Stories
+    collection: stories
   - title: Newsroom
     collection: newsroom
   - title: WIS Calculator
@@ -15,7 +17,3 @@ links:
         url: /wis-calculator-for-self-employed/
   - title: LOGIN
     url: https://www.workfare.gov.sg/app/Home/Index
-  - title: Newsroom 2
-    resource_room: true
-  - title: Stories
-    collection: stories
