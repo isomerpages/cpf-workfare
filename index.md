@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Workfare Income Supplement
+title: Workfare
 description: Workfare Income Supplement Scheme is a broad-based measure that
   tops up the salaries of our lower-income workers and helps them save for
   retirement.
@@ -28,3 +28,4 @@ sections:
       button: Find out more
       url: https://www.workfare.gov.sg/Pages/AboutWorkfare.aspx
 ---
+
