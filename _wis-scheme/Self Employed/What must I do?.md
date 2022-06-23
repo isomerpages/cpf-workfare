@@ -4,8 +4,6 @@ permalink: /wis-scheme/Self-Employed/what-must-i-do/
 description: ""
 third_nav_title: Self Employed
 ---
-
-
 ![](/images/WIS12.png)
 
 ### What must I do?
@@ -22,4 +20,4 @@ Declare your income and make your MediSave contributions by last Friday of March
 
 *Payment via PayNow NRIC-linked bank account or bank crediting will be by the end of the month while payment via GovCash will be on the 3rd of the following month.
 
-Use the online [WIS calculator] to find out the amount to contribute.
+Use the online [WIS calculator](/wis-calculator-for-self-employed/) to find out the amount to contribute.
