@@ -43,9 +43,9 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-description: Workfare Income Supplement Scheme is a broad-based measure that
-  tops up the salaries of our lower-income workers and helps them save for
-  retirement.
+description: Workfare provides additional support to lower-income Singaporeans
+  who continue working and training through Workfare Income Supplement (WIS)
+  Scheme and Workfare Skills Support (WSS) Scheme.
 staging: https://cpf-workfare-staging.netlify.com
 prod: https://cpf-workfare-prod.netlify.com
 plugins:
