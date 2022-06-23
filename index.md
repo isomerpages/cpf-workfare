@@ -9,7 +9,7 @@ permalink: /
 notification: "This is the announcement bar for SMS announcement. "
 sections:
   - hero:
-      title: Workfare Income Supplement (WIS) Scheme
+      title: Workfare
       background: /images/banner_home_1.jpg
       button: Login to eService
       url: https://www.workfare.gov.sg/app/Home/Index
@@ -28,5 +28,3 @@ sections:
       button: Find out more
       url: https://www.workfare.gov.sg/Pages/AboutWorkfare.aspx
 ---
-
-
