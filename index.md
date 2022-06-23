@@ -12,14 +12,14 @@ sections:
       title: Workfare Income Supplement (WIS) Scheme
       background: /images/banner_home_1.jpg
       button: Login to eService
-      url: https://safe.menlosecurity.com/https://www.workfare.gov.sg/app/Home/Index
+      url: https://www.workfare.gov.sg/app/Home/Index
       key_highlights:
         - title: Workfare income Supplement (WIS) Scheme
           description: Find out more about WIS
-          url: https://www.workfare.gov.sg/Pages/WIS.aspx
+          url: /schemes/workfare-income-supplement/
         - title: Workfare Skills Support (WSS) Scheme
           description: Find out more about WSS
-          url: https://www.workfare.gov.sg/Pages/WSS.aspx
+          url: /schemes/workfare-training-support/
   - infobar:
       title: About Workfare
       description: Workfare Income Supplement Scheme is a broad-based measure that
