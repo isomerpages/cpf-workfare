@@ -17,5 +17,5 @@ Workfare and Progressive Wage Model (PWM), together with many other support meas
 
 
 **Read More**
-* [Minister for Manpower, Josephine Teo's Op-Ed on Workfare](/files/Workfare%20and%20the%20Singapore%20approach%20to%20tackling%20wage%20inequality.pdf)
-* [MOM's Letter on Workfare](/files/Workfare%20and%20other%20support%20measures%20have%20uplifted%20low-wage%20workers.pdf)
+* ***7 November 2018*** <br>[Minister for Manpower, Josephine Teo's Op-Ed on Workfare](/files/Workfare%20and%20the%20Singapore%20approach%20to%20tackling%20wage%20inequality.pdf)
+* ***18 December 2018*** <br>[MOM's Letter on Workfare](/files/Workfare%20and%20other%20support%20measures%20have%20uplifted%20low-wage%20workers.pdf)
