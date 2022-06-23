@@ -12,10 +12,6 @@ Introduced in 2007, the Workfare Income Supplement Scheme is a broad-based measu
 
 **Read More**
 
-* [Workfare Factsheet (English)](/files/Workfare%20Factsheet%20(English).pdf)
+* [Workfare Factsheet (From Work Year 2020)](/files/Workfare%20Factsheet%20From%20WY2020.pdf)
 
-* [Workfare Factsheet (Chinese)](/files/Workfare%20Factsheet%20(Chinese).pdf)
-
-* [Workfare Factsheet (Malay)](/files/Workfare%20Factsheet%20(Malay).pdf)
-
-* [Workfare Factsheet (Tamil)](/files/Workfare%20Factsheet%20(Tamil).pdf)
+* [Workfare Factsheet (From Work Year 2023)](/files/Workfare%20Factsheet%20From%20WY2023.pdf)
