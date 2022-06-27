@@ -8,3 +8,6 @@ The WIS payout you may receive is estimated based on the values you have indicat
 Please note that your actual WIS payout will depend on your actual income earned.
 
 Start by selecting your type of employment below.
+
+#### Employee
+![I am an Employee](/images/calculator_ee.png)
