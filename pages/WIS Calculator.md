@@ -9,5 +9,9 @@ Please note that your actual WIS payout will depend on your actual income earned
 
 Start by selecting your type of employment below.
 
-#### Employee
-![I am an Employee](/images/calculator_ee.png)
+##### Employee
+<a href="/wis-calculator-for-employees/"> <img src="/images/calculator_ee.png" alt="I am an Employee"> </a>
+
+##### Self-Employed Person
+<a href="/wis-calculator-for-self-employed/"> <img src="/images/calculator_se.png" alt="I am Self-Employed"> </a>
+
