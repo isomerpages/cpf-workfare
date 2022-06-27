@@ -14,4 +14,3 @@ Start by selecting your type of employment below.
 
 ##### Self-Employed Person
 <a href="/wis-calculator-for-self-employed/"> <img src="/images/calculator_se.png" alt="I am Self-Employed"> </a>
-
