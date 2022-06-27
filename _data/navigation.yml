@@ -9,7 +9,7 @@ links:
   - title: Newsroom
     collection: newsroom
   - title: WIS Calculator
-    url: /permalink
+    url: /wis-calculator/
     sublinks:
       - title: I am an Employee
         url: /wis-calculator-for-employees/
