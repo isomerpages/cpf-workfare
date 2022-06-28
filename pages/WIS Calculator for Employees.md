@@ -3,7 +3,6 @@ title: WIS Calculator for Employees
 permalink: /wis-calculator-for-employees/
 description: ""
 ---
-![](/images/calculator_ee.png)
 An employee is defined as any person who is employed in Singapore and any Singaporean seaman who is employed by an employer under a contract of service or other agreement entered into in Singapore.  
   
 Some of the factors which form the contract of service are: the employer’s control over payment, duration of work, dismissal, substitution of workers and method of work.
