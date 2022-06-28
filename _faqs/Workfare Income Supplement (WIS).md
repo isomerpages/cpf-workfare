@@ -110,7 +110,7 @@ If you have a PayNow NRIC-linked bank account, it will be the default mode of pa
 		If you do not have a PayNow NRIC-linked account, and wish to receive your payout via bank crediting, you may update your bank account details by logging into the Workfare Portal at <a href="http://www.workfare.gov.sg" class="hyperlink">workfare.gov.sg</a>.<br><br></details></li>
 				 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">How much Workfare Income Supplement (WIS) will I get?</font></b></summary>
 The Workfare Income Supplement (WIS) payout depends on your age and income. You may use the online <a href="https://www.workfare.gov.sg/Pages/Calculator.aspx" class="hyperlink">WIS calculator</a> to estimate the amount of WIS you will receive.<br><br>
-As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a class="hyperlink" href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf">here</a> to find out more about the upcoming WIS enhancements.<br><br>
+As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a class="hyperlink" href="/files/FAQs/Workfare%20Factsheet%20(From%202023).pdf">here</a> to find out more about the upcoming WIS enhancements.<br><br>
 <table>
 <thead>
   <tr>
