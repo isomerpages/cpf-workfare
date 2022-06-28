@@ -500,13 +500,13 @@ To receive Workfare Income Supplement (WIS) for work done in any month, employee
 <ol>
 	<li style="font-size:15.5px"> a gross monthly income of not more than $2,300* in that particular month; and</li>
 <li style="font-size:15.5px"> an average gross monthly income of not more than $2,300 in the past 12 months.</li></ol>
-*From Work Year 2023, the qualifying income cap will be raised to $2,500. Click <a href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf" class="hyperlink">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br></details></li>
+*From Work Year 2023, the qualifying income cap will be raised to $2,500. Click <a href="/files/FAQs/Workfare%20Factsheet%20(From%202023).pdf" class="hyperlink">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why am I not eligible for Workfare Income Supplement or Workfare Special Payment despite my gross monthly income being less than $2,300 as an employee?</b></font></summary>
 Gross monthly income includes salary (before deduction of CPF contribution), bonuses, allowances and overtime pay received during the work period.<br><br>
 Other than gross monthly income, you must also earn an average gross monthly income of not more than $2,300* in the past 12 months.<br><br>
 The average gross monthly income is defined as:<br><br>
 <i>Sum of income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period</i><br><br>
-*From Work Year 2023, the qualifying income cap will be raised to $2,500. Click <a href="/files/pdf-press-release/Feb%202022/Enhanced%20Workfare%20Income%20Supplement%20Scheme%20From%20Work%20Year%202023.pdf" class="hyperlink">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br></details></li>
+*From Work Year 2023, the qualifying income cap will be raised to $2,500. Click <a href="/files/FAQs/Workfare%20Factsheet%20(From%202023).pdf" class="hyperlink">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br></details></li>
       </ol>
     </div>
   </li>
