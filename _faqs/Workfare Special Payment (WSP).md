@@ -292,32 +292,21 @@ Q34. If my GovCash balance is insufficient to make payments at the merchants, ca
 Topping up your GovCash balance in the LifeSG mobile app is not available. For purchases of amounts above your GovCash balance, please pay the difference using other payment modes that the merchants accept (e.g. cash, debit/credit cards).
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
-Q35. Can I use my GovCash balance to make purchases on e-commerce platforms like Shopee or Lazada?</b></font></summary>
-You may choose to top-up your e-commerce wallets like ShopeePay or Lazada Wallet using GovCash via the PayNow option. Thereafter, you can pay for your items by selecting the e-commerce wallet as your payment mode.<br><br>
-Step 1: Go to wallet of e-commerce platforms (e.g. ShopeePay or Lazada Wallet).<br><br>
-Step 2: Select Top Up.<br><br>
-Step 3: Select and confirm PayNow as the top up option.<br><br>
-Step 4: Save or screenshot the PayNow QR code<br><br>
-Step 5: Access your GovCash Wallet on LifeSG mobile app and scan the saved copy of PayNow QR code on the e-commerce platform.<br><br>
-Step 6: Enter and confirm amount of credits to top-up to the wallet of e-commerce platforms (e.g. ShopeePay or Lazada Wallet).<br><br>
-You can now select the wallet of e-commerce platforms (e.g. ShopeePay or Lazada Wallet) as your payment mode to pay for your purchases online.
-<br><br></details>
-<details><summary><font size="+1" color="#009427"><b>
-Q36. How do I know if the SGQR displayed by merchants includes NETS QR or PayNow QR so that I can make purchases using my GovCash balance?</b></font></summary>
+Q35. How do I know if the SGQR displayed by merchants includes NETS QR or PayNow QR so that I can make purchases using my GovCash balance?</b></font></summary>
 Look out for the NETS or PayNow logo on the SGQR label. You can only make purchases at merchants that accept NETS QR or PayNow QR code via LifeSG mobile app. 
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
-Q37. Can I cancel my payment after I have confirmed the payment on the LifeSG mobile app?</b></font></summary>
+Q36. Can I cancel my payment after I have confirmed the payment on the LifeSG mobile app?</b></font></summary>
 No, your GovCash balance will be deducted upon successful payment. 
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
-Q38. How do I get a Singpass account?</b></font></summary>
+Q37. How do I get a Singpass account?</b></font></summary>
 To obtain a Singpass, you can either:
 <ol>
 <li style="font-size:15.5px">Visit <a href="http://www.singpass.gov.sg/" class="hyperlink">Singpass</a> website to apply for your Singpass online or</li>
 <li style="font-size:15.5px">Visit any of the <a href="https://www.singpass.gov.sg/singpass/common/counter" class="hyperlink">Singpass counters located islandwide</a> in-person.</li></ol></details>
 <details><summary><font size="+1" color="#009427"><b>
-Q39. How do I change or reset my Singpass password online?</b></font></summary>
+Q38. How do I change or reset my Singpass password online?</b></font></summary>
 To change or reset your Singpass password, please complete the following steps:
 <ol>
 <li style="font-size:15.5px">Visit <a href="http://www.singpass.gov.sg/" class="hyperlink">Singpass</a> website</li>
