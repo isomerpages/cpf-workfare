@@ -3,7 +3,7 @@ title: WIS Calculator for Employees
 permalink: /wis-calculator-for-employees/
 description: ""
 ---
-<img src="/images/calculator_ee.png" alt="I am an Employee" width="10%">
+![I am an Employee](/images/calculator_ee.png)
 
 An employee is defined as any person who is employed in Singapore and any Singaporean seaman who is employed by an employer under a contract of service or other agreement entered into in Singapore.  
   
