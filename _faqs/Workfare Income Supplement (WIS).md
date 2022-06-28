@@ -196,7 +196,7 @@ If you are an SEP, you are also required to declare your Net Trade Income (NTI) 
 <ul style="list-style-type:circle;">
 <li style="font-size:15.5px">you and your spouse together own two or more properties; or</li>
 <li style="font-size:15.5px">the annual assessable income of your spouse exceeds $70,000 for the previous Year of Assessment.</li></ul></ul>
-As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a class="hyperlink" href="/files/FAQs/Workfare%20Factsheet%20(From%202023).pdf">here</a> to find out more about the upcoming WIS enhancements.<br><br>
+As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a class="hyperlink" href="/files/FAQs/Workfare%20Factsheet%20(From%20WY2023).pdf">here</a> to find out more about the upcoming WIS enhancements.<br><br>
 <sup>1</sup> Persons with disabilities younger than 35 who meet the WIS eligibility criteria will receive an annual WIS payout of up to $1,700<br>
 <sup>2</sup> Includes basic salary and extra wages such as overtime pay, commissions and bonuses<br>
 <sup>3</sup> Defined as income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br>
@@ -296,7 +296,7 @@ If your employer is not contributing CPF on your behalf, you can lodge a report 
 Alternatively, you can also lodge a report by calling the WorkRight Hotline at 1800-221-9922 or emailing to <a class="hyperlink" href="workright@mom.gov.sg">workright@mom.gov.sg</a>. Your identity will be kept confidential. <br><br></details></li>
 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">I am earning close to $2,300, why are my Workfare Income Supplement payouts so low?</font></b></summary>The Workfare Income Supplement (WIS) scheme is targeted at older, lower wage Singaporean workers whose earnings are in the bottom 20% of the working population, with support also available for those earning slightly more.<br><br>
 To best support lower wage workers, the WIS benefits are gradually reduced as the income levels of the workers increase nearer to the qualifying amount of $2,300. The gradual reduction ensures that the lower-wage workers do not see a sharp reduction in their WIS benefits when they upgrade their skills and begin to earn more. Taken together, the total amount of the income and the WIS payouts would still increase overall as one's income increases.<br><br>
-From Work Year 2023, the qualifying income cap will be raised to $2500. Click <a href="/files/FAQs/Workfare%20Factsheet%20(From%202023).pdf" class="hyperlink">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br></details></li>
+From Work Year 2023, the qualifying income cap will be raised to $2500. Click <a href="/files/FAQs/Workfare%20Factsheet%20(From%20WY2023).pdf" class="hyperlink">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br></details></li>
 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">I am earning $50 or less per month. What do I need to do to receive the Workfare Income Supplement (WIS)?</font></b></summary>You will be eligible for Workfare Income Supplement (WIS) if you meet all the other eligibility criteria and make voluntary CPF contributions for the monthly wages (where CPF contribution is exempted).<br><br>
 The voluntary CPF contribution amount varies, depending on one's age and the prevailing CPF contribution rates. Please <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index">write to us</a> with your particulars and supporting documents (i.e. payslips/employer's letter) so we can advise you on the amount to contribute:<br><br>
 On the online enquiry page,<br>
@@ -500,13 +500,13 @@ To receive Workfare Income Supplement (WIS) for work done in any month, employee
 <ol>
 	<li style="font-size:15.5px"> a gross monthly income of not more than $2,300* in that particular month; and</li>
 <li style="font-size:15.5px"> an average gross monthly income of not more than $2,300 in the past 12 months.</li></ol>
-*From Work Year 2023, the qualifying income cap will be raised to $2,500. Click <a href="/files/FAQs/Workfare%20Factsheet%20(From%202023).pdf" class="hyperlink">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br></details></li>
+*From Work Year 2023, the qualifying income cap will be raised to $2,500. Click <a href="/files/FAQs/Workfare%20Factsheet%20(From%20WY2023).pdf" class="hyperlink">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why am I not eligible for Workfare Income Supplement or Workfare Special Payment despite my gross monthly income being less than $2,300 as an employee?</b></font></summary>
 Gross monthly income includes salary (before deduction of CPF contribution), bonuses, allowances and overtime pay received during the work period.<br><br>
 Other than gross monthly income, you must also earn an average gross monthly income of not more than $2,300* in the past 12 months.<br><br>
 The average gross monthly income is defined as:<br><br>
 <i>Sum of income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period</i><br><br>
-*From Work Year 2023, the qualifying income cap will be raised to $2,500. Click <a href="/files/FAQs/Workfare%20Factsheet%20(From%202023).pdf" class="hyperlink">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br></details></li>
+*From Work Year 2023, the qualifying income cap will be raised to $2,500. Click <a href="/files/FAQs/Workfare%20Factsheet%20(From%20WY2023).pdf" class="hyperlink">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br></details></li>
       </ol>
     </div>
   </li>
