@@ -4,14 +4,14 @@ permalink: /wis-scheme/Self-Employed/what-must-i-do/
 description: ""
 third_nav_title: Self Employed
 ---
+![medisave contribution](/images/WIS%20Scheme/WIS9.png)
+
 ### What must I do?
 
 For work done in a year, we will pay your WIS in the next year after you:
 * declare your income to: IRAS if you have been issued an income tax return package; or CPFB at any Singapore Post branch if you have not been issued the income tax return package; and
 
 * make the required MediSave contributions.
-
-![medisave contribution](/images/WIS%20Scheme/WIS9.png)
 
 The earlier you declare your income and make MediSave contributions, the earlier you will receive your WIS payout.
 
