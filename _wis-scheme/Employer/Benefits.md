@@ -4,8 +4,7 @@ permalink: /wis-scheme/Employer/benefits/
 description: ""
 third_nav_title: Employer
 ---
-
-![](/images/WIS17.png)
+![landscape](/images/WIS%20Scheme/WIS11.png)
 
 ### Benefits
 
