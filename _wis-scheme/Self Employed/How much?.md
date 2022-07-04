@@ -4,12 +4,9 @@ permalink: /wis-scheme/Self-Employed/how-much/
 description: ""
 third_nav_title: Self Employed
 ---
-![](/images/WIS10.png)
-
-
+![cash ma ratio](/images/WIS%20Scheme/WIS12.png)
 ### How much?
-
-![](/images/WIS20.jpeg)
+![sep quantum](/images/WIS%20Scheme/WIS20.jpeg)
 *Including persons with disabilities who are below 35
 
 ### You will receive
