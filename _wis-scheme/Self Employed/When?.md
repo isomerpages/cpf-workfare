@@ -4,9 +4,7 @@ permalink: /wis-scheme/Self-Employed/when/
 description: ""
 third_nav_title: Self Employed
 ---
-
-
-![](/images/WIS11.png)
+![sep schedule](/images/WIS%20Scheme/WIS8.png)
 
 *Payment via PayNow NRIC-linked bank account or bank crediting will be by the end of the month while payment via GovCash will be on the 3rd of the following month.
 
