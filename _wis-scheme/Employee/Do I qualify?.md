@@ -4,7 +4,7 @@ permalink: /wis-scheme/Employee/do-i-qualify/
 description: ""
 third_nav_title: Employee
 ---
-![](/images/WIS2.png)
+![monthly income](/images/WIS2.png)
 
 ### You will qualify for WIS if you:
 * are a Singapore Citizen;
