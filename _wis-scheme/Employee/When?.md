@@ -4,14 +4,10 @@ permalink: /wis-scheme/Employee/when/
 description: ""
 third_nav_title: Employee
 ---
-
-![](/images/WIS15.png)
+![wis schedule](/images/WIS%20Scheme/WIS5.png)
 
 ### As an employee,
-
 you will receive WIS every month. The table below shows the WIS payment dates.
-
-
 
 | For working in | WIS payment date for employees* |
 | -------- | -------- |
