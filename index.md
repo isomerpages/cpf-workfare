@@ -29,5 +29,5 @@ sections:
         tops up the salaries of our lower-income workers and helps them save for
         retirement.
       button: Find out more
-      url: https://www.workfare.gov.sg/Pages/AboutWorkfare.aspx
+      url: /about-workfare/about-workfare
 ---
