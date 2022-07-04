@@ -4,11 +4,9 @@ permalink: /wis-scheme/Employee/how-much/
 description: ""
 third_nav_title: Employee
 ---
-![](/images/WIS14.png)
-
+![cash cpf ratio](/images/WIS%20Scheme/WIS4.png)
 ### How much?
-
-![](/images/WIS18.jpeg)
+![wis employee quantum](/images/WIS%20Scheme/WIS18.jpeg)
 *Including persons with disabilities who are below 35
 
 ### You will receive
