@@ -4,8 +4,6 @@ permalink: /wis-scheme/Self-Employed/what-must-i-do/
 description: ""
 third_nav_title: Self Employed
 ---
-![](/images/WIS12.png)
-
 ### What must I do?
 
 For work done in a year, we will pay your WIS in the next year after you:
@@ -13,8 +11,9 @@ For work done in a year, we will pay your WIS in the next year after you:
 
 * make the required MediSave contributions.
 
-The earlier you declare your income and make MediSave contributions, the earlier you will receive your WIS payout.
+![medisave contribution](/images/WIS%20Scheme/WIS9.png)
 
+The earlier you declare your income and make MediSave contributions, the earlier you will receive your WIS payout.
 
 Declare your income and make your MediSave contributions by last Friday of March to receive WIS by 30 April*.
 
