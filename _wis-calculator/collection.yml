@@ -1,4 +1,5 @@
 collections:
   wis-calculator:
     output: true
-    order: []
+    order:
+      - WIS Calculator.md
