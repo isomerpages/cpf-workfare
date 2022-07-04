@@ -4,9 +4,7 @@ permalink: /wis-scheme/Self-Employed/more-information/
 description: ""
 third_nav_title: Self Employed
 ---
-
-
-![](/images/WIS13.png)
+![sep and ee](/images/WIS%20Scheme/WIS10.png)
 
 ### If you worked as both an employee and a self-employed person,
 
