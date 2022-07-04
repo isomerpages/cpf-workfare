@@ -6,7 +6,8 @@ third_nav_title: Employee
 ---
 ![cash cpf ratio](/images/WIS%20Scheme/WIS4.png)
 ### How much?
-![wis employee quantum](/images/WIS%20Scheme/WIS18.jpeg)
+
+![wis ee quantum](/images/WIS%20Scheme/WIS13.png)
 *Including persons with disabilities who are below 35
 
 ### You will receive
