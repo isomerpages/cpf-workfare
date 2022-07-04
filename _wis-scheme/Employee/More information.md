@@ -4,7 +4,7 @@ permalink: /wis-scheme/Employee/more-information/
 description: ""
 third_nav_title: Employee
 ---
-![](/images/WIS7.png)
+![ee and sep](/images/WIS%20Scheme/WIS7.png)
 
 ### If you worked as both an employee and a self-employed person,
 
