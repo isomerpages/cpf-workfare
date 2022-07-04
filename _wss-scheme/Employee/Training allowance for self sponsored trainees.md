@@ -4,10 +4,7 @@ permalink: /wss-scheme/Employee/training-allowance-for-self-sponsored-trainees/
 description: ""
 third_nav_title: Employee
 ---
-
-
-
-![](/images/WSS2.png)
+![income](/images/WSS%20Scheme/WSS2.png)
 
 If you sign up and pay for any WSS qualifying courses on your own, you are eligible for training allowance (TA) of $6.00 for each hour of training*, up to a cap of 180 hours per WSS eligibility year.
 
@@ -32,6 +29,7 @@ You must meet the following WSS eligibility criteria:
   * Together with your spouse, both of you own less than two properties; or 
   * your spouse’s assessable income for the preceding Year of Assessment is less than $70,000
 
+![application](/images/WSS%20Scheme/WSS3.png)
 ### How to apply and claim?
 From 1 July 2020, when you pay for your own training, you will qualify for training allowance if:
 * you complete and pass the course with minimum 75% attendance;
@@ -42,7 +40,5 @@ From 1 July 2020, when you pay for your own training, you will qualify for train
 * you are not barred from receiving SkillsFuture Singapore (SSG) / Workforce Singapore (WSG) / Employment and Employability Institute (e2i) grants; and
 
 * the training course attended is an outcome-based course offered by SSG-appointed CET centres and courses under the cleaning, security landscape and lift sectors
-
-![](/images/WSS3.png)
 
 If you are employed, your employer will be making regular CPF contributions to your CPF account, and you are not required to apply for TA. You need to have a valid PayNow account tied to your NRIC number for TA to be disbursed to you.
