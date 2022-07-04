@@ -6,7 +6,7 @@ third_nav_title: Self Employed
 ---
 ![cash ma ratio](/images/WIS%20Scheme/WIS12.png)
 ### How much?
-![sep quantum](/images/WIS%20Scheme/WIS20.jpeg)
+![wis sep quantum](/images/WIS%20Scheme/WIS14.png)
 *Including persons with disabilities who are below 35
 
 ### You will receive
