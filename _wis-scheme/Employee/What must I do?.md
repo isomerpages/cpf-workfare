@@ -4,9 +4,7 @@ permalink: /wis-scheme/Employee/what-must-i-do/
 description: ""
 third_nav_title: Employee
 ---
-
-![](/images/WIS6.png)
-
+![cpf contribution](/images/WIS%20Scheme/WIS6.png)
 ### What must I do?
 
 Your WIS eligibility will be automatically assessed based on the CPF contributions made by your employer. You do not need to do anything.
