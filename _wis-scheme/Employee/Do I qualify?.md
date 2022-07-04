@@ -4,6 +4,8 @@ permalink: /wis-scheme/Employee/do-i-qualify/
 description: ""
 third_nav_title: Employee
 ---
+![monthly income](/images/WIS%20Scheme/WIS2.png)
+
 ### You will qualify for WIS if you:
 * are a Singapore Citizen;
 * are 35 years old or above on 31 December of the work year (all persons with disabilities would qualify for WIS); and
@@ -11,8 +13,6 @@ third_nav_title: Employee
 
 <sub><sup>1</sup>Gross monthly income includes basic salary and extra wages such as overtime pay and bonuses.<br>
 <sup>2</sup>In addition, you must earn an average gross monthly income of not more than $2,300 in the past 12 months (previously $2,000).</sub>
-
-![monthly income](/images/WIS%20Scheme/WIS2.png)
 
 ### However, you will **not** qualify for WIS if you:
 * live in a property with an annual value<sup>3</sup> of more than $13,000 assessed as at 31 December of the preceding year;
