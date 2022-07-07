@@ -15,7 +15,7 @@ sections:
       title: Workfare
       background: /images/banner_home_1.jpg
       button: Login to eService
-      url: https://www.govpayouts.gov.sg/wf/workfare/dashboard
+      url: https://www.govpayouts.gov.sg/wf/workfare/login
       key_highlights:
         - title: Workfare income Supplement (WIS) Scheme
           description: Find out more about WIS
