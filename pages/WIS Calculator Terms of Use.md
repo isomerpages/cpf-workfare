@@ -16,7 +16,7 @@ Thank you for visiting the Workfare Website (hereinafter the "Website").
 6. No licence or right is granted to you and your access to this Website and / or use of the online tools and services should not be construed as granting, by implication, estoppels or otherwise, any license or right to use any of the Contents without the prior written consent of the Government or the relevant third party owner of the proprietary right thereof.
 
 #### Privacy Policy
-7. Click here to review this Website's Privacy Policy.
+7. [Click here](/privacy-statement/) to review this Website's Privacy Policy.
 
 #### Restrictions on Use of Information and Materials
 8. Except as otherwise provided, the Contents of this Website shall not be reproduced, republished, uploaded, posted, transmitted, distributed, stored, adapted, displayed, altered or otherwise used in whole or in part in any manner, without the prior written consent of the Government.
