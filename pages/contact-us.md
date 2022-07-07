@@ -2,31 +2,29 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
-locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+agency_name: Workfare
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: 1 800 227 1188
+      - email: ""
+      - other: "<b>Operating Hours</b> <br>Mon - Fri: 8.00am to 5.30pm<br>Sat, Sun and
+          public holidays: Closed<br>Eves of Christmas, New Year and Chinese New
+          Year: 8.30am to 1.00pm"
+    title: WIS Hotline
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <a href="https://www.cpf.gov.sg/writetous">Write to us</a>
+    title: WIS Feedback
+  - content:
+      - phone: 1 800 536 8333
+      - email: ""
+      - other: "<b>Operating Hours</b><br>Mon - Fri: 8.30am to 5.30pm<br>Sat: 8.30am to
+          1.00pm"
+    title: WSS Hotline
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <a href="https://portal.ssg-wsg.gov.sg/">Submit Feedback</a>
+    title: WSS Feedback
 ---

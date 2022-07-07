@@ -1,0 +1,10 @@
+collections:
+  about-workfare:
+    output: true
+    order:
+      - About Workfare.md
+      - Intent of Workfare.md
+      - Our Social Security System.md
+      - Outcomes of Workfare.md
+      - Holistic Support for Workers.md
+      - Workfare Works.md

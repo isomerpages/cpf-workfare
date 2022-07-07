@@ -1,23 +1,19 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Workfare Logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: About Workfare
-    url: /about-workfare/
-  - title: Stories
-    url: /stories/
-  - title: Wis Calculator
-    url: /wis-calculator/
-  - title: Online Demo
-    url: /online-demo/
+    collection: about-workfare
   - title: Schemes
     collection: schemes
+  - title: Stories
+    collection: stories
   - title: Newsroom
-    resource_room: true
+    collection: newsroom
+  - title: WIS Calculator
+    url: /wis-calculator/
+    sublinks:
+      - title: I am an Employee
+        url: /wis-calculator-for-employees/
+      - title: I am Self-Employed
+        url: /wis-calculator-for-self-employed/
+  - title: LOGIN
+    url: https://www.workfare.gov.sg/app/Home/Index

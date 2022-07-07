@@ -1,4 +1,0 @@
----
-title: Stories
-permalink: /stories/
----

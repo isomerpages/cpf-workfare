@@ -1,0 +1,6 @@
+collections:
+  schemes:
+    output: true
+    order:
+      - Workfare Income Supplement (WIS) Scheme.md
+      - Workfare Skills Support (WSS) Scheme.md

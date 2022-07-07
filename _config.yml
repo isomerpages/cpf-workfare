@@ -1,51 +1,58 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
-
-# Site colors
+title: Workfare
+url: ""
+favicon: /images/W Logo.png
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: "#309449"
+  secondary-color: "#309449"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#8abf37"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#8abf37"
     - title: media-color-three
-      color: '#00838f'
+      color: "#cd38b1"
     - title: media-color-four
-      color: '#00838f'
+      color: "#74ad0d"
     - title: media-color-five
-      color: '#00838f'
-
-
-collections:
-  schemes:
-    output: true
+      color: "#399339"
 resources_name: newsroom
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: Workfare provides additional support to lower-income Singaporeans
+  who continue working and training through Workfare Income Supplement (WIS)
+  Scheme and Workfare Skills Support (WSS) Scheme.
+staging: https://cpf-workfare-staging.netlify.com
+prod: https://cpf-workfare-prod.netlify.com
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-
+  - jekyll-remote-theme
+shareicon: /images/banner_home_1.jpg
+is_government: true
