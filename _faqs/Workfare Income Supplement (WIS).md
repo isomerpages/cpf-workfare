@@ -615,7 +615,7 @@ To receive SMS notifications, you must have a Singpass 2FA mobile number. You wi
 If you have a valid PayNow NRIC-linked bank account, you will receive your payment via PayNow. Otherwise, you will receive your payments via GovCash. Payments by GovCash take up to 2 weeks longer compared to PayNow. <br><br>
 Please consider linking your NRIC number to your bank account to receive your payouts earlier.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How much is my Workfare Income Supplement/ Workfare Special Payment?</b></font></summary>
-To check the Workfare payouts you have received, log in to the Workfare Portal with your Singpass and look under “<a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Payment History</a>”.<br><br></details></li>
+To check the Workfare payouts you have received, log in to the <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Workfare Portal</a> with your Singpass and look under “Payment History”.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>What is PayNow?</b></font></summary>
 PayNow is a secure funds transfer service that allows customers to receive money into their participating bank account which is linked to their NRIC. The 10 participating banks in Singapore are as follows (with the corresponding bank code): <br><br>
 <table>
