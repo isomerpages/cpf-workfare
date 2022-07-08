@@ -11,7 +11,7 @@ If you are making money by buying and selling goods, providing professional or p
   
 Examples of self-employed persons include hawkers, taxi drivers or sole-proprietors.
 
-##### Please read the [Disclaimer](https://cpf-workfare-staging.netlify.app/wis-calculator-terms-of-use).
+##### Please read the [Disclaimer](/wis-calculator-terms-of-use).
 
 ---
 

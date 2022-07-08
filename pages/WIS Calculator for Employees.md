@@ -9,7 +9,7 @@ An employee is defined as any person who is employed in Singapore and any Singap
 
 Some of the factors which form the contract of service are: the employer’s control over payment, duration of work, dismissal, substitution of workers and method of work.
 
-##### Please read the [Disclaimer](https://cpf-workfare-staging.netlify.app/wis-calculator-terms-of-use).
+##### Please read the [Disclaimer](/wis-calculator-terms-of-use).
 
 ---
 
