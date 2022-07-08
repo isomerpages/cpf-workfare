@@ -117,7 +117,7 @@ Eligible recipients would have received a total of $3,000 Workfare Special Payme
 Notes:<br>
 * Singaporeans who qualify for WY2019 WIS after July 2020 but before 31 March 2021 will receive the WSP in the month that they become eligible for WY2019 WIS.<br>
 ^ Singaporeans who qualify for WY2020 WIS after October 2020 but before 31 December 2021 will receive the WSP in the month that they become eligible for WY2020 WIS.<br><br>
-To check the WSP you have received, log in to the <a href="https://www.workfare.gov.sg/" class="hyperlink">Workfare Portal</a> with your Singpass and look under "<a class="hyperlink" href="https://www.govpayouts.gov.sg/wf/workfare/login">Payment History</a>". 
+To check the WSP you have received, log in to the <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Workfare Portal</a> with your Singpass and look under "Payment History". 
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>Q17. How will I be notified of my Workfare Special Payment payouts?</b></font></summary>
 You will be notified of your Workfare Special Payment by letter.
@@ -166,7 +166,7 @@ The average gross monthly income is defined as:<br><br>
 Sum of income earned in the past 12-month period + Total number of months worked in the past 12-month period<br><br>
 *From Work Year 2023, the qualifying income cap will be raised to $2,500. Click <a class="hyperlink" href="/files/FAQs/Workfare%20Factsheet%20(From%20WY2023).pdf">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br></details>
 <details><summary><font size="+1" color="#009427"><b>Q21. How much is my Workfare Income Supplement/Workfare Special Payment?</b></font></summary>
-To check the Workfare payouts you received, log into the <a href="https://www.workfare.gov.sg/" class="hyperlink">Workfare Portal</a> with your Singpass and look under “<a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Payment History</a>”.
+To check the Workfare payouts you received, log into the <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Workfare Portal</a> with your Singpass and look under “Payment History”.
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>Q22. How do I appeal for Workfare Income Supplement (WIS) Scheme / Workfare Special Payment (WSP)?</b></font></summary>
 You can send in your appeal for Workfare Income Supplement (WIS)/Workfare Special Payment (WSP) via the online enquiry page:
