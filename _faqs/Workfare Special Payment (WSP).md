@@ -255,7 +255,7 @@ You may refer to the <a href="/files/FAQs/Brochure_GovCash.pdf" class="hyperlink
 <details><summary><font size="+1" color="#009427"><b>
 Q28. Where can I obtain my Payment Reference Number (PRN)?
 </b></font></summary>
-Your PRN can be found in your Workfare notification from the Board. Alternatively, visit <a class="hyperlink" href="https://workfare.gov.sg">workfare.gov.sg</a>, login with your Singpass and select “View my Payment Reference Number (PRN)”.
+Your PRN can be found in your Workfare notification from the Board. Alternatively, visit <a class="hyperlink" href="https://workfare.gov.sg">workfare.gov.sg</a>, login with your Singpass and select “View my GovCash PRN”.
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
 Q29. How do I check my GovCash balance?</b></font></summary>
