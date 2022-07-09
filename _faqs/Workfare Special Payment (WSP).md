@@ -38,7 +38,7 @@ For Employees<br><br>
 <li style="font-size:15.5px">You are unlikely to be affected by the eligibility cut-off date because your WIS eligibility will be automatically assessed based on the CPF contributions made by your employer.</li>
 <li style="font-size:15.5px">Under the CPF Act, employers must contribute CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis.<br><br>
 If your employee is not contributing CPF on your behalf, you can lodge a report on non/underpayment of CPF contributions <a href="https://www.cpf.gov.sg/eSvc/Web/Services/MyRequest/MyRequestLanding" class="hyperlink">online</a>. Please log in to my CPF Online Services with your Singpass, then select My Requests &gt; Other CPF Matters &gt; Report on non-payment or underpayment of CPF contributions.</li></ul>
-Alternatively, you can also lodge a report by calling the WorkRight Hotline at 1800-221-9922 or emailing to <a href="workright@mom.gov.sg" class="hyperlink">workright@mom.gov.sg</a>. All calls will be kept confidential.<br><br></details>
+Alternatively, you can also lodge a report by calling the WorkRight Hotline at 1800-221-9922 or emailing to <a href="mailto:workright@mom.gov.sg" class="hyperlink">workright@mom.gov.sg</a>. All calls will be kept confidential.<br><br></details>
 <details><summary><font size="+1" color="#009427"><b>Q4. I have other queries on the Workfare Special Payment (WSP). Who can I ask?</b></font></summary>
 You may visit <a href="https://www.workfare.gov.sg/" class="hyperlink">workfare.gov.sg</a> for more information on the Workfare scheme.<br><br>
 For enquires on the Workfare Special Payment (WSP), you may email us at <a href="workfare@govtopup.gov.sg" class="hyperlink">workfare@govtopup.gov.sg</a>.<br><br></details>
@@ -90,7 +90,7 @@ Households that need more help in the interim can approach a Social Service Offi
 To receive the Workfare Special Payment, please ensure that your GIRO instalment plan can fulfil your MediSave liabilities by 31 March 2021 (for WY2019 Workfare Income Supplement (WIS) recipients) / 31 December 2021 (for WY2020 WIS recipients).<br><br>
 You may view the details of your GIRO instalment plan by logging in to My Self- Employed Home using your <a href="http://www.singpass.gov.sg/" class="hyperlink">Singpass</a>. You can apply for your Singpass online if you do not have one.<br><br></details>
 <details><summary><font size="+1" color="#009427"><b>Q14. How can I find out if I am eligible for Workfare Special Payment (WSP)?</b></font></summary>
-You can check if you are eligible for Workfare Special Payment (WSP) by logging in with your SingPass at <a href="https://www.workfare.gov.sg/" class="hyperlink">workfare.gov.sg</a>. Your eligibility will be reflected in the "<a class="hyperlink" href="https://www.govpayouts.gov.sg/wf/workfare/login">Payment History</a>" page. For enquiries on the WSP, you may email us at <a class="hyperlink" href="workfare@govtopup.gov.sg">workfare@govtopup.gov.sg</a> or call us at 1800 222 2888.<br><br></details>
+You can check if you are eligible for Workfare Special Payment (WSP) by logging in with your SingPass at <a href="https://www.workfare.gov.sg/" class="hyperlink">workfare.gov.sg</a>. Your eligibility will be reflected in the "Payment History" page. For enquiries on the WSP, you may email us at <a class="hyperlink" href="mailto:workfare@govtopup.gov.sg">workfare@govtopup.gov.sg</a> or call us at 1800 222 2888.<br><br></details>
 <details><summary><font size="+1" color="#009427"><b>Q15. When can Self-Employed Persons who are on GIRO instalments receive the Workfare Special Payment?</b></font></summary>
 Self-Employed Persons (SEPs) who are on GIRO instalments need to pay their MediSave contributions for Work Year 2019 by 31 March 2021, to receive the Workfare Special Payment.
 <br><br></details>
@@ -117,7 +117,7 @@ Eligible recipients would have received a total of $3,000 Workfare Special Payme
 Notes:<br>
 * Singaporeans who qualify for WY2019 WIS after July 2020 but before 31 March 2021 will receive the WSP in the month that they become eligible for WY2019 WIS.<br>
 ^ Singaporeans who qualify for WY2020 WIS after October 2020 but before 31 December 2021 will receive the WSP in the month that they become eligible for WY2020 WIS.<br><br>
-To check the WSP you have received, log in to the <a href="https://www.workfare.gov.sg/" class="hyperlink">Workfare Portal</a> with your Singpass and look under "<a class="hyperlink" href="https://www.govpayouts.gov.sg/wf/workfare/login">Payment History</a>". 
+To check the WSP you have received, log in to the <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Workfare Portal</a> with your Singpass and look under "Payment History". 
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>Q17. How will I be notified of my Workfare Special Payment payouts?</b></font></summary>
 You will be notified of your Workfare Special Payment by letter.
@@ -166,7 +166,7 @@ The average gross monthly income is defined as:<br><br>
 Sum of income earned in the past 12-month period + Total number of months worked in the past 12-month period<br><br>
 *From Work Year 2023, the qualifying income cap will be raised to $2,500. Click <a class="hyperlink" href="/files/FAQs/Workfare%20Factsheet%20(From%20WY2023).pdf">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br></details>
 <details><summary><font size="+1" color="#009427"><b>Q21. How much is my Workfare Income Supplement/Workfare Special Payment?</b></font></summary>
-To check the Workfare payouts you received, log into the <a href="https://www.workfare.gov.sg/" class="hyperlink">Workfare Portal</a> with your Singpass and look under “<a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Payment History</a>”.
+To check the Workfare payouts you received, log into the <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Workfare Portal</a> with your Singpass and look under “Payment History”.
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>Q22. How do I appeal for Workfare Income Supplement (WIS) Scheme / Workfare Special Payment (WSP)?</b></font></summary>
 You can send in your appeal for Workfare Income Supplement (WIS)/Workfare Special Payment (WSP) via the online enquiry page:
@@ -255,7 +255,7 @@ You may refer to the <a href="/files/FAQs/Brochure_GovCash.pdf" class="hyperlink
 <details><summary><font size="+1" color="#009427"><b>
 Q28. Where can I obtain my Payment Reference Number (PRN)?
 </b></font></summary>
-Your PRN can be found in your Workfare notification from the Board. Alternatively, visit <a class="hyperlink" href="https://workfare.gov.sg">workfare.gov.sg</a>, login with your Singpass and select “View my Payment Reference Number (PRN)”.
+Your PRN can be found in your Workfare notification from the Board. Alternatively, visit <a class="hyperlink" href="https://workfare.gov.sg">workfare.gov.sg</a>, login with your Singpass and select “View my GovCash PRN”.
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
 Q29. How do I check my GovCash balance?</b></font></summary>
@@ -276,7 +276,7 @@ To link your NRIC number to your bank account, you may follow the steps below:<b
 	<li style="font-size:15.5px">Log in to your bank's internet / mobile banking application</li>
 	<li style="font-size:15.5px">Link your NRIC number to your bank account at the PayNow registration screen</li></ol>
 You may also refer to your bank's website for specific details to do so. If you do not have Internet or mobile banking, you can contact your bank directly to register for PayNow.<br><br>
-Otherwise, you can choose to receive your payouts via Direct Bank Crediting. To do so, simply visit <a class="hyperlink" href="https://www.govpayouts.gov.sg/wf/workfare/login">here</a>, login with your Singpass, select "<a class="hyperlink" href="https://www.govpayouts.gov.sg/wf/workfare/login">Payment Instruction</a>" and update your POSB/DBS, OCBC or UOB bank account details.
+Otherwise, you can choose to receive your payouts via Direct Bank Crediting. To do so, simply visit <a class="hyperlink" href="https://www.govpayouts.gov.sg/wf/workfare/login">here</a>, login with your Singpass, select "Payment Instruction" and update your POSB/DBS, OCBC or UOB bank account details.
 <br><br></details>
 <details><summary><font size="+1" color="#009427"><b>
 Q32. Why can withdrawals be made only in $10 denominations and what can I do with my balance GovCash?</b></font></summary>
