@@ -6,7 +6,7 @@ third_nav_title: Videos
 ---
 <html>
 <img class="MicIcon" src="/images/ico_videos.png" align="left">
-<br><font align="center" color="green" size="+3">&nbsp;&nbsp;&nbsp;&nbsp;Videos</font><br><br><br>
+<br><font align="center" color="green" size="+3">&nbsp;&nbsp;&nbsp;&nbsp;Videos</font><br><br><br><br>
 <style>
 img.MicIcon {
   height: 15%;
