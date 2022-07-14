@@ -3,7 +3,8 @@ title: SMS Advisory
 permalink: /sms-advisory
 description: ""
 ---
-<font size="+2"><b>How can I tell if the Workfare SMS I received is authentic?</b></font><br>
+# How can I tell if the Workfare SMS I received is authentic?
+
 With the recent rise in scam and phishing attempts, it is important to verify that the message received is genuine from the official source.
 
 Please note that with effect from 1 August 2022, we have changed our SMS sender ID from “SG-Workfare” to “CPF Board”. We will no longer send SMS notifications on Workfare using “SG-Workfare”.
