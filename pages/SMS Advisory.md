@@ -32,8 +32,8 @@ Be cautious and let’s work together to safeguard your personal information.
 
 <style>
 img.advisory1 {
-  height: 40%;
-  width: 40%;
+  height: 35%;
+  width: 35%;
 }	
 	img.advisory2 {
   height: 80%;
