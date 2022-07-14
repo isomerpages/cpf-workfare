@@ -40,4 +40,4 @@ img.advisory1 {
   height: 80%;
   width: 80%;
 }	
-</style></ul>
+</style>
