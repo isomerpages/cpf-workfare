@@ -25,9 +25,9 @@ Hence, always remember:
   <li>We will only inform citizens of their benefits via letter and SMS. We do not use WhatsApp or other mobile app messaging platforms.</li>
   <li>We will never request for you to reply to the SMS nor direct you to a non-Government site. If the SMS contains an URL, always check that the domain ends with ".gov.sg". When in doubt, search for the organization website directly using search engines to ensure that the link is legitimate.</li>
   <li>Ensure that the SMS meets all of the checks above before proceeding to click on the URL. After you have clicked through to the webpage, be extra vigilant before providing sensitive information such as your Singpass or bank account details. Look out for valid encryption certificates by checking for the lock in the browser's address bar:</li>
-</ul><br><br>
+</ul><br>
   
-<img class="advisory2" src="/images/SMS%20Advisory/SMS%20Advisory_1.png" align="center"><br><br>
+<img class="advisory2" src="/images/SMS%20Advisory/SMS%20Advisory_1.png" align="center"><br>
 
 Be cautious and let’s work together to safeguard your personal information.
 
