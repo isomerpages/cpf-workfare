@@ -14,7 +14,7 @@ Please note that with effect from 1 August 2022, we have changed our SMS sender 
 <img class="advisory1" src="/images/SMS%20Advisory/SMS%20Advisory.png" align="center">
   
 
-This is only an example of a Workfare SMS. The actual SMS received may be different.
+<center>This is only an example of a Workfare SMS. The actual SMS received may be different.</center>
 
   
 
