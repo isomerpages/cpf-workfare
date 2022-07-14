@@ -3,7 +3,7 @@ title: SMS Advisory
 permalink: /sms-advisory
 description: ""
 ---
-<font size="+2"><b>How can I tell if the Workfare SMS I received is authentic?</b></font><br><br>
+<font size="+2"><b>How can I tell if the Workfare SMS I received is authentic?</b></font><br>
 With the recent rise in scam and phishing attempts, it is important to verify that the message received is genuine from the official source.
 
   
