@@ -39,8 +39,8 @@ Be cautious and let’s work together to safeguard your personal information.
 <style>
 img {
 	text-align: center;
-	 max-width: 500px;
-	 max-height: 500px;
+	max-width: 500px;
+	max-height: 500px;
 	}  
 subtext {
 	text-align: center;
