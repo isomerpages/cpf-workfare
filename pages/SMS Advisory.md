@@ -15,7 +15,7 @@ With the recent rise in scam and phishing attempts, it is important to verify th
 Please note that with effect from 1 August 2022, we have changed our SMS sender ID from “SG-Workfare” to “CPF Board”. We will no longer send SMS notifications on Workfare using “SG-Workfare”.&nbsp;
 
 
- <img>![](/images/SMS%20Advisory/SMS%20Advisory.png)
+<img class="advisory" src="/images/SMS%20Advisory/SMS%20Advisory.png" align="center">
   
 
 This is only an example of a Workfare SMS. The actual SMS received may be different.
@@ -32,16 +32,7 @@ Hence, always remember:
     
 *   Ensure that the SMS meets all of the checks above before proceeding to click on the URL. After you have clicked through to the webpage, be extra vigilant before providing sensitive information such as your Singpass or bank account details. Look out for valid encryption certificates by checking for the lock in the browser's address bar: 
   
-<img>![](/images/SMS%20Advisory/SMS%20Advisory_1.png)</img>
+<img class="advisory" src="/images/SMS%20Advisory/SMS%20Advisory_1.png" align="center">
 
 Be cautious and let’s work together to safeguard your personal information.
-
-<style>
-img {
-	text-align: center;
-	}  
-subtext {
-	text-align: center;
-	}
-</style>
 </html>
