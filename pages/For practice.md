@@ -9,7 +9,13 @@ With the recent rise in scam and phishing attempts, it is important to verify th
 
 Please note that with effect from 1 August 2022, we have changed our SMS sender ID from “SG-Workfare” to “CPF Board”. We will no longer send SMS notifications on Workfare using “SG-Workfare”.
 
-![](/images/sms%20advisory%20practice.png)
+    img {
+		
+		![](/images/sms%20advisory%20practice.png)
+      width: 400px,
+      height: 300px
+    }
+ ![](/images/sms%20advisory%20practice.png)
 
 This is only an example of a Workfare SMS. The actual SMS received may be different.
 
