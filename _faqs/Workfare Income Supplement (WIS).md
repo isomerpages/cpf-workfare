@@ -593,17 +593,17 @@ The estate cheque will form part of the deceased member's estate. Depending on t
 You will be notified via letters and/or SMS nearer to the payment dates.<br><br>
 To receive the notification earlier via SMS, please log in to the <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Workfare Portal</a> with your Singpass and opt-in to receive SMS at "Notification". To receive SMS notifications, you must have a Singpass 2FA mobile number. You will only start receiving SMS notifications after you have submitted the above request and updated your mobile number with Singpass.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How can I tell if the Workfare SMS I received is authentic?</b></font></summary><!-- Q7 -->
-With the recent rise in scam and phishing attempts, it is important to verify that the message received is genuine from the official source.<br>
+With the recent rise in scam and phishing attempts, it is important to verify that the message received is genuinely sent by an official source.<br>
 From 1 August 2022, we will send SMSes from the ID “CPF Board”. The SMS sender ID “SG-Workfare” will no longer be in use.<br><br>
 <img class="advisory1" src="/images/SMS%20Advisory/SMS%20Advisory.png" align="center">
 This is only an example of a Workfare SMS. The actual SMS received may be different.<br><br>
 Here are some tips on how you can protect yourself against phishing SMSes purporting to be sent from CPF Board:<br>
-<ul>
-	<li>Check the SMS is sent by ‘CPF Board’ to the mobile number registered with CPF Board. If you are unsure of whether you had registered your mobile number, please login to the CPF website with your Singpass and check your <a class="hyperlink" href="https://www.cpf.gov.sg/member/ds/account-settings">account settings</a>.</li>
+<ul style="list-style-type:disc;">
+	<li style="font-size:15.5px">Check the SMS is sent by ‘CPF Board’ to the mobile number registered with CPF Board. If you are unsure of whether you had registered your mobile number, please login to the CPF website with your Singpass and check your <a class="hyperlink" href="https://www.cpf.gov.sg/member/ds/account-settings">account settings</a>.</li>
   <li>Verify the last four characters of the masked NRIC number are the same as your NRIC number.</li>
   <li>If the SMS contains an URL, make sure that the domain of the URL ends with a ".gov.sg" before clicking on it.</li>
 </ul>
-We will never ask you to reply to the Workfare SMS nor directly you to a non-Government website. Do report any suspicious SMS spoofing to <a class="hyperlink" href="https://www.cpf.gov.sg/member/contact-us">CPF Board</a>.<br><br>
+We will never ask you to reply to the Workfare SMS nor direct you to a non-Government website. Do report any suspicious SMS spoofing to <a class="hyperlink" href="https://www.cpf.gov.sg/member/contact-us">CPF Board</a>.<br><br>
 Be <b>C</b>autious, <b>P</b>ay attention to scam and don't be the next victim of <b>F</b>raud.
 <br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why is the government sending SMS notifications instead of hardcopy letters?</b></font></summary><!--Q8-->
