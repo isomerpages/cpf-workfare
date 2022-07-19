@@ -24,7 +24,7 @@ Here are some tips on how you can protect yourself against phishing SMSes purpor
   <li>Verify the last four characters of the masked NRIC number are the same as your NRIC number.</li>
   <li>If the SMS contains an URL, make sure that the domain of the URL ends with a ".gov.sg" before clicking on it.</li>
 </ul>
-We will never ask you to reply to the Workfare SMS nor directly you to a non-Government website. Do report any suspicious SMS spoofing to <a class="hyperlink" href="https://www.cpf.gov.sg/member/contact-us">CPF Board</a>.<br><br>
+We will never ask you to reply to the Workfare SMS nor direct you to a non-Government website. Do report any suspicious SMS spoofing to <a class="hyperlink" href="https://www.cpf.gov.sg/member/contact-us">CPF Board</a>.<br><br>
 Be <b>C</b>autious, <b>P</b>ay attention to scam and don't be the next victim of <b>F</b>raud.
 
 <style>
