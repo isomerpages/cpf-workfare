@@ -592,16 +592,35 @@ The estate cheque will form part of the deceased member's estate. Depending on t
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>When will I receive Workfare notification?</b></font></summary><!-- Q6 -->
 You will be notified via letters and/or SMS nearer to the payment dates.<br><br>
 To receive the notification earlier via SMS, please log in to the <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Workfare Portal</a> with your Singpass and opt-in to receive SMS at "Notification". To receive SMS notifications, you must have a Singpass 2FA mobile number. You will only start receiving SMS notifications after you have submitted the above request and updated your mobile number with Singpass.<br><br></details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How can I provide or update my mobile number to receive SMS notification on my Workfare payment?</b></font></summary><!-- Q7 -->
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How can I tell if the Workfare SMS I received is authentic?</b></font></summary><!-- Q7 -->
+WWith the recent rise in scam and phishing attempts, it is important to verify that the message received is genuine from the official source.
+
+From 1 August 2022, we will send SMSes from the ID “CPF Board”. The SMS sender ID “SG-Workfare” will no longer be in use.
+
+<img class="advisory1" src="/images/SMS%20Advisory/SMS%20Advisory.png" align="center">
+  
+<center>This is only an example of a Workfare SMS. The actual SMS received may be different.</center>
+
+Here are some tips on how you can protect yourself against phishing SMSes purporting to be sent from CPF Board:
+
+<ul style="list-style-type:disc;">
+	<li>Check the SMS is sent by ‘CPF Board’ to the mobile number registered with CPF Board. If you are unsure of whether you had registered your mobile number, please login to the CPF website with your Singpass and check your <a class="hyperlink" href="https://www.cpf.gov.sg/member/ds/account-settings">account settings</a>.</li>
+  <li>Verify the last four characters of the masked NRIC number are the same as your NRIC number.</li>
+  <li>If the SMS contains an URL, make sure that the domain of the URL ends with a ".gov.sg" before clicking on it.</li>
+</ul>
+We will never ask you to reply to the Workfare SMS nor directly you to a non-Government website. Do report any suspicious SMS spoofing to <a class="hyperlink" href="https://www.cpf.gov.sg/member/contact-us">CPF Board</a>.<br><br>
+Be <b>C</b>autious, <b>P</b>ay attention to scam and don't be the next victim of <b>F</b>raud.
+<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why is the government sending SMS notifications instead of hardcopy letters?</b></font></summary><!--Q8-->
+Moving to SMS notifications is part of the Government's efforts to provide timelier and more responsive services to the public. It also allows us to be more environmentally friendly. With SMS notifications, you can quickly and easily receive details of your Workfare payouts, including the mode of payment and payment date, instead of having to wait for hardcopy letters.<br><br>
+If you are on hardcopy notification and would like to switch to SMS notification, please log in to the <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Workfare Portal</a> with your Singpass and opt-in to receive SMS at "Notification".<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How can I receive SMS notifications for Workfare Income Supplement scheme?</b></font></summary><!--Q9-->
+					Please log in to the <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Workfare Portal</a> (Singpass required) and select "Notification". Your selected notification mode will be used for Workfare Income Supplement and other Government schemes (if any) that you may be eligible for.<br><br>
+To receive SMS notifications, register your mobile number with CPF Board via <i style="color:green">my cpf</i> digital services - <a class="hyperlink" href="https://www.cpf.gov.sg/members/ds/account-settings">Account Settings</a> with your Singpass.<br><br></details></li>
+								<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How can I provide or update my mobile number to receive SMS notification on my Workfare payment?</b></font></summary><!-- Q10 -->
 We will only send SMS notifications on Workfare payments to the mobile number that you have registered with CPF Board.<br><br>
 					To receive SMS notifications, you may update your mobile number via <i style="color:green">my cpf</i> digital services - <a class="hyperlink" href="https://www.cpf.gov.sg/members/ds/account-settings">Account Settings</a> with your Singpass.
 <br><br></details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why is the government sending SMS notifications instead of hardcopy letters?</b></font></summary>
-Moving to SMS notifications is part of the Government's efforts to provide timelier and more responsive services to the public. It also allows us to be more environmentally friendly. With SMS notifications, you can quickly and easily receive details of your Workfare payouts, including the mode of payment and payment date, instead of having to wait for hardcopy letters.<br><br>
-If you are on hardcopy notification and would like to switch to SMS notification, please log in to the <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Workfare Portal</a> with your Singpass and opt-in to receive SMS at "Notification".<br><br></details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How can I receive SMS notifications for Workfare Income Supplement scheme?</b></font></summary>
-					Please log in to the <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Workfare Portal</a> (Singpass required) and select "Notification". Your selected notification mode will be used for Workfare Income Supplement and other Government schemes (if any) that you may be eligible for.<br><br>
-To receive SMS notifications, register your mobile number with CPF Board via <i style="color:green">my cpf</i> digital services - <a class="hyperlink" href="https://www.cpf.gov.sg/members/ds/account-settings">Account Settings</a> with your Singpass.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I have closed my bank account for receiving Workfare Income Supplement payments. How can I receive the payments</b></font></summary>
 If you have a valid PayNow NRIC-linked bank account, you will receive your payment via PayNow. Otherwise, you will receive your payments via GovCash. Payments by GovCash take up to 2 weeks longer compared to PayNow. <br><br>
 Please consider linking your NRIC number to your bank account to receive your payouts earlier.<br><br></details></li>
@@ -752,4 +771,8 @@ li.Numbering::marker {
 	font-weight: bold;
 	color: #009427;
 	}
+	img.advisory1 {
+  height: 35%;
+  width: 35%;
+}	
 </style>
