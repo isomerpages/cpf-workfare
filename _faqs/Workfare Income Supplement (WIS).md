@@ -572,9 +572,9 @@ The AI for the previous Year of Assessment (YOA) is used to assess one's WIS eli
     <div>
       <ol>
         <li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why does the majority of the Workfare Income Supplement (WIS) payment take the form of CPF top-ups?
-</b></font></summary>
+</b></font></summary> <!-- Q1 -->
 Other than providing a cash supplement to help lower wage workers cope with their daily needs, it is also important to help them build up their CPF savings for their healthcare and retirement needs.<br><br></details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I have reached my Basic Healthcare Sum. What happens to the portion of the Workfare Income Supplement payment going into the MediSave Account?</b></font></summary>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I have reached my Basic Healthcare Sum. What happens to the portion of the Workfare Income Supplement payment going into the MediSave Account?</b></font></summary><!-- Q2 -->
 Any MediSave contributions above the Basic Healthcare Sum (BHS) will be transferred to your CPF Special Account (SA) or Retirement Account (RA), which have interest rates equal or higher than that of the MediSave Account. The BHS cap and overflow arrangement are intentionally planned to avoid over saving in the MediSave Account and to supplement your retirement savings.<br><br>
 These overflows which end up in your SA or RA can be withdrawn according to the usual withdrawal guidelines. For members who have met the Full Retirement Sum in their SA or RA, the savings in excess of the BHS will be transferred to the Ordinary Account (OA). Savings in the OA can be used for other purposes such as housing repayment.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How can I update my bank account for Workfare Income Supplement?</b></font></summary>
