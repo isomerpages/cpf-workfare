@@ -596,6 +596,10 @@ To receive the notification earlier via SMS, please log in to the <a href="https
 We will only send SMS notifications on Workfare payments to the mobile number that you have registered with CPF Board.<br><br>
 					To receive SMS notifications, you may update your mobile number via <i style="color:green">my cpf</i> digital services - <a class="hyperlink" href="https://www.cpf.gov.sg/members/ds/account-settings">Account Settings</a> with your Singpass.
 <br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How can I provide or update my mobile number to receive SMS notification on my Workfare payment?</b></font></summary><!-- Q7 -->
+We will only send SMS notifications on Workfare payments to the mobile number that you have registered with CPF Board.<br><br>
+					To receive SMS notifications, you may update your mobile number via <i style="color:green">my cpf</i> digital services - <a class="hyperlink" href="https://www.cpf.gov.sg/members/ds/account-settings">Account Settings</a> with your Singpass.
+<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why is the government sending SMS notifications instead of hardcopy letters?</b></font></summary>
 Moving to SMS notifications is part of the Government's efforts to provide timelier and more responsive services to the public. It also allows us to be more environmentally friendly. With SMS notifications, you can quickly and easily receive details of your Workfare payouts, including the mode of payment and payment date, instead of having to wait for hardcopy letters.<br><br>
 If you are on hardcopy notification and would like to switch to SMS notification, please log in to the <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Workfare Portal</a> with your Singpass and opt-in to receive SMS at "Notification".<br><br></details></li>
