@@ -5,7 +5,7 @@ description: ""
 ---
 # How can I tell if the Workfare SMS I received is authentic?
 
-With the recent rise in scam and phishing attempts, it is important to verify that the message received is genuine from the official source.
+With the recent rise in scam and phishing attempts, it is important to verify that the message received is genuinely sent by an official source.
 
 From 1 August 2022, we will send SMSes from the ID “CPF Board”. The SMS sender ID “SG-Workfare” will no longer be in use.
 
