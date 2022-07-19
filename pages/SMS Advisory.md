@@ -20,7 +20,7 @@ From 1 August 2022, we will send SMSes from the ID “CPF Board”. The SMS send
 Here are some tips on how you can protect yourself against phishing SMSes purporting to be sent from CPF Board:
 
 <ul>
-	<li>Check the SMS is sent by <b>‘CPF Board’</b> to the <b>mobile number registered with CPF Board</b>. If you are unsure of whether you had registered your mobile number, please login to the CPF website with your Singpass and check your <a class="hyperlink" href="https://www.cpf.gov.sg/member/ds/account-settings">account settings</a>.</li>
+	<li>Check the SMS is sent by ‘CPF Board’ to the mobile number registered with CPF Board. If you are unsure of whether you had registered your mobile number, please login to the CPF website with your Singpass and check your <a class="hyperlink" href="https://www.cpf.gov.sg/member/ds/account-settings">account settings</a>.</li>
   <li>Verify the last four characters of the masked NRIC number are the same as your NRIC number.</li>
   <li>If the SMS contains an URL, make sure that the domain of the URL ends with a ".gov.sg" before clicking on it.</li>
 </ul>
