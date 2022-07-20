@@ -572,45 +572,50 @@ The AI for the previous Year of Assessment (YOA) is used to assess one's WIS eli
     <div>
       <ol>
         <li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why does the majority of the Workfare Income Supplement (WIS) payment take the form of CPF top-ups?
-</b></font></summary>
+</b></font></summary> <!-- Q1 -->
 Other than providing a cash supplement to help lower wage workers cope with their daily needs, it is also important to help them build up their CPF savings for their healthcare and retirement needs.<br><br></details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I have reached my Basic Healthcare Sum. What happens to the portion of the Workfare Income Supplement payment going into the MediSave Account?</b></font></summary>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I have reached my Basic Healthcare Sum. What happens to the portion of the Workfare Income Supplement payment going into the MediSave Account?</b></font></summary><!-- Q2 -->
 Any MediSave contributions above the Basic Healthcare Sum (BHS) will be transferred to your CPF Special Account (SA) or Retirement Account (RA), which have interest rates equal or higher than that of the MediSave Account. The BHS cap and overflow arrangement are intentionally planned to avoid over saving in the MediSave Account and to supplement your retirement savings.<br><br>
 These overflows which end up in your SA or RA can be withdrawn according to the usual withdrawal guidelines. For members who have met the Full Retirement Sum in their SA or RA, the savings in excess of the BHS will be transferred to the Ordinary Account (OA). Savings in the OA can be used for other purposes such as housing repayment.<br><br></details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How can I update my bank account for Workfare Income Supplement?</b></font></summary>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How can I update my bank account for Workfare Income Supplement?</b></font></summary><!-- Q3 -->
 You may <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">update</a> your bank account details by logging into the Workfare Portal at <a class="hyperlink" href="https://workfare.gov.sg">workfare.gov.sg</a>.<br><br>
 However, please note that if you have a PayNow NRIC-linked bank account, it will be the default mode of payment. You will still receive your payout via PayNow NRIC, even if you change to another bank account on the Workfare Portal.<br><br>
 	If you have linked your NRIC number to your bank account after the 16<sup>th</sup> of the month, or submitted your bank account details after the 14<sup>th</sup> of the month, your updates will only be effective in the following month.<br><br></details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How will I receive the Workfare Income Supplement payment?</b></font></summary>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How will I receive the Workfare Income Supplement payment?</b></font></summary><!-- Q4 -->
 From March 2022, the cash portion of Workfare Income Supplement (WIS) will be credited to your PayNow NRIC-linked bank account if you have one.<br><br>
 Otherwise, it will be credited to the DBS/POSB, OCBC or UOB bank account that you have registered to receive Government payouts (e.g. either the GST-Voucher (GSTV), Silver Support Scheme (SSS) or WIS, whichever is latest) or credited to GovCash if you had not registered a bank account with us.<br><br>
 Electronic payments make transactions simple, swift, and safe for recipients. We strongly encourage you to consider linking your NRIC number to your bank account or <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">update</a> your bank account to receive your future Workfare payouts earlier*.<br><br>
 	* If you have linked your NRIC number to your  bank account after the 16<sup>th</sup> of the month or submitted your bank account details after the 14<sup>th</sup> of the month, your updates will only be effective in the following month.<br><br>
 You will be notified of your payment details via letters and/or SMS messages nearer to the payment dates. To receive your notifications earlier via SMS, please log in to the <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Workfare Portal</a> with your Singpass and opt-in to SMS at "Notification". <br><br></details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How do I encash a Workfare Estate Cheque?</b></font></summary>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How do I encash a Workfare Estate Cheque?</b></font></summary><!-- Q5 -->
 The estate cheque will form part of the deceased member's estate. Depending on the value of the deceased member's estate, his Next-of-Kin (NOK) may apply to the Public Trustee's Office or the Court to administer his estate. For more information, please visit the Public Trustee’s Office website at <a href="https://pto.mlaw.gov.sg/" class="hyperlink">pto.mlaw.gov.sg</a>, or call them at 1800 225 5529.<br><br></details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>When will I receive Workfare notification?</b></font></summary>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>When will I receive Workfare notification?</b></font></summary><!-- Q6 -->
 You will be notified via letters and/or SMS nearer to the payment dates.<br><br>
 To receive the notification earlier via SMS, please log in to the <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Workfare Portal</a> with your Singpass and opt-in to receive SMS at "Notification". To receive SMS notifications, you must have a Singpass 2FA mobile number. You will only start receiving SMS notifications after you have submitted the above request and updated your mobile number with Singpass.<br><br></details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How can I tell if the SG-Workfare SMS I received is authentic?</b></font></summary>
-With the recent rise in scam and phishing attempts, it is important to verify that the message received is genuine from the official source.<br><br>
-<img src="/images/WISFAQ/SMS%20Example.png" style="width: 30%; height: 30%;">
-*This is only an example of a Workfare SMS. The actual SMS received may be different<br><br>
-Always remember:
-<ul>
-	<li style="font-size:15.5px">The SMS will always be sent by 'SG-Workfare', Your masked NRIC (showing the last 4 numerals and letter, e.g. S****123A) will be in the SMS</li>
-	<li style="font-size:15.5px">We will only inform citizens of their benefits and will never request for you to reply to the SMS</li>
-	<li style="font-size:15.5px">We will never direct you to a non-Government site. If the SMS contains a URL, always check that the domain ends with ".gov.sg". You may also search for the official website using search engines (e.g. Google) to ensure that the link is legitimate</li>
- <li style="font-size:15.5px">Ensure that the SMS meets all of the checks above before proceeding to click on the URL. After you've clicked through to the webpage, be extra vigilant before providing sensitive information such as your Singpass or bank account details. Look out for valid encryption certificates by checking for the lock in the browser's address bar:</li>
-<img src="/images/WISFAQ/Gov%20Link%20Example.png" style="width: 80%; height: 80%">
-	<li style="font-size:15.5px">Workfare notifications will only be sent via letter or SMS. We do not use WhatsApp or other mobile app messaging platforms</li></ul>
-					Be cautious and let’s work together to safeguard your personal information.<br><br></details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why is the government sending SMS notifications instead of hardcopy letters?</b></font></summary>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How can I tell if the Workfare SMS I received is authentic?</b></font></summary><!-- Q7 -->
+With the recent rise in scam and phishing attempts, it is important to verify that the message received is genuinely sent by an official source.<br>
+From 1 August 2022, we will send SMSes from the ID “CPF Board”. The SMS sender ID “SG-Workfare” will no longer be in use.<br><br>
+<img class="advisory1" src="/images/SMS%20Advisory/SMS%20Advisory.png" align="center">
+<p style="text-align:center; font-size:17px">This is only an example of a Workfare SMS. The actual SMS received may be different.</p><br>
+Here are some tips on how you can protect yourself against phishing SMSes purporting to be sent from CPF Board:<br>
+<ul style="list-style-type:disc;">
+	<li style="font-size:16px">Check the SMS is sent by ‘CPF Board’ to the mobile number registered with CPF Board. If you are unsure of whether you had registered your mobile number, please login to the CPF website with your Singpass and check your <a class="hyperlink" href="https://www.cpf.gov.sg/member/ds/account-settings">account settings</a>.</li>
+  <li style="font-size:16px">Verify the last four characters of the masked NRIC number are the same as your NRIC number.</li>
+  <li style="font-size:16px">If the SMS contains an URL, make sure that the domain of the URL ends with a ".gov.sg" before clicking on it.</li>
+</ul>
+We will never ask you to reply to the Workfare SMS nor direct you to a non-Government website. Do report any suspicious SMS spoofing to <a class="hyperlink" href="https://www.cpf.gov.sg/member/contact-us">CPF Board</a>.<br><br>
+Be <b>C</b>autious, <b>P</b>ay attention to scam and don't be the next victim of <b>F</b>raud.
+<br><br></details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why is the government sending SMS notifications instead of hardcopy letters?</b></font></summary><!--Q8-->
 Moving to SMS notifications is part of the Government's efforts to provide timelier and more responsive services to the public. It also allows us to be more environmentally friendly. With SMS notifications, you can quickly and easily receive details of your Workfare payouts, including the mode of payment and payment date, instead of having to wait for hardcopy letters.<br><br>
 If you are on hardcopy notification and would like to switch to SMS notification, please log in to the <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Workfare Portal</a> with your Singpass and opt-in to receive SMS at "Notification".<br><br></details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How can I receive SMS notifications for Workfare Income Supplement scheme?</b></font></summary>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How can I receive SMS notifications for Workfare Income Supplement scheme?</b></font></summary><!--Q9-->
 					Please log in to the <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Workfare Portal</a> (Singpass required) and select "Notification". Your selected notification mode will be used for Workfare Income Supplement and other Government schemes (if any) that you may be eligible for.<br><br>
-To receive SMS notifications, you must have a Singpass 2FA mobile number. You will only start receiving SMS notifications after you have submitted the above request and updated your mobile number with <a href="https://www.singpass.gov.sg/" class="hyperlink">Singpass</a>.<br><br></details></li>
+To receive SMS notifications, register your mobile number with CPF Board via <i style="color:green">my cpf</i> digital services - <a class="hyperlink" href="https://www.cpf.gov.sg/members/ds/account-settings">Account Settings</a> with your Singpass.<br><br></details></li>
+								<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How can I provide or update my mobile number to receive SMS notification on my Workfare payment?</b></font></summary><!-- Q10 -->
+We will only send SMS notifications on Workfare payments to the mobile number that you have registered with CPF Board.<br><br>
+					To receive SMS notifications, you may update your mobile number via <i style="color:green">my cpf</i> digital services - <a class="hyperlink" href="https://www.cpf.gov.sg/members/ds/account-settings">Account Settings</a> with your Singpass.
+<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I have closed my bank account for receiving Workfare Income Supplement payments. How can I receive the payments</b></font></summary>
 If you have a valid PayNow NRIC-linked bank account, you will receive your payment via PayNow. Otherwise, you will receive your payments via GovCash. Payments by GovCash take up to 2 weeks longer compared to PayNow. <br><br>
 Please consider linking your NRIC number to your bank account to receive your payouts earlier.<br><br></details></li>
@@ -761,4 +766,8 @@ li.Numbering::marker {
 	font-weight: bold;
 	color: #009427;
 	}
+	img.advisory1 {
+  height: 35%;
+  width: 35%;
+}	
 </style>
