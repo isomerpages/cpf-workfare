@@ -8,7 +8,7 @@ image: /images/banner_home_1.jpg
 permalink: /
 notification: From Aug 1 2022, CPF Board will be using the new SMS ID "CPF
   Board" to send messages about Workfare. Find out more <a
-  href="workfare.gov.sg/sms-advisory">here</a>.
+  href="/sms-advisory">here</a>.
 sections:
   - hero:
       title: Workfare
