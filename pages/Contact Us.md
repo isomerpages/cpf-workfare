@@ -12,10 +12,9 @@ description: ""
 		<td><img src="/images/ico_contact.png"></td>
 		<td><strong>WIS Hotline</strong><br>1800-227-1188<br><br><strong>Operating Hours:</strong><br>Mon - Fri: 8.30am to 5.30pm<br>Sat, Sun and public holidays: Closed<br>Eves of Christmas, New Year and Chinese<br>New Year: 8.30am to 1.00pm<br><br><strong>WSS Hotline<br>
 (For Training Related Enquiries)</strong><br>
-1800-536-8333
-			
+1800-536-8333<br><br>			
 <b>Operating Hours</b><br>
-Mon - Fri: 8.30am to 5.30pm  
+Mon - Fri: 8.30am to 5.30pm<br>
 Sat: 8.30am to 1.00pm</td>
 	</tr>
 	<tr>
