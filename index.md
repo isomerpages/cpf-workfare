@@ -6,10 +6,9 @@ description: Workfare provides additional support to lower-income Singaporeans
   Scheme and Workfare Skills Support (WSS) Scheme.
 image: /images/banner_home_1.jpg
 permalink: /
-notification: As announced at Budget 2022, WIS will be enhanced from Work Year
-  2023. Click <a class="hyperlink"
-  href="/files/FAQs/Workfare%20Factsheet%20(From%20WY2023).pdf">here</a> to find
-  out more about the upcoming WIS enhancements.
+notification: From 1 Aug 2022, CPF Board is using the new SMS ID “CPF Board” to
+  send messages about Workfare. Find out more <a class="hyperlink"
+  href="https://www.workfare.gov.sg/sms-advisory">here</a>.
 sections:
   - hero:
       title: Workfare
