@@ -691,7 +691,7 @@ GovCash is a quicker and more convenient way for citizens to receive their payou
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How can I utilise my GovCash?</b></font></summary>
 You can withdraw your payouts in cash at OCBC ATMs with your 8-digit Payment Reference Number (PRN), which will be sent to you by SMS or by post. You do not need to have a OCBC bank account to use this service.<br><br>
 You can also transfer your payments to your PayNow NRIC-linked bank account or utilise them to make payments at any merchants or transfer to your friends by scanning their PayNow QR code using the LifeSG mobile app. You can download the LifeSG mobile app from the Apple App Store or Google Play Store.<br><br>
-You may refer to the <a href="/files/FAQs/FAQs%20on%20GovCash.pdf" class="hyperlink">step-by-step guide</a> for detailed instructions on the ways you can utilise your GovCash payments.<br><br></details></li>
+You may refer to the <a href="/files/FAQs/Brochure_GovCash.pdf" class="hyperlink">step-by-step guide</a> for detailed instructions on the ways you can utilise your GovCash payments.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Where can I obtain my Payment Reference Number (PRN)?</b></font></summary>
 Your PRN can be found in your Workfare notification from the Board. Alternatively, visit <a href="https://www.workfare.gov.sg/" class="hyperlink">workfare.gov.sg</a>, login with your Singpass and select "View my GovCash PRN".<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How do I check my GovCash balance?</b></font></summary>
