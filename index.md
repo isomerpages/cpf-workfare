@@ -6,7 +6,7 @@ description: Workfare provides additional support to lower-income Singaporeans
   Scheme and Workfare Skills Support (WSS) Scheme.
 image: /images/banner_home_1.jpg
 permalink: /
-notification: The website will be undergoing maintenance on 4 Septemeber 2022, 12am to 10am.
+notification: The website will be undergoing maintenance on 4 September 2022, 12am to 10am.
 sections:
   - hero:
       title: Workfare
