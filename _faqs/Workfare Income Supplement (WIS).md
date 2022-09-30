@@ -722,7 +722,7 @@ Look out for the NETS or PayNow logo on the SGQR label. You can only make purcha
 To obtain a Singpass, you can either:
 <ol>
 <li style="font-size:15.5px">Visit <a href="http://www.singpass.gov.sg/" class="hyperlink">Singpass</a> website to apply for your Singpass online or</li>
-	<li style="font-size:15.5px">Visit any of the <a href="https://www.singpass.gov.sg/singpass/common/counter" class="hyperlink">Singpass counters located islandwide</a> in-person.</li></ol></details></li>
+	<li style="font-size:15.5px">Visit any of the <a href="https://www.singpass.gov.sg/home/ui/counter-locations" class="hyperlink">Singpass counters located islandwide</a> in-person.</li></ol></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How do I change or reset my Singpass password online?</b></font></summary>
 To change or reset your Singpass password, please complete the following steps:<br>
 <ol>
