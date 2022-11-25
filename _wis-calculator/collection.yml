@@ -2,7 +2,6 @@ collections:
   wis-calculator:
     output: true
     order:
-      - WIS Calculator for SEP/WIS Calculator for Employees 2022 and 2021.md
       - WIS Calculator for SEP/WIS Calculator for Employees 2023.md
       - WIS Calculator for SEP/.keep
       - WIS Calculator for Self Employed 2023.md
