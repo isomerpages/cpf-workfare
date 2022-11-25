@@ -13,7 +13,7 @@ Examples of self-employed persons include hawkers, taxi drivers or sole-propriet
 
 ##### Please read the [Disclaimer](/wis-calculator-terms-of-use).
 
----
+<br>
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
