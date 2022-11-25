@@ -3,18 +3,17 @@ title: WIS Calculator for Self Employed 2023
 permalink: /wis-calculator-for-self-employed-2023/
 description: ""
 ---
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">WIS Calculator 2023</label>
     <div>
-        <iframe src="https://www.checkfirst.gov.sg/c/15ea6fab-98e2-4562-9d38-aa6c73d7beac" style="width:100%;height:500px"></iframe>
+        <iframe src="https://www.checkfirst.gov.sg/c/15ea6fab-98e2-4562-9d38-aa6c73d7beac" style="width:100%;height:1200px"></iframe>
     </div>
    <input type="checkbox" id="accordion2">
     <label for="accordion2">WIS Calculator 2022 and 2021</label>
     <div>
-        <iframe src="https://www.checkfirst.gov.sg/c/15ea6fab-98e2-4562-9d38-aa6c73d7beac" style="width:100%;height:500px"></iframe>
+        <iframe src="https://www.checkfirst.gov.sg/c/15ea6fab-98e2-4562-9d38-aa6c73d7beac" style="width:100%;height:1200px"></iframe>
     </div>
 	</li>
 </ul>
