@@ -1,0 +1,6 @@
+collections:
+  wis-calculator:
+    output: true
+    order:
+      - WIS Calculator for Self Employed 2022 and 2021.md
+      - WIS Calculator for Self Employed 2023.md
