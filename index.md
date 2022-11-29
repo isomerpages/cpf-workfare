@@ -6,12 +6,14 @@ description: Workfare provides additional support to lower-income Singaporeans
   Scheme and Workfare Skills Support (WSS) Scheme.
 image: /images/banner_home_1.jpg
 permalink: /
-notification: ​The website will be undergoing maintenance on 29 November 2022, 3am to 4am.
+notification: Scheduled Maintenance Activities for Dec 2022 <a class="hyperlink"
+  href="https://www.gstvoucher.gov.sg/scheduledmaintenance/">Show more
+  details</a>
 sections:
   - hero:
       title: Workfare
       background: /images/banner_home_1.jpg
-      button: Login to eService
+      button: LOGIN TO E-SERVICES
       url: https://www.govpayouts.gov.sg/wf/workfare/login
       key_highlights:
         - title: Workfare income Supplement (WIS) Scheme
