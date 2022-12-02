@@ -325,31 +325,31 @@ You can refer to the table below on the proportion of the WIS CPF payout credite
     <td style="text-align:center; vertical-align:middle">0.1621</td>
   </tr>
   <tr>
-    <td style="text-align:center; vertical-align:middle">35 - 45</td>
+    <td style="text-align:center; vertical-align:middle">Above 35 - 45</td>
     <td style="text-align:center; vertical-align:middle">0.2856<br></td>
     <td style="text-align:center; vertical-align:middle">0.3711</td>
     <td style="text-align:center; vertical-align:middle">0.3433</td>
   </tr>
   <tr>
-    <td style="text-align:center; vertical-align:middle">45 – 50</td>
+    <td style="text-align:center; vertical-align:middle">Above 45 – 50</td>
     <td style="text-align:center; vertical-align:middle">0.2785</td>
     <td style="text-align:center; vertical-align:middle">0.3816</td>
     <td style="text-align:center; vertical-align:middle">0.3399</td>
   </tr>
   <tr>
-    <td style="text-align:center; vertical-align:middle">50 – 55</td>
+    <td style="text-align:center; vertical-align:middle">Above 50 – 55</td>
     <td style="text-align:center; vertical-align:middle">0.2498</td>
     <td style="text-align:center; vertical-align:middle">0.3751</td>
     <td style="text-align:center; vertical-align:middle">0.3751</td>
   </tr>
   <tr>
-    <td style="text-align:center; vertical-align:middle">55 – 60</td>
+    <td style="text-align:center; vertical-align:middle">Above 55 – 60</td>
     <td style="text-align:center; vertical-align:middle">0.4315</td>
     <td style="text-align:center; vertical-align:middle">0.4545</td>
     <td style="text-align:center; vertical-align:middle">0.1140</td>
   </tr>
   <tr>
-    <td style="text-align:center; vertical-align:middle">60 – 65</td>
+    <td style="text-align:center; vertical-align:middle">Above 60 – 65</td>
     <td style="text-align:center; vertical-align:middle">0.2080</td>
     <td style="text-align:center; vertical-align:middle">0.6384</td>
     <td style="text-align:center; vertical-align:middle">0.1536</td>
