@@ -319,7 +319,7 @@ You can refer to the table below on the proportion of the WIS CPF payout credite
 </thead>
 <tbody>
   <tr>
-    <td style="text-align:center; vertical-align:middle">34 &amp; below</td>
+    <td style="text-align:center; vertical-align:middle">35 &amp; below</td>
     <td style="text-align:center; vertical-align:middle">0.6217</td>
     <td style="text-align:center; vertical-align:middle">0.2162</td>
     <td style="text-align:center; vertical-align:middle">0.1621</td>
