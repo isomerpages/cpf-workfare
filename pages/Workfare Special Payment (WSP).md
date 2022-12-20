@@ -3,6 +3,7 @@ title: Workfare Special Payment (WSP)
 permalink: /faqs/WSPFAQs/
 description: ""
 ---
+
 <details>
 	<summary><font size="+1" color="#009427"><b>Q1. What is the Workfare Special Payment?</b></font></summary>
 The Workfare Special Payment (WSP) was introduced in 2020 to provide additional support for older, lower-wage workers.<br><br>
