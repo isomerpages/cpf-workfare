@@ -55,10 +55,7 @@ If you are currently receiving your notifications via letter and wish to receive
 	<li class="Numbering" style="font-size:17px"><details><summary>
 		<b><font color="#009427">What do I need to do to receive Workfare Income Supplement (WIS)?</font></b></summary>If you are an employee, you do not need to do anything. Your eligibility for Workfare Income Supplement (WIS) will be automatically assessed based on the CPF contributions* made by your employer. <br><br>
 If you are a Self-Employed Person (SEP), you need to declare your net trade income (NTI) and contribute to your MediSave Account to be considered for WIS. Use our <a href="https://www.workfare.gov.sg/wis-calculator/" class="hyperlink">online WIS calculator</a> to find out the amount you need to contribute to your MediSave Account.<br><br>
-You can declare your income and contribute to your MediSave Account in various ways.<br><br>
-To receive your WIS payouts by 30 April (via your PayNow NRIC-linked bank account or bank crediting), please declare your NTI and contribute to your MediSave Account by the last Friday of March.<br><br>
-*Under the CPF Act, employers must contribute to CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis. If your employer is not contributing CPF on your behalf, you can lodge a report on non/underpayment of CPF contributions online. Please log in to <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Services/MyRequest/MyRequestLanding">my cpf</a> with your Singpass, then select My Request &gt; Other CPF Matters &gt; Report on non-payment or underpayment of CPF contributions.<br><br>
-Alternatively, you can also lodge a report by calling the WorkRight Hotline at 1800-221-9922 or emailing to <a href="mailto:workright@mom.gov.sg" class="hyperlink">workright@mom.gov.sg</a>. Your identity will be kept confidential.<br><br></details></li>
+*Under the CPF Act, employers must contribute CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis. If your employer is not contributing CPF on your behalf, please approach your employer to clarify on the discrepancies. If your employer does not provide you with a satisfactory response, you can <a class="hyperlink" href="https://www.cpf.gov.sg/member/faq/growing-your-savings/saving-as-an-employee/how-can-i-lodge-a-report-for-non-payment-or-underpayment-of-cpf">lodge a report</a> with CPF Board. <br><br></details></li>
 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">When will I receive my Workfare Income Supplement payouts?</font></b></summary>
 You will receive Workfare Income Supplement (WIS) payouts for every month that you work. The payment will be made two months after the work period. For example, the WIS payout for work done in January will be paid out in end March.<br><br>
 <table>
@@ -280,9 +277,13 @@ If you are a Self-Employed Person, you will receive 90% of your WIS in your Medi
 	Electronic payments make transactions simple, swift, and safe for recipients. We strongly encourage you to consider linking your NRIC number to your PayNow bank account, or <a class="hyperlink" href="https://www.govpayouts.gov.sg/wf/workfare/login">update</a> your bank account with us*.
 	<br><br>
 	*If you have linked your NRIC number to your PayNow bank account after the 16<sup>th</sup> of the month, or submitted your bank account details after the 14<sup>th</sup> of the month, your updates will only be effective in the following month.<br><br></details></li>
-<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">How can I declare my income as a Self-Employed Person?</font></b></summary>If you did not receive Form B from Inland Revenue Authority of Singapore (IRAS), you can declare your Self-Employed Net Trade Income (NTI) online by logging in <a class="hyperlink" href="https://www.cpf.gov.sg/member/ds/"><em>my cpf</em></a> with your Singpass to complete and submit the Self-Employed Person Income Declaration Form. You may also do so at any SingPost branch.<br><br>
-If you have received Form B from the IRAS, please complete and submit the income declaration form to IRAS directly.<br><br>
-To receive your WIS payout by 30 April (via bank crediting), please declare your NTI and contribute to your MediSave Account by the last Friday of March.<br><br></details></li>
+<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">How can I declare my income as a Self-Employed Person?</font></b></summary>Declare your net trade income to:<br>
+<ul style="list-style-type:circle;">
+<li style="font-size:15.5px">
+the Inland Revenue Authority of Singapore (IRAS) if you have been issued an income tax return package; or </li>
+<li style="font-size:15.5px">
+the CPF Board if you have not been issued an income tax return package, by logging in to the CPF website with your Singpass to complete and submit the <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/IncomeDeclarationBySelfEmployedPersonForMedisaveLiability/LandingPage">Self-Employed Person Income Declaration Form</a> by 18 April. After 18 April, please <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index?utm_source=shortURL">write to us</a> for us to process your income declaration. </li>
+<br><br></details></li>
       </ol>
     </div>
 	</li>  
@@ -415,32 +416,6 @@ Log in to <a href="https://www.cpf.gov.sg/member/ds/" class="hyperlink">my cpf</
 <ul>
 <li style="font-size:15.5px">Check that your MediSave contribution is reflected in <b>My Statement</b>, or</li>
 	<li style="font-size:15.5px">Check the transaction status under <b>My Activities</b> (if you paid via e-Cashier)</li></ul><br><br></details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Can I qualify for the Workfare Income Supplement Scheme if I did not receive the Income Tax declaration form from the Inland Revenue Authority of Singapore (IRAS)?</b></font></summary>
-For CPF Board to assess your WIS eligibility as a Self-Employed Person (SEP), if you did not receive Form B from the Inland Revenue Authority of Singapore (IRAS), you will need to declare your net trade income (NTI) to the CPF Board and contribute to your MediSave Account.<br><br>
-Please log in to <a href="https://www.cpf.gov.sg/member/ds/" class="hyperlink">my cpf</a> (Singpass required) to complete and submit the <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/IncomeDeclarationBySelfEmployedPersonForMedisaveLiability/LandingPage" class="hyperlink">Self-Employed Person Income Declaration Form</a>. You may also do so at any SingPost branch.<br><br>
-You can contribute to your MediSave Account via:
-<table>
-<thead>
-  <tr>
-    <th>Payment Mode</th>
-    <th>Details </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>GIRO</td>
-		<td><u>Online using my cpf Online Services</u><br>1. Log in with your Singpass.<br>2. Submit the <a href="https://www.cpf.gov.sg/eSvc/Web/Services/GiroApplication/LandingPage?scheme=SE" class="hyperlink">"Apply/Change GIRO for Mandatory MediSave Contributions and Voluntary Contributions by Self-Employed Person"</a> application.<br>3. Check your GIRO application status via My Activities.<br><br><u>Mail</u><br>1. Download and complete the<br><a href="https://www.cpf.gov.sg/content/dam/web/member/tools/documents/Apply%20for%20GIRO%20for%20Mandatory%20MediSave%20Contributions%20or%20Voluntary%20Contributions.pdf" class="hyperlink">"Apply for GIRO for Mandatory Contributions or Voluntary Contributions"</a> form (FORM GIRO SE/VC (PDF, 0.6MB)).<br>2. Mail it to the address printed overleaf of the GIRO application form.<br>3. We will notify you of your GIRO application status once the bank has processed it.</td>
-  </tr>
-  <tr>
-    <td>e-Cashier</td>
-    <td>	• PayNow QR<br>	• eNETS Debit - payment by DBS/POSB, OCBC, Standard Chartered Bank or United Overseas Bank internet banking</td>
-  </tr>
-  <tr>
-    <td>NETS/CashCard</td>
-    <td>• Pay by NETS or CashCard at any SingPost branches</td>
-  </tr>
-</tbody>
-					</table><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I am a homemaker/caregiver/babysitter. Can I qualify for the Workfare Income Supplement scheme?</b></font></summary>
 The objective of the Workfare Income Supplement (WIS) scheme is to supplement the retirement savings and incomes of older and lower-wage Singaporeans, and to encourage them to work regularly.<br><br>
 A person may be eligible for WIS if he is engaged in work that draws an income.<br><br>
@@ -458,12 +433,11 @@ You will receive your WIS payment within two months after you have declared your
 <li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>What do I need to do to receive Workfare Income Supplement if I am a Self-Employed Person?</b></font></summary>
 You will be eligible for Workfare Income Supplement (WIS) if you meet all the eligibility criteria and:<br>
 <ol style="list-style-type: lower-alpha;">
-<li style="font-size:15.5px">you declare your income to:
+<li style="font-size:15.5px">declare your income to:
 <ul>
-	<li style="font-size:15.5px">IRAS if you have been issued an income tax return package; or</li>
-<li style="font-size:15.5px">CPFB by logging in my cpf with your Singpass to complete and submit FORM IRAS 144. You may also do so at any SingPost branch; and</li></ul></li>
-<li style="font-size:15.5px">you make the required MediSave contributions.</li></ol>You can use our online <a href="https://www.workfare.gov.sg/wis-calculator/" class="hyperlink">WIS calculator</a> to find out the amount to contribute.<br><br>
-Please note that you will need to declare your income and make your MediSave contribution by last Friday of March to receive WIS by 30 April (via your PayNow NRIC-linked bank account or bank crediting).<br><br></details></li>
+	<li style="font-size:15.5px">the Inland Revenue Authority of Singapore (IRAS) if you have been issued an income tax return package; or the CPF Board if you have not been issued an income tax return package, by logging in to the CPF website with your Singpass to complete and submit the <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/IncomeDeclarationBySelfEmployedPersonForMedisaveLiability/LandingPage">Self-Employed Person Income Declaration Form</a> by 18 April. After 18 April, please <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index?utm_source=shortURL">write to us</a> for us to process your income declaration.  </ul></li>
+<li style="font-size:15.5px">make the required MediSave contributions. You can use our online <a href="https://www.workfare.gov.sg/wis-calculator/" class="hyperlink">WIS calculator</a> to find out the amount to contribute.</li></ol><br><br>
+</details></li>
 				</ol>
     </div>
   </li>
