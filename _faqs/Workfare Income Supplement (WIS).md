@@ -287,14 +287,6 @@ the CPF Board if you have not been issued an income tax return package, by loggi
       </ol>
     </div>
 	</li>
-  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Employment Status - Employees</label>
-    <div>
-       <ol>
-      </ol>
-    </div>
-  </li>
 </ul>
 
 <style>
