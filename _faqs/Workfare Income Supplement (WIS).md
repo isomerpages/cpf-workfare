@@ -282,7 +282,7 @@ If you are a Self-Employed Person, you will receive 90% of your WIS in your Medi
 <li style="font-size:15.5px">
 the Inland Revenue Authority of Singapore (IRAS) if you have been issued an income tax return package; or </li>
 <li style="font-size:15.5px">
-the CPF Board if you have not been issued an income tax return package, by logging in to the CPF website with your Singpass to complete and submit the <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/IncomeDeclarationBySelfEmployedPersonForMedisaveLiability/LandingPage">Self-Employed Person Income Declaration Form</a> by 18 April. After 18 April, please <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index?utm_source=shortURL">write to us</a> for us to process your income declaration.</li></details></li>
+the CPF Board if you have not been issued an income tax return package, by logging in to the CPF website with your Singpass to complete and submit the <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/IncomeDeclarationBySelfEmployedPersonForMedisaveLiability/LandingPage">Self-Employed Person Income Declaration Form</a> by 18 April. After 18 April, please <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index?utm_source=shortURL">write to us</a> for us to process your income declaration.</li></ul></details></li>
       </ol>
     </div>
 	</li>
