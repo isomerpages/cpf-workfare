@@ -287,83 +287,11 @@ the CPF Board if you have not been issued an income tax return package, by loggi
       </ol>
     </div>
 	</li>
-	  <li>
+  <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Employment Status - Employees</label>
     <div>
        <ol>
-        <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">My employer does not pay my CPF. What can I do to qualify for Workfare Income Supplement (WIS)?</font></b></summary>Under the CPF Act, employers must contribute CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis.<br><br>
-If your employer is not contributing CPF on your behalf, please approach your employer to clarify on the discrepancies. If your employer does not provide you with a satisfactory response, you can <a class="hyperlink" href="https://www.cpf.gov.sg/member/faq/growing-your-savings/saving-as-an-employee/how-can-i-lodge-a-report-for-non-payment-or-underpayment-of-cpf">lodge a report</a> with CPF Board.<br><br></details></li>
-<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">I am earning close to $2,300, why are my Workfare Income Supplement payouts so low?</font></b></summary>The Workfare Income Supplement (WIS) scheme is targeted at older, lower wage Singaporean workers whose earnings are in the bottom 20% of the working population, with support also available for those earning slightly more.<br><br>
-To best support lower wage workers, the WIS benefits are gradually reduced as the income levels of the workers increase nearer to the qualifying amount of $2,300. The gradual reduction ensures that the lower-wage workers do not see a sharp reduction in their WIS benefits when they upgrade their skills and begin to earn more. Taken together, the total amount of the income and the WIS payouts would still increase overall as one's income increases.<br><br>
-From Work Year 2023, the qualifying income cap will be raised to $2500. Click <a href="/files/FAQs/Workfare%20Factsheet%20(From%20WY2023).pdf" class="hyperlink">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br></details></li>
-<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">I am earning $50 or less per month. What do I need to do to receive the Workfare Income Supplement (WIS)?</font></b></summary>You will be eligible for Workfare Income Supplement (WIS) if you meet all the other eligibility criteria and make voluntary CPF contributions for the monthly wages (where CPF contribution is exempted).<br><br>
-The voluntary CPF contribution amount varies, depending on one's age and the prevailing CPF contribution rates. Please <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index">write to us</a> with your particulars and supporting documents (i.e. payslips/employer's letter) so we can advise you on the amount to contribute:<br><br>
-On the online enquiry page,<br>
-<ol>
-<li style="font-size:15.5px">Select "Workfare Income Supplement (WIS)" under Subject</li>
-	<li style="font-size:15.5px">Select "General Enquiry-WIS" under Category</li></ol>
-You can also write to us via <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Services/MyMailbox/MyMailboxLanding">My Mailbox</a> (Singpass required) and skip the hassle of keying in your personal particulars.<br><br>
-We will review your WIS eligibility after we have received your request and supporting documents.<br><br></details></li>
-<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">I am a contract / part-time employee. Will I be eligible for Workfare Income Supplement?</font></b></summary>Contract / part-time employees are eligible for the Workfare Income Supplement (WIS) if they meet the WIS eligibility criteria.<br><br></details></li>
-<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">I am on no-pay/study/medical/maternity leave. Will I be considered as employed to qualify for Workfare Income Supplement?</font></b></summary>For the purposes of Workfare Income Supplement (WIS), staff on study/medical/maternity leave will be considered as employees if you are still receiving a salary and CPF contributions from your employers.<br><br></details></li>
-				 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">Of the Workfare Income Supplement payment to my CPF, what is the proportion credited into the various CPF accounts?</font></b></summary>Workfare Income Supplement (WIS) is paid partially in cash to help you with your immediate expenditure, and partially into your CPF accounts to boost your retirement adequacy. Up to age 55, a higher proportion is credited into your Special and MediSave Accounts to boost your retirement and healthcare savings respectively. After age 55, similar to employees, the majority of the contributions will go towards MediSave, with smaller proportions going towards the other two accounts.<br><br>
-You can refer to the table below on the proportion of the WIS CPF payout credited into the three accounts, according to the age bands.<br>
-<table>
-<thead>
-  <tr>
-    <th style="text-align:center; vertical-align:middle">Age<br>(Years)</th>
-    <th style="text-align:center; vertical-align:middle">Ordinary Account</th>
-    <th style="text-align:center; vertical-align:middle">MediSave Account</th>
-    <th style="text-align:center; vertical-align:middle">Special Account</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="text-align:center; vertical-align:middle">35 & below</td>
-    <td style="text-align:center; vertical-align:middle">0.6217</td>
-    <td style="text-align:center; vertical-align:middle">0.2162</td>
-    <td style="text-align:center; vertical-align:middle">0.1621</td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle">Above 35 - 45</td>
-    <td style="text-align:center; vertical-align:middle">0.2856<br></td>
-    <td style="text-align:center; vertical-align:middle">0.3711</td>
-    <td style="text-align:center; vertical-align:middle">0.3433</td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle">Above 45 – 50</td>
-    <td style="text-align:center; vertical-align:middle">0.2785</td>
-    <td style="text-align:center; vertical-align:middle">0.3816</td>
-    <td style="text-align:center; vertical-align:middle">0.3399</td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle">Above 50 – 55</td>
-    <td style="text-align:center; vertical-align:middle">0.2498</td>
-    <td style="text-align:center; vertical-align:middle">0.3751</td>
-    <td style="text-align:center; vertical-align:middle">0.3751</td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle">Above 55 – 60</td>
-    <td style="text-align:center; vertical-align:middle">0.4315</td>
-    <td style="text-align:center; vertical-align:middle">0.4545</td>
-    <td style="text-align:center; vertical-align:middle">0.1140</td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle">Above 60 – 65</td>
-    <td style="text-align:center; vertical-align:middle">0.2080</td>
-    <td style="text-align:center; vertical-align:middle">0.6384</td>
-    <td style="text-align:center; vertical-align:middle">0.1536</td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle">Above 65</td>
-    <td style="text-align:center; vertical-align:middle">0.0784</td>
-    <td style="text-align:center; vertical-align:middle">0.8408</td>
-    <td style="text-align:center; vertical-align:middle">0.0808</td>
-  </tr>
-</tbody>
-</table><br></details></li>
-				 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">How is my income calculated for the Workfare Income Supplement (WIS)?</font></b></summary>We will calculate your income based on the CPF contributions made by your employer(s) for work done in that month.<br><br></details></li>
       </ol>
     </div>
   </li>
