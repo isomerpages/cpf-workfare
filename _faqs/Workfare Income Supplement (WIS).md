@@ -706,7 +706,23 @@ To change or reset your Singpass password, please complete the following steps:<
 If you require further assistance, please contact the Singpass Helpdesk at <a href="mailto:support@singpass.gov.sg" class="hyperlink">support@singpass.gov.sg</a> or +65 6335 3533. The operating hours are from 8am to 8pm (Mondays to Fridays) and from 8am to 2pm (Saturdays) excluding Sundays and public holidays.<br><br></details></li>
 			</ol>
     </div>
-  </l
+	</li>
+	<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Employment Status - Dual Status Worker</label>
+    <div>
+       <ol>
+        <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">I worked as both an employee as well as a Self-Employed Person in the work year. When will I receive my Workfare Income Supplement for the work year?</font></b></summary>
+					You will receive monthly Workfare Income Supplement (WIS) payments based on your employee income if you meet the WIS eligibility criteria for the work year (WY).
+
+If you are also an eligible dual status worker (DSW) who has worked concurrently as a SEP and employee in the year, you may receive additional WIS if your combined employment and net trade income results in a higher WIS payout. You will receive your WIS top-up after you have declared your income (to IRAS or CPFB) and have made the required MediSave contributions.
+
+You will receive the WIS top-up once a year for work done as a Self-Employed Person in the preceding year. The earliest payment for SEPs/DSWs for a particular WY will be on 30 April WY+1. If you have declared your income and made your MediSave contribution by the last Friday of March WY+1, you would receive your WIS payout in end April WY+1*.
+
+* Payment via PayNow NRIC-linked bank account or bank crediting will be credited by end of the month while payment via GovCash will be on the 3rd of the following month.</details>
+			</ol>
+    </div>
+	</li>
 </ul>
 
 <style>
