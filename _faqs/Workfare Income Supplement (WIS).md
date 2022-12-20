@@ -434,9 +434,9 @@ You will be eligible for Workfare Income Supplement (WIS) if you meet all the el
 <ol style="list-style-type: lower-alpha;">
 <li style="font-size:15.5px">declare your income to:
 <ul>
-	<li style="font-size:15.5px">the Inland Revenue Authority of Singapore (IRAS) if you have been issued an income tax return package; or the CPF Board if you have not been issued an income tax return package, by logging in to the CPF website with your Singpass to complete and submit the <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/IncomeDeclarationBySelfEmployedPersonForMedisaveLiability/LandingPage">Self-Employed Person Income Declaration Form</a> by 18 April. After 18 April, please <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index?utm_source=shortURL">write to us</a> for us to process your income declaration.  </ul></li>
-<li style="font-size:15.5px">make the required MediSave contributions. You can use our online <a href="https://www.workfare.gov.sg/wis-calculator/" class="hyperlink">WIS calculator</a> to find out the amount to contribute.</li></ol><br><br>
-</details></li>
+	<li style="font-size:15.5px">the Inland Revenue Authority of Singapore (IRAS) if you have been issued an income tax return package; or the CPF Board if you have not been issued an income tax return package, by logging in to the CPF website with your Singpass to complete and submit the <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/IncomeDeclarationBySelfEmployedPersonForMedisaveLiability/LandingPage">Self-Employed Person Income Declaration Form</a> by 18 April. After 18 April, please <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index?utm_source=shortURL">write to us</a> for us to process your income declaration.  </li></ul>
+<li style="font-size:15.5px">make the required MediSave contributions. You can use our online <a href="https://www.workfare.gov.sg/wis-calculator/" class="hyperlink">WIS calculator</a> to find out the amount to contribute.</li></ol><br><br></details>
+				</li>
 				</ol>
     </div>
   </li>
@@ -704,22 +704,6 @@ To change or reset your Singpass password, please complete the following steps:<
 <li style="font-size:15.5px">Select 'Reset password' (under the 'Services' tab)</li>
 <li style="font-size:15.5px"> Follow the instructions on the website to complete the changing or resetting of Singpass password</li></ol>
 If you require further assistance, please contact the Singpass Helpdesk at <a href="mailto:support@singpass.gov.sg" class="hyperlink">support@singpass.gov.sg</a> or +65 6335 3533. The operating hours are from 8am to 8pm (Mondays to Fridays) and from 8am to 2pm (Saturdays) excluding Sundays and public holidays.<br><br></details></li>
-			</ol>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Employment Status - Dual Status Worker</label>
-    <div>
-       <ol>
-        <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">I worked as both an employee as well as a Self-Employed Person in the work year. When will I receive my Workfare Income Supplement for the work year?</font></b></summary>
-					You will receive monthly Workfare Income Supplement (WIS) payments based on your employee income if you meet the WIS eligibility criteria for the work year (WY).
-
-If you are also an eligible dual status worker (DSW) who has worked concurrently as a SEP and employee in the year, you may receive additional WIS if your combined employment and net trade income results in a higher WIS payout. You will receive your WIS top-up after you have declared your income (to IRAS or CPFB) and have made the required MediSave contributions.
-
-You will receive the WIS top-up once a year for work done as a Self-Employed Person in the preceding year. The earliest payment for SEPs/DSWs for a particular WY will be on 30 April WY+1. If you have declared your income and made your MediSave contribution by the last Friday of March WY+1, you would receive your WIS payout in end April WY+1*.
-
-* Payment via PayNow NRIC-linked bank account or bank crediting will be credited by end of the month while payment via GovCash will be on the 3rd of the following month.</details>
 			</ol>
     </div>
 	</li>
