@@ -49,6 +49,6 @@ third_nav_title: Self Employed
 </table>
 
 ### You will receive
-10% of your WIS payment in cash, and 90% in CPF contributions. We will credit the cash portion to your PayNow NRIC-linked bank account if you have one. Otherwise, it will be credited to the bank account that you have registered to receive Government benefits, or via GovCash if you had not registered a bank account with us. Click [here](https://www.govpayouts.gov.sg/wf/workfare/login) to update your bank account.
+10% of your WIS in cash, and 90% in your MediSave account. We will credit the cash portion into your PayNow NRIC-linked bank account if you have one. Otherwise, it will be credited to the bank account that you have registered to receive Government benefits, or via GovCash if you had not registered a bank account with us. Click [here](https://www.govpayouts.gov.sg/wf/workfare/login) to update your bank account.
 
 Use the online [WIS calculator](/wis-calculator-for-self-employed/) to see how much WIS you can receive.
