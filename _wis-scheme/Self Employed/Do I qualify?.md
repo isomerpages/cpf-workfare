@@ -8,9 +8,9 @@ third_nav_title: Self Employed
 
 ### You will qualify for WIS if you:
 * are a Singapore Citizen;
-* at least 30 years old (previously 35 years old) as of 31 December of the work year (including all persons with disabilities);
+* are at least 30 years old (previously 35 years old) as of 31 December of the work year (including all persons with disabilities);
 * earn an average monthly income of at least $500<sup>1</sup>, but not more than $2,500 (previously $2,300) for the month worked; and
-* have declared your net trade income and made Medisave contributions.
+* have declared your net trade income and made [MediSave Contribution](https://www.workfare.gov.sg/wis-scheme/Self-Employed/what-must-i-do/).
 
 <sub><sup>1</sup>Persons with disabilities and workers who qualify for ComCare Short-to-Medium-Term Assistance will qualify for concessionary WIS, even if they earn less than $500.</sub>
 
