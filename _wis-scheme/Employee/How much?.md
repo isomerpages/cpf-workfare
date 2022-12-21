@@ -50,6 +50,6 @@ third_nav_title: Employee
 </table>
 
 ### You will receive
-40% of your WIS payment in cash, and 60% in CPF contributions. We will credit the cash portion to your PayNow NRIC-linked bank account if you have one. Otherwise, it will be credited to the bank account that you have registered to receive Government benefits, or via GovCash if you had not registered a bank account with us. Click [here](https://www.govpayouts.gov.sg/wf/workfare/login) to update your bank account.
+40% of your WIS in cash, and 60% in CPF contributions. We will credit the cash portion to your PayNow NRIC-linked bank account if you have one. Otherwise, it will be credited to the bank account that you have registered to receive Government benefits, or via GovCash if you had not registered a bank account with us. Click [here](https://www.govpayouts.gov.sg/wf/workfare/login) to update your bank account.
 
 Use the online [WIS calculator](/wis-calculator-for-employees/) to see how much WIS you can receive.
