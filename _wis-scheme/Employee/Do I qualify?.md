@@ -4,7 +4,7 @@ permalink: /wis-scheme/Employee/do-i-qualify/
 description: ""
 third_nav_title: Employee
 ---
-![monthly income](/images/WIS%20Scheme/WIS2.png)
+<img class="Icon" src="/images/WIS%20Scheme/WIS2023.png" align="centre">
 
 ### You will qualify for WIS if you:
 * are a Singapore Citizen;
@@ -27,3 +27,10 @@ third_nav_title: Employee
    * the assessable income of your spouse for the preceding Year of Assessment exceeds $70,000.
 
 <sub><sup>4</sup>Annual value is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties.</sub>
+
+<style>
+	img.Icon {
+  height: 47.5%;
+  width: 47.5%;
+}
+	</style>
