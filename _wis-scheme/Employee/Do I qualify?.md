@@ -8,7 +8,7 @@ third_nav_title: Employee
 
 ### You will qualify for WIS if you:
 * are a Singapore Citizen;
-* at least 30 years old (previously 35 years old) or above on 31 December of the work year (including all persons with disabilities); and
+* are at least 30 years old (previously 35 years old) as of 31 December of the work year (including all persons with disabilities); and
 * earn a gross monthly income<sup>1</sup> of at least $500<sup>2</sup>, but not more than $2,500 (previously $2,300) for the month worked<sup>3</sup>.
 
 <sub><sup>1</sup>Gross monthly income includes basic salary and extra wages such as overtime pay and bonuses.<br>
