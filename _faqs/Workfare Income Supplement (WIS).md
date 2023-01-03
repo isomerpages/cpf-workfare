@@ -26,7 +26,7 @@ You will be eligible for the Workfare Income Supplement (WIS) scheme if you:
 <ul style="list-style-type:disc;">
 	<li style="padding-bottom: 2px; font-size:15.5px">are a Singapore Citizen;</li>
 	<li style="padding-bottom: 2px; font-size:15.5px">are at least 30 years old or older on 31 December of the Work Year (WY) (including all persons with disabilities);</li>
-	<li style="font-size:15.5px">earn a gross monthly income<sup>1</sup> of at least $500<sup>2</sup>, but not more than $2,500 (previously $2,300) for the month worked and in the past 12 months<sup>3</sup> (average monthly in as an employee; or have an average monthly income of at least $500, but not more than $2,500 (previously $2,300) as a Self-Employed Person (SEP);</li>
+		<li style="font-size:15.5px">earn a gross monthly income<sup>1</sup> of at least $500<sup>2</sup>, but not more than $2,500 (previously $2,300) for the month worked and in the past 12 months<sup>3</sup> (average monthly income as an employee; or have an average monthly income of at least $500<sup>2</sup>, but not more than $2,500 (previously $2,300) as a Self-Employed Person (SEP);</li>e than $2,500 (previously $2,300) as a Self-Employed Person (SEP);</li>
 	</ul>
 If you are an SEP, you are also required to declare your Net Trade Income (NTI) and make your MediSave contributions to be eligible for WIS.<br><br>
 	However, you will <u>not</u> be eligible for WIS if you:
@@ -446,7 +446,7 @@ Additional Wages are wages which are not granted wholly and exclusively for that
 Total Wages are the total amount of an employee's wages for any calendar month, which is the sum of his Ordinary Wages for the month and the Additional Wages paid to him in that month.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why are overtime pay and bonuses included in Workfare Income Supplement assessment?</b></font></summary>
 Basic salary, overtime pay, and bonuses are part of a worker’s total income that will help support the worker and his or her family. Given that the Workfare Income Supplement (WIS) is intended to supplement the income of lower wage workers, it is most useful to assess the total income in determining one’s eligibility for WIS.<br><br></details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why am I not eligible for Workfare Income Supplement or Workfare Special Payment despite my gross monthly income being less than $2,500 as an employee?</b></font></summary>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why am I not eligible for Workfare Income Supplement despite my gross monthly income being less than $2,500 as an employee?</b></font></summary>
 Gross monthly income includes salary (before deduction of CPF contribution), bonuses, allowances and overtime pay received during the work period.<br><br>
 Other than gross monthly income, you must also earn an average gross monthly income of not more than $2,500* in the past 12 months.<br><br>
 The average gross monthly income is defined as:<br><br>
