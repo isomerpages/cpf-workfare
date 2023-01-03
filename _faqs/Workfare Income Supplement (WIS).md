@@ -177,26 +177,7 @@ You can send in your appeal for Workfare Income Supplement (WIS)/ Workfare Speci
 	<li style="font-size:15.5px">Select "Workfare Income Supplement (WIS)" under Subject</li>
 	<li style="font-size:15.5px">Select "Appeal-WIS" under Category </li></ol>
 You can also write to us via <a href="https://www.cpf.gov.sg/eSvc/Web/Services/MyMailbox/MyMailboxLanding" class="hyperlink">My Mailbox</a> (Singpass required) and skip the hassle of keying in your personal particulars. <br><br></details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">Am I eligible for the Workfare Income Supplement scheme for work done in 2022?</font></b></summary>
-For work done in 2022, you will be eligible for the Workfare Income Supplement (WIS) scheme if you:<br>
-<ul style="list-style-type:disc;">
-	<li style="font-size:15.5px">are a Singapore Citizen;</li>
-	<li style="font-size:15.5px">are 35<sup>1</sup> years old or older on 31 December 2022;</li>
-	<li style="font-size:15.5px">earn not more than $2,300<sup>2</sup> for the month worked and in the past 12 months<sup>3</sup> (average monthly income) as an employee; or have an average monthly income of not more than $2,300 as a Self-Employed Person (SEP);</li></ul>
-If you are an SEP, you are also required to declare your Net Trade Income (NTI) and make your MediSave contributions to be eligible for WIS.<br><br>
-	However, you will <u>not</u> be eligible for WIS if you:<br><br>
-<ul style="list-style-type:disc;">
-<li style="font-size:15.5px">live in a property with an annual value<sup>4</sup> of more than $13,000 assessed as at 31 December of the previous year;</li>
-<li style="font-size:15.5px">own two or more properties; or</li>
-<li style="font-size:15.5px">if you are married,</li>
-<ul style="list-style-type:circle;">
-<li style="font-size:15.5px">you and your spouse together own two or more properties; or</li>
-<li style="font-size:15.5px">the annual assessable income of your spouse exceeds $70,000 for the previous Year of Assessment.</li></ul></ul>
-As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a class="hyperlink" href="/files/FAQs/Workfare%20Factsheet%20(From%20WY2023).pdf">here</a> to find out more about the upcoming WIS enhancements.<br><br>
-<sup>1</sup> Persons with disabilities younger than 35 who meet the WIS eligibility criteria will receive an annual WIS payout of up to $1,700<br>
-<sup>2</sup> Includes basic salary and extra wages such as overtime pay, commissions and bonuses<br>
-<sup>3</sup> Defined as income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br>
-<sup>4</sup> Annual value is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties<br><br></details></li>
+				</details></li>
 				 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">When can I receive the Workfare Income Supplement (WIS) Scheme payment after making the required MediSave contributions?</font></b></summary>
 We will assess your eligibility for Workfare Income Supplement (WIS) in the month after you have made your MediSave contributions in full. You will receive an SMS notification and/or letter at the end of the assessment month on the WIS payment details if you are eligible.<br><br></details></li>
 				 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">How do I stop receiving hardcopy notifications for the Workfare Income Supplement scheme?</font></b></summary>
