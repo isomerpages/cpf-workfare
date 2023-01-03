@@ -26,7 +26,7 @@ You will be eligible for the Workfare Income Supplement (WIS) scheme if you:
 <ul style="list-style-type:disc;">
 	<li style="padding-bottom: 2px; font-size:15.5px">are a Singapore Citizen;</li>
 	<li style="padding-bottom: 2px; font-size:15.5px">are at least 30 years old or older on 31 December of the Work Year (WY) (including all persons with disabilities);</li>
-		<li style="font-size:15.5px">earn a gross monthly income<sup>1</sup> of at least $500<sup>2</sup>, but not more than $2,500 (previously $2,300) for the month worked and in the past 12 months<sup>3</sup> (average monthly income as an employee; or have an average monthly income of at least $500<sup>2</sup>, but not more than $2,500 (previously $2,300) as a Self-Employed Person (SEP);</li>e than $2,500 (previously $2,300) as a Self-Employed Person (SEP);</li>
+		<li style="font-size:15.5px">earn a gross monthly income<sup>1</sup> of at least $500<sup>2</sup>, but not more than $2,500 (previously $2,300) for the month worked and in the past 12 months<sup>3</sup> (average monthly income) as an employee; or have an average monthly income of at least $500<sup>2</sup>, but not more than $2,500 (previously $2,300) as a Self-Employed Person (SEP);</li>
 	</ul>
 If you are an SEP, you are also required to declare your Net Trade Income (NTI) and make your MediSave contributions to be eligible for WIS.<br><br>
 	However, you will <u>not</u> be eligible for WIS if you:
@@ -87,8 +87,8 @@ You will receive Workfare Income Supplement (WIS) payments for every month that 
   </tr>
 </tbody>
 </table>	
-If you are an eligible Self-Employed Person (SEP), you will receive WIS payment once a year for work done in the preceding work year. The earliest payment for SEPs for a particular Work Year (WY) will be in end April of the following work year, provided you have declared your income (to IRAS or CPFB) and contributed to your MediSave by the last Friday of March of the following work year.<br><br>
-* Payment via PayNow NRIC-linked bank account or bank crediting will be credited by end of the month while payment via GovCash will be on the 3<sup>rd</sup> of the following month.<br><br></details></li>
+If you are an eligible Self-Employed Person (SEP), you will receive WIS payment once a year for work done in the preceding work year.<br><br>
+* Payment via PayNow NRIC-linked bank account or bank crediting will be credited by end of the month while payment via GovCash will be on the 3rd of the following month.<br></details></li>
 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">Whom can I contact for queries about the Workfare Income Supplement scheme?</font></b></summary>
 You can contact CPF Board via the following channels for your Workfare Income Supplement scheme enquiries:
 <ol>
@@ -171,8 +171,8 @@ As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a 
 The Workfare Income Supplement (WIS) scheme supplements the income and CPF savings of lower-income Singaporeans, and encourages them to enter and remain in the labour market.<br><br>
 You would not receive WIS if you are not working.<br><br>
 If you require assistance in looking for a job, or are seeking information on training and skills upgrading, please approach any of the Distributed CareerLink Networks run by the Community Development Councils (CDCs). Alternatively, you can call Workforce Singapore (WSG) hotline at 6883 5885.<br><br></details></li>
-				 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">How do I appeal for Workfare Income Supplement (WIS) Scheme / Workfare Special Payment (WSP)?</font></b></summary>
-You can send in your appeal for Workfare Income Supplement (WIS)/ Workfare Special Payment (WSP) via the online enquiry page: <br>
+				 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">How do I appeal for Workfare Income Supplement (WIS) Scheme?</font></b></summary>
+You can send in your appeal for Workfare Income Supplement (WIS) via the online enquiry page: <br>
 <ol>
 	<li style="font-size:15.5px">Select "Workfare Income Supplement (WIS)" under Subject</li>
 	<li style="font-size:15.5px">Select "Appeal-WIS" under Category </li></ol>
@@ -427,8 +427,7 @@ You will be eligible for Workfare Income Supplement (WIS) if you meet all the el
         <li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I worked as both an employee as well as a Self-Employed Person in the work year. When will I receive my Workfare Income Supplement for the work year?</b></font></summary>
 You will receive monthly Workfare Income Supplement (WIS) payments based on your employee income if you meet the WIS eligibility criteria for the work year (WY).<br><br>
 If you are also an eligible dual status worker (DSW) who has worked concurrently as a SEP and employee in the year, you may receive additional WIS if your combined employment and net trade income results in a higher WIS payment. You will receive your WIS top-up after you have declared your income (to IRAS or CPFB) and have made the required MediSave contributions.<br><br>
-You will receive the WIS top-up once a year for work done as a Self-Employed Person in the preceding year. The earliest payment for SEPs/DSWs for a particular WY will be on 30 April WY+1. If you have declared your income and made your MediSave contribution by the l ast Friday of March WY+1, you would receive your WIS payment in end April WY+1*.br>br
-* Payment via PayNow NRIC-linked bank account or bank crediting will be credited by end of the month while payment via GovCash will be on the 3<sup>rd</sup> of the following month.<br><br></details></li>
+You will receive the WIS top-up once a year for work done as a Self-Employed Person in the preceding year. <br><br></details></li>
        </ol>
     </div>
   </li>
