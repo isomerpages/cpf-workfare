@@ -15,12 +15,7 @@ Examples of self-employed persons include hawkers, taxi drivers or sole-propriet
 
 <br>
 <ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Work Year 2023</label>
-    <div>
-<iframe src="https://www.checkfirst.gov.sg/c/b280e9ee-3d0b-4fa5-bc12-278c859445aa" style="width:100%;height:1200px"></iframe>
-    </div>
+ 
    <input type="checkbox" id="accordion2">
     <label for="accordion2">Work Year 2022 and 2021</label>
     <div>
