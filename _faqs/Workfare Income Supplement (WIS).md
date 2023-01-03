@@ -446,12 +446,6 @@ Additional Wages are wages which are not granted wholly and exclusively for that
 Total Wages are the total amount of an employee's wages for any calendar month, which is the sum of his Ordinary Wages for the month and the Additional Wages paid to him in that month.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why are overtime pay and bonuses included in Workfare Income Supplement assessment?</b></font></summary>
 Basic salary, overtime pay, and bonuses are part of a worker’s total income that will help support the worker and his or her family. Given that the Workfare Income Supplement (WIS) is intended to supplement the income of lower wage workers, it is most useful to assess the total income in determining one’s eligibility for WIS.<br><br></details></li>
-					<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How does the income criterion work?</b></font></summary>
-To receive Workfare Income Supplement (WIS) for work done in any month, employees must have earned:<br>
-<ol>
-	<li style="font-size:15.5px"> a gross monthly income of not more than $2,300* in that particular month; and</li>
-<li style="font-size:15.5px"> an average gross monthly income of not more than $2,300 in the past 12 months.</li></ol>
-*From Work Year 2023, the qualifying income cap will be raised to $2,500. Click <a href="/files/FAQs/Workfare%20Factsheet%20(From%20WY2023).pdf" class="hyperlink">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why am I not eligible for Workfare Income Supplement or Workfare Special Payment despite my gross monthly income being less than $2,300 as an employee?</b></font></summary>
 Gross monthly income includes salary (before deduction of CPF contribution), bonuses, allowances and overtime pay received during the work period.<br><br>
 Other than gross monthly income, you must also earn an average gross monthly income of not more than $2,300* in the past 12 months.<br><br>
