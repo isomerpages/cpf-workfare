@@ -25,8 +25,8 @@ The Workfare Income Supplement (WIS) scheme was introduced in 2007 as a permanen
 You will be eligible for the Workfare Income Supplement (WIS) scheme if you:
 <ul style="list-style-type:disc;">
 	<li style="padding-bottom: 2px; font-size:15.5px">are a Singapore Citizen;</li>
-	<li style="padding-bottom: 2px; font-size:15.5px">are 35<sup>1</sup> years old or older on 31 December of the Work Year (WY);</li>
-	<li style="font-size:15.5px">earn not more than $2,300<sup>2</sup> (previously $2,000) for the month worked and in the past 12 months<sup>3</sup> (average monthly income) as an employee; or have an average monthly income of not more than $2,300 (previously $2,000) as a Self-Employed Person (SEP);</li>
+	<li style="padding-bottom: 2px; font-size:15.5px">are at least 30 years old or older on 31 December of the Work Year (WY) (including all persons with disabilities);</li>
+	<li style="font-size:15.5px">earn a gross monthly income<sup>1</sup> of at least $500<sup>2</sup>, but not more than $2,500 (previously $2,300) for the month worked and in the past 12 months<sup>3</sup> (average monthly income) as an employee; or have an average monthly income of at least $500, but not more than $2,500 (previously $2,300) as a Self-Employed Person (SEP);</li>
 	</ul>
 If you are an SEP, you are also required to declare your Net Trade Income (NTI) and make your MediSave contributions to be eligible for WIS.<br><br>
 	However, you will <u>not</u> be eligible for WIS if you:
@@ -40,9 +40,8 @@ If you are an SEP, you are also required to declare your Net Trade Income (NTI) 
 	</ul>
 	</ul>
 Click <a class="hyperlink" href="https://www.govpayouts.gov.sg/wf/workfare/login">here</a> to find out your WIS eligibility status.<br><br>
-As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a class="hyperlink" href="/files/FAQs/Workfare%20Factsheet%20(From%20WY2023).pdf">here</a> to find out more about the upcoming WIS enhancements.<br><br>
-<sup>1</sup> Persons with disabilities younger than 35 who meet the WIS eligibility criteria will receive an annual WIS payout of up to $1,700<br>
-<sup>2</sup> Includes basic salary and extra wages such as overtime pay, commissions and bonuses<br>
+<sup>1</sup> Includes basic salary and extra wages such as overtime pay, commissions and bonuses<br>
+<sup>2</sup> Persons with disabilities and workers who qualify for ComCare Short-to-Medium-Term Assistance will qualify for concessionary WIS, even if they earn less than $500<br>
 <sup>3</sup> Defined as income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br>
 <sup>4</sup> Annual value is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties	<br><br>
 	</details></li>
