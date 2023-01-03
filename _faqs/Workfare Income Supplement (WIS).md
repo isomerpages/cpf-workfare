@@ -12,9 +12,9 @@ description: ""
         <li class="Numbering" style="font-size:17px"><details>
 		<summary><b><font color="#009427">What are the enhancements to the Workfare Income Supplement Scheme?</font></b></summary>The Government will enhance Workfare from Work Year 2023:<ol class="loweralph">
 <li style="padding-bottom: 2px; font-size:15.5px"><b>Qualifying monthly income cap raised from $2,300 to $2,500</b><sup>1</sup>. This takes into account income growth of Singaporeans.</li>
-<li style="padding-bottom: 2px; font-size:15.5px"><b>Extension of Workfare to those aged 30 - 34</b>. The payouts will help them better cope with their expenses and to start saving early for their retirement.</li>
-<li style="padding-bottom: 2px; font-size:15.5px"><b>Higher annual Workfare payouts of up to $4,200</b>. Payouts depend on age and income, and have been enhanced across all age bands. Eligible employees can receive up to $4,200 per year in payouts, compared to $4,000 per year today. Older workers will continue to receive the highest payouts. The payouts for self-employed persons are set at two-thirds of employee payouts and will be correspondingly increased.</li>
-<li style="padding-bottom: 2px; font-size:15.5px"><b>All persons with disabilities (PWDs) will qualify for the highest Workfare payout tier (up to $4,200), regardless of age.</b></li>
+<li style="padding-bottom: 2px; font-size:15.5px"><b>Extension of Workfare to those aged 30 - 34</b>. The payments will help them better cope with their expenses and to start saving early for their retirement.</li>
+<li style="padding-bottom: 2px; font-size:15.5px"><b>Higher annual Workfare payments of up to $4,200</b>. Payments depend on age and income, and have been enhanced across all age bands. Eligible employees can receive up to $4,200 per year in payments, compared to $4,000 per year today. Older workers will continue to receive the highest payments. The payments for self-employed persons are set at two-thirds of employee payments and will be correspondingly increased.</li>
+<li style="padding-bottom: 2px; font-size:15.5px"><b>All persons with disabilities (PWDs) will qualify for the highest Workfare payment tier (up to $4,200), regardless of age.</b></li>
 <li style="padding-bottom: 2px; font-size:15.5px"><b>Minimum qualifying monthly income criterion of $500</b>. To encourage regular employment, Singaporean workers will need to earn at least $500 per month to qualify for Workfare.</li></ol><sup>1</sup>In addition, one must earn an average gross monthly income of not more than $2,500 in the past 12 months.<br><br></details></li>
 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">Why will Workfare enhancements only take place in 2023?</font></b></summary>
 Implementing the Workfare enhancements in 2023 provides sufficient time to make the required system changes, for smooth implementation of the enhancements.<br><br>
@@ -45,23 +45,23 @@ Click <a class="hyperlink" href="https://www.govpayouts.gov.sg/wf/workfare/login
 <sup>3</sup> Defined as income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period<br>
 <sup>4</sup> Annual value is the estimated gross annual rent of the property if it were to be rented out, excluding furniture, furnishings and maintenance fees. It is determined based on estimated market rentals of similar or comparable properties	<br><br>
 	</details></li>
-<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">How can I check the amount of Workfare Income Supplement payout that I will receive?</font></b></summary>
-You will be notified of the Workfare Income Supplement (WIS) payout amount by letters and/or SMS messages nearer to the payment date.<br><br>
+<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">How can I check the amount of Workfare Income Supplement that I will receive?</font></b></summary>
+You will be notified of the Workfare Income Supplement (WIS) amount by letters and/or SMS messages nearer to the payment date.<br><br>
 To retrieve a copy of your notifications, please login to the Workfare portal at <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">workfare.gov.sg</a> with your Singpass.<br><br>
 If you are currently receiving your notifications via letter and wish to receive your notifications earlier via SMS, simply opt-in to SMS at "<a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Notification</a>".<br><br>
-		You may also use the <a href="https://www.workfare.gov.sg/wis-calculator/" class="hyperlink">WIS calculator</a> to estimate the amount of WIS payout you are entitled to. 
+		You may also use the <a href="https://www.workfare.gov.sg/wis-calculator/" class="hyperlink">WIS calculator</a> to estimate the amount of WIS you are entitled to. 
 	<br><br></details></li>
 	<li class="Numbering" style="font-size:17px"><details><summary>
 		<b><font color="#009427">What do I need to do to receive Workfare Income Supplement (WIS)?</font></b></summary>If you are an employee, you do not need to do anything. Your eligibility for Workfare Income Supplement (WIS) will be automatically assessed based on the CPF contributions* made by your employer. <br><br>
 If you are a Self-Employed Person (SEP), you need to declare your net trade income (NTI) and contribute to your MediSave Account to be considered for WIS. Use our <a href="https://www.workfare.gov.sg/wis-calculator/" class="hyperlink">online WIS calculator</a> to find out the amount you need to contribute to your MediSave Account.<br><br>
 *Under the CPF Act, employers must contribute CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis. If your employer is not contributing CPF on your behalf, please approach your employer to clarify on the discrepancies. If your employer does not provide you with a satisfactory response, you can <a class="hyperlink" href="https://www.cpf.gov.sg/member/faq/growing-your-savings/saving-as-an-employee/how-can-i-lodge-a-report-for-non-payment-or-underpayment-of-cpf">lodge a report</a> with CPF Board. <br><br></details></li>
-<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">When will I receive my Workfare Income Supplement payouts?</font></b></summary>
-You will receive Workfare Income Supplement (WIS) payouts for every month that you work. The payment will be made two months after the work period. For example, the WIS payout for work done in January will be paid out in end March.<br><br>
+<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">When will I receive my Workfare Income Supplement payments?</font></b></summary>
+You will receive Workfare Income Supplement (WIS) payments for every month that you work. The payment will be made two months after the work period. For example, the WIS payment for work done in January will be paid out in end March.<br><br>
 <table>
 <thead>
   <tr>
     <th>If you worked in</th>
-    <th>You will receive the WIS payout in *</th>
+    <th>You will receive the WIS payment in *</th>
   </tr>
 </thead>
 <tbody>
@@ -87,7 +87,7 @@ You will receive Workfare Income Supplement (WIS) payouts for every month that y
   </tr>
 </tbody>
 </table>	
-If you are an eligible Self-Employed Person (SEP), you will receive WIS payouts once a year for work done in the preceding work year. The earliest payment for SEPs for a particular Work Year (WY) will be in end April of the following work year, provided you have declared your income (to IRAS or CPFB) and contributed to your MediSave by the last Friday of March of the following work year.<br><br>
+If you are an eligible Self-Employed Person (SEP), you will receive WIS payment once a year for work done in the preceding work year. The earliest payment for SEPs for a particular Work Year (WY) will be in end April of the following work year, provided you have declared your income (to IRAS or CPFB) and contributed to your MediSave by the last Friday of March of the following work year.<br><br>
 * Payment via PayNow NRIC-linked bank account or bank crediting will be credited by end of the month while payment via GovCash will be on the 3<sup>rd</sup> of the following month.<br><br></details></li>
 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">Whom can I contact for queries about the Workfare Income Supplement scheme?</font></b></summary>
 You can contact CPF Board via the following channels for your Workfare Income Supplement scheme enquiries:
@@ -95,7 +95,7 @@ You can contact CPF Board via the following channels for your Workfare Income Su
 <li style="font-size:15.5px">Write to us via our <a href="https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index?section=wis" class="hyperlink">Online Enquiry</a> Form</li>
 <li style="font-size:15.5px">Write to us via <a href="https://www.cpf.gov.sg/eSvc/Web/Services/MyMailbox/MyMailboxLanding" class="hyperlink">My Mailbox</a> using your Singpass log in</li>
 </ol></details></li>
-	<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">How can I change the mode of payment for my Workfare Income Supplement (WIS) payout?</font></b></summary>
+	<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">How can I change the mode of payment for my Workfare Income Supplement (WIS) payment?</font></b></summary>
 If you have a PayNow NRIC-linked bank account, it will be the default mode of payment. To link your NRIC number to your bank account, you may follow the steps below:<br>
 		1. Set up internet / mobile banking with your bank<br>
 		2. Log in to your bank's internet / mobile banking application<br>
@@ -105,13 +105,13 @@ If you have a PayNow NRIC-linked bank account, it will be the default mode of pa
 		<br>
 		If you do not have a PayNow NRIC-linked account, and wish to receive your payout via bank crediting, you may update your bank account details by logging into the Workfare Portal at <a href="http://www.workfare.gov.sg" class="hyperlink">workfare.gov.sg</a>.<br><br></details></li>
 				 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">How much Workfare Income Supplement (WIS) will I get?</font></b></summary>
-The Workfare Income Supplement (WIS) payout depends on your age and income. You may use the online <a href="https://www.workfare.gov.sg/wis-calculator/" class="hyperlink">WIS calculator</a> to estimate the amount of WIS you will receive.<br><br>
+The Workfare Income Supplement (WIS) payment depends on your age and income. You may use the online <a href="https://www.workfare.gov.sg/wis-calculator/" class="hyperlink">WIS calculator</a> to estimate the amount of WIS you will receive.<br><br>
 As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a class="hyperlink" href="/files/FAQs/Workfare%20Factsheet%20(From%20WY2023).pdf">here</a> to find out more about the upcoming WIS enhancements.<br><br>
 <table>
 <thead>
   <tr>
     <th rowspan="3" style="text-align:center; vertical-align:middle"><br><br>Your age in the work year</th>
-    <th colspan="4" style="text-align:center; vertical-align:middle">Maximum WIS payout per year</th>
+    <th colspan="4" style="text-align:center; vertical-align:middle">Maximum WIS per year</th>
   </tr>
   <tr>
     <th colspan="2" style="text-align:center; vertical-align:middle">If you are employed</th>
@@ -167,7 +167,7 @@ As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a 
   </tr>
 </tbody>
 </table><br><br></details></li>
-				 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">Will I receive Workfare Income Supplement (WIS) payouts if I am unemployed?</font></b></summary>
+				 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">Will I receive Workfare Income Supplement (WIS) if I am unemployed?</font></b></summary>
 The Workfare Income Supplement (WIS) scheme supplements the income and CPF savings of lower-income Singaporeans, and encourages them to enter and remain in the labour market.<br><br>
 You would not receive WIS if you are not working.<br><br>
 If you require assistance in looking for a job, or are seeking information on training and skills upgrading, please approach any of the Distributed CareerLink Networks run by the Community Development Councils (CDCs). Alternatively, you can call Workforce Singapore (WSG) hotline at 6883 5885.<br><br></details></li>
@@ -181,7 +181,7 @@ You can also write to us via <a href="https://www.cpf.gov.sg/eSvc/Web/Services/M
 				 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">When can I receive the Workfare Income Supplement (WIS) Scheme payment after making the required MediSave contributions?</font></b></summary>
 We will assess your eligibility for Workfare Income Supplement (WIS) in the month after you have made your MediSave contributions in full. You will receive an SMS notification and/or letter at the end of the assessment month on the WIS payment details if you are eligible.<br><br></details></li>
 				 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">How do I stop receiving hardcopy notifications for the Workfare Income Supplement scheme?</font></b></summary>
-If you wish to receive notifications of your Workfare Income Supplement (WIS) payouts by SMS rather than hardcopy letters, please log in to the <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Workfare Portal</a> with your Singpass and opt-in to SMS at “Notification”.<br><br></details></li>
+If you wish to receive notifications of your Workfare Income Supplement (WIS) payments by SMS rather than hardcopy letters, please log in to the <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Workfare Portal</a> with your Singpass and opt-in to SMS at “Notification”.<br><br></details></li>
 		<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">
 			How do I adjust my net trade income (NTI) for the Workfare Income Supplement scheme?</font></b></summary>
 If you have previously declared your net trade income (NTI) to the Inland Revenue Authority of Singapore (IRAS), please call them at 1800-356 8300 if you wish to adjust your NTI for your Workfare Income Supplement scheme (WIS).<br>
@@ -192,9 +192,9 @@ To be eligible for the Workfare Income Supplement (WIS) scheme for work done in 
 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">Why are Singapore Permanent Residents (PRs) not eligible for the Workfare Income Supplement scheme?</font></b></summary>The Workfare Income Supplement (WIS) scheme is only for Singaporean lower-wage workers with limited household wealth.<br><br>
 If you require financial assistance, please contact ComCare hotline 1800-222-0000, or email <a class="hyperlink" href="mailto:Ask_SSO@msf.gov.sg">Ask_SSO@msf.gov.sg</a>.<br><br></details></li>
 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">Are inmates eligible for the Workfare Income Supplement scheme?</font></b></summary>Inmates who have worked while serving their sentences may be eligible for the Workfare Income Supplement (WIS) scheme as Self-Employed Persons (SEPs) by making voluntary MediSave contributions based on the income earned during incarceration. The Singapore Prison Service will furnish inmates' work records to the Board in the following year and inmates’ family members may make the MediSave contributions to the Board on behalf of the inmates.<br><br></details></li>
-<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">How much cash and CPF top-ups will I receive from the Workfare Income Supplement scheme?</font></b></summary>If you are an employee, you will receive 60% of your Workfare Income Supplement (WIS) payout in CPF contributions and the remaining 40% in cash.<br><br>
+<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">How much cash and CPF top-ups will I receive from the Workfare Income Supplement scheme?</font></b></summary>If you are an employee, you will receive 60% of your Workfare Income Supplement (WIS) in CPF contributions and the remaining 40% in cash.<br><br>
 A higher proportion is credited into your Special and MediSave Accounts to boost your retirement and healthcare savings, as savings in these accounts earn up to 5% per annum if you are below 55, and up to 6% per annum if you are 55 or above.<br><br>
-You can refer to the table below on the allocation of the WIS CPF payout into the three accounts, according to the age bands.<br>
+You can refer to the table below on the allocation of the WIS CPF payment into the three accounts, according to the age bands.<br>
 <table>
 <thead>
   <tr>
@@ -250,9 +250,9 @@ You can refer to the table below on the allocation of the WIS CPF payout into th
 </tbody>
 </table><br>
 If you are a Self-Employed Person, you will receive 90% of your WIS in your MediSave account and the remaining 10% in cash.<br><br></details></li>
-<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">How will I receive the cash portion of my Workfare Income Supplement payouts?</font></b></summary>The cash portion of Workfare Income Supplement (WIS) will be credited to your PayNow NRIC-linked bank account if you have one.
+<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">How will I receive the cash portion of my Workfare Income Supplement?</font></b></summary>The cash portion of Workfare Income Supplement (WIS) will be credited to your PayNow NRIC-linked bank account if you have one.
 	<br><br>
-	Otherwise, it will be credited to the DBS/POSB, OCBC or UOB bank account that you have registered to receive Government payouts (e.g. either the GST-Voucher (GSTV), Silver Support Scheme (SSS) or WIS, whichever is latest) or via GovCash if you had not registered a bank account with us.
+	Otherwise, it will be credited to the DBS/POSB, OCBC or UOB bank account that you have registered to receive Government payments (e.g. either the GST-Voucher (GSTV), Silver Support Scheme (SSS) or WIS, whichever is latest) or via GovCash if you had not registered a bank account with us.
 	<br><br>
 	Electronic payments make transactions simple, swift, and safe for recipients. We strongly encourage you to consider linking your NRIC number to your PayNow bank account, or <a class="hyperlink" href="https://www.govpayouts.gov.sg/wf/workfare/login">update</a> your bank account with us*.
 	<br><br>
@@ -273,9 +273,9 @@ the CPF Board if you have not been issued an income tax return package, by loggi
        <ol>
         <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">My employer does not pay my CPF. What can I do to qualify for Workfare Income Supplement (WIS)?</font></b></summary>Under the CPF Act, employers must contribute CPF if their employees earn more than $50 a month, regardless of whether the employee is employed on a permanent, part-time, contract or casual basis.<br><br>
 If your employer is not contributing CPF on your behalf, please approach your employer to clarify on the discrepancies. If your employer does not provide you with a satisfactory response, you can <a class="hyperlink" href="https://www.cpf.gov.sg/member/faq/growing-your-savings/saving-as-an-employee/how-can-i-lodge-a-report-for-non-payment-or-underpayment-of-cpf">lodge a report</a> with CPF Board.<br><br></details></li>
-<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">I am earning close to $2,300, why are my Workfare Income Supplement payouts so low?</font></b></summary>The Workfare Income Supplement (WIS) scheme is targeted at older, lower wage Singaporean workers whose earnings are in the bottom 20% of the working population, with support also available for those earning slightly more.<br><br>
-To best support lower wage workers, the WIS benefits are gradually reduced as the income levels of the workers increase nearer to the qualifying amount of $2,300. The gradual reduction ensures that the lower-wage workers do not see a sharp reduction in their WIS benefits when they upgrade their skills and begin to earn more. Taken together, the total amount of the income and the WIS payouts would still increase overall as one's income increases.<br><br>
-From Work Year 2023, the qualifying income cap will be raised to $2500. Click <a href="/files/FAQs/Workfare%20Factsheet%20(From%20WY2023).pdf" class="hyperlink">here</a> to find out more about the 2023 WIS enhancements, announced at Budget 2022.<br><br></details></li>
+<li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">I am earning close to $2,500, why are my Workfare Income Supplement payments so low?</font></b></summary>The Workfare Income Supplement (WIS) scheme is targeted at older, lower wage Singaporean workers whose earnings are in the bottom 20% of the working population, with support also available for those earning slightly more.<br><br>
+To best support lower wage workers, the WIS benefits are gradually reduced as the income levels of the workers increase nearer to the qualifying amount of $2,500. The gradual reduction ensures that the lower-wage workers do not see a sharp reduction in their WIS benefits when they upgrade their skills and begin to earn more. Taken together, the total amount of the income and the WIS payments would still increase overall as one's income increases.<br><br>
+</details></li>
 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">I am earning $50 or less per month. What do I need to do to receive the Workfare Income Supplement (WIS)?</font></b></summary>You will be eligible for Workfare Income Supplement (WIS) if you meet all the other eligibility criteria and make voluntary CPF contributions for the monthly wages (where CPF contribution is exempted).<br><br>
 The voluntary CPF contribution amount varies, depending on one's age and the prevailing CPF contribution rates. Please <a class="hyperlink" href="https://www.cpf.gov.sg/eSvc/Web/FeedbackSubscription/Index">write to us</a> with your particulars and supporting documents (i.e. payslips/employer's letter) so we can advise you on the amount to contribute:<br><br>
 On the online enquiry page,<br>
@@ -287,7 +287,7 @@ We will review your WIS eligibility after we have received your request and supp
 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">I am a contract / part-time employee. Will I be eligible for Workfare Income Supplement?</font></b></summary>Contract / part-time employees are eligible for the Workfare Income Supplement (WIS) if they meet the WIS eligibility criteria.<br><br></details></li>
 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">I am on no-pay/study/medical/maternity leave. Will I be considered as employed to qualify for Workfare Income Supplement?</font></b></summary>For the purposes of Workfare Income Supplement (WIS), staff on study/medical/maternity leave will be considered as employees if you are still receiving a salary and CPF contributions from your employers.<br><br></details></li>
 				 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">Of the Workfare Income Supplement payment to my CPF, what is the proportion credited into the various CPF accounts?</font></b></summary>Workfare Income Supplement (WIS) is paid partially in cash to help you with your immediate expenditure, and partially into your CPF accounts to boost your retirement adequacy. Up to age 55, a higher proportion is credited into your Special and MediSave Accounts to boost your retirement and healthcare savings respectively. After age 55, similar to employees, the majority of the contributions will go towards MediSave, with smaller proportions going towards the other two accounts.<br><br>
-You can refer to the table below on the proportion of the WIS CPF payout credited into the three accounts, according to the age bands.<br>
+You can refer to the table below on the proportion of the WIS CPF payment credited into the three accounts, according to the age bands.<br>
 <table>
 <thead>
   <tr>
@@ -355,7 +355,7 @@ You can refer to the table below on the proportion of the WIS CPF payout credite
 If you earn an income by buying and selling goods or providing professional or personal services, you are a SEP. Examples of Self-Employed Persons include hawkers, taxi drivers, freelancers, sole proprietors or a partner in a partnership.<br><br>
 Visit the <a class="hyperlink" href="https://www.iras.gov.sg/irashome/Businesses/Self-Employed/Learning-the-basics/Am-I-an-Employee-or-a-Self-Employed/">Inland Revenue Authority of Singapore (IRAS) website</a> to read more on the definition of a SEP.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why do Self-Employed Persons receive only two-thirds of the Workfare Income Supplement (WIS) received by employees?</b></font></summary>The CPF contribution made by Self-Employed Persons (SEPs) is comparatively lesser than employees who earn the same amount. SEPs are only required to contribute to their MediSave Account whereas employees need to contribute to all their CPF Accounts (Ordinary, Special and MediSave Accounts).<br><br></details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why do employees receive monthly Workfare Income Supplement (WIS) payments while Self-Employed Persons receive their WIS once a year?</b></font></summary>The incomes of employees are automatically computed based on their monthly CPF contributions from their employers. This enables CPF Board to assess their Workfare Income Supplement (WIS) eligibility automatically and disburse their WIS payouts on a monthly basis.<br><br>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why do employees receive monthly Workfare Income Supplement (WIS) payments while Self-Employed Persons receive their WIS once a year?</b></font></summary>The incomes of employees are automatically computed based on their monthly CPF contributions from their employers. This enables CPF Board to assess their Workfare Income Supplement (WIS) eligibility automatically and disburse their WIS payments on a monthly basis.<br><br>
 On the other hand, the net trade income (NTI) of a Self-Employed Person (SEP) is assessed over an entire year and can only be determined the following year after the current year has ended.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Why must Self-Employed Persons (SEPs) contribute to MediSave to receive Workfare Income Supplement (WIS)?</b></font></summary>
 A key principle of the Workfare Income Supplement (WIS) scheme is that each recipient has a personal responsibility to save for his future needs, with the Government providing additional support.<br><br>
@@ -426,8 +426,8 @@ You will be eligible for Workfare Income Supplement (WIS) if you meet all the el
       <ol>
         <li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I worked as both an employee as well as a Self-Employed Person in the work year. When will I receive my Workfare Income Supplement for the work year?</b></font></summary>
 You will receive monthly Workfare Income Supplement (WIS) payments based on your employee income if you meet the WIS eligibility criteria for the work year (WY).<br><br>
-If you are also an eligible dual status worker (DSW) who has worked concurrently as a SEP and employee in the year, you may receive additional WIS if your combined employment and net trade income results in a higher WIS payout. You will receive your WIS top-up after you have declared your income (to IRAS or CPFB) and have made the required MediSave contributions.<br><br>
-You will receive the WIS top-up once a year for work done as a Self-Employed Person in the preceding year. The earliest payment for SEPs/DSWs for a particular WY will be on 30 April WY+1. If you have declared your income and made your MediSave contribution by the last Friday of March WY+1, you would receive your WIS payout in end April WY+1*.<br><br>
+If you are also an eligible dual status worker (DSW) who has worked concurrently as a SEP and employee in the year, you may receive additional WIS if your combined employment and net trade income results in a higher WIS payment. You will receive your WIS top-up after you have declared your income (to IRAS or CPFB) and have made the required MediSave contributions.<br><br>
+You will receive the WIS top-up once a year for work done as a Self-Employed Person in the preceding year. The earliest payment for SEPs/DSWs for a particular WY will be on 30 April WY+1. If you have declared your income and made your MediSave contribution by the l ast Friday of March WY+1, you would receive your WIS payot in enApril WY+1*.br>br
 * Payment via PayNow NRIC-linked bank account or bank crediting will be credited by end of the month while payment via GovCash will be on the 3<sup>rd</sup> of the following month.<br><br></details></li>
        </ol>
     </div>
