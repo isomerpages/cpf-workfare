@@ -87,8 +87,7 @@ You will receive Workfare Income Supplement (WIS) payments for every month that 
   </tr>
 </tbody>
 </table>	
-If you are an eligible Self-Employed Person (SEP), you will receive WIS payment once a year for work done in the preceding work year. The earliest payment for SEPs for a particular Work Year (WY) will be in end April of the following work year, provided you have declared your income (to IRAS or CPFB) and contributed to your MediSave by the last Friday of March of the following work year.<br><br>
-* Payment via PayNow NRIC-linked bank account or bank crediting will be credited by end of the month while payment via GovCash will be on the 3<sup>rd</sup> of the following month.<br><br></details></li>
+If you are an eligible Self-Employed Person (SEP), you will receive WIS payment once a year for work done in the preceding work year. <br></details></li>
 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">Whom can I contact for queries about the Workfare Income Supplement scheme?</font></b></summary>
 You can contact CPF Board via the following channels for your Workfare Income Supplement scheme enquiries:
 <ol>
