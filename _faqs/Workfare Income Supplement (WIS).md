@@ -87,7 +87,8 @@ You will receive Workfare Income Supplement (WIS) payments for every month that 
   </tr>
 </tbody>
 </table>	
-If you are an eligible Self-Employed Person (SEP), you will receive WIS payment once a year for work done in the preceding work year. <br></details></li>
+If you are an eligible Self-Employed Person (SEP), you will receive WIS payment once a year for work done in the preceding work year.<br><br>
+* Payment via PayNow NRIC-linked bank account or bank crediting will be credited by end of the month while payment via GovCash will be on the 3rd of the following month.<br></details></li>
 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">Whom can I contact for queries about the Workfare Income Supplement scheme?</font></b></summary>
 You can contact CPF Board via the following channels for your Workfare Income Supplement scheme enquiries:
 <ol>
