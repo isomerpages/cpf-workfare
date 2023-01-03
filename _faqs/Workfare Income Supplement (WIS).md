@@ -26,7 +26,7 @@ You will be eligible for the Workfare Income Supplement (WIS) scheme if you:
 <ul style="list-style-type:disc;">
 	<li style="padding-bottom: 2px; font-size:15.5px">are a Singapore Citizen;</li>
 	<li style="padding-bottom: 2px; font-size:15.5px">are at least 30 years old or older on 31 December of the Work Year (WY) (including all persons with disabilities);</li>
-	<li style="font-size:15.5px">earn a gross monthly income<sup>1</sup> of at least $500<sup>2</sup>, but not more than $2,500 (previously $2,300) for the month worked and in the past 12 months<sup>3</sup> (average monthly income) as an employee; or have an average monthly income of at least $500, but not more than $2,500 (previously $2,300) as a Self-Employed Person (SEP);</li>
+	<li style="font-size:15.5px">earn a gross monthly income<sup>1</sup> of at least $500<sup>2</sup>, but not more than $2,500 (previously $2,300) for the month worked and in the past 12 months<sup>3</sup> (average monthly in as an employee; or have an average monthly income of at least $500, but not more than $2,500 (previously $2,300) as a Self-Employed Person (SEP);</li>
 	</ul>
 If you are an SEP, you are also required to declare your Net Trade Income (NTI) and make your MediSave contributions to be eligible for WIS.<br><br>
 	However, you will <u>not</u> be eligible for WIS if you:
