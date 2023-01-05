@@ -614,7 +614,9 @@ PayNow is a secure funds transfer service that allows customers to receive money
   <tr>
 		<td><b>UOB</b></td>
     <td>United Overseas Bank Limited</td>
-		<td><b>TRBU</b></td>
+		 </tr>
+		  <tr>
+			<td><b>TRBU</b></td>
     <td>Trust Bank Singapore Limited</td>
   </tr>
 </tbody>
