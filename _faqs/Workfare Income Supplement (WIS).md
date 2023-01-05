@@ -566,7 +566,7 @@ Please consider linking your NRIC number to your bank account to receive your pa
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How much is my Workfare Income Supplement/ Workfare Special Payment?</b></font></summary>
 To check the Workfare payments you have received, log in to the <a href="https://www.govpayouts.gov.sg/wf/workfare/login" class="hyperlink">Workfare Portal</a> with your Singpass and look under “Payment History”.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>What is PayNow?</b></font></summary>
-PayNow is a secure funds transfer service that allows customers to receive money into their participating bank account which is linked to their NRIC. The 10 participating banks in Singapore are as follows (with the corresponding bank code): <br><br>
+PayNow is a secure funds transfer service that allows customers to receive money into their participating bank account which is linked to their NRIC. The participating banks in Singapore are as follows (with the corresponding bank code): <br><br>
 <table>
 <thead>
   <tr>
@@ -612,9 +612,13 @@ PayNow is a secure funds transfer service that allows customers to receive money
     <td>Standard Chartered Bank (Singapore) Limited</td>
   </tr>
   <tr>
+			<td><b>TRBU</b></td>
+    <td>Trust Bank Singapore Limited</td>
+  </tr>
+	<tr>
 		<td><b>UOB</b></td>
     <td>United Overseas Bank Limited</td>
-  </tr>
+		 </tr>
 </tbody>
 </table>
 					With PayNow, the recipient’s bank account will be kept private.<br><br></details></li>
