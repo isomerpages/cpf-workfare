@@ -395,6 +395,8 @@ Log in to <a href="https://www.cpf.gov.sg/member/ds/" class="hyperlink">my cpf</
 <ul>
 <li style="font-size:15.5px">Check that your MediSave contribution is reflected in <b>My Statement</b>, or</li>
 	<li style="font-size:15.5px">Check the transaction status under <b>My Activities</b> (if you paid via e-Cashier)</li></ul><br><br></details></li>
+<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I have made the required MediSave contribution to qualify for Workfare Income Supplement, why is my payment still not reflected in the MediSave Payable page after logging into e-service?</b></font></summary>Contributions made each month will be updated in e-service on the 9th working day of the following month.
+	<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I am a homemaker/caregiver/babysitter. Can I qualify for the Workfare Income Supplement scheme?</b></font></summary>
 The objective of the Workfare Income Supplement (WIS) scheme is to supplement the retirement savings and incomes of older and lower-wage Singaporeans, and to encourage them to work regularly.<br><br>
 A person may be eligible for WIS if he is engaged in work that draws an income.<br><br>
