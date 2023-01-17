@@ -613,10 +613,6 @@ PayNow is a secure funds transfer service that allows customers to receive money
 		<td><b>SCB</b></td>
     <td>Standard Chartered Bank (Singapore) Limited</td>
   </tr>
-  <tr>
-			<td><b>TRBU</b></td>
-    <td>Trust Bank Singapore Limited</td>
-  </tr>
 	<tr>
 		<td><b>UOB</b></td>
     <td>United Overseas Bank Limited</td>
