@@ -207,9 +207,9 @@ You can refer to the table below on the allocation of the WIS CPF payment into t
 <tbody>
   <tr>
     <td style="text-align:center; vertical-align:middle">35 & below</td>
-    <td style="text-align:center; vertical-align:middle">0.6217</td>
-    <td style="text-align:center; vertical-align:middle">0.2162</td>
-    <td style="text-align:center; vertical-align:middle">0.1621</td>
+    <td style="text-align:center; vertical-align:middle">0.3000</td>
+    <td style="text-align:center; vertical-align:middle">0.3500</td>
+    <td style="text-align:center; vertical-align:middle">0.3500</td>
   </tr>
   <tr>
     <td style="text-align:center; vertical-align:middle">Above 35 - 45</td>
@@ -300,9 +300,9 @@ You can refer to the table below on the proportion of the WIS CPF payment credit
 <tbody>
   <tr>
     <td style="text-align:center; vertical-align:middle">35 & below</td>
-    <td style="text-align:center; vertical-align:middle">0.6217</td>
-    <td style="text-align:center; vertical-align:middle">0.2162</td>
-    <td style="text-align:center; vertical-align:middle">0.1621</td>
+    <td style="text-align:center; vertical-align:middle">0.3000</td>
+    <td style="text-align:center; vertical-align:middle">0.3500</td>
+    <td style="text-align:center; vertical-align:middle">0.3500</td>
   </tr>
   <tr>
     <td style="text-align:center; vertical-align:middle">Above 35 - 45</td>
