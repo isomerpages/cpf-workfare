@@ -6,8 +6,7 @@ description: Workfare provides additional support to lower-income Singaporeans
   Scheme and Workfare Skills Support (WSS) Scheme.
 image: /images/banner_home_1.jpg
 permalink: /
-notification: Scheduled Maintenance Activities for Jan 2023&nbsp;&nbsp;&nbsp; <a
-  class="hyperlink"
+notification: Upcoming Scheduled Maintenance Activies <a class="hyperlink"
   href="https://www.gstvoucher.gov.sg/scheduledmaintenance/">Show more
   details</a>
 sections:
