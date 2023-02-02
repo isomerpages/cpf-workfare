@@ -3,12 +3,11 @@ title: Mr Gunasegaran SO Sellayya
 permalink: /stories-2/mr-gunasegaran-so-sellayya/
 description: ""
 ---
-
 ![Gunasegaran Sellayya](/images/WIS%20Stories/STORIES1.jpg)
 
 <br>
 
-> “My three children are the most important to me and I want them to have good education. I will use the Workfare payouts to buy things that will help them in their education.”
+> “My three children are the most important to me and I want them to have good education. I will use the Workfare payments to buy things that will help them in their education.”
 
 <br>
 
@@ -22,11 +21,11 @@ description: ""
   
 *   By starting work at 11pm and ending at 9am, he can send his three children to school and pick them up when they are done. This also allows his wife, who has health issues and is a home-maker, to have more rest at home. Despite the challenges of working the night shift, Mr Gunasegaran enjoys his work as he has helpful and friendly colleagues.
   
-*   Mr Guna is one of the 830,000 Singaporeans who have benefitted from $5.5 billion of **Workfare** payouts in the last decade between 2007 and 2017.
+*   Mr Guna is one of the 830,000 Singaporeans who have benefitted from $5.5 billion of **Workfare** payments in the last decade between 2007 and 2017.
   
-*   Mr Guna saved the Workfare cash payouts for his children’s education and expenses. As the sole breadwinner of his family, Mr Guna feels that the extra money comes in handy to give his children a better life. His aim is to give his children a good education so they can have a bright future.
+*   Mr Guna saved the Workfare cash payments for his children’s education and expenses. As the sole breadwinner of his family, Mr Guna feels that the extra money comes in handy to give his children a better life. His aim is to give his children a good education so they can have a bright future.
   
-*   From 2020, Workfare enhancements will give Mr Guna up to $2,500 annually in cash and CPF payouts.
+*   From 2020, Workfare enhancements will give Mr Guna up to $2,500 annually in cash and CPF payments.
 
 <br>
 

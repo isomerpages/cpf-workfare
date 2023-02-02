@@ -12,7 +12,7 @@ third_nav_title: Self Employed
 * earn an average monthly income of at least $500<sup>1</sup>, but not more than $2,500 (previously $2,300) for the month worked; and
 * have declared your net trade income and made [MediSave Contribution](https://www.workfare.gov.sg/wis-scheme/Self-Employed/what-must-i-do/).
 
-<sub><sup>1</sup>Persons with disabilities and workers who qualify for ComCare Short-to-Medium-Term Assistance will qualify for concessionary WIS, even if they earn less than $500.</sub>
+<sub><sup>1</sup>Persons with disabilities, workers who qualify for ComCare Short-to-Medium-Term Assistance and caregivers of care recipients (generally include caregivers residing with care recipients who are medically certified to have permanent moderate to severe disabilities) will qualify for concessionary WIS, even if they earn less than $500. More details on the concessionary WIS for caregivers will be provided later.</sub>
 
 ![annual value](/images/WIS%20Scheme/WIS3.png)
 

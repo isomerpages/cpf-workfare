@@ -3,7 +3,6 @@ title: Mdm Goh Geok Kee
 permalink: /stories-2/mdm-goh-geok-kee/
 description: ""
 ---
-
 ![Mdm Goh Goek Kee](/images/WIS%20Stories/MdmGohGeokKee.jpg)
 
 > "Workfare motivates me to work and tops up my income. I can buy more ingredients and cook a better meal for my family!”
@@ -19,7 +18,7 @@ description: ""
 
 <br>
 
-> Auntie Geok shared that she is happy to be receiving Workfare all these years. The Workfare payouts help her to meet household expenses.
+> Auntie Geok shared that she is happy to be receiving Workfare all these years. The Workfare payments help her to meet household expenses.
 
 <br>
 

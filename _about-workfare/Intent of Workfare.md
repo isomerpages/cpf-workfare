@@ -6,7 +6,7 @@ description: Workfare payouts are targeted at lower-income workers with less
   comprise up to an extra 30 per cent of the worker's monthly income
 image: /images/AboutWF1.jpg
 ---
-Workfare payouts are targeted at lower-income workers with less household support, with higher payouts for older workers. Workfare can comprise up to an extra 30 per cent of the worker's monthly income.
+Workfare benefits are targeted at lower-income workers with less household support, with higher benefits for older workers. Workfare can comprise up to an extra 30 per cent of the worker's monthly income.
 
 ![Alt text for image on Isomer site](/images/About%20Workfare/AboutWF3.jpg)
 
