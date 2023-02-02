@@ -459,7 +459,7 @@ $500 per month is a reasonable and achievable wage for most regular workers. At 
 
 <sup>1</sup> Based on Local Qualifying Salary<br><br>
 
-<sup>2</sup> This will generally include caregivers residing with care recipients who are medically certified to have permanent moderate to severe disabilities. More details on the concessionary WIS for caregivers will be provided later.</i><br><br>
+<sup>2</sup> This will generally include caregivers residing with care recipients who are medically certified to have permanent moderate to severe disabilities. More details on the concessionary WIS for caregivers will be provided later.<br><br>
 </details></li>
 			<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I am a Person with Disability/Comcare Short and Medium Term Assistance recipient who is learning less than $500 per month. How much WIS will I receive?</b></font></summary>
 You will continue to qualify for concessionary WIS, even if you earn less than $500 per month. We will notify you of the amount nearer to the payment dates.</i><br><br>
