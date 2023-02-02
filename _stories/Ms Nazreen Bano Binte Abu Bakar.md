@@ -3,7 +3,6 @@ title: Ms Nazreen Bano Binte Abu Bakar
 permalink: /stories-2/ms-nazreen-bano-binte-abu-bakar/
 description: ""
 ---
-
 ![Ms Nazreen Bano](/images/WIS%20Stories/STORIES7.jpg)
 
 <br>
@@ -18,11 +17,11 @@ description: ""
   
 *   49-year-old Ms Nazreen works as a sales coordinator. She leads a team of seven at islandwide roadshows to promote open electricity market products.
   
-*   Ms Nazreen receives Workfare payouts in cash and CPF top-ups. She looks forward to receiving the SMS notifications informing her of Workfare payouts every month. These payouts help to offset family expenses.
+*   Ms Nazreen receives Workfare in cash and CPF top-ups. She looks forward to receiving the SMS notifications informing her of Workfare payments every month. These payments help to offset family expenses.
   
 *   Ms Nazreen is currently staying in a rental flat with her three children. She is confident that the Workfare CPF top-ups will come in useful when she buys a HDB flat.
   
-*   She hopes to accumulate more CPF savings through her work contributions and Workfare so that she can enjoy higher monthly retirement payouts when she eventually stops work.
+*   She hopes to accumulate more CPF savings through her work contributions and Workfare so that she can enjoy higher monthly retirement payments when she eventually stops work.
 
 <br>
 
@@ -36,7 +35,7 @@ description: ""
   
 *   Ms Nazreen’s son was previously studying media production in Republic Polytechnic, and her younger daughter is currently pursuing business admin at ITE. Her daughter has been receiving allowance while doing her internship under the **Earn and Learn Programme** by MOE.
   
-*   Ms Nazreen’s elderly mother receives quarterly **Silver Support** cash payouts.
+*   Ms Nazreen’s elderly mother receives quarterly **Silver Support** cash payments.
   
 *   In addition, her household receives **GSTV-Cash** and **U-Save rebates** to offset their daily household expenses.
   
