@@ -20,7 +20,7 @@ description: ""
 Implementing the Workfare enhancements in 2023 provides sufficient time to make the required system changes, for smooth implementation of the enhancements.<br><br>
 The current Workfare criteria, which only came into effect two years ago in 2020, will continue to apply for work done in 2022.<br><br></details></li>
 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">What is the Workfare Income Supplement scheme?</font></b></summary>
-The Workfare Income Supplement (WIS) scheme was introduced in 2007 as a permanent feature of Singapore's social security system. The support is targeted at older, lower wage Singaporean workers whose earnings are in the bottom 20% of the working population, with support also available for those earning slightly more. Eligible workers will receive support via cash and CPF top-ups to supplement their income and retirement savings.<br><br></details></li>
+The Workfare Income Supplement (WIS) scheme was introduced in 2007 as a permanent feature of Singapore's social security system. The support is targeted at lower-wage Singaporean workers whose earnings are in the bottom 20% of the working population and is reviewed regularly to ensure that it meets the needs of Singaporeans. The 2023 WIS benefits had been reviewed and enhanced for eligible workers to receive support via cash and CPF contributions to supplement their income and retirement savings. <br><br></details></li>
 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">Am I eligible for the Workfare Income Supplement scheme?</font></b></summary>
 You will be eligible for the Workfare Income Supplement (WIS) scheme if you:
 <ul style="list-style-type:disc;">
