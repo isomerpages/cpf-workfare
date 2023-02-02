@@ -12,7 +12,7 @@ third_nav_title: Employee
 * earn a gross monthly income<sup>1</sup> of at least $500<sup>2</sup>, but not more than $2,500 (previously $2,300) for the month worked<sup>3</sup>.
 
 <sub><sup>1</sup>Gross monthly income includes basic salary and extra wages such as overtime pay and bonuses.<br>
-<sup>2</sup>Persons with disabilities and workers who qualify for ComCare Short-to-Medium-Term Assistance will qualify for concessionary WIS, even if they earn less than $500.<br>
+<sup>2</sup>Persons with disabilities, and workers who qualify for ComCare Short-to-Medium-Term Assistance and caregivers of care recipients (generally include caregivers residing with care recipients who are medically certified to have permanent moderate to severe disabilities) will qualify for concessionary WIS, even if they earn less than $500. More details on the concessionary WIS for caregivers will be provided later.<br>
 <sup>3</sup>In addition, you must earn an average gross monthly income of not more than $2,500 (previously $2,300) in the past 12 months.</sub>
 
 ![annual value](/images/WIS%20Scheme/WIS3.png)
