@@ -457,7 +457,7 @@ The average gross monthly income is defined as:<br><br>
 The minimum income criterion of $500 per month was introduced from 2023 to encourage all workers, part-time and full-time, to work more regularly or take up higher-paying jobs.<br><br>
 $500 per month is a reasonable and achievable wage for most regular workers. At an hourly wage of $9 per hour<sup>1</sup>, workers who work 3-hr daily shifts for 20 days a month would already earn around $540 per month. <br><br> However, we recognise that there may be some who want to work more but are unable to do so due to their personal circumstances or are in greater need of support, such as Persons with Disabilities (PWDs), low-income workers who qualify for ComCare Short-to-Medium-Term Assistance and caregivers of care recipients<sup>2</sup>. Such workers will continue to qualify for concessionary WIS, even if they earn less than $500 per month.<br><br>
 
-<sup>1</sup> Based on Local Qualifying Salary
+<sup>1</sup> Based on Local Qualifying Salary<br><br>
 
 <sup>2</sup> This will generally include caregivers residing with care recipients who are medically certified to have permanent moderate to severe disabilities. More details on the concessionary WIS for caregivers will be provided later.</i><br><br>
 </details></li>
