@@ -103,7 +103,7 @@ If you have a PayNow NRIC-linked bank account, it will be the default mode of pa
 		<br>
 		You may also refer to your bank's website for specific details to do so. If you not have Internet or mobile banking, you can contact your bank directly to register for PayNow.<br>
 		<br>
-		If you do not have a PayNow NRIC-linked account, and wish to receive your payout via bank crediting, you may update your bank account details by logging into the Workfare Portal at <a href="http://www.workfare.gov.sg" class="hyperlink">workfare.gov.sg</a>.<br><br></details></li>
+		If you do not have a PayNow NRIC-linked account, and wish to receive your payment via bank crediting, you may update your bank account details by logging into the Workfare Portal at <a href="http://www.workfare.gov.sg" class="hyperlink">workfare.gov.sg</a>.<br><br></details></li>
 				 <li class="Numbering" style="font-size:17px"><details><summary><b><font color="#009427">How much Workfare Income Supplement (WIS) will I get?</font></b></summary>
 The Workfare Income Supplement (WIS) payment depends on your age and income. You may use the online <a href="https://www.workfare.gov.sg/wis-calculator/" class="hyperlink">WIS calculator</a> to estimate the amount of WIS you will receive.<br><br>
 As announced at Budget 2022, WIS will be enhanced from Work Year 2023. Click <a class="hyperlink" href="/files/FAQs/Workfare%20Factsheet%20(From%20WY2023).pdf">here</a> to find out more about the upcoming WIS enhancements.<br><br>
@@ -573,7 +573,7 @@ To receive SMS notifications, register your mobile number with CPF Board via <i 
 We will only send SMS notifications on Workfare payments to the mobile number that you have registered with CPF Board.<br><br>
 					To receive SMS notifications, you may update your mobile number via <i style="color:green">my cpf</i> digital services - <a class="hyperlink" href="https://www.cpf.gov.sg/members/ds/account-settings">Account Settings</a> with your Singpass.
 <br><br></details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I have closed my bank account for receiving Workfare Income Supplement payments. How can I receive the payments</b></font></summary>
+				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I have closed my bank account for receiving Workfare Income Supplement payments. How can I receive the payments?</b></font></summary>
 If you have a valid PayNow NRIC-linked bank account, you will receive your payment via PayNow. Otherwise, you will receive your payments via GovCash. Payments by GovCash take up to 2 weeks longer compared to PayNow. <br><br>
 Please consider linking your NRIC number to your bank account to receive your payments earlier.<br><br></details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>How much is my Workfare Income Supplement/ Workfare Special Payment?</b></font></summary>
