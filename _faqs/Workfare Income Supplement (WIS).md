@@ -453,6 +453,17 @@ Other than gross monthly income, you must also earn an average gross monthly inc
 The average gross monthly income is defined as:<br><br>
 <i>Sum of income earned in the past 12-month period ÷ Total number of months worked in the past 12-month period</i><br><br>
 </details></li>
+			<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>Can the minimum income criterion be waived for workers who want to work more but are unable to?</b></font></summary>
+The minimum income criterion of $500 per month was introduced from 2023 to encourage all workers, part-time and full-time, to work more regularly or take up higher-paying jobs.<br><br>
+$500 per month is a reasonable and achievable wage for most regular workers. At an hourly wage of $9 per hour<sup>1</sup>, workers who work 3-hr daily shifts for 20 days a month would already earn around $540 per month. <br><br> However, we recognise that there may be some who want to work more but are unable to do so due to their personal circumstances or are in greater need of support, such as Persons with Disabilities (PWDs), low-income workers who qualify for ComCare Short-to-Medium-Term Assistance and caregivers of care recipients<sup>2</sup>. Such workers will continue to qualify for concessionary WIS, even if they earn less than $500 per month.
+
+<sup>1</sup> Based on Local Qualifying Salary
+
+<sup>2</sup> This will generally include caregivers residing with care recipients who are medically certified to have permanent moderate to severe disabilities. More details on the concessionary WIS for caregivers will be provided later.</i><br><br>
+</details></li>
+			<li class="Numbering" style="font-size:17px"><details><summary><font color="#009427"><b>I am a Person with Disability/Comcare Short and Medium Term Assistance recipient who is learning less than $500 per month. How much WIS will I receive?</b></font></summary>
+You will continue to qualify for concessionary WIS, even if you earn less than $500 per month. We will notify you of the amount nearer to the payment dates.</i><br><br>
+</details></li>
       </ol>
     </div>
   </li>
