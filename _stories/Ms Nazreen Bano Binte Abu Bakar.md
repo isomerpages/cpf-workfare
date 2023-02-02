@@ -17,7 +17,7 @@ description: ""
   
 *   49-year-old Ms Nazreen works as a sales coordinator. She leads a team of seven at islandwide roadshows to promote open electricity market products.
   
-*   Ms Nazreen receives Workfare in cash and CPF top-ups. She looks forward to receiving the SMS notifications informing her of Workfare payments every month. These payments help to offset family expenses.
+*   Ms Nazreen receives Workfare payment in cash and CPF top-ups. She looks forward to receiving the SMS notifications informing her of Workfare payments every month. These payments help to offset family expenses.
   
 *   Ms Nazreen is currently staying in a rental flat with her three children. She is confident that the Workfare CPF top-ups will come in useful when she buys a HDB flat.
   
