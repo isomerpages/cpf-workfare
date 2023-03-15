@@ -8,9 +8,7 @@ image: /images/banner_home_1.jpg
 permalink: /
 notification: Upcoming Scheduled Maintenance Activies <a class="hyperlink"
   href="https://www.gstvoucher.gov.sg/scheduledmaintenance/">Show more
-  details</a><br><body align="left">TEST test test TEST test test test test test
-  testtestsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
-  testsetestst testsetestes tete</body>
+  details</a>
 sections:
   - hero:
       title: Workfare
