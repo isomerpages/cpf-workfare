@@ -2,8 +2,8 @@ collections:
   nav-folder:
     output: true
     order:
-      - Nav Item 1/Nav Item 1 ver 2.md
       - Nav Item 1/.keep
       - Nav Item 1/Nav Item 1.md
+      - Nav Item 1/Nav Item 1 ver 2.md
       - Nav Item 2/.keep
       - Nav Item 2/Nav Item 2.md
