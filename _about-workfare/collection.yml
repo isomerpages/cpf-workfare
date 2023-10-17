@@ -2,6 +2,7 @@ collections:
   about-workfare:
     output: true
     order:
+      - Test/.keep
       - About Workfare.md
       - Intent of Workfare.md
       - Our Social Security System.md
