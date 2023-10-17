@@ -17,12 +17,3 @@ links:
         url: /wis-calculator-for-self-employed/
   - title: LOGIN
     url: https://www.govpayouts.gov.sg/wf/workfare/login
-  - title: Test
-    url: /nav-item-1/nav-item-1/
-    - Home: 'Nav Item 1.md'
-      - 'Nav Item 1':
-      - 'Nav Item 1': 'Nav Item 1.md'
-      - 'Nav Item 1.2': 'Nav Item 1 ver 2.md'
-    - About:
-      - 'Nav Item 2': 'Nav Item 2.md'
-      - 'Nav Item 1': 'Nav Item 1.md'
