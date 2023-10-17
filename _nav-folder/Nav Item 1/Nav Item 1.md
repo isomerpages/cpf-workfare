@@ -1,0 +1,6 @@
+---
+title: Nav Item 1
+permalink: /nav-folder/nav-item-1/nav-item-1/
+description: ""
+third_nav_title: Nav Item 1
+---
