@@ -1,4 +1,5 @@
 collections:
   nav-folder:
     output: true
-    order: []
+    order:
+      - Nav Item 1/.keep
