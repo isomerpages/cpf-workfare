@@ -1,0 +1,4 @@
+collections:
+  nav-folder:
+    output: true
+    order: []
