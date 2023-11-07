@@ -22,6 +22,12 @@ sections:
         - title: Workfare Skills Support (WSS) Scheme
           description: Find out more about WSS
           url: /schemes/workfare-training-support/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: About Workfare
       description: Workfare Income Supplement Scheme is a broad-based measure that
