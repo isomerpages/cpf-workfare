@@ -1,6 +1,6 @@
 title: Workfare
-url: ""
-favicon: /images/W Logo.png
+url: https://www.open.gov.sg
+favicon: /images/horizontal logos(rendered for wed).png
 colors:
   primary-color: "#309449"
   secondary-color: "#309449"
@@ -56,3 +56,6 @@ plugins:
   - jekyll-remote-theme
 shareicon: /images/banner_home_1.jpg
 is_government: true
+facebook-pixel: ""
+google_analytics_ga4: ""
+linkedin-insights: ""
