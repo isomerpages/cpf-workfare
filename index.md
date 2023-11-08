@@ -22,8 +22,8 @@ sections:
         - title: Workfare Skills Support (WSS) Scheme
           description: Find out more about WSS
           url: /schemes/workfare-training-support/
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: Schemes Available
+          description: Schemes Available
           url: ""
         - title: Key Highlight Title
           description: Key Highlight description
