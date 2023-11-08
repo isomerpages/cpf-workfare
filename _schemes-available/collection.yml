@@ -1,4 +1,5 @@
 collections:
   schemes-available:
     output: true
-    order: []
+    order:
+      - Scheme 1.md
