@@ -1,0 +1,4 @@
+collections:
+  schemes-available:
+    output: true
+    order: []
